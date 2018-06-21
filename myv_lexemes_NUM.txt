@@ -1,0 +1,812 @@
+
+-lexeme
+ lex: васенце
+ stem: васенце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: первый
+
+-lexeme
+ lex: ведьгеменце
+ stem: ведьгеменце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: пятидесятый
+
+-lexeme
+ lex: вейксэньгеменце
+ stem: вейксэньгеменце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: девяностый
+
+-lexeme
+ lex: вейксэце
+ stem: вейксэце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: девятый
+
+-lexeme
+ lex: вемзисемгеце
+ stem: вемзисемгеце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: семнадцатый
+
+-lexeme
+ lex: ветеце
+ stem: ветеце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: пятый
+
+-lexeme
+ lex: вэйксеньгеменце
+ stem: вэйксеньгеменце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: девяностый
+
+-lexeme
+ lex: кавксоньгеменце
+ stem: кавксоньгеменце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: восьмидесятый
+
+-lexeme
+ lex: кавксоце
+ stem: кавксоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: восьмой
+
+-lexeme
+ lex: кавтосядоце
+ stem: кавтосядоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двухсотый
+
+-lexeme
+ lex: кевейкееце
+ stem: кевейкееце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: одинадцатый, одиннадцатый
+
+-lexeme
+ lex: кевейксэеце
+ stem: кевейксэеце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: девятнадцатый
+
+-lexeme
+ lex: кеветееця
+ stem: кеветееця.
+ gramm: ANUM
+ paradigm: A-back
+ trans_ru: пятьнадцатый
+
+-lexeme
+ lex: кемгавксовоце
+ stem: кемгавксовоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: восемнадцатый
+
+-lexeme
+ lex: кемгавтовоце
+ stem: кемгавтовоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двенадцатый
+
+-lexeme
+ lex: кемголмовоце
+ stem: кемголмовоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: тринадцатый
+
+-lexeme
+ lex: кемготовоце
+ stem: кемготовоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: шестнадцатый
+
+-lexeme
+ lex: кеменце
+ stem: кеменце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: десятый
+
+-lexeme
+ lex: кемзисемгеце
+ stem: кемзисемгеце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: семнадцатый
+
+-lexeme
+ lex: кемнилееце
+ stem: кемнилееце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: четырнадцатый
+
+-lexeme
+ lex: кодгеменце
+ stem: кодгеменце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: шестидесятый
+
+-lexeme
+ lex: колмосядоце
+ stem: колмосядоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: трёхсотый
+
+-lexeme
+ lex: колмоце
+ stem: колмоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: третий
+
+-lexeme
+ lex: колоньгеменце
+ stem: колоньгеменце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: тридцатый
+
+-lexeme
+ lex: комсеце
+ stem: комсеце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцатый
+
+-lexeme
+ lex: комсьвейкееце
+ stem: комсьвейкееце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцать первый
+
+-lexeme
+ lex: комсьвейксэеце
+ stem: комсьвейксэеце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцать девятый
+
+-lexeme
+ lex: комсьветееце
+ stem: комсьветееце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцать пятый
+
+-lexeme
+ lex: комськавксовоце
+ stem: комськавксовоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцать восьмой
+
+-lexeme
+ lex: комськавтовоце
+ stem: комськавтовоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцать второй
+
+-lexeme
+ lex: комськолмовоце
+ stem: комськолмовоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцать третий
+
+-lexeme
+ lex: комськотовоце
+ stem: комськотовоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцать шестой
+
+-lexeme
+ lex: комсьнилееце
+ stem: комсьнилееце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцать четвёртый
+
+-lexeme
+ lex: комсьсисемгеце
+ stem: комсьсисемгеце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: двадцать седьмой
+
+-lexeme
+ lex: котосядоце
+ stem: котосядоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: шестисотый
+
+-lexeme
+ lex: ниленьгеменце
+ stem: ниленьгеменце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: сороковой
+
+-lexeme
+ lex: нилесядоце
+ stem: нилесядоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: четырёхсотый
+
+-lexeme
+ lex: сисемеце
+ stem: сисемеце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: седьмой
+
+-lexeme
+ lex: сядоце
+ stem: сядоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: сотый
+
+-lexeme
+ lex: тёжаце
+ stem: тёжаце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: тысячный
+
+-lexeme
+ lex: ведьгемень
+ stem: ведьгемен.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: пятьдесят
+
+-lexeme
+ lex: веенст
+ stem: веенст.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: один, одни
+
+-lexeme
+ lex: веете
+ stem: веете.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: пять
+
+-lexeme
+ lex: вейке
+ stem: вейке.|вейк.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: единица, один
+
+-lexeme
+ lex: вейксэ
+ stem: вейксэ.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: девять
+
+-lexeme
+ lex: вейксэньгемень
+ stem: вейксэньгемен.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: девяносто
+
+-lexeme
+ lex: вете
+ stem: вете.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: пять
+
+-lexeme
+ lex: ветесядт
+ stem: ветесядт.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: пятьсот
+
+-lexeme
+ lex: вэйксэсят
+ stem: вэйксэсят.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: девятьсот
+
+-lexeme
+ lex: кавксо
+ stem: кавксо.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: восемь
+
+-lexeme
+ lex: кавксоньгемень
+ stem: кавксоньгемен.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: восемьдесят
+
+-lexeme
+ lex: кавксосядт
+ stem: кавксосядт.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: восемьсот
+
+-lexeme
+ lex: кавто
+ stem: кавто.|кавт.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: два
+
+-lexeme
+ lex: кавтосядт
+ stem: кавтосядт.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: двести
+
+-lexeme
+ lex: кевейкее
+ stem: кевейкее.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: одиннадцать
+
+-lexeme
+ lex: кевейксэе
+ stem: кевейксэе.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: девятнадцать
+
+-lexeme
+ lex: кеветее
+ stem: кеветее.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: пятнадцать
+
+-lexeme
+ lex: кемгавксово
+ stem: кемгавксово.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: восемнадцать
+
+-lexeme
+ lex: кемгавтово
+ stem: кемгавтово.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: двенадцать
+
+-lexeme
+ lex: кемголмово
+ stem: кемголмово.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: тринадцать
+
+-lexeme
+ lex: кемготово
+ stem: кемготово.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: шестнадцать
+
+-lexeme
+ lex: кемень
+ stem: кемен.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: десять
+
+-lexeme
+ lex: кемзисемге
+ stem: кемзисемге.|кемзисемг.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: семнадцать
+
+-lexeme
+ lex: кемнилее
+ stem: кемнилее.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: четырнадцать
+
+-lexeme
+ lex: кодгемень
+ stem: кодгемен.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: шестьдесят
+
+-lexeme
+ lex: колмо
+ stem: колмо.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: три
+
+-lexeme
+ lex: колмосядт
+ stem: колмосядт.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: триста
+
+-lexeme
+ lex: колоньгемень
+ stem: колоньгемен.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: тридцать
+
+-lexeme
+ lex: комсь
+ stem: комс.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: двадцать
+
+-lexeme
+ lex: комсьвейкее
+ stem: комсьвейкее.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: двадцать один
+
+-lexeme
+ lex: комсьвейксэе
+ stem: комсьвейксэе.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: двадцать девять
+
+-lexeme
+ lex: комсьветее
+ stem: комсьветее.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: двадцать пять
+
+-lexeme
+ lex: комськавксово
+ stem: комськавксово.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: двадцать восемь
+
+-lexeme
+ lex: комськавтово
+ stem: комськавтово.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: двадцать два
+
+-lexeme
+ lex: комськолмово
+ stem: комськолмово.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: двадцать три
+
+-lexeme
+ lex: комськотово
+ stem: комськотово.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: двадцать шесть
+
+-lexeme
+ lex: комсьнилее
+ stem: комсьнилее.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: двадцать четыре
+
+-lexeme
+ lex: комсьсисемге
+ stem: комсьсисемге.|комсьсисемг.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: двадцать семь
+
+-lexeme
+ lex: кото
+ stem: кото.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: шесть
+
+-lexeme
+ lex: котосядт
+ stem: котосядт.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: шестьсот
+
+-lexeme
+ lex: ниле
+ stem: ниле.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: четыре
+
+-lexeme
+ lex: ниленьгемень
+ stem: ниленьгемен.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: сорок
+
+-lexeme
+ lex: нилесядт
+ stem: нилесядт.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: четыреста
+
+-lexeme
+ lex: нилешка
+ stem: нилешка.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: приблизительно четыре
+
+-lexeme
+ lex: сисем
+ stem: сисем.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: семь
+
+-lexeme
+ lex: сисемзядт
+ stem: сисемзядт.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: семьсот
+
+-lexeme
+ lex: сядо
+ stem: сядо.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: сто
+
+-lexeme
+ lex: тёжа
+ stem: тёжа.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: тысяча
+
+-lexeme
+ lex: чавотешкс
+ stem: чавотешкс.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: ноль
+
+-lexeme
+ lex: млн
+ stem: млн.
+ gramm: NUM,abbr,rus
+ paradigm: N-back
+ trans_ru: миллион
+
+-lexeme
+ lex: восемнадцать
+ stem: восемнадцат.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: восемнадцать
+
+-lexeme
+ lex: двадцать
+ stem: двадцат.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: двадцать
+
+-lexeme
+ lex: двенадцать
+ stem: двенадцат.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: двенадцать
+
+-lexeme
+ lex: девять
+ stem: девят.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: девять
+
+-lexeme
+ lex: десять
+ stem: десят.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: десять
+
+-lexeme
+ lex: одиннадцать
+ stem: одиннадцат.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: одиннадцать
+
+-lexeme
+ lex: пятнадцать
+ stem: пятнадцат.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: пятнадцать
+
+-lexeme
+ lex: семнадцать
+ stem: семнадцат.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: семнадцать
+
+-lexeme
+ lex: тридевять
+ stem: тридевят.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: тридевять
+
+-lexeme
+ lex: тридцать
+ stem: тридцат.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: тридцать
+
+-lexeme
+ lex: тринадцать
+ stem: тринадцат.
+ gramm: NUM,rus
+ paradigm: N-front-soft
+ trans_ru: тринадцать
+
+-lexeme
+ lex: кевейкеенст
+ stem: кевейкеенст.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: одиннацать пар
+
+-lexeme
+ lex: кеветеенст
+ stem: кеветеенст.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: пятнадцать пар
+
+-lexeme
+ lex: кемгавксовонст
+ stem: кемгавксовонст.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: восемнадцать пар
+
+-lexeme
+ lex: кемгавтовонст
+ stem: кемгавтовонст.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: двенадцать пар
+
+-lexeme
+ lex: кемголмовонст
+ stem: кемголмовонст.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: тринадцать пар
+
+-lexeme
+ lex: кемготовонст
+ stem: кемготовонст.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: шестнадцать пар
+
+-lexeme
+ lex: кеменст
+ stem: кеменст.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: десять пар
+
+-lexeme
+ lex: кемзисемгенст
+ stem: кемзисемгенст.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: семнадцать пар
+
+-lexeme
+ lex: кемнилеенст
+ stem: кемнилеенст.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: четырнадцать пар
+
+-lexeme
+ lex: колмонст
+ stem: колмонст.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: три пары
+
+-lexeme
+ lex: колоньгеменексть
+ stem: колоньгеменекст.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: тридцать раз
+
+-lexeme
+ lex: котонст
+ stem: котонст.
+ gramm: NUM
+ paradigm: N-back
+ trans_ru: шесть пар
+
+-lexeme
+ lex: ниленст
+ stem: ниленст.
+ gramm: NUM
+ paradigm: N-front
+ trans_ru: четыре пары
+
+-lexeme
+ lex: омбоце
+ stem: омбоце.
+ gramm: ANUM
+ paradigm: A-front
+ trans_ru: второй
+
+-lexeme
+ lex: сизьгемень
+ stem: сизьгемен.
+ gramm: NUM
+ paradigm: N-front-soft
+ trans_ru: семьдесят
