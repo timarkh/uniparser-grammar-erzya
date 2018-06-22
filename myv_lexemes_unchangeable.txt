@@ -4223,14 +4223,14 @@
 
 -lexeme
  lex: што
- stem: што.
+ stem: што.//что.
  gramm: CONJ,rus
  paradigm: Clitics
  trans_ru: что
 
 -lexeme
  lex: штобу
- stem: штобу.
+ stem: штобу.//чтобу.//чтобы.
  gramm: CONJ,rus
  paradigm: Clitics
  trans_ru: чтобы
@@ -6157,10 +6157,10 @@
 
 -lexeme
  lex: тунь
- stem: тун.
+ stem: тунь.
  gramm: ADV
  paradigm: Clitics
- trans_ru: вовсе, очень
+ trans_ru: совсем, очень
 
 -lexeme
  lex: тюшумбар

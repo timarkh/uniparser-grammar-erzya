@@ -1534,7 +1534,7 @@
 -lexeme
  lex: бока
  stem: бока.
- gramm: N,rusb
+ gramm: N,rus,body
  paradigm: N-back
  trans_ru: бок, сторона
 
@@ -12559,7 +12559,7 @@
 -lexeme
  lex: лапа
  stem: лапа.
- gramm: N,rusb
+ gramm: N,rus,body
  paradigm: N-back
  trans_ru: крыло, лапа, лопасть
 
@@ -12573,7 +12573,7 @@
 -lexeme
  lex: лапине
  stem: лапине.
- gramm: N,rusb,dim
+ gramm: N,rus,body,dim
  paradigm: N-front
  trans_ru: лапка
 
@@ -13259,7 +13259,7 @@
 -lexeme
  lex: лиця
  stem: лиця.
- gramm: N,rusb
+ gramm: N,rus,body
  paradigm: N-back
  trans_ru: лицо
 
@@ -14438,6 +14438,13 @@
  gramm: N
  paradigm: N-back
  trans_ru: земля, страна
+
+-lexeme
+ lex: модамастор
+ stem: модамастор.
+ gramm: N
+ paradigm: N-back
+ trans_ru: мир
 
 -lexeme
  lex: масторава
@@ -16444,14 +16451,14 @@
 -lexeme
  lex: недля
  stem: недля.
- gramm: N,rust
+ gramm: N,rus,time_meas
  paradigm: N-back
  trans_ru: неделя
 
 -lexeme
  lex: недлячи
  stem: недлячи.
- gramm: N,rust
+ gramm: N,rus,time_meas
  paradigm: N-front
  trans_ru: воскресенье
 
@@ -19079,6 +19086,13 @@
  gramm: N
  paradigm: N-back
  trans_ru: корзина, короб, кузов
+
+-lexeme
+ lex: лезэпарго
+ stem: лезэпарго.|лезэпарг.
+ gramm: N
+ paradigm: N-back
+ trans_ru: фонд
 
 -lexeme
  lex: паргокундо
@@ -23486,14 +23500,14 @@
 -lexeme
  lex: роштова
  stem: роштова.
- gramm: N,rust
+ gramm: N,rus,time_meas
  paradigm: N-back
  trans_ru: рождество
 
 -lexeme
  lex: роштоваютко
  stem: роштоваютко.|роштоваютк.
- gramm: N,rust
+ gramm: N,rus,time_meas
  paradigm: N-back
  trans_ru: рождественская неделя
 
@@ -30039,7 +30053,7 @@
  lex: ушмодей
  stem: ушмоде.
  gramm: N,anim,hum
- paradigm: N-soft-j
+ paradigm: N-front-j
  trans_ru: воевода
 
 -lexeme
@@ -30842,7 +30856,7 @@
 
 -lexeme
  lex: цёра
- stem: цёра.
+ stem: цёра.//цера.
  gramm: N,anim,hum
  paradigm: N-back
  trans_ru: мужчина, сын
@@ -30891,7 +30905,7 @@
 
 -lexeme
  lex: цёраломань
- stem: цёраломан.
+ stem: цёраломан.//цераломан.
  gramm: N,anim,hum
  paradigm: N-front-soft
  trans_ru: мужчина
@@ -30933,7 +30947,7 @@
 
 -lexeme
  lex: цёрыне
- stem: цёрыне.
+ stem: цёрыне.//церыне.
  gramm: N,anim,hum
  paradigm: N-front
  trans_ru: мальчик, мальчишка
@@ -32584,6 +32598,13 @@
  trans_ru: преступление
 
 -lexeme
+ lex: чумо
+ stem: чумо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: вина
+
+-lexeme
  lex: чумочи
  stem: чумочи.
  gramm: N
@@ -33223,14 +33244,14 @@
 -lexeme
  lex: щёка
  stem: щёка.
- gramm: N,rusb
+ gramm: N,rus,body
  paradigm: N-back
  trans_ru: щека
 
 -lexeme
  lex: щёкаумарь
  stem: щёкаумар.
- gramm: N,rusb
+ gramm: N,rus,body
  paradigm: N-front-soft
  trans_ru: скула
 
@@ -34265,7 +34286,7 @@
 
 -lexeme
  lex: ёвкс
- stem: ёвкс.
+ stem: ёвкс.//евкс.
  gramm: N
  paradigm: N-back
  trans_ru: небылица, сказка
@@ -34324,7 +34345,7 @@
  stem: ёзавскс.
  gramm: N
  paradigm: N-back
- trans_ru: потертость
+ trans_ru: потёртость
 
 -lexeme
  lex: ёзамка
@@ -34440,7 +34461,7 @@
 
 -lexeme
  lex: ёнкс
- stem: ёнкс.
+ stem: ёнкс.//енкс.
  gramm: N
  paradigm: N-back
  trans_ru: аспект, сторона; район
@@ -38937,6 +38958,14 @@
  gramm: N,rus
  paradigm: N-back
  trans_ru: битум
+
+-lexeme
+ lex: битрейт
+ stem: битрейт.
+ gramm: N,rus
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: битрейт
 
 -lexeme
  lex: битумохранилища
@@ -76330,6 +76359,13 @@
  gramm: N,rus
  paradigm: N-back
  trans_ru: эпопея
+
+-lexeme
+ lex: эпос
+ stem: эпос.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: эпос
 
 -lexeme
  lex: эпоха

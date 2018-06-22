@@ -63768,3 +63768,206 @@
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Волга
+
+-lexeme
+ lex: Эрюш
+ stem: эрюш.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Эрюш (Ерюшов)
+
+-lexeme
+ lex: Ерюшов
+ stem: ерюшов.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Ерюшов
+
+-lexeme
+ lex: Вежай
+ stem: вежа.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Вежай
+
+-lexeme
+ lex: Сантяй
+ stem: сантя.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Сантяй
+
+-lexeme
+ lex: Сергу
+ stem: сергу.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Сергу
+
+-lexeme
+ lex: Нуянь
+ stem: нуян.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Нуянь
+
+-lexeme
+ lex: Видяз
+ stem: видяз.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Видяз
+
+-lexeme
+ lex: Пиргуж
+ stem: пиргуж.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Пиргуж
+
+-lexeme
+ lex: Пургаз
+ stem: пургаз.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Пургаз
+
+-lexeme
+ lex: Боляень
+ stem: боляен.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Боляень
+
+-lexeme
+ lex: Терюшань
+ stem: терюшан.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Терюшань
+
+-lexeme
+ lex: Кшуманцянь
+ stem: кшуманцян.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Кшуманцянь
+
+-lexeme
+ lex: Аношонь
+ stem: аношон.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Аношонь
+
+-lexeme
+ lex: Петрянь
+ stem: петрянь.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Петрянь
+
+-lexeme
+ lex: Дригань
+ stem: дригань.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Дригань
+
+-lexeme
+ lex: Кията
+ stem: кията.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Кията
+
+-lexeme
+ lex: Вияна
+ stem: вияна.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Вияна
+
+-lexeme
+ lex: Лияна
+ stem: лияна.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Лияна
+
+-lexeme
+ lex: Жегалина
+ stem: жегалина.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Жегалина
+
+-lexeme
+ lex: Тюштя
+ stem: тюштя.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Тюштя
+
+-lexeme
+ lex: Верепаз
+ stem: верепаз.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: бог Верепаз
+
+-lexeme
+ lex: Оло
+ stem: оло.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Оло
+
+-lexeme
+ lex: Инзейне
+ stem: инзейне.
+ gramm: N,PN,persn
+ paradigm: N-front
+ trans_ru: Инзейне
+
+-lexeme
+ lex: Тумай
+ stem: тума.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Тумай
+
+-lexeme
+ lex: Видяй
+ stem: видя.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Видяй
+
+-lexeme
+ lex: Пичай
+ stem: пича.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Пичай
+
+-lexeme
+ lex: Толай
+ stem: тола.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Толай
+
+-lexeme
+ lex: ЭМ
+ stem: эм.//эм-.
+ gramm: N,PN,abbr
+ paradigm: N-back
+ trans_ru: Эрзянь Мастор (газета)
+
+-lexeme
+ lex: Сурвеле
+ stem: сурвеле.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Сабаево

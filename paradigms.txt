@@ -1711,10 +1711,10 @@
  -flex: .<.>
   gramm: non_obj
   paradigm: V-npst-a
-  paradigm: V-opt-a
   paradigm: V-pst-a
  -flex: .[а]<.>
   paradigm: V-npst-obj
+  paradigm: V-opt
   paradigm: V-imp-back
  -flex: .[а]<.>
   gramm: neg
@@ -1843,11 +1843,11 @@
  -flex: .<.>
   gramm: non_obj
   paradigm: V-npst-ya
-  paradigm: V-opt-ye
   paradigm: V-pst-ya
  -flex: .[я]<.>
   paradigm: V-npst-obj
   paradigm: V-imp-back
+  paradigm: V-opt
  -flex: .[я]<.>
   gramm: neg
   paradigm: Clitics
@@ -2946,16 +2946,16 @@
  -flex: .самизь<.>
   gramm: 3.s,pl.s,1.o,sg.o
   gloss: NPST.3PL>1SG
- -flex: .тан<.>
+ -flex: .тан<.>//.тян<.>
   gramm: 1.s,sg.s,2.o,sg.o
   gloss: NPST.1SG>2SG
- -flex: .танзат<.>
+ -flex: .танзат<.>//.тянзат<.>
   gramm: 3.s,sg.s,2.o,sg.o
   gloss: NPST.3SG>2SG
- -flex: .тадызь<.>
+ -flex: .тадызь<.>//.тядызь<.>
   gramm: 1.s,pl.s,2.o,sg.o
   gloss: NPST.1PL>2SG
- -flex: .тадызь<.>
+ -flex: .тадызь<.>//.тядызь<.>
   gramm: 3.s,pl.s,2.o,sg.o
   gloss: NPST.3PL>2SG
  -flex: .са<.>
@@ -2979,7 +2979,7 @@
  -flex: .самизь<.>
   gramm: 1.o,pl.o
   gloss: NPST.1PL.O
- -flex: .тадызь<.>
+ -flex: .тадызь<.>//.тядызь<.>
   gramm: 2.o,pl.o
   gloss: NPST.2PL.O
  -flex: .сынь<.>

@@ -804,13 +804,6 @@
  trans_ru: безоговорочно, бессловесный
 
 -lexeme
- lex: вальма
- stem: вальма.
- gramm: A
- paradigm: A-back
- trans_ru: окно
-
--lexeme
  lex: вальмавтомо
  stem: вальмавтомо.
  gramm: A
@@ -8089,6 +8082,13 @@
  gramm: A
  paradigm: A-front
  trans_ru: бойкий, поворотливый
+
+-lexeme
+ lex: эрий
+ stem: эри.
+ gramm: A
+ paradigm: A-front-j
+ trans_ru: живой
 
 -lexeme
  lex: эрзямокшонь
@@ -34441,14 +34441,14 @@
 -lexeme
  lex: луганаронь
  stem: луганарон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: луговой
 
 -lexeme
  lex: лугань
  stem: луган.
- gramm: Ar
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: луговой
 

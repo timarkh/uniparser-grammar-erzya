@@ -16,7 +16,7 @@
 
 -lexeme
  lex: мон
- stem: монень.//тень.
+ stem: монень.//моне.//тень.
  gramm: PRO,1,sg,dat
  paradigm: Clitics
  trans_ru: я
@@ -130,14 +130,14 @@
 
 -lexeme
  lex: тон
- stem: тон.
+ stem: тон.//тонт.
  gramm: PRO,2,sg,gen
  paradigm: PRO-def-subst-front-soft
  trans_ru: ты
 
 -lexeme
  lex: тон
- stem: тонеть.//теть.//тейть.
+ stem: тонеть.//тоне.//теть.//тейть.
  gramm: PRO,2,sg,dat
  paradigm: Clitics
  trans_ru: ты
@@ -254,6 +254,13 @@
  lex: сон
  stem: сонзэ.//сонь.
  gramm: PRO,3,sg,gen
+ paradigm: PRO-def-subst-front-vowel
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: сонзе.
+ gramm: PRO,3,sg,gen,missp
  paradigm: PRO-def-subst-front-vowel
  trans_ru: он, она, оно
 
@@ -936,6 +943,13 @@
  trans_ru: все, вся, всё
 
 -lexeme
+ lex: весе
+ stem: веси.
+ gramm: APRO,missp
+ paradigm: N-front
+ trans_ru: все, вся, всё
+
+-lexeme
  lex: весеме
  stem: весеме.
  gramm: APRO
@@ -981,7 +995,14 @@
 
 -lexeme
  lex: зярдо
- stem: зярдо.|зярд.
+ stem: зярдо.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: когда
+
+-lexeme
+ lex: знярдо
+ stem: знярдо.
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: когда
@@ -1586,7 +1607,14 @@
  stem: мейс.
  gramm: ADVPRO
  paradigm: Clitics
- trans_ru: почему, скакой целью
+ trans_ru: почему
+
+-lexeme
+ lex: мейсь
+ stem: мейсь.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: почему
 
 -lexeme
  lex: мейстэ

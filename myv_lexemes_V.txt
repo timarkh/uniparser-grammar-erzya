@@ -4074,7 +4074,7 @@
 
 -lexeme
  lex: кевкстамс
- stem: кевкст.
+ stem: кевкст.//кевст.
  gramm: V
  paradigm: V-a
  trans_ru: затвердеть
@@ -4085,6 +4085,13 @@
  gramm: V
  paradigm: V-ye
  trans_ru: спросить, попросить
+
+-lexeme
+ lex: кевкстямс
+ stem: кевкст.//кевст.
+ gramm: V
+ paradigm: V-ya
+ trans_ru: спросить
 
 -lexeme
  lex: кевкстнемс
@@ -9218,6 +9225,13 @@
  trans_ru: насмехаться, шутить
 
 -lexeme
+ lex: пеедемс
+ stem: пеед.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: смеяться
+
+-lexeme
  lex: пеелемс
  stem: пеел.
  gramm: V
@@ -12810,7 +12824,7 @@
 
 -lexeme
  lex: сёрмадомс
- stem: сёрма.
+ stem: сёрма.//серма.
  gramm: V
  paradigm: V-do
  trans_ru: писать
@@ -15190,7 +15204,7 @@
 
 -lexeme
  lex: чарькодемс
- stem: чарькод.
+ stem: чарькод.//чаркод.
  gramm: V
  paradigm: V-ye
  trans_ru: понять, угадать
