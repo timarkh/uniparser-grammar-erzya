@@ -6512,3 +6512,10 @@
  gramm: INTRJ
  paradigm: Clitics
  trans_ru: эка
+
+-lexeme
+ lex: рузкc
+ stem: рузкc.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: по-русски

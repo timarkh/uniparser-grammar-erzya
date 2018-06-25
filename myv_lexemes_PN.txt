@@ -64069,3 +64069,33 @@
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Кведор (ник)
+-lexeme
+ lex: Кадошкина
+ stem: кадошкина.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Кадошкино
+-lexeme
+ lex: Кузоватово
+ stem: кузоватово.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Кузоватово
+-lexeme
+ lex: Новокузнецк
+ stem: новокузнецк.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Новокузнецк
+-lexeme
+ lex: Рузаевка
+ stem: рузаевка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Рузаевка
+-lexeme
+ lex: Христодулос
+ stem: христодулос.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Христодулос

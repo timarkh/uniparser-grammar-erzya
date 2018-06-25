@@ -2422,10 +2422,10 @@
 
 -lexeme
  lex: кондямо
- stem: кондямо.
+ stem: кондя.
  gramm: A
- paradigm: A-back
- trans_ru: как, подобно, похожий
+ paradigm: A-back-istja
+ trans_ru: как, подобный, похожий
 
 -lexeme
  lex: коняв

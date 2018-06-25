@@ -17120,3 +17120,10 @@
  gramm: V,rus
  paradigm: V-a
  trans_ru: финансировать
+
+-lexeme
+ lex: каштангалемс
+ stem: каштангал.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: гордиться

@@ -1694,6 +1694,10 @@
   gramm: iter
   gloss: ITER
   paradigm: V-ye-proper
+ -flex: .кшн<.>
+  gramm: iter
+  gloss: ITER
+  paradigm: V-o-proper
  -flex: .[е]кшн|ев<.>//.[ь]кшн|ев<.>//.[й]кшн|ев<.>//.кшн|ев<.>
   gramm: iter,pass
   gloss: ITER|PASS
@@ -2949,10 +2953,10 @@
  -flex: .самом<.>
   gramm: 3.s,sg.s,1.o,sg.o
   gloss: NPST.3SG›1SG
- -flex: .самизь<.>
+ -flex: .самизь<.>//.самызь<.>
   gramm: 2.s,pl.s,1.o,sg.o
   gloss: NPST.2PL›1SG
- -flex: .самизь<.>
+ -flex: .самизь<.>//.самызь<.>
   gramm: 3.s,pl.s,1.o,sg.o
   gloss: NPST.3PL›1SG
  -flex: .тан<.>//.тян<.>
@@ -2985,7 +2989,7 @@
  -flex: .сызь<.>
   gramm: 3.s,pl.s,3.o
   gloss: NPST.3PL›3
- -flex: .самизь<.>
+ -flex: .самизь<.>//.самызь<.>
   gramm: 1.o,pl.o
   gloss: NPST.1PL.O
  -flex: .тадызь<.>//.тядызь<.>
@@ -3003,7 +3007,7 @@
  -flex: .мак<.>
   gramm: imp,2.s,sg.s,1.o,sg.o
   gloss: IMP.2PL›1SG
- -flex: .мизь<.>
+ -flex: .мизь<.>//.мызь<.>
   gramm: imp,2.s,pl.s,1.o,sg.o
   gloss: IMP.2PL›1SG
  -flex: .к<.>
@@ -3012,7 +3016,7 @@
  -flex: .нк<.>
   gramm: imp,2.s,pl.s,1.o,sg.o
   gloss: IMP.2PL›3SG
- -flex: .мизь<.>
+ -flex: .мизь<.>//.мызь<.>
   gramm: imp,2.s,1.o,pl.o
   gloss: IMP.2›1PL
  -flex: .т<.>//.ть<.>
