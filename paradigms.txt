@@ -360,6 +360,10 @@
   gramm: gen
   gloss: GEN
   paradigm: POST-poss-front-vowel
+ -flex: .и<.>
+  gramm: gen,missp
+  gloss: GEN
+  paradigm: POST-poss-front-vowel
  -flex: .те<.>
   gramm: dat
   gloss: DAT
@@ -508,11 +512,11 @@
   gramm: gen
   gloss: GEN
   paradigm: Clitics
- -flex: .[ь]нень<.>
+ -flex: .нень<.>//.[ь]нень<.>
   gramm: dat
   gloss: DAT
   paradigm: Clitics
- -flex: .[ь]тень<.>
+ -flex: .тень<.>//.[ь]тень<.>
   gramm: dat
   gloss: DAT.12
   paradigm: Clitics
@@ -520,12 +524,12 @@
   gramm: dat,3pl
   gloss: DAT.3
   paradigm: Clitics
- -flex: .[ь]дэ<.>
+ -flex: .де<.>//.[ь]де<.>//.[ь]дэ<.>
   gramm: abl
   gloss: ABL
   regex-prev: .*[бвгджзйлмнр][<>.]*$
   paradigm: N-poss-front-vowel
- -flex: .[ь]тэ<.>
+ -flex: .те<.>//.[ь]те<.>//.[ь]тэ<.>
   gramm: abl
   gloss: ABL
   regex-prev: .*[кпстфхцчшщ][<>.]*$
@@ -669,6 +673,11 @@
  -flex: <1>.сэ<.>
   gramm: loc
   gloss: LOC
+  paradigm: N-poss-front-vowel
+ -flex: <1>.се<.>
+  gramm: loc,missp
+  gloss: LOC
+  regex-lex: ^те$
   paradigm: N-poss-front-vowel
  -flex: <1>.стэ<.>
   gramm: el
@@ -2456,10 +2465,10 @@
  -flex: .и<.>
   gramm: 3.s,sg.s,npst
   gloss: NPST.3SG
- -flex: .тано<.>
+ -flex: .ятано<.>
   gramm: 1.s,pl.s,npst
   gloss: NPST.1PL
- -flex: .тадо<.>
+ -flex: .ятадо<.>
   gramm: 2.s,pl.s,npst
   gloss: NPST.2PL
  -flex: .ить<.>
@@ -2855,46 +2864,46 @@
   gloss: PST.3PL
  -flex: .и|мик<.>
   gramm: pst,2.s,sg.s,1.o,sg.o
-  gloss: PST|PST.2SG>1SG
+  gloss: PST|PST.2SG›1SG
  -flex: .и|мим<.>
   gramm: pst,3.s,sg.s,1.o,sg.o
-  gloss: PST|PST.3SG>1SG
+  gloss: PST|PST.3SG›1SG
  -flex: .и|мизь<.>
   gramm: pst,2.s,pl.s,1.o,sg.o
-  gloss: PST|PST.2PL>1SG
+  gloss: PST|PST.2PL›1SG
  -flex: .и|мизь<.>
   gramm: pst,3.s,pl.s,1.o,sg.o
-  gloss: PST|PST.3PL>1SG
+  gloss: PST|PST.3PL›1SG
  -flex: .и|тинь<.>
   gramm: pst,1.s,sg.s,2.o,sg.o
-  gloss: PST|PST.1SG>2SG
+  gloss: PST|PST.1SG›2SG
  -flex: .и|нзить<.>
   gramm: pst,3.s,sg.s,2.o,sg.o
-  gloss: PST|PST.3SG>2SG
+  gloss: PST|PST.3SG›2SG
  -flex: .и|дизь<.>
   gramm: pst,1.s,pl.s,2.o,sg.o
-  gloss: PST|PST.1PL>2SG
+  gloss: PST|PST.1PL›2SG
  -flex: .и|дизь<.>
   gramm: pst,3.s,pl.s,2.o,sg.o
-  gloss: PST|PST.3PL>2SG
+  gloss: PST|PST.3PL›2SG
  -flex: .и|я<.>
   gramm: pst,1.s,sg.s,3.o,sg.o
-  gloss: PST|PST.1SG>3SG
+  gloss: PST|PST.1SG›3SG
  -flex: .и|к<.>
   gramm: pst,2.s,sg.s,3.o,sg.o
-  gloss: PST|PST.2SG>3SG
+  gloss: PST|PST.2SG›3SG
  -flex: .и|зе<.>
   gramm: pst,3.s,sg.s,3.o,sg.o
-  gloss: PST|PST.3SG>3SG
+  gloss: PST|PST.3SG›3SG
  -flex: .и|нек<.>
   gramm: pst,1.s,pl.s,3.o
-  gloss: PST|PST.1PL>3
+  gloss: PST|PST.1PL›3
  -flex: .и|нк<.>
   gramm: pst,2.s,pl.s,3.o
-  gloss: PST|PST.2PL>3
+  gloss: PST|PST.2PL›3
  -flex: .и|зь<.>
   gramm: pst,3.s,pl.s,3.o
-  gloss: PST|PST.3PL>3
+  gloss: PST|PST.3PL›3
  -flex: .и|мизь<.>
   gramm: pst,1.o,pl.o
   gloss: PST|PST.1PL.O
@@ -2903,13 +2912,13 @@
   gloss: PST|PST.2PL.O
  -flex: .и|нь<.>
   gramm: pst,1.s,sg.s,3.o,pl.o
-  gloss: PST|PST.1SG>3PL
+  gloss: PST|PST.1SG›3PL
  -flex: .и|ть<.>
   gramm: pst,2.s,sg.s,3.o,pl.o
-  gloss: PST|PST.2SG>3PL
+  gloss: PST|PST.2SG›3PL
  -flex: .и|нзе<.>
   gramm: pst,3.s,sg.s,3.o,pl.o
-  gloss: PST|PST.3SG>3PL
+  gloss: PST|PST.3SG›3PL
  paradigm: Clitics
 
 -paradigm: V-pst2
@@ -2936,46 +2945,46 @@
 -paradigm: V-npst-obj
  -flex: .самак<.>
   gramm: 2.s,sg.s,1.o,sg.o
-  gloss: NPST.2SG>1SG
+  gloss: NPST.2SG›1SG
  -flex: .самом<.>
   gramm: 3.s,sg.s,1.o,sg.o
-  gloss: NPST.3SG>1SG
+  gloss: NPST.3SG›1SG
  -flex: .самизь<.>
   gramm: 2.s,pl.s,1.o,sg.o
-  gloss: NPST.2PL>1SG
+  gloss: NPST.2PL›1SG
  -flex: .самизь<.>
   gramm: 3.s,pl.s,1.o,sg.o
-  gloss: NPST.3PL>1SG
+  gloss: NPST.3PL›1SG
  -flex: .тан<.>//.тян<.>
   gramm: 1.s,sg.s,2.o,sg.o
-  gloss: NPST.1SG>2SG
+  gloss: NPST.1SG›2SG
  -flex: .танзат<.>//.тянзат<.>
   gramm: 3.s,sg.s,2.o,sg.o
-  gloss: NPST.3SG>2SG
+  gloss: NPST.3SG›2SG
  -flex: .тадызь<.>//.тядызь<.>
   gramm: 1.s,pl.s,2.o,sg.o
-  gloss: NPST.1PL>2SG
+  gloss: NPST.1PL›2SG
  -flex: .тадызь<.>//.тядызь<.>
   gramm: 3.s,pl.s,2.o,sg.o
-  gloss: NPST.3PL>2SG
+  gloss: NPST.3PL›2SG
  -flex: .са<.>
   gramm: 1.s,sg.s,3.o,sg.o
-  gloss: NPST.1SG>3SG
+  gloss: NPST.1SG›3SG
  -flex: .сак<.>
   gramm: 2.s,sg.s,3.o,sg.o
-  gloss: NPST.2SG>3SG
+  gloss: NPST.2SG›3SG
  -flex: .сы<.>
   gramm: 3.s,sg.s,3.o,sg.o
-  gloss: NPST.3SG>3SG
+  gloss: NPST.3SG›3SG
  -flex: .сынек<.>
   gramm: 1.s,pl.s,3.o
-  gloss: NPST.1PL>3
+  gloss: NPST.1PL›3
  -flex: .сынк<.>
   gramm: 2.s,pl.s,3.o
-  gloss: NPST.2PL>3
+  gloss: NPST.2PL›3
  -flex: .сызь<.>
   gramm: 3.s,pl.s,3.o
-  gloss: NPST.3PL>3
+  gloss: NPST.3PL›3
  -flex: .самизь<.>
   gramm: 1.o,pl.o
   gloss: NPST.1PL.O
@@ -2984,79 +2993,79 @@
   gloss: NPST.2PL.O
  -flex: .сынь<.>
   gramm: 1.s,sg.s,3.o,pl.o
-  gloss: NPST.1SG>3PL
+  gloss: NPST.1SG›3PL
  -flex: .сыть<.>
   gramm: 2.s,sg.s,3.o,pl.o
-  gloss: NPST.2SG>3PL
+  gloss: NPST.2SG›3PL
  -flex: .сынзе<.>
   gramm: 3.s,sg.s,3.o,pl.o
-  gloss: NPST.3SG>3PL
+  gloss: NPST.3SG›3PL
  -flex: .мак<.>
   gramm: imp,2.s,sg.s,1.o,sg.o
-  gloss: IMP.2PL>1SG
+  gloss: IMP.2PL›1SG
  -flex: .мизь<.>
   gramm: imp,2.s,pl.s,1.o,sg.o
-  gloss: IMP.2PL>1SG
+  gloss: IMP.2PL›1SG
  -flex: .к<.>
   gramm: imp,2.s,sg.s,3.o,sg.o
-  gloss: IMP.2SG>3SG
+  gloss: IMP.2SG›3SG
  -flex: .нк<.>
   gramm: imp,2.s,pl.s,1.o,sg.o
-  gloss: IMP.2PL>3SG
+  gloss: IMP.2PL›3SG
  -flex: .мизь<.>
   gramm: imp,2.s,1.o,pl.o
-  gloss: IMP.2>1PL
+  gloss: IMP.2›1PL
  -flex: .т<.>//.ть<.>
   gramm: imp,2.s,sg.s,3.o,pl.o
-  gloss: IMP.2SG>3PL
+  gloss: IMP.2SG›3PL
  -flex: .нк<.>
   gramm: imp,2.s,pl.s,1.o,pl.o
-  gloss: IMP.2PL>3PL
+  gloss: IMP.2PL›3PL
  paradigm: Clitics
 
 -paradigm: V-pst-obj
  -flex: .мик<.>
   gramm: 2.s,sg.s,1.o,sg.o
-  gloss: PST.2SG>1SG
+  gloss: PST.2SG›1SG
  -flex: .мим<.>
   gramm: 3.s,sg.s,1.o,sg.o
-  gloss: PST.3SG>1SG
+  gloss: PST.3SG›1SG
  -flex: .мизь<.>
   gramm: 2.s,pl.s,1.o,sg.o
-  gloss: PST.2PL>1SG
+  gloss: PST.2PL›1SG
  -flex: .мизь<.>
   gramm: 3.s,pl.s,1.o,sg.o
-  gloss: PST.3PL>1SG
+  gloss: PST.3PL›1SG
  -flex: .тинь<.>
   gramm: 1.s,sg.s,2.o,sg.o
-  gloss: PST.1SG>2SG
+  gloss: PST.1SG›2SG
  -flex: .нзить<.>
   gramm: 3.s,sg.s,2.o,sg.o
-  gloss: PST.3SG>2SG
+  gloss: PST.3SG›2SG
  -flex: .дизь<.>
   gramm: 1.s,pl.s,2.o,sg.o
-  gloss: PST.1PL>2SG
+  gloss: PST.1PL›2SG
  -flex: .дизь<.>
   gramm: 3.s,pl.s,2.o,sg.o
-  gloss: PST.3PL>2SG
+  gloss: PST.3PL›2SG
  -flex: .я<.>
   gramm: 1.s,sg.s,3.o,sg.o
-  gloss: PST.1SG>3SG
+  gloss: PST.1SG›3SG
  -flex: .к<.>
   gramm: 2.s,sg.s,3.o,sg.o
-  gloss: PST.2SG>3SG
+  gloss: PST.2SG›3SG
  -flex: .зе<.>
   gramm: 3.s,sg.s,3.o,sg.o
-  gloss: PST.3SG>3SG
+  gloss: PST.3SG›3SG
  -flex: .нек<.>
   gramm: 1.s,pl.s,3.o
-  gloss: PST.1PL>3
+  gloss: PST.1PL›3
  -flex: .нк<.>
   gramm: 2.s,pl.s,3.o
-  gloss: PST.2PL>3
+  gloss: PST.2PL›3
  -flex: .зь<.>
   gramm: 3.s,pl.s,3.o
-  gloss: PST.3PL>3
+  gloss: PST.3PL›3
  -flex: .мизь<.>
   gramm: 1.o,pl.o
   gloss: PST.1PL.O
@@ -3065,13 +3074,13 @@
   gloss: PST.2PL.O
  -flex: .нь<.>
   gramm: 1.s,sg.s,3.o,pl.o
-  gloss: PST.1SG>3PL
+  gloss: PST.1SG›3PL
  -flex: .ть<.>
   gramm: 2.s,sg.s,3.o,pl.o
-  gloss: PST.2SG>3PL
+  gloss: PST.2SG›3PL
  -flex: .нзе<.>
   gramm: 3.s,sg.s,3.o,pl.o
-  gloss: PST.3SG>3PL
+  gloss: PST.3SG›3PL
  paradigm: Clitics
 
 

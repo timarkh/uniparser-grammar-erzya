@@ -811,11 +811,25 @@
  trans_ru: тот самый
 
 -lexeme
+ lex: не
+ stem: не.
+ gramm: APRO
+ paradigm: N-front
+ trans_ru: эти
+
+-lexeme
  lex: кона
  stem: кона.
  gramm: APRO
  paradigm: N-back
  trans_ru: который
+
+-lexeme
+ lex: коната
+ stem: коната.
+ gramm: APRO
+ paradigm: N-back
+ trans_ru: который, кто
 
 -lexeme
  lex: кой-кона

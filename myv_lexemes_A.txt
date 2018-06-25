@@ -4697,7 +4697,7 @@
 
 -lexeme
  lex: паро
- stem: паро.
+ stem: паро.|паро.//пар.
  gramm: A
  paradigm: A-back
  trans_ru: хороший
@@ -5137,11 +5137,11 @@
  trans_ru: большой; взрослый
 
 -lexeme
- lex: покшось
- stem: покшос.
- gramm: A
- paradigm: A-front-soft
- trans_ru: старший
+ lex: покшке
+ stem: покшке.
+ gramm: A,dim
+ paradigm: A-front
+ trans_ru: большой; взрослый
 
 -lexeme
  lex: покштянь
@@ -32927,6 +32927,13 @@
  trans_ru: эстрадный
 
 -lexeme
+ lex: эстэнь
+ stem: эстэн.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: эстонский
+
+-lexeme
  lex: этапной
  stem: этапно.
  gramm: A,rus
@@ -34486,6 +34493,13 @@
  gramm: A
  paradigm: A-back
  trans_ru: интересный
+
+-lexeme
+ lex: мельвановикс
+ stem: мельвановикс.
+ gramm: A
+ paradigm: A-back
+ trans_ru: уважаемый
 
 -lexeme
  lex: моцень

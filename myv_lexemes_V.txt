@@ -6355,6 +6355,13 @@
  trans_ru: назвать, крестить
 
 -lexeme
+ lex: лемдямс
+ stem: лемд.
+ gramm: V
+ paradigm: V-ya
+ trans_ru: назвать, именовать
+
+-lexeme
  lex: лемиямс
  stem: леми.
  gramm: V
@@ -17060,7 +17067,14 @@
 
 -lexeme
  lex: аволь
- stem: авол.
+ stem: аул.
+ gramm: V,neg,pst,non_obj
+ paradigm: V-pst-ezj
+ trans_ru: не, нет
+
+-lexeme
+ lex: аволь
+ stem: авол.//авул.
  gramm: V,neg,non_obj
  paradigm: V-pst-ezj
  trans_ru: не, нет

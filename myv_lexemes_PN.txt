@@ -61131,6 +61131,13 @@
  trans_ru: Севастополь
 
 -lexeme
+ lex: Симферополь
+ stem: симферопол.
+ gramm: N,PN,topn
+ paradigm: N-front-soft
+ trans_ru: Симферополь
+
+-lexeme
  lex: Северный
  stem: северны.
  gramm: N,PN,topn
@@ -63805,6 +63812,13 @@
  trans_ru: Сергу
 
 -lexeme
+ lex: Серьгу
+ stem: серьгу.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Серьгу
+
+-lexeme
  lex: Нуянь
  stem: нуян.
  gramm: N,PN,famn
@@ -63862,17 +63876,31 @@
 
 -lexeme
  lex: Петрянь
- stem: петрянь.
+ stem: петрян.
  gramm: N,PN,famn
  paradigm: N-front-soft
  trans_ru: Петрянь
 
 -lexeme
  lex: Дригань
- stem: дригань.
+ stem: дриган.
  gramm: N,PN,famn
  paradigm: N-front-soft
  trans_ru: Дригань
+
+-lexeme
+ lex: Калаганонь
+ stem: калаганон.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Калаганонь
+
+-lexeme
+ lex: Эрьмезь
+ stem: эрьмез.
+ gramm: N,PN,persn
+ paradigm: N-front-soft
+ trans_ru: Эрьмезь
 
 -lexeme
  lex: Кията
@@ -63917,6 +63945,20 @@
  trans_ru: бог Верепаз
 
 -lexeme
+ lex: Кильдюш
+ stem: кильдюш.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Кильдюш
+
+-lexeme
+ lex: Кильдюш
+ stem: кильдюш.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Кильдюшево
+
+-lexeme
  lex: Оло
  stem: оло.
  gramm: N,PN,persn
@@ -63959,6 +64001,13 @@
  trans_ru: Толай
 
 -lexeme
+ lex: Аштай
+ stem: ашта.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Аштай
+
+-lexeme
  lex: ЭМ
  stem: эм.//эм-.
  gramm: N,PN,abbr
@@ -63971,3 +64020,52 @@
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Сабаево
+
+-lexeme
+ lex: Захарка
+ stem: захарка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Захарка
+
+-lexeme
+ lex: Рузмастор
+ stem: рузмастор.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Россия
+
+-lexeme
+ lex: Безаев
+ stem: безаев.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Безаев
+
+-lexeme
+ lex: Данильчев
+ stem: данильчев.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Данильчев
+
+-lexeme
+ lex: Меркушкин
+ stem: меркушкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Меркушкин
+
+-lexeme
+ lex: Бакайкина
+ stem: бакайкина.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Бакайкина
+
+-lexeme
+ lex: Кведор
+ stem: кведор.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Кведор (ник)

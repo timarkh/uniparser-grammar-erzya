@@ -909,6 +909,13 @@
  trans_ru: тряпка
 
 -lexeme
+ lex: ахолдавкс
+ stem: ахолдавкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: взмах
+
+-lexeme
  lex: ачарькодевиксчи
  stem: ачарькодевиксчи.
  gramm: N
@@ -5767,6 +5774,13 @@
  trans_ru: лепёшка из картошки
 
 -lexeme
+ lex: каляда
+ stem: каляда.
+ gramm: N
+ paradigm: N-back
+ trans_ru: пирог
+
+-lexeme
  lex: калава
  stem: калава.
  gramm: N,anim
@@ -8441,6 +8455,13 @@
  trans_ru: берестяная колыбель
 
 -lexeme
+ lex: ковкерькс
+ stem: ковкерькс.
+ gramm: N
+ paradigm: N-front
+ trans_ru: календарь
+
+-lexeme
  lex: керькс
  stem: керькс.
  gramm: N
@@ -8992,6 +9013,13 @@
  gramm: N,anim,hum
  paradigm: N-front
  trans_ru: владыка
+
+-lexeme
+ lex: кирдивий
+ stem: кирдиви.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: власть
 
 -lexeme
  lex: кирдиця-ванстыця
@@ -14902,6 +14930,13 @@
  trans_ru: намерение
 
 -lexeme
+ lex: мелькужо
+ stem: мелькужо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: форум
+
+-lexeme
  lex: мельке
  stem: мельке.|мельк.
  gramm: N,body
@@ -18430,6 +18465,13 @@
  trans_ru: божий дар
 
 -lexeme
+ lex: пазчанго
+ stem: пазчанго.//пазчанг.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: Святой дух
+
+-lexeme
  lex: пазявкс
  stem: пазявкс.
  gramm: N
@@ -20839,7 +20881,7 @@
 
 -lexeme
  lex: пинге
- stem: пинге.|пинг.
+ stem: пинге.|пинг.//пинге.
  gramm: N,time_meas
  paradigm: N-front
  trans_ru: век, период
@@ -23200,6 +23242,13 @@
  lex: раське
  stem: раське.|раськ.
  gramm: N
+ paradigm: N-front
+ trans_ru: народ, нация, род
+
+-lexeme
+ lex: раське
+ stem: раске.|раск.
+ gramm: N,missp
  paradigm: N-front
  trans_ru: народ, нация, род
 
@@ -27591,6 +27640,20 @@
  gramm: N,dim
  paradigm: N-front
  trans_ru: дельце
+
+-lexeme
+ lex: тевтеема
+ stem: тевтеема.
+ gramm: N
+ paradigm: N-back
+ trans_ru: мероприятие
+
+-lexeme
+ lex: тевтопавтома
+ stem: тевтопавтома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: мероприятие
 
 -lexeme
  lex: тевть-валт
@@ -33424,9 +33487,16 @@
  trans_ru: льдинка
 
 -lexeme
+ lex: эйзюрков
+ stem: эйзюрков.
+ gramm: N,time_meas
+ paradigm: N-back
+ trans_ru: март
+
+-lexeme
  lex: эйсюрков
  stem: эйсюрков.
- gramm: N
+ gramm: N,time_meas
  paradigm: N-back
  trans_ru: март
 
@@ -34440,7 +34510,7 @@
 
 -lexeme
  lex: ён
- stem: ён.
+ stem: ён.//ен.
  gramm: N
  paradigm: N-back
  trans_ru: сторона; способность
@@ -55241,7 +55311,7 @@
  lex: народ
  stem: народ.
  gramm: N,rus
- paradigm: N-front
+ paradigm: N-back
  trans_ru: народ
 
 -lexeme
@@ -60845,6 +60915,13 @@
  paradigm: N-back
  paradigm: N-front
  trans_ru: поощрение
+
+-lexeme
+ lex: поп
+ stem: поп.
+ gramm: N,rus,anim
+ paradigm: N-back
+ trans_ru: поп, священник
 
 -lexeme
  lex: попечительства
@@ -74004,6 +74081,13 @@
  trans_ru: церковь
 
 -lexeme
+ lex: церькува
+ stem: церькува.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: церковь
+
+-lexeme
  lex: цех
  stem: цех.
  gramm: N,rus
@@ -76359,6 +76443,13 @@
  gramm: N,rus
  paradigm: N-back
  trans_ru: эпопея
+
+-lexeme
+ lex: морокерькс
+ stem: морокерькс.
+ gramm: N
+ paradigm: N-front
+ trans_ru: эпос
 
 -lexeme
  lex: эпос
@@ -91391,7 +91482,7 @@
  lex: четверг
  stem: четверг.
  gramm: N,rus,time_meas
- paradigm: N-front
+ paradigm: N-back
  trans_ru: четверг
 
 -lexeme
@@ -92387,3 +92478,10 @@
  gramm: N
  paradigm: N-back
  trans_ru: способность
+
+-lexeme
+ lex: шокша
+ stem: шокша.
+ gramm: N
+ paradigm: N-back
+ trans_ru: шокша (народ)
