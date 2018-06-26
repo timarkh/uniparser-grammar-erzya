@@ -42,7 +42,7 @@
   gloss: PL.DEF
   regex-prev: .*[дзлнрстц][<>.]*$
   paradigm: N-case_def_pl
- -flex: .тне<.>
+ -flex: .тне<.>//.тьне<.>
   gramm: pl,def
   gloss: PL.DEF
   regex-prev: .*[^<>.дзлнрстц][<>.]*$
@@ -67,7 +67,7 @@
   gramm: nom,pl,1sg
   gloss: PL.1SG
   paradigm: Empty
- -flex: .тне<.>//.[ь]тне<.>
+ -flex: .тне<.>//.[ь]тьне<.>
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
@@ -91,7 +91,7 @@
   gramm: nom,pl,1sg
   gloss: PL.1SG
   paradigm: Empty
- -flex: .тне<.>//.ьтне<.>
+ -flex: .тне<.>//.ьтне<.>//.ьтьне<.>
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
@@ -115,7 +115,7 @@
   gramm: nom,pl,1sg
   gloss: PL.1SG
   paradigm: Empty
- -flex: .[й]тне<.>
+ -flex: .[й]тне<.>//.[й]тьне<.>
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
@@ -154,7 +154,7 @@
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
- -flex: .тне<.>
+ -flex: .тне<.>//.тьне<.>
   gramm: pl,def
   gloss: PL.DEF
   regex-prev: .*[^<>.дзлнрстц][<>.]*$
@@ -176,7 +176,7 @@
   gramm: nom,pl,1sg
   gloss: PL.1SG
   paradigm: Empty
- -flex: .тне<.>//.[мо]тне<.>
+ -flex: .тне<.>//.тьне<.>//.[мо]тне<.>//.[мо]тьне<.>
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
@@ -239,7 +239,7 @@
   gloss: PL.DEF
   regex-prev: .*[дзлнрстц][<>.]*$
   paradigm: N-case_def_pl
- -flex: .тне<.>
+ -flex: .тне<.>//.тьне<.>
   gramm: pl,def
   gloss: PL.DEF
   regex-prev: .*[^<>.дзлнрстц][<>.]*$
@@ -261,7 +261,7 @@
   gramm: nom,pl,1sg
   gloss: PL.1SG
   paradigm: Empty
- -flex: .тне<.>//.[ь]тне<.>
+ -flex: .тне<.>//.тьне<.>//.[ь]тне<.>//.[ь]тьне<.>
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
@@ -282,7 +282,7 @@
   gramm: nom,pl,1sg
   gloss: PL.1SG
   paradigm: Empty
- -flex: .[й]тне<.>
+ -flex: .[й]тне<.>//.[й]тьне<.>
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
@@ -319,7 +319,7 @@
   gloss: PL.DEF
   paradigm: N-case_def_pl
   regex-prev: .*[^<>.аеёиоуыэюя][<>.]*$
- -flex: .тне<.>
+ -flex: .тне<.>//.тьне<.>
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
@@ -334,7 +334,7 @@
   gramm: case_comp,sg_comp,def_comp
   gloss: DEF
   paradigm: N-case_def_sg-front-vowel
- -flex: .се|тне<.>
+ -flex: .се|тне<.>//.се|тьне<.>
   gramm: case_comp,pl_comp,def_comp
   gloss: DEF|PL.DEF
   paradigm: N-case_def_pl
@@ -346,7 +346,7 @@
  -flex: .<.>
   gramm: case_comp,sg_comp,def_comp
   paradigm: N-case_def_sg-front-vowel
- -flex: .тне<.>
+ -flex: .тне<.>//.тьне<.>
   gramm: case_comp,pl_comp,def_comp
   gloss: PL.DEF
   paradigm: N-case_def_pl
@@ -384,7 +384,7 @@
   gramm: car
   gloss: CAR
   paradigm: POST-poss-front-vowel
- -flex: .[е]тне<.>
+ -flex: .[е]тне<.>//.[е]тьне<.>
   gramm: case_comp,pl_comp,def_comp
   gloss: PL.DEF
   paradigm: N-case_def_pl

@@ -64099,3 +64099,24 @@
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Христодулос
+
+-lexeme
+ lex: Лувне
+ stem: лувне.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Луньга
+
+-lexeme
+ lex: Улине
+ stem: улине.
+ gramm: N,PN,persn
+ paradigm: N-front
+ trans_ru: Улине
+
+-lexeme
+ lex: Янне
+ stem: янне.
+ gramm: N,PN,persn
+ paradigm: N-front
+ trans_ru: Янне

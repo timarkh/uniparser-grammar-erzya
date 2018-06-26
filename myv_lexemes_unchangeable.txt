@@ -3939,7 +3939,14 @@
  stem: эрекстэ.
  gramm: ADV
  paradigm: Clitics
- trans_ru: бодро, быстро
+ trans_ru: быстро
+
+-lexeme
+ lex: эрейстэ
+ stem: эрейстэ.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: быстро
 
 -lexeme
  lex: эрзякс
@@ -4122,6 +4129,27 @@
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: ещё
+
+-lexeme
+ lex: особенно
+ stem: особенно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: особенно
+
+-lexeme
+ lex: наотмашь
+ stem: наотмашь.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: наотмашь
+
+-lexeme
+ lex: наоборот
+ stem: наоборот.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: наоборот
 
 -lexeme
  lex: васов
@@ -5025,6 +5053,13 @@
  gramm: IMIT
  paradigm: Clitics
  trans_ru: быстро, незаметно
+
+-lexeme
+ lex: риксть
+ stem: риксть.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: о скрипе снега
 
 -lexeme
  lex: ёзмолт-ёзмолт
@@ -6439,7 +6474,7 @@
 -lexeme
  lex: цюткине
  stem: цюткине.
- gramm: ADV,rus
+ gramm: ADV,rus,dim
  paradigm: Clitics
  trans_ru: немного
 
@@ -6519,3 +6554,66 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: по-русски
+
+-lexeme
+ lex: вакснэ
+ stem: вакснэ.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: рядом
+
+-lexeme
+ lex: вешкане
+ stem: вешкане.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: одновременно
+
+-lexeme
+ lex: кизэне
+ stem: кизэне.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: летом
+
+-lexeme
+ lex: крайне
+ stem: крайне.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: крайне
+
+-lexeme
+ lex: куншкане
+ stem: куншкане.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: в середину
+
+-lexeme
+ lex: пингене
+ stem: пингене.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: в период
+
+-lexeme
+ lex: поране
+ stem: поране.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: во время
+
+-lexeme
+ lex: тундоне
+ stem: тундоне.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: весной
+
+-lexeme
+ lex: эйкакшпингене
+ stem: эйкакшпингене.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: в детстве

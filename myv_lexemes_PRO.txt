@@ -1446,7 +1446,7 @@
  stem: косо.
  gramm: ADVPRO
  paradigm: Clitics
- trans_ru: везде
+ trans_ru: где; везде
 
 -lexeme
  lex: косо-бути

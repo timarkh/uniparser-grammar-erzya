@@ -426,6 +426,13 @@
  trans_ru: нижняя улица
 
 -lexeme
+ lex: верепе
+ stem: верепе.
+ gramm: N
+ paradigm: N-front
+ trans_ru: верхняя улица
+
+-lexeme
  lex: алпачалго
  stem: алпачалго.|алпачалг.
  gramm: N
@@ -2211,6 +2218,13 @@
  trans_ru: корень слова
 
 -lexeme
+ lex: вальгей
+ stem: вальге.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: голос
+
+-lexeme
  lex: вальма
  stem: вальма.
  gramm: N
@@ -3853,7 +3867,7 @@
  stem: вирез.
  gramm: N,anim
  paradigm: N-front
- trans_ru: ягненок
+ trans_ru: ягнёнок
 
 -lexeme
  lex: виреш
@@ -5277,6 +5291,13 @@
  trans_ru: Большая Медведица
 
 -lexeme
+ lex: инексчи
+ stem: инексчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: величие, слава
+
+-lexeme
  lex: инекужо
  stem: инекужо.
  gramm: N
@@ -5401,6 +5422,13 @@
  gramm: N,anim,hum
  paradigm: N-back
  trans_ru: властелин, царь
+
+-lexeme
+ lex: инязорксчи
+ stem: инязорксчи.
+ gramm: N
+ paradigm: N-back
+ trans_ru: царство
 
 -lexeme
  lex: инятя
@@ -6940,7 +6968,7 @@
  stem: касовкс.
  gramm: N
  paradigm: N-back
- trans_ru: нарост, рост
+ trans_ru: растение; нарост, рост
 
 -lexeme
  lex: касом
@@ -7413,10 +7441,17 @@
 
 -lexeme
  lex: кедне
- stem: кедне.
- gramm: N,dimb
+ stem: кедне.//кедьне.
+ gramm: N,dim,body
  paradigm: N-front
- trans_ru: кожица, ручка
+ trans_ru: кожица, шкурка
+
+-lexeme
+ lex: кедне
+ stem: кедне.//кедьне.
+ gramm: N,dim,body
+ paradigm: N-front
+ trans_ru: ручка
 
 -lexeme
  lex: кедть
@@ -9899,7 +9934,7 @@
 -lexeme
  lex: комбайна
  stem: комбайна.
- gramm: N,rusw
+ gramm: N,rus,transport
  paradigm: N-back
  trans_ru: комбайн
 
@@ -10450,6 +10485,20 @@
  trans_ru: ткань, холст
 
 -lexeme
+ lex: раськекоцт
+ stem: раськекоцт.
+ gramm: N,dim
+ paradigm: N-back
+ trans_ru: флаг
+
+-lexeme
+ lex: раськекоцтке
+ stem: раськекоцтке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: флажок
+
+-lexeme
  lex: коцтпанкс
  stem: коцтпанкс.
  gramm: N
@@ -10548,6 +10597,13 @@
  trans_ru: сухарь
 
 -lexeme
+ lex: край
+ stem: кра.
+ gramm: N,rus
+ paradigm: N-front-j
+ trans_ru: край
+
+-lexeme
  lex: край-келе
  stem: край-келе.
  gramm: N
@@ -10556,7 +10612,7 @@
 
 -lexeme
  lex: крандаз
- stem: крандаз.
+ stem: крандаз.|крандаз.//крандай.
  gramm: N,transport
  paradigm: N-back
  trans_ru: повозка, телега
@@ -11848,6 +11904,20 @@
  gramm: N
  paradigm: N-back
  trans_ru: куст; часть
+
+-lexeme
+ lex: морокуро
+ stem: морокуро.
+ gramm: N
+ paradigm: N-back
+ trans_ru: музыкальная группа
+
+-lexeme
+ lex: моропусмо
+ stem: моропусмо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: музыкальный альбом
 
 -lexeme
  lex: курокс
@@ -16191,7 +16261,7 @@
 
 -lexeme
  lex: налчирке
- stem: налчирке.|налчирк.
+ stem: налчирке.//налчирьке.|налчирк.//налчирьк.
  gramm: N
  paradigm: N-front
  trans_ru: лук (для стрельбы)
@@ -16545,6 +16615,13 @@
  gramm: N,supernat
  paradigm: N-front
  trans_ru: привидение, призрак
+
+-lexeme
+ lex: кедьнеже
+ stem: кедьнеже.
+ gramm: N
+ paradigm: N-front
+ trans_ru: посох
 
 -lexeme
  lex: неже
@@ -18371,7 +18448,7 @@
  stem: ошкужо.
  gramm: N
  paradigm: N-back
- trans_ru: городской съезд
+ trans_ru: городской съезд; площадь
 
 -lexeme
  lex: ошкуншка
@@ -21454,6 +21531,13 @@
  trans_ru: лебедь
 
 -lexeme
+ lex: пожа
+ stem: пожа.
+ gramm: N
+ paradigm: N-back
+ trans_ru: пороша
+
+-lexeme
  lex: поза
  stem: поза.
  gramm: N
@@ -23449,11 +23533,25 @@
  trans_ru: горе, печаль
 
 -lexeme
+ lex: риске
+ stem: риске.
+ gramm: N
+ paradigm: N-front
+ trans_ru: горе, печаль
+
+-lexeme
  lex: рисьме
  stem: рисьме.|рисьм.
  gramm: N
  paradigm: N-front
  trans_ru: цепочка, цепь
+
+-lexeme
+ lex: рисьмине
+ stem: рисьмине
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: цепочка
 
 -lexeme
  lex: рицяга
@@ -23597,7 +23695,7 @@
 
 -lexeme
  lex: рудаз
- stem: рудаз.
+ stem: рудаз.|рудаз.//рудай.
  gramm: N
  paradigm: N-back
  trans_ru: грязь
@@ -24731,7 +24829,7 @@
 
 -lexeme
  lex: сельмине
- stem: сельмине.
+ stem: сельмине.//сельмене.
  gramm: N,dim
  paradigm: N-front
  trans_ru: глазок
@@ -26260,7 +26358,7 @@
  stem: суррашко.|суррашк.
  gramm: N
  paradigm: N-back
- trans_ru: растояние между пальцами
+ trans_ru: расстояние между пальцами
 
 -lexeme
  lex: сурсеме
@@ -27026,6 +27124,13 @@
  trans_ru: лось, олень
 
 -lexeme
+ lex: сярдолевкс
+ stem: сярдолевкс.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: лосёнок, оленёнок
+
+-lexeme
  lex: сярдоваз
  stem: сярдоваз.
  gramm: N,anim
@@ -27769,7 +27874,7 @@
 
 -lexeme
  lex: тейтерне
- stem: тейтерне.
+ stem: тейтерне.//тейтерьне.
  gramm: N,dim,anim,hum
  paradigm: N-front
  trans_ru: девочка, девчонка
@@ -29645,6 +29750,13 @@
  trans_ru: яблоко
 
 -lexeme
+ lex: винаумарь
+ stem: винаумар.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: виноград
+
+-lexeme
  lex: умарьков
  stem: умарьков.
  gramm: N,time_meas
@@ -30149,6 +30261,20 @@
  trans_ru: воевода
 
 -lexeme
+ lex: ушмовий
+ stem: ушмови.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: армия
+
+-lexeme
+ lex: ушмовенч
+ stem: ушмовенч.
+ gramm: N,anim,hum
+ paradigm: N-front
+ trans_ru: военный корабль
+
+-lexeme
  lex: ушо
  stem: ушо.
  gramm: N
@@ -30305,7 +30431,7 @@
 -lexeme
  lex: фура
  stem: фура.
- gramm: N,rusw
+ gramm: N,rus,transport
  paradigm: N-back
  trans_ru: длинная телега
 
@@ -31040,7 +31166,7 @@
 -lexeme
  lex: цёрыне
  stem: цёрыне.//церыне.
- gramm: N,anim,hum
+ gramm: N,anim,hum,dim
  paradigm: N-front
  trans_ru: мальчик, мальчишка
 
@@ -34312,13 +34438,6 @@
  gramm: N
  paradigm: N-back
  trans_ru: деньги, монета
-
--lexeme
- lex: ярмаккеть
- stem: ярмаккет.
- gramm: N
- paradigm: N-front-soft
- trans_ru: деньжата
 
 -lexeme
  lex: ярмонка
@@ -43976,8 +44095,8 @@
  trans_ru: деформация
 
 -lexeme
- lex: дециметр
- stem: дециметр.
+ lex: дециметра
+ stem: дециметра.//дециметр.
  gramm: N,rus
  paradigm: N-front
  trans_ru: дециметр
@@ -48409,8 +48528,8 @@
  trans_ru: килограмм
 
 -lexeme
- lex: километр
- stem: километр.
+ lex: километра
+ stem: километра.//километр.
  gramm: N,rus
  paradigm: N-front
  trans_ru: километр
@@ -49327,7 +49446,7 @@
 
 -lexeme
  lex: колхоз
- stem: колхоз.
+ stem: колхоз.|колхоз.//колхой.
  gramm: N,rus
  paradigm: N-back
  trans_ru: колхоз
@@ -50975,8 +51094,8 @@
  trans_ru: кубок
 
 -lexeme
- lex: кубометр
- stem: кубометр.
+ lex: кубометра
+ stem: кубометра.//кубометр.
  gramm: N,rus
  paradigm: N-front
  trans_ru: кубометр
@@ -53766,8 +53885,8 @@
  trans_ru: методцентр
 
 -lexeme
- lex: метр
- stem: метр.
+ lex: метра
+ stem: метр.//метра.
  gramm: N,rus
  paradigm: N-front
  trans_ru: метр
@@ -54011,8 +54130,8 @@
  trans_ru: миллиард
 
 -lexeme
- lex: миллиметр
- stem: миллиметр.
+ lex: миллиметра
+ stem: миллиметра.//миллиметр.
  gramm: N,rus
  paradigm: N-front
  trans_ru: миллиметр
@@ -64333,7 +64452,7 @@
 -lexeme
  lex: рассыльной
  stem: рассыльно.
- gramm: N,rus
+ gramm: N,rus,anim,hum
  paradigm: N-front-j
  trans_ru: рассыльный
 
@@ -65949,8 +66068,8 @@
  trans_ru: сантехника
 
 -lexeme
- lex: сантиметр
- stem: сантиметр.
+ lex: сантиметра
+ stem: сантиметра.//сантиметр.
  gramm: N,rus
  paradigm: N-front
  trans_ru: сантиметр
@@ -74144,6 +74263,13 @@
 -lexeme
  lex: церькува
  stem: церькува.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: церковь
+
+-lexeme
+ lex: церьква
+ stem: церьква.
  gramm: N,rus
  paradigm: N-back
  trans_ru: церковь
@@ -83888,6 +84014,14 @@
  trans_ru: мордвин
 
 -lexeme
+ lex: мордвинист
+ stem: мордвинист.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ paradigm: N-front
+ trans_ru: мордвинист
+
+-lexeme
  lex: мордвинка
  stem: мордвинка.
  gramm: N,rus,anim,hum
@@ -93085,3 +93219,2186 @@
  gramm: N,rus
  paradigm: N-back
  trans_ru: граница
+
+-lexeme
+ lex: пасквиль
+ stem: пасквил.
+ gramm: N,rus
+ paradigm: N-front-soft
+ trans_ru: пасквиль
+-lexeme
+ lex: авакшке
+ stem: авакшке.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: самочка, курочка
+
+-lexeme
+ lex: автобуснэ
+ stem: автобуснэ.
+ gramm: N,rus,transport,dim
+ paradigm: N-front
+ trans_ru: автобусик
+
+-lexeme
+ lex: администраторнэ
+ stem: администраторнэ.
+ gramm: N,rus,anim,hum,dim
+ paradigm: N-front
+ trans_ru: администратор
+
+-lexeme
+ lex: азорнэ
+ stem: азорнэ.//азорне.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: хозяин
+
+-lexeme
+ lex: алкске
+ stem: алкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: постелька
+
+-lexeme
+ lex: ансамблине
+ stem: ансамблине.
+ gramm: N,rus,missp,dim
+ paradigm: N-front
+ trans_ru: маленький ансамбль
+
+-lexeme
+ lex: аргумне
+ stem: аргумне.
+ gramm: N,PN,dim
+ paradigm: N-front
+ trans_ru: Пегас
+
+-lexeme
+ lex: арсевкске
+ stem: арсевкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: проектик
+
+-lexeme
+ lex: артке
+ stem: артке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: узорчик, орнамент
+
+-lexeme
+ lex: артовкске
+ stem: артовкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: рисуночек, стикер
+
+-lexeme
+ lex: ацавкске
+ stem: ацавкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: кроватка
+
+-lexeme
+ lex: ашкине
+ stem: ашкине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: нашейное украшение
+
+-lexeme
+ lex: ботке
+ stem: ботке.
+ gramm: N
+ paradigm: N-front
+ trans_ru: лук-батун
+
+-lexeme
+ lex: боярнэ
+ stem: боярнэ.
+ gramm: N,rus,anim,hum,dim
+ paradigm: N-front
+ trans_ru: барыня
+
+-lexeme
+ lex: бояравине
+ stem: бояравине.
+ gramm: N,anim,hum,rus,dim
+ paradigm: N-front
+ trans_ru: барыня
+
+-lexeme
+ lex: братке
+ stem: братке.
+ gramm: N,rus,anim,hum,dim
+ paradigm: N-front
+ trans_ru: братик
+
+-lexeme
+ lex: бруске
+ stem: бруске.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: брусочек
+
+-lexeme
+ lex: букине
+ stem: букине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: бычок
+
+-lexeme
+ lex: валне
+ stem: валне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: словцо
+
+-lexeme
+ lex: валкске
+ stem: валкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: словарик
+
+-lexeme
+ lex: валпелькске
+ stem: валпелькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: флексия
+
+-lexeme
+ lex: валрисьмине
+ stem: валрисьмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: предложеньице
+
+-lexeme
+ lex: вармине
+ stem: вармине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ветерок
+
+-lexeme
+ lex: варьгине
+ stem: варьгине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: варежка
+
+-lexeme
+ lex: ватине
+ stem: ватине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: какашка
+
+-lexeme
+ lex: вашине
+ stem: вашине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: жеребёнок
+
+-lexeme
+ lex: ведьне
+ stem: ведьне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: водичка
+
+-lexeme
+ lex: ведьаване
+ stem: ведьаване.
+ gramm: N,supernat,dim
+ paradigm: N-front
+ trans_ru: русалочка
+
+-lexeme
+ lex: ведьбовне
+ stem: ведьбовне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: капелька
+
+-lexeme
+ lex: ведьмине
+ stem: ведьмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: верёвочка
+
+-lexeme
+ lex: ведьприне
+ stem: ведьприне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: источничек
+
+-lexeme
+ lex: ведьсельмине
+ stem: ведьсельмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: лужица, полынья
+
+-lexeme
+ lex: ведьулыне
+ stem: ведьулыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: заливчик, островок
+
+-lexeme
+ lex: велине
+ stem: велине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: деревенька
+
+-lexeme
+ lex: велькске
+ stem: велькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: сметанка
+
+-lexeme
+ lex: венчке
+ stem: венчке.
+ gramm: N,transport,dim
+ paradigm: N-front
+ trans_ru: лодочка
+
+-lexeme
+ lex: верьне
+ stem: верьне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: кровушка
+
+-lexeme
+ lex: верьгизнэ
+ stem: верьгизнэ.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: волчок
+
+-lexeme
+ lex: видьмине
+ stem: видьмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: семечко
+
+-lexeme
+ lex: вийне
+ stem: вийне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: силушка
+
+-lexeme
+ lex: вирне
+ stem: вирне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: лесок
+
+-lexeme
+ lex: вирявине
+ stem: вирявине.
+ gramm: N,supernat,dim
+ paradigm: N-front
+ trans_ru: покровительница леса
+
+-lexeme
+ lex: газетыне
+ stem: газетыне.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: газетка
+
+-lexeme
+ lex: галыне
+ stem: галыне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: гусик
+
+-lexeme
+ lex: гигерьне
+ stem: гигерьне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ролик
+
+-lexeme
+ lex: горниповнэ
+ stem: горниповнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: бубенчик
+
+-lexeme
+ lex: горобиине
+ stem: горобиине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: сундучок
+
+-lexeme
+ lex: губорькске
+ stem: губорькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: холмик
+
+-lexeme
+ lex: дугине
+ stem: дугине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: братец, сестрица
+
+-lexeme
+ lex: зыяннэ
+ stem: зыяннэ.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: вред, трагедия
+
+-lexeme
+ lex: зэртьке
+ stem: зэртьке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: грохот
+
+-lexeme
+ lex: идемевське
+ stem: идемевське.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: антихрист, изверг
+
+-lexeme
+ lex: иине
+ stem: иине.
+ gramm: N,time_meas,dim
+ paradigm: N-front
+ trans_ru: годок
+
+-lexeme
+ lex: илыне
+ stem: илыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: обряд, обычай
+
+-lexeme
+ lex: ильведевкснэ
+ stem: ильведевкснэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ошибочка
+
+-lexeme
+ lex: ильведькске
+ stem: ильведькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ошибочка
+
+-lexeme
+ lex: иневенчке
+ stem: иневенчке.
+ gramm: N,transport,dim
+ paradigm: N-front
+ trans_ru: кораблик
+
+-lexeme
+ lex: иненармунне
+ stem: иненармунне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: птица счастья
+
+-lexeme
+ lex: ирдезке
+ stem: ирдезке.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: рёбрышко
+
+-lexeme
+ lex: кавалнэ
+ stem: кавалнэ.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: коршун, ястреб
+
+-lexeme
+ lex: кайгине
+ stem: кайгине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: скрипочка
+
+-lexeme
+ lex: какине
+ stem: какине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: дитя
+
+-lexeme
+ lex: какайне
+ stem: какайне.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: дитятко
+
+-lexeme
+ lex: калавине
+ stem: калавине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: рыбка
+
+-lexeme
+ lex: калмине
+ stem: калмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: могилка
+
+-lexeme
+ lex: камбразке
+ stem: камбразке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: седло
+
+-lexeme
+ lex: каргине
+ stem: каргине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: журавлик
+
+-lexeme
+ lex: каргне
+ stem: каргне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: журавлик
+
+-lexeme
+ lex: карголейне
+ stem: карголейне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: журавлиное болотце (речка)
+
+-lexeme
+ lex: каркске
+ stem: каркске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: поясок
+
+-lexeme
+ lex: картузке
+ stem: картузке.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: кепка
+
+-lexeme
+ lex: карькске
+ stem: карькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: оборки лаптя, тонкие верёвочки
+
+-lexeme
+ lex: касовкске
+ stem: касовкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: растеньице
+
+-lexeme
+ lex: кастаргоне
+ stem: кастаргоне.
+ gramm: N,supernat,dim
+ paradigm: N-front
+ trans_ru: домовой
+
+-lexeme
+ lex: каткине
+ stem: каткине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: кошечка
+
+-lexeme
+ lex: качамне
+ stem: качамне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: дымок
+
+-lexeme
+ lex: керькске
+ stem: керькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: связочка
+
+-lexeme
+ lex: кескавне
+ stem: кескавне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: мешочек
+
+-lexeme
+ lex: кикске
+ stem: кикске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: чёрточка
+
+-lexeme
+ lex: килейне
+ stem: килейне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: берёзка
+
+-lexeme
+ lex: кинигине
+ stem: кинигине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: книжка
+
+-lexeme
+ lex: кирькске
+ stem: кирькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: кружок, звено
+
+-lexeme
+ lex: книгине
+ stem: книгине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: книжка
+
+-lexeme
+ lex: ковкерькске
+ stem: ковкерькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: календарик
+
+-lexeme
+ lex: койне
+ stem: койне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: обычай, привычка
+
+-lexeme
+ lex: кокоркине
+ stem: кокоркине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: кренделёк
+
+-lexeme
+ lex: колозке
+ stem: колозке.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: колосок
+
+-lexeme
+ lex: коморнэ
+ stem: коморнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: горсточка
+
+-lexeme
+ lex: конёвнэ
+ stem: конёвнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: бумажка
+
+-lexeme
+ lex: конёвне
+ stem: конёвне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: бумажка
+
+-lexeme
+ lex: кортавкске
+ stem: кортавкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: разговорчик
+
+-lexeme
+ lex: коткудавнэ
+ stem: коткудавнэ.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: муравей
+
+-lexeme
+ lex: коцтке
+ stem: коцтке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ткань, платочек
+
+-lexeme
+ lex: коцтпанкске
+ stem: коцтпанкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: лоскутик холста
+
+-lexeme
+ lex: крандазнэ
+ stem: крандазнэ.
+ gramm: N,transport,dim
+ paradigm: N-front
+ trans_ru: тележка
+
+-lexeme
+ lex: крандазке
+ stem: крандазке.
+ gramm: N,transport,dim
+ paradigm: N-front
+ trans_ru: тележка
+
+-lexeme
+ lex: кудане
+ stem: кудане.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: сват
+
+-lexeme
+ lex: кудавине
+ stem: кудавине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: сваха
+
+-lexeme
+ lex: куклыне
+ stem: куклыне.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: куколка
+
+-lexeme
+ lex: кукшунне
+ stem: кукшунне.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: кувшинчик
+
+-lexeme
+ lex: кулине
+ stem: кулине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: новость
+
+-lexeme
+ lex: кумажине
+ stem: кумажине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: коленка
+
+-lexeme
+ lex: куракшне
+ stem: куракшне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: кустик
+
+-lexeme
+ lex: чувтне
+ stem: чувтне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: деревце
+
+-lexeme
+ lex: куринкине
+ stem: куринкине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: квартал
+
+-lexeme
+ lex: кши-салнэ
+ stem: кши-салнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: хлеб-соль
+
+-lexeme
+ lex: салнэ
+ stem: салнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: соль
+
+-lexeme
+ lex: лавкине
+ stem: лавкине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: лавочка, магазинчик
+
+-lexeme
+ lex: лавське
+ stem: лавське.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: колыбелька
+
+-lexeme
+ lex: лазнэ
+ stem: лазнэ.//лазне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: дощечка
+
+-lexeme
+ lex: лампине
+ stem: лампине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: лампочка
+
+-lexeme
+ lex: левкснэ
+ stem: левкснэ.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: детёныш, птенец
+
+-lexeme
+ lex: лезкске
+ stem: лезкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: милостыня
+
+-lexeme
+ lex: лекшине
+ stem: лекшине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: иней
+
+-lexeme
+ lex: леляне
+ stem: леляне.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: дядя, старший брат
+
+-lexeme
+ lex: лелине
+ stem: лелине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: дядя, старший брат
+
+-lexeme
+ lex: леляйне
+ stem: леляйне.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: дядя, старший брат
+
+-lexeme
+ lex: лемне
+ stem: лемне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: имя, название
+
+-lexeme
+ lex: лескске
+ stem: лескске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: милостыня
+
+-lexeme
+ lex: лехине
+ stem: лехине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: страничка
+
+-lexeme
+ lex: лисьмаприне
+ stem: лисьмаприне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: родничок
+
+-lexeme
+ lex: ловнэ
+ stem: ловнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: снежок
+
+-lexeme
+ lex: ловне
+ stem: ловне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: снежок
+
+-lexeme
+ lex: локсейне
+ stem: локсейне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: лебедь
+
+-lexeme
+ lex: локшине
+ stem: локшине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: кнутик
+
+-lexeme
+ lex: ломаньке
+ stem: ломаньке.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: человечек
+
+-lexeme
+ lex: лопане
+ stem: лопане.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: страничка
+
+-lexeme
+ lex: лукшке
+ stem: лукшке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: скорлупка
+
+-lexeme
+ lex: лушмине
+ stem: лушмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ложбинка
+
+-lexeme
+ lex: марнэ
+ stem: марнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: холмик
+
+-lexeme
+ lex: мастораване
+ stem: мастораване.
+ gramm: N,supernat,dim
+ paradigm: N-front
+ trans_ru: богиня земли
+
+-lexeme
+ lex: масторавине
+ stem: масторавине.
+ gramm: N,supernat,dim
+ paradigm: N-front
+ trans_ru: богиня земли
+
+-lexeme
+ lex: масторпазне
+ stem: масторпазне.
+ gramm: N,supernat,dim
+ paradigm: N-front
+ trans_ru: бог земли
+
+-lexeme
+ lex: медне
+ stem: медне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: медок
+
+-lexeme
+ lex: мекшине
+ stem: мекшине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: пчёлка
+
+-lexeme
+ lex: мекшке
+ stem: мекшке.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: пчёлка
+
+-lexeme
+ lex: мельне
+ stem: мельне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: желание, чувство, настроение, мысль
+
+-lexeme
+ lex: менельне
+ stem: менельне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: вселенная, небо, небосвод
+
+-lexeme
+ lex: мештине
+ stem: мештине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: грудка
+
+-lexeme
+ lex: мизолкске
+ stem: мизолкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: улыбочка
+
+-lexeme
+ lex: мирдине
+ stem: мирдине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: муженёк
+
+-lexeme
+ lex: модыне
+ stem: модыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: землица
+
+-lexeme
+ lex: модакудыне
+ stem: модакудыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: землянка
+
+-lexeme
+ lex: модамарне
+ stem: модамарне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: картошечка
+
+-lexeme
+ lex: налнэ
+ stem: налнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: лучик
+
+-lexeme
+ lex: нарнэ
+ stem: нарнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: лужок, травка
+
+-lexeme
+ lex: нерьне
+ stem: нерьне.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: клювик, личико
+
+-lexeme
+ lex: нешкекудыне
+ stem: нешкекудыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: пенька, улей
+
+-lexeme
+ lex: нилькске
+ stem: нилькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: стебелёк, ушко
+
+-lexeme
+ lex: нимилявне
+ stem: нимилявне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: бабочка
+
+-lexeme
+ lex: нороваване
+ stem: нороваване.
+ gramm: N,anim,supernat,dim
+ paradigm: N-front
+ trans_ru: богиня - покровительница поля
+
+-lexeme
+ lex: норовавине
+ stem: норовавине.
+ gramm: N,anim,supernat,dim
+ paradigm: N-front
+ trans_ru: богиня - покровительница поля
+
+-lexeme
+ lex: норовжорчнэ
+ stem: норовжорчнэ.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: жаворонок
+
+-lexeme
+ lex: норовжорчке
+ stem: норовжорчке.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: жаворонок
+
+-lexeme
+ lex: нудейне
+ stem: нудейне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: камыш; нудей (муз. инструмент)
+
+-lexeme
+ lex: нумолкайне
+ stem: нумолкайне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: зайчёнок, зайчишка
+
+-lexeme
+ lex: нумолне
+ stem: нумолне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: зайчик
+
+-lexeme
+ lex: нупальне
+ stem: нупальне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: светёлка; карниз
+
+-lexeme
+ lex: нурднэ
+ stem: нурднэ.
+ gramm: N,transport,dim
+ paradigm: N-front
+ trans_ru: санки, воз
+
+-lexeme
+ lex: нуцькане
+ stem: нуцькане.
+ gramm: N,rus,anim,hum,dim
+ paradigm: N-front
+ trans_ru: внук, внучка
+
+-lexeme
+ lex: овтыне
+ stem: овтыне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: медведь
+
+-lexeme
+ lex: озкске
+ stem: озкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: моление
+
+-lexeme
+ lex: озкспалне
+ stem: озкспалне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: жертвенная пища
+
+-lexeme
+ lex: озязке
+ stem: озязке.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: воробушек
+
+-lexeme
+ lex: ормине
+ stem: ормине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: болезнь
+
+-lexeme
+ lex: оскине
+ stem: оскине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: мячик
+
+-lexeme
+ lex: паксине
+ stem: паксине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: полюшко
+
+-lexeme
+ lex: пакшке
+ stem: пакшке.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: дитя, ребёнок
+
+-lexeme
+ lex: палине
+ stem: палине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: рубашечка
+
+-lexeme
+ lex: панарнэ
+ stem: панарнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: рубашечка, футболка
+
+-lexeme
+ lex: пандине
+ stem: пандине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: грядка
+
+-lexeme
+ lex: панкске
+ stem: панкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: лоскуток
+
+-lexeme
+ lex: патине
+ stem: патине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: страшая сестра, тётя
+
+-lexeme
+ lex: пачине
+ stem: пачине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: зверёк
+
+-lexeme
+ lex: пекине
+ stem: пекине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: брюшко, животик
+
+-lexeme
+ lex: пелькснэ
+ stem: пелькснэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: частичка
+
+-lexeme
+ lex: пенгине
+ stem: пенгине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: поленце
+
+-lexeme
+ lex: пенчнэ
+ stem: пенчнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ложечка
+
+-lexeme
+ lex: петнявкске
+ stem: петнявкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: капелька
+
+-lexeme
+ lex: пештене
+ stem: пештене.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: орешек
+
+-lexeme
+ lex: пизыне
+ stem: пизыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: гнёздышко
+
+-lexeme
+ lex: пизёлнэ
+ stem: пизёлнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: рябинка
+
+-lexeme
+ lex: пикске
+ stem: пикске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: верёвочка
+
+-lexeme
+ lex: пирине
+ stem: пирине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: палисадник
+
+-lexeme
+ lex: пирявкске
+ stem: пирявкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: заборчик
+
+-lexeme
+ lex: позакшине
+ stem: позакшине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: хлеб из солода для кваса
+
+-lexeme
+ lex: пойне
+ stem: пойне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: осинка
+
+-lexeme
+ lex: потомкске
+ stem: потомкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: пробочка
+
+-lexeme
+ lex: превне
+ stem: превне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ум, головка
+
+-lexeme
+ lex: промкске
+ stem: промкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: заседание, собрание
+
+-lexeme
+ lex: прясурине
+ stem: прясурине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: веночек
+
+-lexeme
+ lex: пукшине
+ stem: пукшине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: мышца
+
+-lexeme
+ lex: пулайне
+ stem: пулайне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: женская одежда
+
+-lexeme
+ lex: пурине
+ stem: пурине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: медовуха
+
+-lexeme
+ lex: пурнавкске
+ stem: пурнавкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: собрание
+
+-lexeme
+ lex: пятёркине
+ stem: пятёркине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: пятёрочка
+
+-lexeme
+ lex: ракшине
+ stem: ракшине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: лошадка
+
+-lexeme
+ lex: раськине
+ stem: раськине.
+ gramm: N,missp,dim
+ paradigm: N-front
+ trans_ru: народ, нация, род
+
+-lexeme
+ lex: ревине
+ stem: ревине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: овечка
+
+-lexeme
+ lex: репске
+ stem: репске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: репка, редиска
+
+-lexeme
+ lex: ривезьке
+ stem: ривезьке.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: лисича
+
+-lexeme
+ lex: ружиине
+ stem: ружиине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: ружьишко
+
+-lexeme
+ lex: рунгине
+ stem: рунгине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: тельце
+
+-lexeme
+ lex: руцине
+ stem: руцине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: женская одежда; пелёночка
+
+-lexeme
+ lex: сазоркине
+ stem: сазоркине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: сестричка
+
+-lexeme
+ lex: сакалнэ
+ stem: сакалнэ.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: бородка
+
+-lexeme
+ lex: салмуксне
+ stem: салмуксне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: иголка
+
+-lexeme
+ lex: саннэ
+ stem: саннэ.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: жилка, сосуд
+
+-lexeme
+ lex: саразнэ
+ stem: саразнэ.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: курочка
+
+-lexeme
+ lex: саразне
+ stem: саразне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: курица
+
+-lexeme
+ lex: саразке
+ stem: саразке.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: курица
+
+-lexeme
+ lex: сардыне
+ stem: сардыне.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: колючка
+
+-lexeme
+ lex: свистьке
+ stem: свистьке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: крепёж, стяжка
+
+-lexeme
+ lex: седейне
+ stem: седейне.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: сердечко
+
+-lexeme
+ lex: сеельне
+ stem: сеельне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: ёжик
+
+-lexeme
+ lex: селейне
+ stem: селейне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: вяз
+
+-lexeme
+ lex: сельгине
+ stem: сельгине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: глазочек
+
+-lexeme
+ lex: сеськине
+ stem: сеськине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: комарик
+
+-lexeme
+ lex: сеине
+ stem: сеине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: козочка
+
+-lexeme
+ lex: скалнэ
+ stem: скалнэ.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: коровка
+
+-lexeme
+ lex: содамоёвкске
+ stem: содамоёвкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: загадочка
+
+-lexeme
+ lex: сокине
+ stem: сокине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: соха
+
+-lexeme
+ lex: ссылкине
+ stem: ссылкине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: ссылочка
+
+-lexeme
+ lex: станнэ
+ stem: станнэ.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: станок
+
+-lexeme
+ lex: статьине
+ stem: статьине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: статейка
+
+-lexeme
+ lex: стеныне
+ stem: стеныне.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: стенка
+
+-lexeme
+ lex: суликине
+ stem: суликине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: бутылочка
+
+-lexeme
+ lex: суманне
+ stem: суманне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: пальтишко
+
+-lexeme
+ lex: сурине
+ stem: сурине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: ниточка
+
+-lexeme
+ lex: суроне
+ stem: суроне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: зёрнышко
+
+-lexeme
+ lex: сурыне
+ stem: сурыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: зёрнышко
+
+-lexeme
+ lex: сывельпрякине
+ stem: сывельпрякине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: пирожок с мясом
+
+-lexeme
+ lex: сэпине
+ stem: сэпине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: горечь
+
+-lexeme
+ lex: сюкорне
+ stem: сюкорне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: лепёшечка
+
+-lexeme
+ lex: сюкприне
+ stem: сюкприне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: поклончик
+
+-lexeme
+ lex: сюлыне
+ stem: сюлыне.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: кишка
+
+-lexeme
+ lex: сюрыне
+ stem: сюрыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: хлебушек
+
+-lexeme
+ lex: сюрыне
+ stem: сюрыне.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: зубчик
+
+-lexeme
+ lex: сярдыне
+ stem: сярдыне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: лосёнок, оленёнок
+
+-lexeme
+ lex: сёлмине
+ stem: сёлмине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: крылышко
+
+-lexeme
+ lex: сёрмине
+ stem: сёрмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: письмецо
+
+-lexeme
+ lex: сёрмадовкске
+ stem: сёрмадовкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: надпись; узорчик
+
+-lexeme
+ lex: тапавкске
+ stem: тапавкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: осколочек
+
+-lexeme
+ lex: тапаркске
+ stem: тапаркске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: свёрточек
+
+-lexeme
+ lex: тарадке
+ stem: тарадке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: веточка
+
+-lexeme
+ lex: татайне
+ stem: татайне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: игрушка
+
+-lexeme
+ lex: теевкске
+ stem: теевкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: творение
+
+-lexeme
+ lex: тешксне
+ stem: тешксне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: значок
+
+-lexeme
+ lex: тештке
+ stem: тештке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: звёздочка
+
+-lexeme
+ lex: тонолнэ
+ stem: тонолнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: головёшка
+
+-lexeme
+ lex: тонолне
+ stem: тонолне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: головёшка
+
+-lexeme
+ lex: топине
+ stem: топине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: творожок, сырок
+
+-lexeme
+ lex: тумоне
+ stem: тумоне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: дубок
+
+-lexeme
+ lex: тундыне
+ stem: тундыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: весна
+
+-lexeme
+ lex: турвине
+ stem: турвине.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: губка
+
+-lexeme
+ lex: тюснэ
+ stem: тюснэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: цвет; вид; поле
+
+-lexeme
+ lex: тякайне
+ stem: тякайне.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: дитятко
+
+-lexeme
+ lex: тёкшке
+ stem: тёкшке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: верхушка
+
+-lexeme
+ lex: уголнэ
+ stem: уголнэ.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: уголок
+
+-lexeme
+ lex: ундыне
+ stem: ундыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: дупло
+
+-lexeme
+ lex: урядыне
+ stem: урядыне.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: порядок, чистота
+
+-lexeme
+ lex: уськирейне
+ stem: уськирейне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: кулик
+
+-lexeme
+ lex: фотоне
+ stem: фотоне.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: фотка
+
+-lexeme
+ lex: цецяпусмине
+ stem: цецяпусмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: букетик
+
+-lexeme
+ lex: цирькуннэ
+ stem: цирькуннэ.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: сверчок, кузнечик
+
+-lexeme
+ lex: цянавне
+ stem: цянавне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: ласточка
+
+-lexeme
+ lex: цяркине
+ stem: цяркине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: рюмочка
+
+-lexeme
+ lex: чанстьке
+ stem: чанстьке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: благодать; приятный запах
+
+-lexeme
+ lex: чапакске
+ stem: чапакске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: тесто
+
+-lexeme
+ lex: чарыне
+ stem: чарыне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: колёсико
+
+-lexeme
+ lex: чевкске
+ stem: чевкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: сухое полено для лучин
+
+-lexeme
+ lex: чеерне
+ stem: чеерне.//чеерьне.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: мышка
+
+-lexeme
+ lex: чекине
+ stem: чекине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: намоточный станок
+
+-lexeme
+ lex: челькине
+ stem: челькине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: пыль; отражение
+
+-lexeme
+ lex: ченькске
+ stem: ченькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: самогончик
+
+-lexeme
+ lex: чирязне
+ stem: чирязне.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: барин, господин
+
+-lexeme
+ lex: чугунне
+ stem: чугунне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: чугунок
+
+-lexeme
+ lex: чудикерькске
+ stem: чудикерькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ручеёк
+
+-lexeme
+ lex: шапкине
+ stem: шапкине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: шапочка
+
+-lexeme
+ lex: шаршавнэ
+ stem: шаршавнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: занавесочка, кружево
+
+-lexeme
+ lex: штерине
+ stem: штерине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: бегунок, веретено
+
+-lexeme
+ lex: шубине
+ stem: шубине.
+ gramm: N,rus,dim
+ paradigm: N-front
+ trans_ru: шубка
+
+-lexeme
+ lex: шумбракшине
+ stem: шумбракшине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: каравай
+
+-lexeme
+ lex: шушмине
+ stem: шушмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: сугробчик
+
+-lexeme
+ lex: эйне
+ stem: эйне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: ледок
+
+-lexeme
+ lex: эйдине
+ stem: эйдине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: дитя, ребёнок
+
+-lexeme
+ lex: эйдне
+ stem: эйдне.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: дитя, ребёнок
+
+-lexeme
+ lex: эйкакшнэ
+ stem: эйкакшнэ.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: ребёнок
+
+-lexeme
+ lex: эйкакшне
+ stem: эйкакшне.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: ребёнок
+
+-lexeme
+ lex: эйкакшке
+ stem: эйкакшке.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: ребёнок
+
+-lexeme
+ lex: эйкевне
+ stem: эйкевне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: айсберг
+
+-lexeme
+ lex: эмежне
+ stem: эмежне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: каруселька
+
+-lexeme
+ lex: эрзине
+ stem: эрзине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: эрзя, эрзянин
+
+-lexeme
+ lex: эрзяване
+ stem: эрзяване.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: эрзяночка
+
+-lexeme
+ lex: эрькине
+ stem: эрькине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: озеро
+
+-lexeme
+ lex: эрьмине
+ stem: эрьмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: богатство, состояние
+
+-lexeme
+ lex: эскине
+ stem: эскине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: гвоздик
+
+-lexeme
+ lex: эскелькске
+ stem: эскелькске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: шажок
+
+-lexeme
+ lex: юдмине
+ stem: юдмине.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: сумочка
+
+-lexeme
+ lex: яксяргине
+ stem: яксяргине.
+ gramm: N,anim,dim
+ paradigm: N-front
+ trans_ru: уточка
+
+-lexeme
+ lex: ялтке
+ stem: ялтке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: дуновение
+
+-lexeme
+ lex: ямне
+ stem: ямне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: супчик
+
+-lexeme
+ lex: ямкске
+ stem: ямкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: пшено, крупа
+
+-lexeme
+ lex: ярмакнэ
+ stem: ярмакнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: денежки
+
+-lexeme
+ lex: ярмакке
+ stem: ярмакке.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: денежки
+
+-lexeme
+ lex: ярсамопельне
+ stem: ярсамопельне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: блюдо, еда
+
+-lexeme
+ lex: ёвкснэ
+ stem: ёвкснэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: сказочка
+
+-lexeme
+ lex: ёвтавкске
+ stem: ёвтавкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: уведомление
+
+-lexeme
+ lex: ёзнэ
+ stem: ёзнэ.
+ gramm: N,anim
+ paradigm: N-front
+ trans_ru: уж
+
+-lexeme
+ lex: ёндолнэ
+ stem: ёндолнэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: молния
+
+-lexeme
+ lex: ёнкске
+ stem: ёнкске.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: сторонушка

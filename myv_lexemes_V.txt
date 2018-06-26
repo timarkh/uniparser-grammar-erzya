@@ -7784,7 +7784,7 @@
 
 -lexeme
  lex: нартнемс
- stem: нартн.
+ stem: нардтн.//нартн.
  gramm: V
  paradigm: V-ye
  trans_ru: протирать, стирать
@@ -17127,3 +17127,17 @@
  gramm: V,mult
  paradigm: V-ye
  trans_ru: гордиться
+
+-lexeme
+ lex: мордвиявтомс
+ stem: мордвиявт.
+ gramm: V
+ paradigm: V-o
+ trans_ru: мордвинизировать
+
+-lexeme
+ lex: рузыявтомс
+ stem: рузыявт.
+ gramm: V
+ paradigm: V-o
+ trans_ru: русифицировать

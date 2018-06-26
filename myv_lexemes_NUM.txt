@@ -302,7 +302,7 @@
 
 -lexeme
  lex: вейке
- stem: вейке.|вейк.
+ stem: вейке.//веке.|вейк.
  gramm: NUM
  paradigm: N-front
  trans_ru: единица, один

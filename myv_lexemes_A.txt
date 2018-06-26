@@ -162,7 +162,7 @@
 -lexeme
  lex: алкине
  stem: алкине.
- gramm: A
+ gramm: A,dim
  paradigm: A-front
  trans_ru: низкорослый
 
@@ -491,7 +491,7 @@
 -lexeme
  lex: берякшкине
  stem: берякшкине.
- gramm: A
+ gramm: A,dim
  paradigm: A-front
  trans_ru: плохонький, худенький
 
@@ -652,7 +652,7 @@
 -lexeme
  lex: вадрине
  stem: вадрине.
- gramm: A
+ gramm: A,dim
  paradigm: A-front
  trans_ru: хорошенький
 
@@ -1324,7 +1324,14 @@
 -lexeme
  lex: вишкине
  stem: вишкине.
- gramm: A
+ gramm: A,dim
+ paradigm: A-front
+ trans_ru: маленький
+
+-lexeme
+ lex: вишине
+ stem: вишине.
+ gramm: A,dim
  paradigm: A-front
  trans_ru: маленький
 
@@ -2822,7 +2829,7 @@
 -lexeme
  lex: лавшине
  stem: лавшине.
- gramm: A
+ gramm: A,dim
  paradigm: A-front
  trans_ru: слабенький
 
@@ -4292,9 +4299,9 @@
 -lexeme
  lex: нурькине
  stem: нурькине.
- gramm: A
+ gramm: A,dim
  paradigm: A-front
- trans_ru: коротенький, краткий, куцый, немногословный
+ trans_ru: коротенький
 
 -lexeme
  lex: нусманя
@@ -6695,14 +6702,14 @@
  stem: теевт.
  gramm: A
  paradigm: A-front-soft
- trans_ru: сделаный
+ trans_ru: сделанный
 
 -lexeme
  lex: теень
  stem: теен.
  gramm: A
  paradigm: A-front-soft
- trans_ru: сделаный
+ trans_ru: сделанный
 
 -lexeme
  lex: теине
@@ -6831,9 +6838,9 @@
  trans_ru: травяной
 
 -lexeme
- lex: тиринем
- stem: тиринем.
- gramm: A
+ lex: тирине
+ stem: тирине.
+ gramm: A,dim
  paradigm: A-front
  trans_ru: родной
 
@@ -7722,7 +7729,7 @@
 -lexeme
  lex: човине
  stem: човине.
- gramm: A
+ gramm: A,dim
  paradigm: A-front
  trans_ru: писклявый, тонкий, худенький
 
@@ -8187,6 +8194,13 @@
  gramm: A
  paradigm: A-front
  trans_ru: густой, толстый
+
+-lexeme
+ lex: эчке
+ stem: эчкине.
+ gramm: A,dim
+ paradigm: A-front
+ trans_ru: толстенький
 
 -lexeme
  lex: эчкела
@@ -34913,3 +34927,17 @@
  gramm: A
  paradigm: A-back
  trans_ru: хромой
+
+-lexeme
+ lex: парыне
+ stem: парыне.
+ gramm: A,dim
+ paradigm: A-front
+ trans_ru: хорошенький
+
+-lexeme
+ lex: пижине
+ stem: пижине.
+ gramm: A,dim
+ paradigm: A-front
+ trans_ru: зелёненький
