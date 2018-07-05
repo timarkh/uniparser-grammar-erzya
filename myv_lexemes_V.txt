@@ -17141,3 +17141,59 @@
  gramm: V
  paradigm: V-o
  trans_ru: русифицировать
+
+
+-lexeme
+ lex: алтамс
+ stem: алт.
+ gramm: V
+ paradigm: V-a
+ trans_ru: посвятить
+-lexeme
+ lex: иневанькстомс
+ stem: иневанькст.
+ gramm: V
+ paradigm: V-o
+ trans_ru: освящать
+-lexeme
+ lex: покорямс
+ stem: покор.
+ gramm: V
+ paradigm: V-ya
+ trans_ru: обижать
+-lexeme
+ lex: думамс
+ stem: дум.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: думать
+-lexeme
+ lex: жарямс
+ stem: жар.
+ gramm: V,rus
+ paradigm: V-ya
+ trans_ru: жарить
+-lexeme
+ lex: получамс
+ stem: получ.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: получать
+-lexeme
+ lex: простямс
+ stem: прост.
+ gramm: V,rus
+ paradigm: V-ya
+ trans_ru: простить
+-lexeme
+ lex: решамс
+ stem: реш.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: решать
+-lexeme
+ lex: стряпамс
+ stem: стряп.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: готовить, стряпать

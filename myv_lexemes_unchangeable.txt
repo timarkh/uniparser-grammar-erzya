@@ -6617,3 +6617,401 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: в детстве
+
+
+-lexeme
+ lex: аккуратно
+ stem: аккуратно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: аккуратно
+-lexeme
+ lex: бесплатно
+ stem: бесплатно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: бесплатно
+-lexeme
+ lex: бесспорно
+ stem: бесспорно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: бесспорно
+-lexeme
+ lex: буквально
+ stem: буквально.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: буквально
+-lexeme
+ lex: внебрачно
+ stem: внебрачно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: внебрачно
+-lexeme
+ lex: внеконфессионально
+ stem: внеконфессионально.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: внеконфессионально
+-lexeme
+ lex: глубоко
+ stem: глубоко.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: глубоко
+-lexeme
+ lex: действительно
+ stem: действительно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: действительно
+-lexeme
+ lex: дипломатично
+ stem: дипломатично.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: дипломатично
+-lexeme
+ lex: добровольно
+ stem: добровольно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: добровольно
+-lexeme
+ lex: достаточно
+ stem: достаточно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: достаточно
+-lexeme
+ lex: достоверно
+ stem: достоверно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: достоверно
+-lexeme
+ lex: единодушно
+ stem: единодушно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: единодушно
+-lexeme
+ lex: желательно
+ stem: желательно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: желательно
+-lexeme
+ lex: звонко
+ stem: звонко.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: звонко
+-lexeme
+ lex: изначально
+ stem: изначально.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: изначально
+-lexeme
+ lex: интересно
+ stem: интересно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: интересно
+-lexeme
+ lex: исключительно
+ stem: исключительно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: исключительно
+-lexeme
+ lex: кашерно
+ stem: кашерно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: кошерно
+-lexeme
+ lex: критично
+ stem: критично.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: критично
+-lexeme
+ lex: лично
+ stem: лично.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: лично
+-lexeme
+ lex: моментально
+ stem: моментально.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: моментально
+-lexeme
+ lex: напрасно
+ stem: напрасно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: напрасно
+-lexeme
+ lex: насильно
+ stem: насильно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: насильно
+-lexeme
+ lex: неправильно
+ stem: неправильно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: неправильно
+-lexeme
+ lex: неприкольно
+ stem: неприкольно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: неприкольно
+-lexeme
+ lex: неубедительно
+ stem: неубедительно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: неубедительно
+-lexeme
+ lex: неудачно
+ stem: неудачно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: неудачно
+-lexeme
+ lex: нихуя
+ stem: нихуя.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: нихуя
+-lexeme
+ lex: обычно
+ stem: обычно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: обычно
+-lexeme
+ lex: обязательно
+ stem: обязательно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: обязательно
+-lexeme
+ lex: однозначно
+ stem: однозначно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: однозначно
+-lexeme
+ lex: окончательно
+ stem: окончательно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: окончательно
+-lexeme
+ lex: отлично
+ stem: отлично.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: отлично
+-lexeme
+ lex: относительно
+ stem: относительно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: относительно
+-lexeme
+ lex: официально
+ stem: официально.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: официально
+-lexeme
+ lex: ошибочно
+ stem: ошибочно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: ошибочно
+-lexeme
+ lex: параллельно
+ stem: параллельно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: параллельно
+-lexeme
+ lex: правильно
+ stem: правильно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: правильно
+-lexeme
+ lex: прекрасно
+ stem: прекрасно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: прекрасно
+-lexeme
+ lex: прикольно
+ stem: прикольно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: прикольно
+-lexeme
+ lex: примерно
+ stem: примерно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: примерно
+-lexeme
+ lex: принципиально
+ stem: принципиально.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: принципиально
+-lexeme
+ lex: равнодушно
+ stem: равнодушно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: равнодушно
+-lexeme
+ lex: раздельно
+ stem: раздельно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: раздельно
+-lexeme
+ lex: сильно
+ stem: сильно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: сильно
+-lexeme
+ lex: смешно
+ stem: смешно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: смешно
+-lexeme
+ lex: содержательно
+ stem: содержательно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: содержательно
+-lexeme
+ lex: специально
+ stem: специально.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: специально
+-lexeme
+ lex: срочно
+ stem: срочно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: срочно
+-lexeme
+ lex: страшно
+ stem: страшно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: страшно
+-lexeme
+ lex: тактично
+ stem: тактично.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: тактично
+-lexeme
+ lex: точно
+ stem: точно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: точно
+-lexeme
+ lex: удивительно
+ stem: удивительно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: удивительно
+-lexeme
+ lex: эмоционально
+ stem: эмоционально.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: эмоционально
+-lexeme
+ lex: ясно
+ stem: ясно.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: ясно
+-lexeme
+ lex: бессрочно
+ stem: бесрочно.
+ gramm: ADV,rus,missp
+ paradigm: Clitics
+ trans_ru: бессрочно
+-lexeme
+ lex: действительно
+ stem: дейтвительно.
+ gramm: ADV,rus,missp
+ paradigm: Clitics
+ trans_ru: действительно
+-lexeme
+ lex: изумительно
+ stem: изюмительно.
+ gramm: ADV,rus,missp
+ paradigm: Clitics
+ trans_ru: изумительно
+-lexeme
+ lex: классно
+ stem: класно.
+ gramm: ADV,rus,missp
+ paradigm: Clitics
+ trans_ru: классно
+-lexeme
+ lex: очаровательно
+ stem: очеровательно.
+ gramm: ADV,rus,missp
+ paradigm: Clitics
+ trans_ru: очаровательно
+-lexeme
+ lex: прекрасно
+ stem: прикрасно.
+ gramm: ADV,rus,missp
+ paradigm: Clitics
+ trans_ru: прекрасно
+-lexeme
+ lex: специально
+ stem: спецально.
+ gramm: ADV,rus,missp
+ paradigm: Clitics
+ trans_ru: специально
+-lexeme
+ lex: конешно
+ stem: конешно.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: конечно
+-lexeme
+ lex: конечно
+ stem: конечно.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: конечно
+-lexeme
+ lex: наверно
+ stem: наверно.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: наверно

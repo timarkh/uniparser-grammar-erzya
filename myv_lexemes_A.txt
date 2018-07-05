@@ -34941,3 +34941,46 @@
  gramm: A,dim
  paradigm: A-front
  trans_ru: зелёненький
+
+-lexeme
+ lex: иневанькс
+ stem: инванькс.
+ gramm: A,missp
+ paradigm: A-back
+ trans_ru: святой
+-lexeme
+ lex: иневанькс
+ stem: иневанькс.
+ gramm: A
+ paradigm: A-back
+ trans_ru: святой
+-lexeme
+ lex: иньванькс
+ stem: иньванькс.
+ gramm: A
+ paradigm: A-back
+ trans_ru: святой
+-lexeme
+ lex: суоминь-финнэнь
+ stem: суоминь-финнэн.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: угро-финский
+-lexeme
+ lex: угрань-финнэнь
+ stem: угрань-финнэн.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: угро-финский
+-lexeme
+ lex: угро-финнэнь
+ stem: угро-финнэн.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: угро-финский
+-lexeme
+ lex: эрзянь-финнэнь
+ stem: эрзянь-финнэн.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: эрзя-финский

@@ -936,7 +936,7 @@
  -flex: .эзэ<.>
   gramm: sg,3sg
   gloss: SG.3SG
- -flex: .энэк<.>//.энек<.>
+ -flex: .энэк<.>//.энек<.>//.эмек<.>
   gramm: sg,1pl
   gloss: SG.1PL
  -flex: .энк<.>
@@ -987,7 +987,7 @@
   gramm: sg,2sg
  -flex: .зэ<.>
   gramm: sg,3sg
- -flex: .нэк<.>//.нек<.>
+ -flex: .нэк<.>//.нек<.>//.мек<.>
   gramm: sg,1pl
  -flex: .нк<.>
   gramm: sg,2pl
@@ -1006,7 +1006,7 @@
   gramm: sg,2sg
  -flex: .езэ<.>
   gramm: sg,3sg
- -flex: .енэк<.>//.енек<.>
+ -flex: .енэк<.>//.енек<.>//.емек<.>
   gramm: sg,1pl
  -flex: .енк<.>
   gramm: sg,2pl
@@ -1025,7 +1025,7 @@
   gramm: sg,2sg
  -flex: .езэ<.>
   gramm: sg,3sg
- -flex: .енэк<.>//.енек<.>
+ -flex: .енэк<.>//.енек<.>//.емек<.>
   gramm: sg,1pl
  -flex: .енк<.>
   gramm: sg,2pl
@@ -1044,7 +1044,7 @@
   gramm: sg,2sg
  -flex: .озо<.>
   gramm: sg,3sg
- -flex: .онок<.>
+ -flex: .онок<.>//.омок<.>
   gramm: sg,1pl
  -flex: .онк<.>
   gramm: sg,2pl
@@ -1063,7 +1063,7 @@
   gramm: sg,2sg
  -flex: .зо<.>
   gramm: sg,3sg
- -flex: .нок<.>
+ -flex: .нок<.>//.мок<.>
   gramm: sg,1pl
  -flex: .нк<.>
   gramm: sg,2pl
@@ -1535,6 +1535,10 @@
   gramm: pass
   gloss: PASS
   paradigm: V-o-proper
+ -flex: .в|л<.>
+  gramm: pass,mult
+  gloss: PASS|MULT
+  paradigm: V-ye-proper
  -flex: .[до]в|кшн<.>
   gramm: pass,iter
   gloss: PASS|ITER

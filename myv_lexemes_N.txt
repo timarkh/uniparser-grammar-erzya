@@ -574,7 +574,7 @@
 
 -lexeme
  lex: анге
- stem: анге.|анг.
+ stem: анге.//аньге.|анг.
  gramm: N,supernat
  paradigm: N-front
  trans_ru: богиня любви и красоты
@@ -2758,7 +2758,7 @@
 
 -lexeme
  lex: вединзей
- stem: вединзе.
+ stem: вединзе.//вединьзе.
  gramm: N
  paradigm: N-front-j
  trans_ru: ежевика
@@ -2996,7 +2996,7 @@
 
 -lexeme
  lex: ведьинзей
- stem: ведьинзе.
+ stem: ведьинзе.//ведьиньзе.
  gramm: N
  paradigm: N-front-j
  trans_ru: ежевика
@@ -3367,7 +3367,7 @@
 
 -lexeme
  lex: вейсэндявкс
- stem: вейсэндявкс.
+ stem: вейсэндявкс.//вейсэньдявкс.
  gramm: N
  paradigm: N-back
  trans_ru: объединение
@@ -4207,7 +4207,7 @@
 
 -lexeme
  lex: гарбунчик
- stem: гарбунчик.
+ stem: гарбунчик.//гарбуньчик.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: гармонист
@@ -4277,7 +4277,7 @@
 
 -lexeme
  lex: гонзей
- stem: гонзе.
+ stem: гонзе.//гоньзе.
  gramm: N,anim
  paradigm: N-front-j
  trans_ru: гончая (собака)
@@ -5215,42 +5215,42 @@
 
 -lexeme
  lex: ингелькс
- stem: ингелькс.
+ stem: ингелькс.//иньгелькс.
  gramm: N
  paradigm: N-front
  trans_ru: изнанка
 
 -lexeme
  lex: индерь
- stem: индер.
+ stem: индер.//иньдер.
  gramm: N
  paradigm: N-front-soft
  trans_ru: жимолость, тёрн
 
 -lexeme
  lex: индерькорён
- stem: индерькорён.
+ stem: индерькорён.//иньдерькорён.
  gramm: N
  paradigm: N-back
  trans_ru: бересклет
 
 -lexeme
  lex: индерькс
- stem: индерькс.
+ stem: индерькс.//иньдерькс.
  gramm: N
  paradigm: N-front
  trans_ru: заросли (жимолости)
 
 -lexeme
  lex: индерьчувто
- stem: индерьчувто.|индерьчувт.//индерьчувто.
+ stem: индерьчувто.//иньдерьчувто.|индерьчувт.//иньдерьчувт.//индерьчувто.//иньдерьчувто.
  gramm: N
  paradigm: N-back
  trans_ru: жимолость, тёрн
 
 -lexeme
  lex: индий
- stem: инди.
+ stem: инди.//иньди.
  gramm: N
  paradigm: N-front-j
  trans_ru: ежевика (ягода)
@@ -5369,28 +5369,28 @@
 
 -lexeme
  lex: инзей
- stem: инзе.
+ stem: инзе.//иньзе.
  gramm: N
  paradigm: N-front-j
  trans_ru: малина
 
 -lexeme
  lex: инзейбуло
- stem: инзейбуло.
+ stem: инзейбуло.//иньзейбуло.
  gramm: N
  paradigm: N-back
  trans_ru: малинник
 
 -lexeme
  lex: инзейведь
- stem: инзейвед.
+ stem: инзейвед.//иньзейвед.
  gramm: N
  paradigm: N-front-soft
  trans_ru: малиновый сок
 
 -lexeme
  lex: инзейкс
- stem: инзейкс.
+ stem: инзейкс.//иньзейкс.
  gramm: N
  paradigm: N-front
  trans_ru: малина (куст)
@@ -6251,7 +6251,7 @@
 
 -lexeme
  lex: канзика
- stem: канзика.
+ stem: канзика.//каньзика.
  gramm: N
  paradigm: N-back
  trans_ru: деревяная чашка
@@ -6265,7 +6265,7 @@
 
 -lexeme
  lex: канзёркс
- stem: канзёркс.
+ stem: канзёркс.//каньзёркс.
  gramm: N
  paradigm: N-back
  trans_ru: мелкий снег
@@ -6447,7 +6447,7 @@
 
 -lexeme
  lex: капстапандя
- stem: капстапандя.
+ stem: капстапандя.//капстапаньдя.
  gramm: N
  paradigm: N-back
  trans_ru: капустная грядка
@@ -7217,7 +7217,7 @@
 
 -lexeme
  lex: каштанчи
- stem: каштанчи.
+ stem: каштанчи.//каштаньчи.
  gramm: N
  paradigm: N-front
  trans_ru: гордость
@@ -7434,7 +7434,7 @@
 
 -lexeme
  lex: кединдие
- stem: кединдие.
+ stem: кединдие.//кединьдие.
  gramm: N,anim
  paradigm: N-front
  trans_ru: слепень
@@ -8134,49 +8134,49 @@
 
 -lexeme
  lex: кенгелемка
- stem: кенгелемка.
+ stem: кенгелемка.//кеньгелемка.
  gramm: N
  paradigm: N-back
  trans_ru: враньё
 
 -lexeme
  lex: кенгелькай
- stem: кенгелька.
+ stem: кенгелька.//кеньгелька.
  gramm: N,anim,hum
  paradigm: N-front-j
  trans_ru: врунишка
 
 -lexeme
  lex: кенде
- stem: кенде.|кенд.
+ stem: кенде.//кеньде.|кенд.
  gramm: N
  paradigm: N-front
  trans_ru: войлок; матрац
 
 -lexeme
  lex: кендерькундо
- stem: кендерькундо.|кендерькунд.
+ stem: кендерькундо.//кеньдерькундо.|кендерькунд.//кеньдерькунд.
  gramm: N,body
  paradigm: N-back
  trans_ru: локтевой сгиб
 
 -lexeme
  lex: кендял
- stem: кендял.
+ stem: кендял.//кеньдял.
  gramm: N,anim
  paradigm: N-back
  trans_ru: клоп
 
 -lexeme
  lex: кендял
- stem: кендял.
+ stem: кендял.//кеньдял.
  gramm: N
  paradigm: N-back
  trans_ru: костяника
 
 -lexeme
  lex: кендялка
- stem: кендялка.
+ stem: кендялка.//кеньдялка.
  gramm: N
  paradigm: N-back
  trans_ru: кресс (трава)
@@ -8323,7 +8323,7 @@
 
 -lexeme
  lex: кенкшциндерь
- stem: кенкшциндер.
+ stem: кенкшциндер.//кенкшциньдер.
  gramm: N
  paradigm: N-front-soft
  trans_ru: засов, защёлка для двери
@@ -13139,42 +13139,42 @@
 
 -lexeme
  lex: ленге
- stem: ленге.|ленг.
+ stem: ленге.//леньге.|ленг.
  gramm: N
  paradigm: N-front
  trans_ru: лыко
 
 -lexeme
  lex: ленгекерькс
- stem: ленгекерькс.
+ stem: ленгекерькс.//леньгекерькс.
  gramm: N
  paradigm: N-front
  trans_ru: связка лыка
 
 -lexeme
  lex: ленгекикерька
- stem: ленгекикерька.
+ stem: ленгекикерька.//леньгекикерька.
  gramm: N
  paradigm: N-back
  trans_ru: рулон лыка
 
 -lexeme
  lex: ленгекс
- stem: ленгекс.
+ stem: ленгекс.//леньгекс.
  gramm: N
  paradigm: N-front
  trans_ru: ошкуренная липа
 
 -lexeme
  lex: ленгелутко
- stem: ленгелутко.|ленгелутк.
+ stem: ленгелутко.//леньгелутко.|ленгелутк.//леньгелутк.
  gramm: N
  paradigm: N-back
  trans_ru: кора, содранная с лыка
 
 -lexeme
  lex: лентяй
- stem: лентя.
+ stem: лентя.//леньтя.
  gramm: N,rus,anim,hum
  paradigm: N-front-j
  trans_ru: лентяй
@@ -14399,14 +14399,14 @@
 
 -lexeme
  lex: манчевкс
- stem: манчевкс.
+ stem: манчевкс.//маньчевкс.
  gramm: N
  paradigm: N-front
  trans_ru: ложь, обман
 
 -lexeme
  lex: манчейка
- stem: манчейка.
+ stem: манчейка.//маньчейка.
  gramm: N,anim,hum
  paradigm: N-back
  trans_ru: врун, обманщик
@@ -15148,7 +15148,7 @@
 
 -lexeme
  lex: мендявкс
- stem: мендявкс.
+ stem: мендявкс.//меньдявкс.
  gramm: N
  paradigm: N-back
  trans_ru: впадина, изгиб
@@ -15260,7 +15260,7 @@
 
 -lexeme
  lex: менчевкс
- stem: менчевкс.
+ stem: менчевкс.//меньчевкс.
  gramm: N
  paradigm: N-front
  trans_ru: извилина, изгиб
@@ -15519,7 +15519,7 @@
 
 -lexeme
  lex: модаинзей
- stem: модаинзе.
+ stem: модаинзе.//модаиньзе.
  gramm: N
  paradigm: N-front-j
  trans_ru: ежевика
@@ -16541,7 +16541,7 @@
 
 -lexeme
  lex: наянчи
- stem: наянчи.
+ stem: наянчи.//наяньчи.
  gramm: N
  paradigm: N-front
  trans_ru: гордость, зазнайство, кокетство
@@ -17255,14 +17255,14 @@
 
 -lexeme
  lex: нупондявкс
- stem: нупондявкс.
+ stem: нупондявкс.//нупоньдявкс.
  gramm: N
  paradigm: N-back
  trans_ru: прокладка из моха (в срубе)
 
 -lexeme
  lex: нупондямопель
- stem: нупондямопел.
+ stem: нупондямопел.//нупоньдямопел.
  gramm: N
  paradigm: N-front-soft
  trans_ru: конопатка
@@ -18683,7 +18683,7 @@
 
 -lexeme
  lex: паксяпанзей
- stem: паксяпанзе.
+ stem: паксяпанзе.//паксяпаньзе.
  gramm: N,anim
  paradigm: N-front-j
  trans_ru: пигалица (птичка)
@@ -18963,7 +18963,7 @@
 
 -lexeme
  lex: пангине
- stem: пангине.
+ stem: пангине.//паньгине.
  gramm: N,dim
  paradigm: N-front
  trans_ru: грибочек
@@ -19124,7 +19124,7 @@
 
 -lexeme
  lex: пандя
- stem: пандя.
+ stem: пандя.//паньдя.
  gramm: N
  paradigm: N-back
  trans_ru: грядка
@@ -19145,7 +19145,7 @@
 
 -lexeme
  lex: панзей
- stem: панзе.
+ stem: панзе.//паньзе.
  gramm: N,anim
  paradigm: N-front-j
  trans_ru: трясогузка
@@ -19285,7 +19285,7 @@
 
 -lexeme
  lex: паролкст-ингелькст
- stem: паролкст-ингелькст.
+ stem: паролкст-ингелькст.//паролкст-иньгелькст.
  gramm: N
  paradigm: N-front
  trans_ru: лицо и изнанка
@@ -19488,7 +19488,7 @@
 
 -lexeme
  lex: пачалго
- stem: пачалго.|пачалг.
+ stem: пачалго.|пачалг.//пачалго.
  gramm: N
  paradigm: N-back
  trans_ru: сковорода; поднос
@@ -19887,7 +19887,7 @@
 
 -lexeme
  lex: пелепинге
- stem: пелепинге.|пелепинг.
+ stem: пелепинге.//пелепиньге.|пелепинг.
  gramm: N
  paradigm: N-front
  trans_ru: полвека
@@ -20111,35 +20111,35 @@
 
 -lexeme
  lex: пенге
- stem: пенге.|пенг.
+ stem: пенге.//пеньге.|пенг.
  gramm: N
  paradigm: N-front
  trans_ru: дрова, полено
 
 -lexeme
  lex: пенгеберёма
- stem: пенгеберёма.
+ stem: пенгеберёма.//пеньгеберёма.
  gramm: N
  paradigm: N-back
  trans_ru: охапка дров
 
 -lexeme
  lex: пенгемукорь
- stem: пенгемукор.
+ stem: пенгемукор.//пеньгемукор.
  gramm: N
  paradigm: N-front-soft
  trans_ru: пенёк
 
 -lexeme
  lex: пенгенурдо
- stem: пенгенурдо.|пенгенурд.
+ stem: пенгенурдо.//пеньгенурдо.|пенгенурд.//пеньгенурд.
  gramm: N
  paradigm: N-back
  trans_ru: дровни
 
 -lexeme
  lex: пенгеулав
- stem: пенгеулав.
+ stem: пенгеулав.//пеньгеулав.
  gramm: N
  paradigm: N-back
  trans_ru: повозка дров
@@ -20971,9 +20971,9 @@
  trans_ru: конечности (ноги и руки)
 
 -lexeme
- lex: пилявкст
- stem: пилявкст.
- gramm: N
+ lex: пилявкс
+ stem: пилявкс.
+ gramm: N,rus
  paradigm: N-back
  trans_ru: опилки
 
@@ -20986,14 +20986,14 @@
 
 -lexeme
  lex: пинге
- stem: пинге.|пинг.//пинге.
+ stem: пинге.//пиньге.|пинг.//пинге.
  gramm: N,time_meas
  paradigm: N-front
  trans_ru: век, период
 
 -lexeme
  lex: пингепе
- stem: пингепе.
+ stem: пингепе.//пиньгепе.
  gramm: N
  paradigm: N-front
  trans_ru: конец века (жизни)
@@ -24101,14 +24101,14 @@
 
 -lexeme
  lex: сандейпуло
- stem: сандейпуло.
+ stem: сандейпуло.//саньдейпуло.
  gramm: N
  paradigm: N-back
  trans_ru: заросли рогоза
 
 -lexeme
  lex: сандиця-петиця
- stem: сандиця-петиця.
+ stem: сандиця-петиця.//саньдиця-петиця.
  gramm: N,anim,hum
  paradigm: N-back
  trans_ru: корчёвщик
@@ -24129,14 +24129,14 @@
 
 -lexeme
  lex: сандявкс
- stem: сандявкс.
+ stem: сандявкс.//саньдявкс.
  gramm: N
  paradigm: N-back
  trans_ru: выжженный лес для пашни
 
 -lexeme
  lex: сантявт
- stem: сантявт.
+ stem: сантявт.//саньтявт.
  gramm: N
  paradigm: N-back
  trans_ru: чащоба
@@ -24549,7 +24549,7 @@
 
 -lexeme
  lex: сезьгантикше
- stem: сезьгантикше.
+ stem: сезьгантикше.//сезьганьтикше.
  gramm: N
  paradigm: N-front
  trans_ru: пижма обыкновенная
@@ -25109,7 +25109,7 @@
 
 -lexeme
  lex: синдевкс
- stem: синдевкс.
+ stem: синдевкс.//синьдевкс.
  gramm: N
  paradigm: N-front
  trans_ru: перелом
@@ -25130,7 +25130,7 @@
 
 -lexeme
  lex: синтёпка
- stem: синтёпка.
+ stem: синтёпка.//синьтёпка.
  gramm: N
  paradigm: N-back
  trans_ru: уклейка
@@ -26159,14 +26159,14 @@
 
 -lexeme
  lex: сундерьков
- stem: сундерьков.
+ stem: сундерьков.//суньдерьков.
  gramm: N,time_meas
  paradigm: N-back
  trans_ru: ноябрь
 
 -lexeme
  lex: сундерькс
- stem: сундерькс.
+ stem: сундерькс.//суньдерькс.
  gramm: N
  paradigm: N-front
  trans_ru: сумерки
@@ -27076,7 +27076,7 @@
 
 -lexeme
  lex: сянгине
- stem: сянгине.
+ stem: сянгине.//сяньгине.
  gramm: N,dim
  paradigm: N-front
  trans_ru: вилка
@@ -27142,7 +27142,7 @@
  stem: сяркава.
  gramm: N,anim,hum
  paradigm: N-back
- trans_ru: русская щенщина
+ trans_ru: русская женщина
 
 -lexeme
  lex: сярко
@@ -27160,7 +27160,7 @@
 
 -lexeme
  lex: сятко
- stem: сятко.|сятк.
+ stem: сятко.|сятк.//сятко.
  gramm: N
  paradigm: N-back
  trans_ru: искра
@@ -28295,35 +28295,35 @@
 
 -lexeme
  lex: тинге
- stem: тинге.|тинг.
+ stem: тинге.//тиньге.|тинг.
  gramm: N
  paradigm: N-front
  trans_ru: гумно, ток
 
 -lexeme
  lex: тингеланго
- stem: тингеланго.|тингеланг.
+ stem: тингеланго.//тиньгеланго.|тингеланг.//тиньгеланг.
  gramm: N
  paradigm: N-back
  trans_ru: ток
 
 -lexeme
  lex: тингепире
- stem: тингепире.
+ stem: тингепире.//тиньгепире.
  gramm: N
  paradigm: N-front
  trans_ru: гумно
 
 -lexeme
  lex: тингетенсть
- stem: тингетенст.
+ stem: тингетенст.//тиньгетенст.
  gramm: N
  paradigm: N-front-soft
  trans_ru: метла
 
 -lexeme
  lex: тингечама
- stem: тингечама.
+ stem: тингечама.//тиньгечама.
  gramm: N
  paradigm: N-back
  trans_ru: ток
@@ -28449,7 +28449,7 @@
 
 -lexeme
  lex: толбандя
- stem: толбандя.
+ stem: толбандя.//толбаньдя.
  gramm: N
  paradigm: N-back
  trans_ru: костёр
@@ -28715,7 +28715,7 @@
 
 -lexeme
  lex: торпинге
- stem: торпинге.|торпинг.
+ stem: торпинге.//торпиньге.|торпинг.
  gramm: N
  paradigm: N-front
  trans_ru: война
@@ -28778,14 +28778,14 @@
 
 -lexeme
  lex: тридунтикше
- stem: тридунтикше.
+ stem: тридунтикше.//тридуньтикше.
  gramm: N
  paradigm: N-front
  trans_ru: перец водяной
 
 -lexeme
  lex: тринди-бринди
- stem: тринди-бринди.
+ stem: тринди-бринди.//тринди-бриньди.
  gramm: N
  paradigm: N-front
  trans_ru: балалайка
@@ -30388,7 +30388,7 @@
 
 -lexeme
  lex: финтиклюшка
- stem: финтиклюшка.
+ stem: финтиклюшка.//финьтиклюшка.
  gramm: N,rus
  paradigm: N-back
  trans_ru: безделушка
@@ -30682,7 +30682,7 @@
 
 -lexeme
  lex: циндерне
- stem: циндерне.
+ stem: циндерне.//циньдерне.
  gramm: N
  paradigm: N-front
  trans_ru: щеколда накладного замка
@@ -33048,7 +33048,7 @@
 
 -lexeme
  lex: шаншил
- stem: шаншил.
+ stem: шаншил.//шаньшил.
  gramm: N,anim,hum
  paradigm: N-front
  trans_ru: тунеядец
@@ -33601,7 +33601,7 @@
 
 -lexeme
  lex: эйкакшпинге
- stem: эйкакшпинге.|эйкакшпинг.
+ stem: эйкакшпинге.//эйкакшпиньге.|эйкакшпинг.
  gramm: N
  paradigm: N-front
  trans_ru: детство
@@ -33881,7 +33881,7 @@
 
 -lexeme
  lex: эрямопинге
- stem: эрямопинге.
+ stem: эрямопинге.//эрямопиньге.
  gramm: N
  paradigm: N-front
  trans_ru: история
@@ -35190,7 +35190,7 @@
 
 -lexeme
  lex: транзей
- stem: транзе.
+ stem: транзе.//траньзе.
  gramm: N,anim
  paradigm: N-front-j
  trans_ru: чайка
@@ -35239,14 +35239,14 @@
 
 -lexeme
  lex: андямо
- stem: андямо.
+ stem: андямо.//аньдямо.
  gramm: N,anim,hum
  paradigm: N-back
  trans_ru: детина; дурачок
 
 -lexeme
  lex: артындей
- stem: артынде.
+ stem: артынде.//артыньде.
  gramm: N,anim,hum
  paradigm: N-front-j
  trans_ru: художник
@@ -35379,7 +35379,7 @@
 
 -lexeme
  lex: аргентинаньава
- stem: аргентинаньава.
+ stem: аргентинаньава.//аргеньтинаньава.
  gramm: N,anim,hum,rus
  paradigm: N-back
  trans_ru: аргентинка
@@ -35681,7 +35681,7 @@
 
 -lexeme
  lex: пот
- stem: потмо.|пот.
+ stem: потмо.|пот.//потмо.
  gramm: N,rel_n
  paradigm: N-back
  trans_ru: пространство внутри
@@ -37036,14 +37036,14 @@
 
 -lexeme
  lex: ангина
- stem: ангина.
+ stem: ангина.//аньгина.
  gramm: N,rus
  paradigm: N-back
  trans_ru: ангина
 
 -lexeme
  lex: андеграунд
- stem: андеграунд.
+ stem: андеграунд.//аньдеграунд.
  gramm: N,rus
  paradigm: N-back
  trans_ru: андеграунд
@@ -37106,14 +37106,14 @@
 
 -lexeme
  lex: анкета
- stem: анкета.
+ stem: анкета.//анькета.
  gramm: N,rus
  paradigm: N-back
  trans_ru: анкета
 
 -lexeme
  lex: анкетирование
- stem: анкетирования.//анкетирование.
+ stem: анкетирования.//анькетирования.//анкетирование.
  gramm: N,rus
  paradigm: N-back
  paradigm: N-front
@@ -37149,63 +37149,63 @@
 
 -lexeme
  lex: антенна
- stem: антенна.
+ stem: антенна.//аньтенна.
  gramm: N,rus
  paradigm: N-back
  trans_ru: антенна
 
 -lexeme
  lex: антибиотик
- stem: антибиотик.
+ stem: антибиотик.//аньтибиотик.
  gramm: N,rus
  paradigm: N-front
  trans_ru: антибиотик
 
 -lexeme
  lex: антиквариат
- stem: антиквариат.
+ stem: антиквариат.//аньтиквариат.
  gramm: N,rus
  paradigm: N-back
  trans_ru: антиквариат
 
 -lexeme
  lex: антимилитаризма
- stem: антимилитаризма.
+ stem: антимилитаризма.//аньтимилитаризма.
  gramm: N,rus
  paradigm: N-back
  trans_ru: антимилитаризм
 
 -lexeme
  lex: антипремия
- stem: антипремия.
+ stem: антипремия.//аньтипремия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: антипремия
 
 -lexeme
  lex: антисанитария
- stem: антисанитария.
+ stem: антисанитария.//аньтисанитария.
  gramm: N,rus
  paradigm: N-back
  trans_ru: антисанитария
 
 -lexeme
  lex: антисемитизма
- stem: антисемитизма.
+ stem: антисемитизма.//аньтисемитизма.
  gramm: N,rus
  paradigm: N-back
  trans_ru: антисемитизм
 
 -lexeme
  lex: антиутопия
- stem: антиутопия.
+ stem: антиутопия.//аньтиутопия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: антиутопия
 
 -lexeme
  lex: антициклон
- stem: антициклон.
+ stem: антициклон.//аньтициклон.
  gramm: N,rus
  paradigm: N-back
  trans_ru: антициклон
@@ -38333,7 +38333,7 @@
 
 -lexeme
  lex: бандероль
- stem: бандерол.
+ stem: бандерол.//баньдерол.
  gramm: N,rus
  paradigm: N-front-soft
  trans_ru: бандероль
@@ -38361,7 +38361,7 @@
 
 -lexeme
  lex: банкет
- stem: банкет.
+ stem: банкет.//банькет.
  gramm: N,rus
  paradigm: N-front
  trans_ru: банкет
@@ -38396,7 +38396,7 @@
 
 -lexeme
  lex: бантик
- stem: бантик.
+ stem: бантик.//баньтик.
  gramm: N,rus
  paradigm: N-front
  trans_ru: бантик
@@ -38621,7 +38621,7 @@
 
 -lexeme
  lex: батончик
- stem: батончик.
+ stem: батончик.//батоньчик.
  gramm: N,rus
  paradigm: N-front
  trans_ru: батончик
@@ -38746,10 +38746,11 @@
  trans_ru: белок
 
 -lexeme
- lex: белокровие
- stem: белокровие.
+ lex: белокровия
+ stem: белокровия.//белокровие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: белокровие
 
 -lexeme
@@ -38775,7 +38776,7 @@
 
 -lexeme
  lex: бензин
- stem: бензин.
+ stem: бензин.//беньзин.
  gramm: N,rus
  paradigm: N-front
  trans_ru: бензин
@@ -39034,7 +39035,7 @@
 
 -lexeme
  lex: бинди
- stem: бинди.
+ stem: бинди.//биньди.
  gramm: N,rus
  paradigm: N-front
  trans_ru: бинди (цветная точка на лбу)
@@ -39555,7 +39556,7 @@
 
 -lexeme
  lex: ботинки
- stem: ботинки.
+ stem: ботинки.//ботиньки.
  gramm: N,rus
  paradigm: N-front
  trans_ru: ботинок, ботинки
@@ -39758,7 +39759,7 @@
 
 -lexeme
  lex: бронхит
- stem: бронхит.
+ stem: бронхит.//броньхит.
  gramm: N,rus
  paradigm: N-front
  trans_ru: бронхит
@@ -39996,7 +39997,7 @@
 
 -lexeme
  lex: бункер
- stem: бункер.
+ stem: бункер.//бунькер.
  gramm: N,rus
  paradigm: N-front
  trans_ru: бункер
@@ -40269,7 +40270,7 @@
 
 -lexeme
  lex: валентинка
- stem: валентинка.
+ stem: валентинка.//валеньтинка.
  gramm: N,rus
  paradigm: N-back
  trans_ru: валентинка
@@ -40552,14 +40553,14 @@
 
 -lexeme
  lex: вентилятор
- stem: вентилятор.
+ stem: вентилятор.//веньтилятор.
  gramm: N,rus
  paradigm: N-back
  trans_ru: вентилятор
 
 -lexeme
  lex: вентиляция
- stem: вентиляция.
+ stem: вентиляция.//веньтиляция.
  gramm: N,rus
  paradigm: N-back
  trans_ru: вентиляция
@@ -40918,7 +40919,7 @@
 
 -lexeme
  lex: видеорецензия
- stem: видеорецензия.
+ stem: видеорецензия.//видеореценьзия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: видеорецензия
@@ -41079,7 +41080,7 @@
 
 -lexeme
  lex: виолончель
- stem: виолончел.
+ stem: виолончел.//виолоньчел.
  gramm: N,rus
  paradigm: N-front-soft
  trans_ru: муз. виолончель
@@ -41896,7 +41897,7 @@
 
 -lexeme
  lex: галантерея
- stem: галантерея.
+ stem: галантерея.//галаньтерея.
  gramm: N,rus
  paradigm: N-back
  trans_ru: галантерея
@@ -41959,7 +41960,7 @@
 
 -lexeme
  lex: гантель
- stem: гантел.
+ stem: гантел.//ганьтел.
  gramm: N,rus
  paradigm: N-front-soft
  trans_ru: гантель, гантели
@@ -41973,7 +41974,7 @@
 
 -lexeme
  lex: гарантия
- stem: гарантия.
+ stem: гарантия.//гараньтия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: гарантия
@@ -42915,7 +42916,7 @@
 
 -lexeme
  lex: гортензия
- stem: гортензия.
+ stem: гортензия.//гортеньзия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: гортензия
@@ -42950,7 +42951,7 @@
 
 -lexeme
  lex: госгарантия
- stem: госгарантия.
+ stem: госгарантия.//госгараньтия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: госгарантия
@@ -43738,10 +43739,11 @@
  trans_ru: дезориентация
 
 -lexeme
- lex: действие
- stem: действие.
+ lex: действия
+ stem: действия.//действие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: действие
 
 -lexeme
@@ -44363,7 +44365,7 @@
 
 -lexeme
  lex: дизентерия
- stem: дизентерия.
+ stem: дизентерия.//дизеньтерия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: дизентерия
@@ -45123,7 +45125,7 @@
 
 -lexeme
  lex: евангелие
- stem: евангелие.
+ stem: евангелие.//еваньгелие.
  gramm: N,rus
  paradigm: N-front
  trans_ru: евангелие
@@ -46179,7 +46181,7 @@
 
 -lexeme
  lex: зонтик
- stem: зонтик.
+ stem: зонтик.//зоньтик.
  gramm: N,rus
  paradigm: N-front
  trans_ru: зонтик
@@ -46278,7 +46280,7 @@
 
 -lexeme
  lex: идентификация
- stem: идентификация.
+ stem: идентификация.//иденьтификация.
  gramm: N,rus
  paradigm: N-back
  trans_ru: идентификация
@@ -46647,14 +46649,14 @@
 
 -lexeme
  lex: индекс
- stem: индекс.
+ stem: индекс.//иньдекс.
  gramm: N,rus
  paradigm: N-front
  trans_ru: индекс
 
 -lexeme
  lex: индексация
- stem: индексация.
+ stem: индексация.//иньдексация.
  gramm: N,rus
  paradigm: N-back
  trans_ru: индексация
@@ -46843,42 +46845,42 @@
 
 -lexeme
  lex: интеграл
- stem: интеграл.
+ stem: интеграл.//иньтеграл.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интеграл
 
 -lexeme
  lex: интеграция
- stem: интеграция.
+ stem: интеграция.//иньтеграция.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интеграция
 
 -lexeme
  lex: интеллигенция
- stem: интеллигенция.
+ stem: интеллигенция.//иньтеллигенция.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интеллигенция
 
 -lexeme
  lex: интенсификация
- stem: интенсификация.
+ stem: интенсификация.//иньтенсификация.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интенсификация
 
 -lexeme
  lex: интервенция
- stem: интервенция.
+ stem: интервенция.//иньтервенция.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интервенция
 
 -lexeme
  lex: интервидения
- stem: интервидения.//интервидение.
+ stem: интервидения.//иньтервидения.//интервидение.
  gramm: N,rus
  paradigm: N-back
  paradigm: N-front
@@ -46886,42 +46888,42 @@
 
 -lexeme
  lex: интервью
- stem: интервью.
+ stem: интервью.//иньтервью.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интервью
 
 -lexeme
  lex: интерес
- stem: интерес.
+ stem: интерес.//иньтерес.
  gramm: N,rus
  paradigm: N-front
  trans_ru: интерес
 
 -lexeme
  lex: интермедия
- stem: интермедия.
+ stem: интермедия.//иньтермедия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интермедия
 
 -lexeme
  lex: интернат
- stem: интернат.
+ stem: интернат.//иньтернат.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интернат
 
 -lexeme
  lex: интернатура
- stem: интернатура.
+ stem: интернатура.//иньтернатура.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интернатура
 
 -lexeme
  lex: интернационал
- stem: интернационал.
+ stem: интернационал.//иньтернационал.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интернационал
@@ -46931,6 +46933,7 @@
  stem: интернет.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: интернет
 
 -lexeme
@@ -46938,32 +46941,33 @@
  stem: интернэт.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: интернет
 
 -lexeme
  lex: интерпретатор
- stem: интерпретатор.
+ stem: интерпретатор.//иньтерпретатор.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интерпретатор
 
 -lexeme
  lex: интерпретация
- stem: интерпретация.
+ stem: интерпретация.//иньтерпретация.
  gramm: N,rus
  paradigm: N-back
  trans_ru: интерпретация
 
 -lexeme
  lex: интерфейс
- stem: интерфейс.
+ stem: интерфейс.//иньтерфейс.
  gramm: N,rus
  paradigm: N-front
  trans_ru: интерфейс
 
 -lexeme
  lex: интерьер
- stem: интерьер.
+ stem: интерьер.//иньтерьер.
  gramm: N,rus
  paradigm: N-front
  trans_ru: интерьер
@@ -47008,6 +47012,7 @@
  stem: интэрнэт.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: интернет
 
 -lexeme
@@ -47666,7 +47671,7 @@
 
 -lexeme
  lex: кандидатура
- stem: кандидатура.
+ stem: кандидатура.//каньдидатура.
  gramm: N,rus
  paradigm: N-back
  trans_ru: кандидатура
@@ -47701,7 +47706,7 @@
 
 -lexeme
  lex: кантеле
- stem: кантеле.
+ stem: кантеле.//каньтеле.
  gramm: N,rus
  paradigm: N-front
  trans_ru: кантеле
@@ -47862,7 +47867,7 @@
 
 -lexeme
  lex: карантин
- stem: карантин.
+ stem: карантин.//караньтин.
  gramm: N,rus
  paradigm: N-front
  trans_ru: карантин
@@ -49509,7 +49514,7 @@
 
 -lexeme
  lex: командировка
- stem: командировка.
+ stem: командировка.//команьдировка.
  gramm: N,rus
  paradigm: N-back
  trans_ru: командировка
@@ -49946,21 +49951,21 @@
 
 -lexeme
  lex: конденсатор
- stem: конденсатор.
+ stem: конденсатор.//коньденсатор.
  gramm: N,rus
  paradigm: N-back
  trans_ru: конденсатор
 
 -lexeme
  lex: кондиционер
- stem: кондиционер.
+ stem: кондиционер.//коньдиционер.
  gramm: N,rus
  paradigm: N-front
  trans_ru: кондиционер
 
 -lexeme
  lex: кондиция
- stem: кондиция.
+ stem: кондиция.//коньдиция.
  gramm: N,rus
  paradigm: N-back
  trans_ru: кондиция
@@ -50100,28 +50105,28 @@
 
 -lexeme
  lex: контейнер
- stem: контейнер.
+ stem: контейнер.//коньтейнер.
  gramm: N,rus
  paradigm: N-front
  trans_ru: контейнер
 
 -lexeme
  lex: контекст
- stem: контекст.
+ stem: контекст.//коньтекст.
  gramm: N,rus
  paradigm: N-front
  trans_ru: контекст
 
 -lexeme
  lex: контингент
- stem: контингент.
+ stem: контингент.//коньтингент.//континьгент.
  gramm: N,rus
  paradigm: N-back
  trans_ru: контингент
 
 -lexeme
  lex: континент
- stem: континент.
+ stem: континент.//коньтинент.
  gramm: N,rus
  paradigm: N-back
  trans_ru: континент
@@ -50292,6 +50297,7 @@
  stem: концерт.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: концерт
 
 -lexeme
@@ -50548,7 +50554,7 @@
 
 -lexeme
  lex: корреспонденция
- stem: корреспонденция.
+ stem: корреспонденция.//корреспоньденция.
  gramm: N,rus
  paradigm: N-back
  trans_ru: корреспонденция
@@ -50850,7 +50856,7 @@
 
 -lexeme
  lex: крендель
- stem: крендел.
+ stem: крендел.//креньдел.
  gramm: N,rus
  paradigm: N-front-soft
  trans_ru: крендель
@@ -51669,10 +51675,11 @@
  trans_ru: лежнёвка обл.
 
 -lexeme
- lex: лезвие
- stem: лезвие.
+ lex: лезвия
+ stem: лезвия.//лезвие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: лезвие
 
 -lexeme
@@ -51789,7 +51796,7 @@
 
 -lexeme
  lex: лентяйка
- stem: лентяйка.
+ stem: лентяйка.//леньтяйка.
  gramm: N,rus
  paradigm: N-back
  trans_ru: лентяйка
@@ -52282,7 +52289,7 @@
 
 -lexeme
  lex: лицензия
- stem: лицензия.
+ stem: лицензия.//лиценьзия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: лицензия
@@ -52778,10 +52785,11 @@
  trans_ru: малахит
 
 -lexeme
- lex: малокровие
- stem: малокровие.
+ lex: малокровия
+ stem: малокровия.//малокровие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: малокровие
 
 -lexeme
@@ -53644,7 +53652,7 @@
 
 -lexeme
  lex: менингит
- stem: менингит.
+ stem: менингит.//мениньгит.
  gramm: N,rus
  paradigm: N-front
  trans_ru: менингит
@@ -54314,7 +54322,7 @@
 
 -lexeme
  lex: митенки
- stem: митенки.
+ stem: митенки.//митеньки.
  gramm: N,rus
  paradigm: N-front
  trans_ru: митенки
@@ -54934,7 +54942,7 @@
 
 -lexeme
  lex: мундир
- stem: мундир.
+ stem: мундир.//муньдир.
  gramm: N,rus
  paradigm: N-front
  trans_ru: мундир
@@ -55746,10 +55754,11 @@
  trans_ru: нашатырь
 
 -lexeme
- lex: нашествие
- stem: нашествие.
+ lex: нашествия
+ stem: нашествия.//нашествие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: нашествие
 
 -lexeme
@@ -55839,7 +55848,7 @@
 
 -lexeme
  lex: некондиция
- stem: некондиция.
+ stem: некондиция.//неконьдиция.
  gramm: N,rus
  paradigm: N-back
  trans_ru: некондиция
@@ -56660,7 +56669,7 @@
 
 -lexeme
  lex: одуванчик
- stem: одуванчик.
+ stem: одуванчик.//одуваньчик.
  gramm: N,rus
  paradigm: N-front
  trans_ru: одуванчик
@@ -57182,14 +57191,14 @@
 
 -lexeme
  lex: ориентир
- stem: ориентир.
+ stem: ориентир.//ориеньтир.
  gramm: N,rus
  paradigm: N-front
  trans_ru: ориентир
 
 -lexeme
  lex: ориентирования
- stem: ориентирования.//ориентирование.
+ stem: ориентирования.//ориеньтирования.//ориентирование.
  gramm: N,rus
  paradigm: N-back
  paradigm: N-front
@@ -57197,7 +57206,7 @@
 
 -lexeme
  lex: ориентировка
- stem: ориентировка.
+ stem: ориентировка.//ориеньтировка.
  gramm: N,rus
  paradigm: N-back
  trans_ru: ориентировка
@@ -57916,7 +57925,7 @@
 
 -lexeme
  lex: пандемия
- stem: пандемия.
+ stem: пандемия.//паньдемия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: пандемия
@@ -57972,7 +57981,7 @@
 
 -lexeme
  lex: пантеон
- stem: пантеон.
+ stem: пантеон.//паньтеон.
  gramm: N,rus
  paradigm: N-back
  trans_ru: пантеон
@@ -59169,7 +59178,7 @@
 
 -lexeme
  lex: перпендикуляр
- stem: перпендикуляр.
+ stem: перпендикуляр.//перпеньдикуляр.
  gramm: N,rus
  paradigm: N-back
  trans_ru: перпендикуляр
@@ -59718,7 +59727,7 @@
 
 -lexeme
  lex: планшет
- stem: планшет.
+ stem: планшет.//планьшет.
  gramm: N,rus
  paradigm: N-front
  trans_ru: планшет
@@ -61066,7 +61075,7 @@
 
 -lexeme
  lex: пончик
- stem: пончик.
+ stem: пончик.//поньчик.
  gramm: N,rus
  paradigm: N-front
  trans_ru: пончик
@@ -61274,10 +61283,11 @@
  trans_ru: послание
 
 -lexeme
- lex: последствие
- stem: последствие.
+ lex: последствия
+ stem: последствия.//последствие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: последствие
 
 -lexeme
@@ -61594,17 +61604,19 @@
  trans_ru: правопорядок
 
 -lexeme
- lex: православие
- stem: православие.
+ lex: православия
+ stem: православия.//православие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: православие
 
 -lexeme
- lex: правосудие
- stem: правосудие.
+ lex: правосудия
+ stem: правосудия.//правосудие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: правосудие
 
 -lexeme
@@ -61905,7 +61917,7 @@
 
 -lexeme
  lex: претензия
- stem: претензия.
+ stem: претензия.//претеньзия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: претензия
@@ -62185,7 +62197,7 @@
 
 -lexeme
  lex: принтер
- stem: принтер.
+ stem: принтер.//приньтер.
  gramm: N,rus
  paradigm: N-front
  trans_ru: принтер
@@ -62546,10 +62558,11 @@
  trans_ru: продналог
 
 -lexeme
- lex: продовольствие
- stem: продовольствие.
+ lex: продовольствия
+ stem: продовольствия.//продовольствие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: продовольствие
 
 -lexeme
@@ -63389,10 +63402,11 @@
  trans_ru: путепровод
 
 -lexeme
- lex: путешествие
- stem: путешествие.
+ lex: путешествия
+ stem: путешествия.//путешествие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: путешествие
 
 -lexeme
@@ -63536,10 +63550,11 @@
  trans_ru: равновесие
 
 -lexeme
- lex: равноправие
- stem: равноправие.
+ lex: равноправия
+ stem: равноправия.//равноправие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: равноправие
 
 -lexeme
@@ -63600,7 +63615,7 @@
 
 -lexeme
  lex: радиоантенна
- stem: радиоантенна.
+ stem: радиоантенна.//радиоаньтенна.
  gramm: N,rus
  paradigm: N-back
  trans_ru: радиоантенна
@@ -63790,7 +63805,7 @@
 
 -lexeme
  lex: радиорецензия
- stem: радиорецензия.
+ stem: радиорецензия.//радиореценьзия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: радиорецензия
@@ -65300,7 +65315,7 @@
 
 -lexeme
  lex: рецензия
- stem: рецензия.
+ stem: рецензия.//реценьзия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: рецензия
@@ -65561,14 +65576,14 @@
 
 -lexeme
  lex: романтизма
- stem: романтизма.
+ stem: романтизма.//романьтизма.
  gramm: N,rus
  paradigm: N-back
  trans_ru: романтизм
 
 -lexeme
  lex: романтика
- stem: романтика.
+ stem: романтика.//романьтика.
  gramm: N,rus
  paradigm: N-back
  trans_ru: романтика
@@ -65939,10 +65954,11 @@
  trans_ru: самовар
 
 -lexeme
- lex: самодержавие
- stem: самодержавие.
+ lex: самодержавия
+ stem: самодержавия.//самодержавие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: самодержавие
 
 -lexeme
@@ -66055,21 +66071,21 @@
 
 -lexeme
  lex: сантерия
- stem: сантерия.
+ stem: сантерия.//саньтерия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: сантерия
 
 -lexeme
  lex: сантехника
- stem: сантехника.
+ stem: сантехника.//саньтехника.
  gramm: N,rus
  paradigm: N-back
  trans_ru: сантехника
 
 -lexeme
  lex: сантиметра
- stem: сантиметра.//сантиметр.
+ stem: сантиметра.//саньтиметра.//сантиметр.
  gramm: N,rus
  paradigm: N-front
  trans_ru: сантиметр
@@ -66681,7 +66697,7 @@
 
 -lexeme
  lex: семантика
- stem: семантика.
+ stem: семантика.//семаньтика.
  gramm: N,rus
  paradigm: N-back
  trans_ru: семантика
@@ -67024,14 +67040,14 @@
 
 -lexeme
  lex: синтезатор
- stem: синтезатор.
+ stem: синтезатор.//синьтезатор.
  gramm: N,rus
  paradigm: N-back
  trans_ru: синтезатор
 
 -lexeme
  lex: синтетика
- stem: синтетика.
+ stem: синтетика.//синьтетика.
  gramm: N,rus
  paradigm: N-back
  trans_ru: синтетика
@@ -67426,10 +67442,11 @@
  trans_ru: мин. сланец
 
 -lexeme
- lex: следствие
- stem: следствие.
+ lex: следствия
+ stem: следствия.//следствие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: следствие
 
 -lexeme
@@ -67975,9 +67992,10 @@
  trans_ru: сосиска
 
 -lexeme
- lex: сословие
- stem: сословие.
+ lex: сословия
+ stem: сословия.//сословие.
  gramm: N,rus
+ paradigm: N-back
  paradigm: N-front
  trans_ru: сословие
 
@@ -68303,10 +68321,11 @@
  trans_ru: сплав
 
 -lexeme
- lex: спокойствие
- stem: спокойствие.
+ lex: спокойствия
+ stem: спокойствия.//спокойствие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: спокойствие
 
 -lexeme
@@ -68530,7 +68549,7 @@
 
 -lexeme
  lex: стаканчик
- stem: стаканчик.
+ stem: стаканчик.//стаканьчик.
  gramm: N,rus
  paradigm: N-front
  trans_ru: стаканчик
@@ -68811,7 +68830,7 @@
 
 -lexeme
  lex: стипендия
- stem: стипендия.
+ stem: стипендия.//стипеньдия.
  gramm: N,rus
  paradigm: N-back
  trans_ru: стипендия
@@ -70132,14 +70151,14 @@
 
 -lexeme
  lex: тенденция
- stem: тенденция.
+ stem: тенденция.//теньденция.
  gramm: N,rus
  paradigm: N-back
  trans_ru: тенденция
 
 -lexeme
  lex: тендер
- stem: тендер.
+ stem: тендер.//теньдер.
  gramm: N,rus
  paradigm: N-front
  trans_ru: тендер
@@ -70909,14 +70928,14 @@
 
 -lexeme
  lex: транзистор
- stem: транзистор.
+ stem: транзистор.//траньзистор.
  gramm: N,rus
  paradigm: N-back
  trans_ru: транзистор
 
 -lexeme
  lex: транзит
- stem: транзит.
+ stem: транзит.//траньзит.
  gramm: N,rus
  paradigm: N-front
  trans_ru: транзит
@@ -70993,7 +71012,7 @@
 
 -lexeme
  lex: траншея
- stem: траншея.
+ stem: траншея.//траньшея.
  gramm: N,rus
  paradigm: N-back
  trans_ru: траншея
@@ -71981,17 +72000,19 @@
  trans_ru: усиление
 
 -lexeme
- lex: усилие
- stem: усилие.
+ lex: усилия
+ stem: усилия.//усилие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: усилие
 
 -lexeme
- lex: условие
- stem: условие.
+ lex: условия
+ stem: условия.//условие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: условие
 
 -lexeme
@@ -72294,7 +72315,7 @@
 
 -lexeme
  lex: фантик
- stem: фантик.
+ stem: фантик.//фаньтик.
  gramm: N,rus
  paradigm: N-front
  trans_ru: фантик
@@ -73580,7 +73601,7 @@
 
 -lexeme
  lex: фэнтези
- stem: фэнтези.
+ stem: фэнтези.//фэньтези.
  gramm: N,rus
  paradigm: N-front
  trans_ru: фэнтези
@@ -73727,7 +73748,7 @@
 
 -lexeme
  lex: хинди
- stem: хинди.
+ stem: хинди.//хиньди.
  gramm: N,rus
  paradigm: N-front
  trans_ru: хинди
@@ -74002,7 +74023,7 @@
 
 -lexeme
  lex: хризантема
- stem: хризантема.
+ stem: хризантема.//хризаньтема.
  gramm: N,rus
  paradigm: N-back
  trans_ru: хризантема
@@ -74598,7 +74619,7 @@
 
 -lexeme
  lex: чемоданчик
- stem: чемоданчик.
+ stem: чемоданчик.//чемоданьчик.
  gramm: N,rus
  paradigm: N-front
  trans_ru: чемоданчик
@@ -75167,10 +75188,11 @@
  trans_ru: шеренга
 
 -lexeme
- lex: шествие
- stem: шествие.
+ lex: шествия
+ stem: шествия.//шествие.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: шествие
 
 -lexeme
@@ -77385,7 +77407,7 @@
 
 -lexeme
  lex: антилопа
- stem: антилопа.
+ stem: антилопа.//аньтилопа.
  gramm: N,rus,anim
  paradigm: N-back
  trans_ru: антилопа
@@ -77637,7 +77659,7 @@
 
 -lexeme
  lex: индейка
- stem: индейка.
+ stem: индейка.//иньдейка.
  gramm: N,rus,anim
  paradigm: N-back
  trans_ru: индейка
@@ -78043,7 +78065,7 @@
 
 -lexeme
  lex: пантера
- stem: пантера.
+ stem: пантера.//паньтера.
  gramm: N,rus,anim
  paradigm: N-back
  trans_ru: пантера
@@ -78400,7 +78422,7 @@
 
 -lexeme
  lex: шимпанзе
- stem: шимпанзе.
+ stem: шимпанзе.//шимпаньзе.
  gramm: N,rus,anim
  paradigm: N-front
  trans_ru: шимпанзе
@@ -78668,7 +78690,7 @@
 
 -lexeme
  lex: аквалангист
- stem: аквалангист.
+ stem: аквалангист.//акваланьгист.
  gramm: N,rus,anim,hum
  paradigm: N-back
  paradigm: N-front
@@ -78854,7 +78876,7 @@
 
 -lexeme
  lex: антифашист
- stem: антифашист.
+ stem: антифашист.//аньтифашист.
  gramm: N,rus,anim,hum
  paradigm: N-back
  paradigm: N-front
@@ -78897,14 +78919,14 @@
 
 -lexeme
  lex: аргентинец
- stem: аргентинец.
+ stem: аргентинец.//аргеньтинец.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: аргентинец
 
 -lexeme
  lex: аргентинка
- stem: аргентинка.
+ stem: аргентинка.//аргеньтинка.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: аргентинка
@@ -79195,14 +79217,14 @@
 
 -lexeme
  lex: бандит
- stem: бандит.
+ stem: бандит.//баньдит.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: бандит
 
 -lexeme
  lex: банкир
- stem: банкир.
+ stem: банкир.//банькир.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: банкир
@@ -79535,14 +79557,14 @@
 
 -lexeme
  lex: блондинка
- stem: блондинка.
+ stem: блондинка.//блоньдинка.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: блондинка
 
 -lexeme
  lex: блондинко
- stem: блондинко.
+ stem: блондинко.//блоньдинко.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: блондинко
@@ -79882,14 +79904,14 @@
 
 -lexeme
  lex: венгер
- stem: венгер.
+ stem: венгер.//веньгер.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: венгр
 
 -lexeme
  lex: венгерка
- stem: венгерка.
+ stem: венгерка.//веньгерка.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: венгерка
@@ -79967,7 +79989,7 @@
 
 -lexeme
  lex: виолончелист
- stem: виолончелист.
+ stem: виолончелист.//виолоньчелист.
  gramm: N,rus,anim,hum
  paradigm: N-back
  paradigm: N-front
@@ -80089,7 +80111,7 @@
 
 -lexeme
  lex: волонтёр
- stem: волонтёр.//волонтер.
+ stem: волонтёр.//волоньтёр.//волонтер.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: волонтёр
@@ -80387,7 +80409,7 @@
 
 -lexeme
  lex: голландец
- stem: голландец.
+ stem: голландец.//голланьдец.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: голландец
@@ -81633,21 +81655,21 @@
 
 -lexeme
  lex: индеец
- stem: индеец.
+ stem: индеец.//иньдеец.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: индеец
 
 -lexeme
  lex: индианка
- stem: индианка.
+ stem: индианка.//иньдианка.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: индианка
 
 -lexeme
  lex: индиец
- stem: индиец.
+ stem: индиец.//иньдиец.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: индиец
@@ -81710,35 +81732,35 @@
 
 -lexeme
  lex: интеллектуал
- stem: интеллектуал.
+ stem: интеллектуал.//иньтеллектуал.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: интеллектуал
 
 -lexeme
  lex: интеллигент
- stem: интеллигент.
+ stem: интеллигент.//иньтеллигент.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: интеллигент
 
 -lexeme
  lex: интервент
- stem: интервент.
+ stem: интервент.//иньтервент.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: интервент
 
 -lexeme
  lex: интерн
- stem: интерн.
+ stem: интерн.//иньтерн.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: интерн
 
 -lexeme
  lex: интернационалист
- stem: интернационалист.
+ stem: интернационалист.//иньтернационалист.
  gramm: N,rus,anim,hum
  paradigm: N-back
  paradigm: N-front
@@ -81746,7 +81768,7 @@
 
 -lexeme
  lex: интили
- stem: интили.
+ stem: интили.//иньтили.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: интеллигент
@@ -81789,7 +81811,7 @@
 
 -lexeme
  lex: ирландец
- stem: ирландец.
+ stem: ирландец.//ирланьдец.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: ирландец
@@ -81951,7 +81973,7 @@
 
 -lexeme
  lex: кандидат
- stem: кандидат.
+ stem: кандидат.//каньдидат.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: кандидат
@@ -82319,7 +82341,7 @@
 
 -lexeme
  lex: командир
- stem: командир.
+ stem: командир.//команьдир.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: командир
@@ -82474,7 +82496,7 @@
 
 -lexeme
  lex: кондитер
- stem: кондитер.
+ stem: кондитер.//коньдитер.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: кондитер
@@ -82656,7 +82678,7 @@
 
 -lexeme
  lex: корреспондент
- stem: корреспондент.
+ stem: корреспондент.//корреспоньдент.
  gramm: N,rus,anim,hum
  paradigm: N-back
  paradigm: N-front
@@ -83987,14 +84009,14 @@
 
 -lexeme
  lex: монтировщик
- stem: монтировщик.
+ stem: монтировщик.//моньтировщик.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: монтировщик
 
 -lexeme
  lex: монтёр
- stem: монтёр.//монтер.
+ stem: монтёр.//моньтёр.//монтер.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: монтёр
@@ -84349,7 +84371,7 @@
 
 -lexeme
  lex: неандерталец
- stem: неандерталец.
+ stem: неандерталец.//неаньдерталец.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: неандерталец
@@ -84993,7 +85015,7 @@
 
 -lexeme
  lex: парламентёр
- stem: парламентёр.//парламентер.
+ stem: парламентёр.//парламеньтёр.//парламентер.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: парламентёр
@@ -86252,7 +86274,7 @@
 
 -lexeme
  lex: пропагандист
- stem: пропагандист.
+ stem: пропагандист.//пропаганьдист.
  gramm: N,rus,anim,hum
  paradigm: N-back
  paradigm: N-front
@@ -86260,7 +86282,7 @@
 
 -lexeme
  lex: пропагандистка
- stem: пропагандистка.
+ stem: пропагандистка.//пропаганьдистка.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: пропагандистка
@@ -86734,7 +86756,7 @@
 
 -lexeme
  lex: рецензент
- stem: рецензент.
+ stem: рецензент.//реценьзент.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: рецензент
@@ -86790,7 +86812,7 @@
 
 -lexeme
  lex: романтик
- stem: романтик.
+ stem: романтик.//романьтик.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: романтик
@@ -86916,7 +86938,7 @@
 
 -lexeme
  lex: сантехник
- stem: сантехник.
+ stem: сантехник.//саньтехник.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: сантехник
@@ -87198,7 +87220,7 @@
 
 -lexeme
  lex: скинхед
- stem: скинхед.
+ stem: скинхед.//скиньхед.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: скинхед
@@ -87545,7 +87567,7 @@
 
 -lexeme
  lex: стипендиат
- stem: стипендиат.
+ stem: стипендиат.//стипеньдиат.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: стипендиат
@@ -87723,7 +87745,7 @@
 
 -lexeme
  lex: танкист
- stem: танкист.
+ stem: танкист.//танькист.
  gramm: N,rus,anim,hum
  paradigm: N-back
  paradigm: N-front
@@ -88004,7 +88026,7 @@
 
 -lexeme
  lex: тхэквондист
- stem: тхэквондист.
+ stem: тхэквондист.//тхэквоньдист.
  gramm: N,rus,anim,hum
  paradigm: N-back
  paradigm: N-front
@@ -88553,7 +88575,7 @@
 
 -lexeme
  lex: фотокорреспондент
- stem: фотокорреспондент.
+ stem: фотокорреспондент.//фотокорреспоньдент.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: фотокорреспондент
@@ -89267,7 +89289,7 @@
 
 -lexeme
  lex: штангист
- stem: штангист.
+ stem: штангист.//штаньгист.
  gramm: N,rus,anim,hum
  paradigm: N-back
  paradigm: N-front
@@ -89317,7 +89339,7 @@
 
 -lexeme
  lex: эвенкийка
- stem: эвенкийка.
+ stem: эвенкийка.//эвенькийка.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: эвенкийка
@@ -89468,7 +89490,7 @@
 
 -lexeme
  lex: электромонтёр
- stem: электромонтёр.//электромонтер.
+ stem: электромонтёр.//электромоньтёр.//электромонтер.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: электромонтёр
@@ -89702,7 +89724,7 @@
 
 -lexeme
  lex: юнкер
- stem: юнкер.
+ stem: юнкер.//юнькер.
  gramm: N,rus,anim,hum
  paradigm: N-front
  trans_ru: юнкер
@@ -90491,56 +90513,56 @@
 
 -lexeme
  lex: интеллигенция
- stem: интелегенция.
+ stem: интелегенция.//иньтелегенция.
  gramm: N,rus,missp
  paradigm: N-back
  trans_ru: интеллигенция
 
 -lexeme
  lex: интеллигенция
- stem: интелигенция.
+ stem: интелигенция.//иньтелигенция.
  gramm: N,rus,missp
  paradigm: N-back
  trans_ru: интеллигенция
 
 -lexeme
  lex: интеллигенция
- stem: интеллегенция.
+ stem: интеллегенция.//иньтеллегенция.
  gramm: N,rus,missp
  paradigm: N-back
  trans_ru: интеллигенция
 
 -lexeme
  lex: интеллигенция
- stem: интеллиганция.
+ stem: интеллиганция.//иньтеллиганция.
  gramm: N,rus,missp
  paradigm: N-back
  trans_ru: интеллигенция
 
 -lexeme
  lex: интеллигенция
- stem: интиллигенция.
+ stem: интиллигенция.//иньтиллигенция.
  gramm: N,rus,missp
  paradigm: N-back
  trans_ru: интеллигенция
 
 -lexeme
  lex: интервью
- stem: интеврью.
+ stem: интеврью.//иньтеврью.
  gramm: N,rus,missp
  paradigm: N-back
  trans_ru: интервью
 
 -lexeme
  lex: интернет
- stem: интеренет.
+ stem: интеренет.//иньтеренет.
  gramm: N,rus,missp
  paradigm: N-front
  trans_ru: интернет
 
 -lexeme
  lex: интерпретация
- stem: интерпритация.
+ stem: интерпритация.//иньтерпритация.
  gramm: N,rus,missp
  paradigm: N-back
  trans_ru: интерпретация
@@ -91439,7 +91461,7 @@
 
 -lexeme
  lex: кандидат
- stem: кандитат.
+ stem: кандитат.//каньдитат.
  gramm: N,rus,missp,anim,hum
  paradigm: N-back
  trans_ru: кандидат
@@ -91453,21 +91475,21 @@
 
 -lexeme
  lex: ангел
- stem: ангел.
+ stem: ангел.//аньгел.
  gramm: N,rus,supernat
  paradigm: N-front
  trans_ru: ангел
 
 -lexeme
  lex: ангелнэ
- stem: ангелнэ.
+ stem: ангелнэ.//аньгелнэ.
  gramm: N,rus,supernat
  paradigm: N-front
  trans_ru: ангелок
 
 -lexeme
  lex: антихрист
- stem: антихрист.
+ stem: антихрист.//аньтихрист.
  gramm: N,rus,supernat
  paradigm: N-back
  paradigm: N-front
@@ -91475,7 +91497,7 @@
 
 -lexeme
  lex: архангел
- stem: архангел.
+ stem: архангел.//арханьгел.
  gramm: N,rus,supernat
  paradigm: N-front
  trans_ru: архангел
@@ -91772,7 +91794,7 @@
 
 -lexeme
  lex: сентябрь
- stem: сентябр.
+ stem: сентябр.//сеньтябр.
  gramm: N,rus,time_meas
  paradigm: N-front-soft
  trans_ru: сентябрь
@@ -91969,7 +91991,7 @@
 
 -lexeme
  lex: бригантина
- stem: бригантина.
+ stem: бригантина.//бриганьтина.
  gramm: N,rus,transport
  paradigm: N-back
  trans_ru: бригантина
@@ -92543,7 +92565,7 @@
 
 -lexeme
  lex: танкер
- stem: танкер.
+ stem: танкер.//танькер.
  gramm: N,rus,transport
  paradigm: N-front
  trans_ru: танкер
@@ -93956,7 +93978,7 @@
 
 -lexeme
  lex: куринкине
- stem: куринкине.
+ stem: куринкине.//куринькине.
  gramm: N,dim
  paradigm: N-front
  trans_ru: квартал
@@ -94418,7 +94440,7 @@
 
 -lexeme
  lex: пандине
- stem: пандине.
+ stem: пандине.//паньдине.
  gramm: N,dim
  paradigm: N-front
  trans_ru: грядка
@@ -94460,7 +94482,7 @@
 
 -lexeme
  lex: пенгине
- stem: пенгине.
+ stem: пенгине.//пеньгине.
  gramm: N,dim
  paradigm: N-front
  trans_ru: поленце
@@ -94642,7 +94664,7 @@
 
 -lexeme
  lex: рунгине
- stem: рунгине.
+ stem: рунгине.//руньгине.
  gramm: N,body,dim
  paradigm: N-front
  trans_ru: тельце
@@ -95402,3 +95424,425 @@
  gramm: N,dim
  paradigm: N-front
  trans_ru: сторонушка
+
+-lexeme
+ lex: вероятность
+ stem: Вероятност.
+ gramm: N,rus
+ paradigm: N-front-j
+ trans_ru: вероятность
+-lexeme
+ lex: альме
+ stem: альме.
+ gramm: N
+ paradigm: N-front
+ trans_ru: мощь
+-lexeme
+ lex: баягаки
+ stem: баягаки.
+ gramm: N
+ paradigm: N-front
+ trans_ru: укатанная дорога
+-lexeme
+ lex: баяганилькс
+ stem: баяганилькс.
+ gramm: N
+ paradigm: N-front
+ trans_ru: крюк, за который подвешивается колокол
+-lexeme
+ lex: баягачи
+ stem: баягачи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: солнечный день
+-lexeme
+ lex: васолсельмукшт
+ stem: Васолсельмукшт.
+ gramm: N
+ paradigm: N-back
+ trans_ru: бинокль
+-lexeme
+ lex: велявтомачи
+ stem: Велявтомачи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: ликвидность, текучесть
+-lexeme
+ lex: икелечи
+ stem: икелечи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: будущее
+-lexeme
+ lex: иневаньксчи
+ stem: иневаньксчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: святость
+-lexeme
+ lex: кемемксчи
+ stem: кемемксчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: авторитет
+-lexeme
+ lex: кереметь
+ stem: керемет.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: молельная поляна
+-lexeme
+ lex: никстемчи
+ stem: никстемчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: свадьба
+-lexeme
+ lex: одирьвачи
+ stem: одирьвачи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: свадьба
+-lexeme
+ lex: тонавтомачи
+ stem: тонавтомачи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: образование
+-lexeme
+ lex: чачомачи
+ stem: чачомачи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: день рождения
+-lexeme
+ lex: чудиксчи
+ stem: чудиксчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: ликвидность, текучесть
+-lexeme
+ lex: шкасёрмадомачи
+ stem: шкасёрмадомачи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: журналистика
+-lexeme
+ lex: якстерька
+ stem: якстерька.
+ gramm: N
+ paradigm: N-back
+ trans_ru: свёкла красная
+-lexeme
+ lex: ялгачи
+ stem: ялгачи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: дружба
+-lexeme
+ lex: телеграм
+ stem: телеграм.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: телеграм
+-lexeme
+ lex: калмык
+ stem: калмык.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: калмык
+-lexeme
+ lex: кулядей
+ stem: куляде.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: журналист
+-lexeme
+ lex: куляндей
+ stem: кулянде.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: журналист
+-lexeme
+ lex: седидей
+ stem: седиде.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: музыкант
+-lexeme
+ lex: сединдей
+ stem: сединде.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: музыкант
+-lexeme
+ lex: тевендей
+ stem: тевенде.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: предприниматель
+-lexeme
+ lex: тевентей
+ stem: тевенте.//тевеньте.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: предприниматель
+-lexeme
+ lex: шкасёрмадей
+ stem: шкасёрмаде.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: журналист
+-lexeme
+ lex: админ
+ stem: одмин.
+ gramm: N,anim,hum,rus,missp
+ paradigm: N-front
+ trans_ru: админ
+-lexeme
+ lex: авоська
+ stem: авоська.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: авоська
+-lexeme
+ lex: бонус
+ stem: бонус.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: бонус
+-lexeme
+ lex: виндоус
+ stem: виндоус.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: виндоус
+-lexeme
+ lex: гулянка
+ stem: гулянка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: гулянка
+-lexeme
+ lex: заслон
+ stem: заслон.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: заслон
+-lexeme
+ lex: измерения
+ stem: измерения.//измерение.
+ gramm: N,rus
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: измерение
+-lexeme
+ lex: кабак
+ stem: кабак.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: кабак
+-lexeme
+ lex: кличка
+ stem: кличка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: кличка
+-lexeme
+ lex: компромисс
+ stem: компромисс.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: компромисс
+-lexeme
+ lex: кроссовка
+ stem: кроссовка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: кроссовки
+-lexeme
+ lex: легитимность
+ stem: легитимност.
+ gramm: N,rus
+ paradigm: N-front-soft
+ trans_ru: легитимность
+-lexeme
+ lex: оболочка
+ stem: оболочка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: оболочка
+-lexeme
+ lex: оффлайн
+ stem: оффлайн.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: оффлайн
+-lexeme
+ lex: паприка
+ stem: паприка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: паприка
+-lexeme
+ lex: подворотня
+ stem: подворотня.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: подворотня
+-lexeme
+ lex: подотдел
+ stem: подотдел.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: подотдел
+-lexeme
+ lex: посёлка
+ stem: посёлка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: посёлок
+-lexeme
+ lex: причесон
+ stem: причесон.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: причесон
+-lexeme
+ lex: радиожурналистика
+ stem: радиожурналистика.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: радиожурналистика
+-lexeme
+ lex: разведопрос
+ stem: разведопрос.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: разведопрос
+-lexeme
+ lex: резонанс
+ stem: резонанс.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: резонанс
+-lexeme
+ lex: рынка
+ stem: рынка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: рынок
+-lexeme
+ lex: смысла
+ stem: смысла.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: смысл
+-lexeme
+ lex: совокупность
+ stem: совокупност.
+ gramm: N,rus
+ paradigm: N-front-soft
+ trans_ru: совокупность
+-lexeme
+ lex: стройплощадка
+ stem: стройплощадка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: стройплощадка
+-lexeme
+ lex: субэтнос
+ stem: субэтнос.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: субэтнос
+-lexeme
+ lex: толерантность
+ stem: толерантност.
+ gramm: N,rus
+ paradigm: N-front-soft
+ trans_ru: толерантность
+-lexeme
+ lex: уралистика
+ stem: ураслистика.
+ gramm: N,rus,missp
+ paradigm: N-back
+ trans_ru: уралистика
+-lexeme
+ lex: фольклористика
+ stem: фольклёристика.//фольклеристика.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: фольклористика
+-lexeme
+ lex: фотошоп
+ stem: фотошоп.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: фотошоп
+-lexeme
+ lex: шансон
+ stem: шансон.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: шансон
+-lexeme
+ lex: этнофорум
+ stem: этнофорум.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: этнофорум
+-lexeme
+ lex: яблоко
+ stem: яблоко.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: яблоко
+-lexeme
+ lex: великоросс
+ stem: великоросс.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: великоросс
+-lexeme
+ lex: купец
+ stem: купец.
+ gramm: N,rus,anim,hum
+ paradigm: N-front
+ trans_ru: купец
+-lexeme
+ lex: мордовец
+ stem: мордовец.
+ gramm: N,rus,anim,hum
+ paradigm: N-front
+ trans_ru: мордовец
+-lexeme
+ lex: украино-белорус
+ stem: украино-белорус.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: украино-белорус
+-lexeme
+ lex: библиотека
+ stem: библотека.
+ gramm: N,rus,missp
+ paradigm: N-back
+ trans_ru: библиотека
+-lexeme
+ lex: выставка
+ stem: Выстаквка.
+ gramm: N,rus,missp
+ paradigm: N-back
+ trans_ru: выставка
+-lexeme
+ lex: республика
+ stem: рсспублика.
+ gramm: N,rus,missp
+ paradigm: N-back
+ trans_ru: республика
+-lexeme
+ lex: лексус
+ stem: лексус.
+ gramm: N,rus,transport
+ paradigm: N-back
+ trans_ru: лексус

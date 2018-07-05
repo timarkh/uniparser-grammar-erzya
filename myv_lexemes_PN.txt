@@ -57071,10 +57071,11 @@
  trans_ru: Жужгес
 
 -lexeme
- lex: Забайкалье
- stem: забайкалье.
+ lex: Забайкалья
+ stem: забайкалья.//забайкалье.
  gramm: N,PN,topn
  paradigm: N-front
+ paradigm: N-back
  trans_ru: Забайкалье
 
 -lexeme
@@ -60119,7 +60120,7 @@
  lex: Пазялго
  stem: пазялго.
  gramm: N,PN,topn
- paradigm: N-front
+ paradigm: N-back
  trans_ru: Пазелки
 
 -lexeme
@@ -61050,7 +61051,7 @@
  lex: Саранской
  stem: саранско.
  gramm: N,PN,topn
- paradigm: N-front-j
+ paradigm: N-back-j
  trans_ru: Саранск
 
 -lexeme
@@ -62755,6 +62756,13 @@
  trans_ru: Челны
 
 -lexeme
+ lex: Челяба
+ stem: челяба.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Челябинск
+
+-lexeme
  lex: Челябинск
  stem: челябинск.
  gramm: N,PN,topn
@@ -64120,3 +64128,682 @@
  gramm: N,PN,persn
  paradigm: N-front
  trans_ru: Янне
+
+-lexeme
+ lex: Маторчик
+ stem: маторчик.
+ gramm: N,PN
+ paradigm: N-front
+ trans_ru: Маторчик
+-lexeme
+ lex: Сириус
+ stem: сириус.
+ gramm: N,PN
+ paradigm: N-back
+ trans_ru: Сириус
+-lexeme
+ lex: Теплотранс
+ stem: теплотранс.
+ gramm: N,PN
+ paradigm: N-back
+ trans_ru: Теплотранс
+-lexeme
+ lex: Аганин
+ stem: аганин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Аганин
+-lexeme
+ lex: Арепина
+ stem: арепина.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Арепина
+-lexeme
+ lex: Аспелин
+ stem: аспелин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Аспелин
+-lexeme
+ lex: Бардин
+ stem: бардин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Бардин
+-lexeme
+ lex: Бахтин
+ stem: бахтин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Бахтин
+-lexeme
+ lex: Биккинин
+ stem: биккинин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Биккинин
+-lexeme
+ lex: Биушкин
+ stem: биушкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Биушкин
+-lexeme
+ lex: Болькин
+ stem: болькин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Болькин
+-lexeme
+ lex: Борчин
+ stem: борчин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Борчин
+-lexeme
+ lex: Варакин
+ stem: Варакин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Варакин
+-lexeme
+ lex: Васенко
+ stem: Васенко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Васенко
+-lexeme
+ lex: Вашурин
+ stem: Вашурин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Вашурин
+-lexeme
+ lex: Ведяшкин
+ stem: Ведяшкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Ведяшкин
+-lexeme
+ lex: Волгин
+ stem: Волгин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Волгин
+-lexeme
+ lex: Волнухин
+ stem: Волнухин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Волнухин
+-lexeme
+ lex: Воронин
+ stem: Воронин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Воронин
+-lexeme
+ lex: Втулкин
+ stem: Втулкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Втулкин
+-lexeme
+ lex: Вяйсянен
+ stem: Вяйсянен.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Вяйсянен
+-lexeme
+ lex: Ганчин
+ stem: ганчин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Ганчин
+-lexeme
+ lex: Дарвин
+ stem: дарвин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Дарвин
+-lexeme
+ lex: Днищенко
+ stem: днищенко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Днищенко
+-lexeme
+ lex: Дугушкин
+ stem: дугушкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Дугушкин
+-lexeme
+ lex: Дяченко
+ stem: дяченко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Дяченко
+-lexeme
+ lex: Дёмкин
+ stem: дёмкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Дёмкин
+-lexeme
+ lex: Заварюхин
+ stem: Заварюхин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Заварюхин
+-lexeme
+ lex: Игушкин
+ stem: игушкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Игушкин
+-lexeme
+ lex: Исланкин
+ stem: исланкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Исланкин
+-lexeme
+ lex: Иценко
+ stem: иценко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Иценко
+-lexeme
+ lex: Ишуткин
+ stem: ишуткин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Ишуткин
+-lexeme
+ lex: Карташов
+ stem: карташов.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Карташов
+-lexeme
+ lex: Кипайкин
+ stem: кипайкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Кипайкин
+-lexeme
+ lex: Кораблёв
+ stem: кораблёв.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Кораблёв
+-lexeme
+ lex: Кувакин
+ stem: кувакин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Кувакин
+-lexeme
+ lex: Курин
+ stem: курин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Курин
+-lexeme
+ lex: Лааксо
+ stem: лааксо.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Лааксо
+-lexeme
+ lex: Ледяйкин
+ stem: ледяйкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Ледяйкин
+-lexeme
+ lex: Лошаренко
+ stem: лошаренко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Лошаренко
+-lexeme
+ lex: Лузгин
+ stem: лузгин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Лузгин
+-lexeme
+ lex: Луценко
+ stem: луценко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Луценко
+-lexeme
+ lex: Матезиус
+ stem: матезиус.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Матезиус
+-lexeme
+ lex: Мизгулин
+ stem: мизгулин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Мизгулин
+-lexeme
+ lex: Митин
+ stem: митин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Митин
+-lexeme
+ lex: Мишечкин
+ stem: мишечкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Мишечкин
+-lexeme
+ lex: Мусалёв
+ stem: мусалёв.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Мусалёв
+-lexeme
+ lex: Надь
+ stem: над.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Надь
+-lexeme
+ lex: Надькин
+ stem: надькин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Надькин
+-lexeme
+ lex: Немечкин
+ stem: немечкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Немечкин
+-lexeme
+ lex: Онанищенко
+ stem: онанищенко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Онанищенко
+-lexeme
+ lex: Паасонен
+ stem: паасонен.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Паасонен
+-lexeme
+ lex: Паасонен
+ stem: пассонен.
+ gramm: N,PN,famn,missp
+ paradigm: N-front
+ trans_ru: Паасонен
+-lexeme
+ lex: Петреченко
+ stem: петреченко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Петреченко
+-lexeme
+ lex: Полежайкин
+ stem: полежайкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Полежайкин
+-lexeme
+ lex: Понин
+ stem: понин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Понин
+-lexeme
+ lex: Прончатов
+ stem: прончатов.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Прончатов
+-lexeme
+ lex: Райанд
+ stem: райанд.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Райанд
+-lexeme
+ lex: Ромашкин
+ stem: рамашкин.
+ gramm: N,PN,famn,missp
+ paradigm: N-front
+ trans_ru: Ромашкин
+-lexeme
+ lex: Рауткин
+ stem: рауткин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Рауткин
+-lexeme
+ lex: Резниченко
+ stem: резниченко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Резниченко
+-lexeme
+ lex: Рогожкин
+ stem: рогожкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Рогожкин
+-lexeme
+ lex: Рютер
+ stem: рютер.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Рютер
+-lexeme
+ lex: Самаркин
+ stem: самаркин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Самаркин
+-lexeme
+ lex: Самоленко
+ stem: самоленко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Самоленко
+-lexeme
+ lex: Санин
+ stem: санин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Санин
+-lexeme
+ lex: Семиноженко
+ stem: семиноженко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Семиноженко
+-lexeme
+ lex: Сергушенко
+ stem: сергушенко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Сергушенко
+-lexeme
+ lex: Советкин
+ stem: советкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Советкин
+-lexeme
+ lex: Старостин
+ stem: старостин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Старостин
+-lexeme
+ lex: Стивенс
+ stem: стивенс.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Стивенс
+-lexeme
+ lex: Суняйкин
+ stem: суняйкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Суняйкин
+-lexeme
+ lex: Тимин
+ stem: тимин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Тимин
+-lexeme
+ lex: Титойкин
+ stem: титойкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Титойкин
+-lexeme
+ lex: Тумайкин
+ stem: тумайкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Тумайкин
+-lexeme
+ lex: Урайкин
+ stem: урайкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Урайкин
+-lexeme
+ lex: Учайкин
+ stem: учайкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Учайкин
+-lexeme
+ lex: Учеваткин
+ stem: учеваткин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Учеваткин
+-lexeme
+ lex: Чекайкин
+ stem: чекайкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Чекайкин
+-lexeme
+ lex: Четвергов
+ stem: четвергов.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Четвергов
+-lexeme
+ lex: Чичайкин
+ stem: чичайкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Чичайкин
+-lexeme
+ lex: Чушкин
+ stem: чушкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Чушкин
+-lexeme
+ lex: Шумилкин
+ stem: шумилкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Шумилкин
+-lexeme
+ lex: Щеглов
+ stem: щеглов.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Щеглов
+-lexeme
+ lex: Щербаченко
+ stem: щербаченко.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Щербаченко
+-lexeme
+ lex: Эрзяйкин
+ stem: эрзяйкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Эрзяйкин
+-lexeme
+ lex: Явкин
+ stem: явкин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Явкин
+-lexeme
+ lex: Джек
+ stem: джек.
+ gramm: N,PN,persn
+ paradigm: N-front
+ trans_ru: Джек
+-lexeme
+ lex: Сычедей
+ stem: сычеде.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Сычедей
+-lexeme
+ lex: Аджария
+ stem: аджария.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Аджария
+-lexeme
+ lex: Андреевка
+ stem: андревка.
+ gramm: N,PN,topn,missp
+ paradigm: N-back
+ trans_ru: Андреевка
+-lexeme
+ lex: Артемьевка
+ stem: артемьевка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Артемьевка
+-lexeme
+ lex: Афган
+ stem: афган.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Афганистан
+-lexeme
+ lex: Васильевка
+ stem: васильевка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Васильевка
+-lexeme
+ lex: Вильно
+ stem: вильно.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Вильнюс
+-lexeme
+ lex: Волгино
+ stem: волгино.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Волгино
+-lexeme
+ lex: Генуя
+ stem: генуя.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Генуя
+-lexeme
+ lex: Жабино
+ stem: Жабино.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Жабино
+-lexeme
+ lex: Ингрия
+ stem: ингрия.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Ингрия
+-lexeme
+ lex: Капотня
+ stem: капотня.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Капотня
+-lexeme
+ lex: Киргизмастор
+ stem: киргизмастор.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Кыргызстан
+-lexeme
+ lex: Коноваловка
+ stem: коноваловка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Коноваловка
+-lexeme
+ lex: Лениногорск
+ stem: лениногорск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Лениногорск
+-lexeme
+ lex: Лукояново
+ stem: лукояново.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Лукояново
+-lexeme
+ lex: Луховка
+ stem: луховка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Луховка
+-lexeme
+ lex: Михайловка
+ stem: михайловка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Михайловка
+-lexeme
+ lex: Осиновка
+ stem: осиновка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Осиновка
+-lexeme
+ lex: Покровка
+ stem: покровка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Покровка
+-lexeme
+ lex: Таганка
+ stem: таганка.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Таганка
+-lexeme
+ lex: Урюпинск
+ stem: урюпинск.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Урюпинск
+-lexeme
+ lex: Ходмезёвашархей
+ stem: ходмезёвашархе.
+ gramm: N,PN,topn
+ paradigm: N-front-j
+ trans_ru: Ходмезёвашархей
+-lexeme
+ lex: Шубино
+ stem: шубино.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Шубино
+-lexeme
+ lex: Трифоновка
+ stem: трифонвка.
+ gramm: N,PN,topn,rus
+ paradigm: N-back
+ trans_ru: Трифоновка
