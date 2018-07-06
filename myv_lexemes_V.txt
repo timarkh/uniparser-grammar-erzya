@@ -5179,9 +5179,16 @@
  trans_ru: говорить без умолку
 
 -lexeme
+ lex: кортлемс
+ stem: кортл.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: разговаривать
+
+-lexeme
  lex: кортнемс
  stem: кортн.
- gramm: V
+ gramm: V,mult
  paradigm: V-ye
  trans_ru: разговаривать
 
@@ -17060,6 +17067,13 @@
 -lexeme
  lex: иля
  stem: иля.
+ gramm: V,neg,imp,2.s,sg.s
+ paradigm: Clitics
+ trans_ru: не
+
+-lexeme
+ lex: иля
+ stem: иля.
  gramm: V,neg
  paradigm: V-imp-back
  paradigm: V-opt
@@ -17197,3 +17211,63 @@
  gramm: V,rus
  paradigm: V-a
  trans_ru: готовить, стряпать
+-lexeme
+ lex: ассоциировамс
+ stem: ассоцииров.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: ассоциироваться
+-lexeme
+ lex: бушувамс
+ stem: бушув.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: бушевать
+-lexeme
+ lex: выступамс
+ stem: выступ.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: выступать
+-lexeme
+ lex: голосовамс
+ stem: голосов.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: голосовать
+-lexeme
+ lex: голосувамс
+ stem: голосув.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: голосовать
+-lexeme
+ lex: критиковамс
+ stem: критиков.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: критиковать
+-lexeme
+ lex: празднувамс
+ stem: празднув.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: праздновать
+-lexeme
+ lex: радувамс
+ stem: радув.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: радоваться
+-lexeme
+ lex: рисувамс
+ stem: рисув.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: рисовать
+-lexeme
+ lex: снимамс
+ stem: сним.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: снимать

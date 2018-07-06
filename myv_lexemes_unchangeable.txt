@@ -246,6 +246,13 @@
  trans_ru: дурно, плохо
 
 -lexeme
+ lex: берянсте
+ stem: берянсте.//беряньсте.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: дурно, плохо
+
+-lexeme
  lex: благойстэ
  stem: благойстэ.
  gramm: ADV
@@ -779,7 +786,14 @@
 
 -lexeme
  lex: видестэ
- stem: видестэ.
+ stem: видестэ.//видесте.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: прямо; правильно
+
+-lexeme
+ lex: видсте
+ stem: видсте.
  gramm: ADV
  paradigm: Clitics
  trans_ru: прямо; правильно
@@ -5448,6 +5462,13 @@
  trans_ru: ведь
 
 -lexeme
+ lex: ведь
+ stem: ведь.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: ведь
+
+-lexeme
  lex: эль
  stem: эль.
  gramm: PART
@@ -5491,7 +5512,7 @@
 
 -lexeme
  lex: ярь
- stem: яр.
+ stem: ярь.
  gramm: PART
  paradigm: Clitics
  trans_ru: ну

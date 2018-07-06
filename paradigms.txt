@@ -439,6 +439,10 @@
   gramm: el
   gloss: EL
   paradigm: N-poss-front-vowel
+ -flex: .сте<.>
+  gramm: el,missp
+  gloss: EL
+  paradigm: N-poss-front-vowel
  -flex: .эс<.>//.с<.>
   gramm: ill,sg
   gloss: ILL
@@ -542,6 +546,10 @@
   gramm: el
   gloss: EL
   paradigm: N-poss-front-vowel
+ -flex: .[ь]сте<.>
+  gramm: el,missp
+  gloss: EL
+  paradigm: N-poss-front-vowel
  -flex: .[ь]с<.>//.ес<.>
   gramm: ill,sg
   gloss: ILL
@@ -611,6 +619,10 @@
   paradigm: N-poss-front-vowel
  -flex: .[й]стэ<.>
   gramm: el
+  gloss: EL
+  paradigm: N-poss-front-vowel
+ -flex: .[й]сте<.>
+  gramm: el,missp
   gloss: EL
   paradigm: N-poss-front-vowel
  -flex: .[й]с<.>
@@ -683,6 +695,10 @@
   gramm: el
   gloss: EL
   paradigm: N-poss-front-vowel
+ -flex: <1>.сте<.>
+  gramm: el,missp
+  gloss: EL
+  paradigm: N-poss-front-vowel
  -flex: <1>.с<.>
   gramm: ill,sg
   gloss: ILL
@@ -739,6 +755,9 @@
   gloss: LOC
  -flex: .стэ<.>
   gramm: el
+  gloss: EL
+ -flex: .сте<.>
+  gramm: el,missp
   gloss: EL
  -flex: .нень<.>
   gramm: ill
@@ -983,18 +1002,25 @@
   gramm: sg
  -flex: .м<.>//.н<.>
   gramm: sg,1sg
+  gloss: SG.1SG
  -flex: .ть<.>
   gramm: sg,2sg
+  gloss: SG.2SG
  -flex: .зэ<.>
   gramm: sg,3sg
+  gloss: SG.3SG
  -flex: .нэк<.>//.нек<.>//.мек<.>
   gramm: sg,1pl
+  gloss: SG.1PL
  -flex: .нк<.>
   gramm: sg,2pl
+  gloss: SG.2PL
  -flex: .ст<.>
   gramm: sg,3pl
+  gloss: SG.3PL
  -flex: .нзэ<.>
   gramm: pl,3sg
+  gloss: PL.3SG
  paradigm: Clitics
 
 -paradigm: N-poss-front-soft
@@ -1002,18 +1028,25 @@
   gramm: sg
  -flex: .ем<.>//.ен<.>
   gramm: sg,1sg
+  gloss: SG.1SG
  -flex: .еть<.>
   gramm: sg,2sg
+  gloss: SG.2SG
  -flex: .езэ<.>
   gramm: sg,3sg
+  gloss: SG.3SG
  -flex: .енэк<.>//.енек<.>//.емек<.>
   gramm: sg,1pl
+  gloss: SG.1PL
  -flex: .енк<.>
   gramm: sg,2pl
+  gloss: SG.2PL
  -flex: .ест<.>
   gramm: sg,3pl
+  gloss: SG.3PL
  -flex: .ензэ<.>
   gramm: pl,3sg
+  gloss: PL.3SG
  paradigm: Clitics
 
 -paradigm: N-poss-front-j
@@ -1021,18 +1054,25 @@
   gramm: sg
  -flex: .ем<.>//.ен<.>
   gramm: sg,1sg
+  gloss: SG.1SG
  -flex: .еть<.>
   gramm: sg,2sg
+  gloss: SG.2SG
  -flex: .езэ<.>
   gramm: sg,3sg
+  gloss: SG.3SG
  -flex: .енэк<.>//.енек<.>//.емек<.>
   gramm: sg,1pl
+  gloss: SG.1PL
  -flex: .енк<.>
   gramm: sg,2pl
+  gloss: SG.2PL
  -flex: .ест<.>
   gramm: sg,3pl
+  gloss: SG.3PL
  -flex: .ензэ<.>
   gramm: pl,3sg
+  gloss: PL.3SG
  paradigm: Clitics
 
 -paradigm: N-poss-back-consonant
@@ -1040,18 +1080,25 @@
   gramm: sg
  -flex: .ом<.>//.он<.>
   gramm: sg,1sg
+  gloss: SG.1SG
  -flex: .от<.>
   gramm: sg,2sg
+  gloss: SG.2SG
  -flex: .озо<.>
   gramm: sg,3sg
+  gloss: SG.3SG
  -flex: .онок<.>//.омок<.>
   gramm: sg,1pl
+  gloss: SG.1PL
  -flex: .онк<.>
   gramm: sg,2pl
+  gloss: SG.2PL
  -flex: .ост<.>
   gramm: sg,3pl
+  gloss: SG.3PL
  -flex: .онзо<.>
   gramm: pl,3sg
+  gloss: PL.3SG
  paradigm: Clitics
 
 -paradigm: N-poss-back-vowel
@@ -1059,18 +1106,25 @@
   gramm: sg
  -flex: .м<.>//.н<.>
   gramm: sg,1sg
+  gloss: SG.1SG
  -flex: .т<.>
   gramm: sg,2sg
+  gloss: SG.2SG
  -flex: .зо<.>
   gramm: sg,3sg
+  gloss: SG.3SG
  -flex: .нок<.>//.мок<.>
   gramm: sg,1pl
+  gloss: SG.1PL
  -flex: .нк<.>
   gramm: sg,2pl
+  gloss: SG.2PL
  -flex: .ст<.>
   gramm: sg,3pl
+  gloss: SG.3PL
  -flex: .нзо<.>
   gramm: pl,3sg
+  gloss: PL.3SG
  paradigm: Clitics
 
 
@@ -1078,46 +1132,64 @@
 -paradigm: POST-poss-back-consonant
  -flex: .ом<.>//.он<.>
   gramm: 1sg
+  gloss: SG.1SG
  -flex: .от<.>
   gramm: 2sg
+  gloss: SG.2SG
  -flex: .онзо<.>
   gramm: 3sg
+  gloss: SG.3SG
  -flex: .онок<.>
   gramm: 1pl
+  gloss: SG.1PL
  -flex: .онк<.>
   gramm: 2pl
+  gloss: SG.2PL
  -flex: .ост<.>
   gramm: 3pl
+  gloss: SG.3PL
  paradigm: Clitics
 
 -paradigm: POST-poss-back-vowel
  -flex: .м<.>//.н<.>
   gramm: 1sg
+  gloss: SG.1SG
  -flex: .т<.>
   gramm: 2sg
+  gloss: SG.2SG
  -flex: .нзо<.>
   gramm: 3sg
+  gloss: SG.3SG
  -flex: .нок<.>
   gramm: 1pl
+  gloss: SG.1PL
  -flex: .нк<.>
   gramm: 2pl
+  gloss: SG.2PL
  -flex: .ст<.>
   gramm: 3pl
+  gloss: SG.3PL
  paradigm: Clitics
 
 -paradigm: POST-poss-front-vowel
  -flex: .м<.>//.нь<.>
   gramm: 1sg
+  gloss: SG.1SG
  -flex: .ть<.>
   gramm: 2sg
+  gloss: SG.2SG
  -flex: .нзэ<.>
   gramm: 3sg
+  gloss: SG.3SG
  -flex: .нек<.>
   gramm: 1pl
+  gloss: SG.1PL
  -flex: .нк<.>
   gramm: 2pl
+  gloss: SG.2PL
  -flex: .ст<.>
   gramm: 3pl
+  gloss: SG.3PL
  paradigm: Clitics
 
 
@@ -1158,6 +1230,9 @@
   gloss: LOC|DEF
  -flex: .стэ|нть<.>
   gramm: el,def
+  gloss: EL|DEF
+ -flex: .сте|нть<.>
+  gramm: el,def,missp
   gloss: EL|DEF
  -flex: .энт|ень<.>
   gramm: ill,def
@@ -1206,6 +1281,9 @@
  -flex: .[ь]стэ|нть<.>
   gramm: el,def
   gloss: EL|DEF
+ -flex: .[ь]сте|нть<.>
+  gramm: el,def,missp
+  gloss: EL|DEF
  -flex: .ент|ень<.>
   gramm: ill,def
   gloss: DEF|ILL
@@ -1244,6 +1322,9 @@
  -flex: .[й]стэ|нть<.>
   gramm: el,def
   gloss: EL|DEF
+ -flex: .[й]сте|нть<.>
+  gramm: el,def,missp
+  gloss: EL|DEF
  -flex: .ент|ень<.>
   gramm: ill,def
   gloss: DEF|ILL
@@ -1276,6 +1357,9 @@
   gloss: LOC|DEF
  -flex: .стэ|нть<.>
   gramm: el,def
+  gloss: EL|DEF
+ -flex: .сте|нть<.>
+  gramm: el,def,missp
   gloss: EL|DEF
  -flex: .нт|ень<.>
   gramm: ill,def
@@ -2301,6 +2385,10 @@
   gramm: cvb.simult
   gloss: NMLZ|EL
   paradigm: N-poss-back-vowel
+ -flex: .эм|сте<.>
+  gramm: cvb.simult,missp
+  gloss: NMLZ|EL
+  paradigm: N-poss-back-vowel
  -flex: .эм|га<.>
   gramm: cvb.caus
   gloss: NMLZ|PROL
@@ -2397,6 +2485,10 @@
   paradigm: N-front
  -flex: .ем|стэ<.>
   gramm: cvb.simult
+  gloss: NMLZ|EL
+  paradigm: N-poss-back-vowel
+ -flex: .ем|сте<.>
+  gramm: cvb.simult,missp
   gloss: NMLZ|EL
   paradigm: N-poss-back-vowel
  -flex: .ем|га<.>

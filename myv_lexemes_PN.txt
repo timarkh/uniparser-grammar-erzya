@@ -61051,7 +61051,7 @@
  lex: Саранской
  stem: саранско.
  gramm: N,PN,topn
- paradigm: N-back-j
+ paradigm: N-front-j
  trans_ru: Саранск
 
 -lexeme

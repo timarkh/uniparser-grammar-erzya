@@ -273,8 +273,22 @@
 
 -lexeme
  lex: сон
+ stem: сонензе.//тензе.
+ gramm: PRO,3,sg,dat,missp
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
  stem: сондензэ.//сондедензэ.
  gramm: PRO,3,sg,abl
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: сондензе.//сондедензе.
+ gramm: PRO,3,sg,abl,missp
  paradigm: Clitics
  trans_ru: он, она, оно
 
@@ -287,6 +301,13 @@
 
 -lexeme
  lex: сон
+ stem: соньсэнзе.//сонсензе.
+ gramm: PRO,3,sg,loc,missp
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
  stem: соньстэнзэ.//сонстензэ.
  gramm: PRO,3,sg,el
  paradigm: Clitics
@@ -294,8 +315,22 @@
 
 -lexeme
  lex: сон
+ stem: соньстэнзе.//сонстензе.
+ gramm: PRO,3,sg,el,missp
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
  stem: соньзэнзэ.
  gramm: PRO,3,sg,ill
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: соньзэнзе.//соньзензе.
+ gramm: PRO,3,sg,ill,missp
  paradigm: Clitics
  trans_ru: он, она, оно
 
@@ -344,6 +379,13 @@
 
 -lexeme
  lex: сон
+ stem: сонсензе.
+ gramm: PRO,3,sg,gen,def,missp
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
  stem: сонстензэ.
  gramm: PRO,3,sg,dat,def
  paradigm: Clitics
@@ -351,8 +393,22 @@
 
 -lexeme
  lex: сон
+ stem: сонстензе.
+ gramm: PRO,3,sg,dat,def,missp
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
  stem: сонстедензэ.
  gramm: PRO,3,sg,abl,def
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: сонстедензе.
+ gramm: PRO,3,sg,abl,def,missp
  paradigm: Clitics
  trans_ru: он, она, оно
 
@@ -367,6 +423,13 @@
  lex: сон
  stem: сонстемензэ.
  gramm: PRO,3,sg,car,def
+ paradigm: Clitics
+ trans_ru: он, она, оно
+
+-lexeme
+ lex: сон
+ stem: сонстемензе.
+ gramm: PRO,3,sg,car,def,missp
  paradigm: Clitics
  trans_ru: он, она, оно
 
@@ -1900,6 +1963,13 @@
  lex: тестэ
  stem: тестэ.
  gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: отсюда
+
+-lexeme
+ lex: тестэ
+ stem: тесте.
+ gramm: ADVPRO,missp
  paradigm: Clitics
  trans_ru: отсюда
 

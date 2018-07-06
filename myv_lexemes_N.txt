@@ -8861,6 +8861,13 @@
  trans_ru: березняк
 
 -lexeme
+ lex: килейбуло
+ stem: килейбуло.
+ gramm: N
+ paradigm: N-back
+ trans_ru: березняк
+
+-lexeme
  lex: килейсельме
  stem: килейсельме.|килейсельм.
  gramm: N
@@ -16171,7 +16178,7 @@
 -lexeme
  lex: надобия
  stem: надобия.
- gramm: N
+ gramm: N,rus
  paradigm: N-back
  trans_ru: лекарство
 
@@ -30788,7 +30795,14 @@
 -lexeme
  lex: цюдавкс
  stem: цюдавкс.
- gramm: N,supernat
+ gramm: N,supernat,rus
+ paradigm: N-back
+ trans_ru: призрак
+
+-lexeme
+ lex: цюдавамо
+ stem: цюдавамо.
+ gramm: N,supernat,rus
  paradigm: N-back
  trans_ru: призрак
 
@@ -31999,6 +32013,13 @@
 -lexeme
  lex: черьпуло
  stem: черьпуло.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: коса (вид женской причёски)
+
+-lexeme
+ lex: черьбуло
+ stem: черьбуло.
  gramm: N,body
  paradigm: N-back
  trans_ru: коса (вид женской причёски)
@@ -60632,6 +60653,13 @@
  trans_ru: показатель
 
 -lexeme
+ lex: покемон
+ stem: покемон.
+ gramm: N,rus,supernat
+ paradigm: N-back
+ trans_ru: покемон
+
+-lexeme
  lex: покой
  stem: поко.
  gramm: N,rus
@@ -70368,6 +70396,13 @@
  gramm: N,rus
  paradigm: N-back
  trans_ru: тесьма, тесёмка
+
+-lexeme
+ lex: тетрадка
+ stem: тетрадка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: тетрадка
 
 -lexeme
  lex: тетрадь
