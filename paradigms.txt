@@ -347,6 +347,10 @@
   gramm: distr
   gloss: GEN|DISTR
   paradigm: Clitics
+ -flex: .кирда<.>//.гирда<.>//.окирда<.>
+  gramm: distr
+  gloss: DISTR
+  paradigm: Clitics
  -flex: .ксть<.>//.оксть<.>
   gramm: distr
   gloss: DISTR
@@ -623,7 +627,7 @@
   gramm: dat
   gloss: DAT.12
   paradigm: Clitics
- -flex: .нстэнзэ<.>
+ -flex: .нстэнзэ<.>//.нстензэ<.>//.нстензе<.>
   gramm: dat,3pl
   gloss: DAT.3
   paradigm: Clitics
@@ -730,7 +734,7 @@
   gramm: dat
   gloss: DAT.12
   paradigm: Clitics
- -flex: .[ь]нстэнзэ<.>
+ -flex: .[ь]нстэнзэ<.>//.[ь]нстензэ<.>.//[ь]нстензе<.>
   gramm: dat,3pl
   gloss: DAT.3
   paradigm: Clitics
@@ -811,7 +815,7 @@
   gramm: dat
   gloss: DAT.12
   paradigm: Clitics
- -flex: .[й]нстэнзэ<.>
+ -flex: .[й]нстэнзэ<.>//.[й]нстензэ<.>//.[й]нстензе<.>
   gramm: dat,3pl
   gloss: DAT.3
   paradigm: Clitics
@@ -885,7 +889,7 @@
   gramm: dat
   gloss: DAT.12
   paradigm: Clitics
- -flex: <0>.нстэнзэ<.>
+ -flex: <0>.нстэнзэ<.>//<0>.нстензэ<.>//<0>.нстензе<.>
   gramm: dat,3pl
   gloss: DAT.3
   paradigm: Clitics
@@ -961,8 +965,6 @@
  -flex: .не<.>
   gramm: dat
   gloss: DAT
-  regex-prev: .*тн[эе][<>.]*$
-  paradigm: Clitics
  -flex: .де<.>
   gramm: abl
   gloss: ABL
@@ -1016,7 +1018,7 @@
   gramm: dat
   gloss: DAT.12
   paradigm: Clitics
- -flex: .нстэнзэ<.>
+ -flex: .нстэнзэ<.>//.нстензэ<.>//.нстензе<.>
   gramm: dat,3pl
   gloss: DAT.3
   paradigm: Clitics
@@ -1109,7 +1111,7 @@
   gramm: dat
   gloss: DAT.12
   paradigm: Clitics
- -flex: .нстэнзэ<.>
+ -flex: .нстэнзэ<.>//.нстензэ<.>//.нстензе<.>
   gramm: dat,3pl
   gloss: DAT.3
   paradigm: Clitics
@@ -1733,7 +1735,7 @@
   gramm: pass
   gloss: PASS
   paradigm: V-o-proper
- -flex: .[а]в|кшн<.>
+ -flex: .[а]в|кшн<.>//.[а]во|кшн<.>
   gramm: pass,iter
   gloss: PASS|ITER
   paradigm: V-o-proper
@@ -1782,7 +1784,7 @@
   gramm: pass
   gloss: PASS
   paradigm: V-o-proper
- -flex: .[я]в|кшн<.>
+ -flex: .[я]в|кшн<.>//.[я]в|окшн<.>
   gramm: pass,iter
   gloss: PASS|ITER
   paradigm: V-o-proper
@@ -1831,7 +1833,7 @@
   gramm: pass
   gloss: PASS
   paradigm: V-o-proper
- -flex: .[о]в|кшн<.>//.в|кшн<.>
+ -flex: .[о]в|кшн<.>//.в|кшн<.>//.[о]в|окшн<.>//.в|окшн<.>
   gramm: pass,iter
   gloss: PASS|ITER
   paradigm: V-o-proper
@@ -1884,7 +1886,7 @@
   gramm: pass,mult
   gloss: PASS|MULT
   paradigm: V-ye-proper
- -flex: .[до]в|кшн<.>
+ -flex: .[до]в|кшн<.>//.[до]в|окшн<.>
   gramm: pass,iter
   gloss: PASS|ITER
   paradigm: V-o-proper
@@ -1933,7 +1935,7 @@
   gramm: pass
   gloss: PASS
   paradigm: V-o-proper
- -flex: .[ё]в|кшн<.>//.[ь]в|кшн<.>//.[й]в|кшн<.>//.в|кшн<.>
+ -flex: .[ё]в|кшн<.>//.[ь]в|кшн<.>//.[й]в|кшн<.>//.в|кшн<.>//.[ё]в|екшн<.>//.[ь]в|екшн<.>//.[й]в|екшн<.>//.в|екшн<.>
   gramm: pass,iter
   gloss: PASS|ITER
   paradigm: V-o-proper
@@ -1982,9 +1984,10 @@
   gramm: pass
   gloss: PASS
   paradigm: V-ye-proper
- -flex: .[э]в|кшн<.>
+ -flex: .[э]в|кшн<.>//.[э]ве|кшн<.>
   gramm: pass,iter
   gloss: PASS|ITER
+  paradigm: V-ye-proper
   paradigm: V-e-proper
  -flex: .[э]вт|ев<.>
   gramm: caus,pass
@@ -1994,6 +1997,7 @@
   gramm: iter
   gloss: ITER
   paradigm: V-ye-proper
+  paradigm: V-e-proper
  -flex: .[э]кшн|ев<.>
   gramm: iter,pass
   gloss: ITER|PASS
@@ -2014,6 +2018,7 @@
   gramm: inch,iter
   gloss: INCH|ITER
   paradigm: V-ye-proper
+  paradigm: V-e-proper
 
 -paradigm: V-ye
  -flex: .<.>
@@ -2031,26 +2036,29 @@
   gramm: pass
   gloss: PASS
   paradigm: V-ye-proper
- -flex: .[е]в|кшн<.>//.[ь]в|кшн<.>//.[й]в|кшн<.>//.в|кшн<.>
+ -flex: .[е]в|кшн<.>//.[ь]в|кшн<.>//.[й]в|кшн<.>//.в|кшн<.>//.[е]в|екшн<.>//.[ь]в|екшн<.>//.[й]в|екшн<.>//.в|екшн<.>
   gramm: pass,iter
   gloss: PASS|ITER
   paradigm: V-ye-proper
+  paradigm: V-e-proper
  -flex: .[е]вт|ев<.>//.[ь]вт|ев<.>//.[й]вт|ев<.>//.вт|ев<.>
   gramm: caus,pass
   gloss: CAUS|PASS
   paradigm: V-ye-proper
- -flex: .[е]кшн<.>//.[ь]кшн<.>//.[й]кшн<.>//.кшн<.>
+ -flex: .[е]кшн<.>//.[ь]кшн<.>//.[й]кшн<.>
   gramm: iter
   gloss: ITER
   paradigm: V-ye-proper
  -flex: .кшн<.>
   gramm: iter
   gloss: ITER
-  paradigm: V-o-proper
+  regex-prev: .*[^<>.аеёиоуыэюя][<>.]*$
+  paradigm: V-ye-proper
+  paradigm: V-e-proper
  -flex: .[е]кшн|ев<.>//.[ь]кшн|ев<.>//.[й]кшн|ев<.>//.кшн|ев<.>
   gramm: iter,pass
   gloss: ITER|PASS
-  paradigm: V-o-proper
+  paradigm: V-ye-proper
  -flex: .[е]кшн|евт<.>//.[ь]кшн|евт<.>//.[й]кшн|евт<.>//.кшн|евт<.>
   gramm: iter,caus
   gloss: ITER|CAUS
@@ -2067,6 +2075,7 @@
   gramm: inch,iter
   gloss: INCH|ITER
   paradigm: V-ye-proper
+  paradigm: V-e-proper
 
 
 -paradigm: V-a-proper
@@ -2093,9 +2102,6 @@
   gramm: ptcp.hab
   gloss: PTCP.HAB
   paradigm: N-back
- -flex: .ындер<.>
-  gramm: cond
-  paradigm: V-npst-opt
  -flex: .ы<.>
   gramm: pst2,non_obj
   gloss: PST2
@@ -2112,10 +2118,6 @@
   gramm: ptcp.hab
   gloss: PTCP.HAB
   paradigm: N-back
-  regex-prev: .*[бвгжкмпхчшщ][<>.]*$
- -flex: .индер<.>
-  gramm: cond
-  paradigm: V-npst-opt
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  -flex: .и<.>
   gramm: pst2,non_obj
@@ -2145,9 +2147,9 @@
   gloss: COND|SUBJ
   paradigm: V-pst2
  -flex: .ындеря<.>
-  gramm: cond,neg
+  gramm: cond
   gloss: COND
-  paradigm: Clitics
+  paradigm: V-npst-cond
  -flex: .ындеря|в|ли<.>
   gramm: cond,subj,pst2
   gloss: COND|SUBJ|PST2
@@ -2162,9 +2164,9 @@
   paradigm: V-pst2
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  -flex: .индеря<.>
-  gramm: cond,neg
+  gramm: cond
   gloss: COND
-  paradigm: Clitics
+  paradigm: V-npst-cond
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  -flex: .индеря|в|ли<.>
   gramm: cond,subj,pst2
@@ -2225,9 +2227,6 @@
   gramm: ptcp.hab
   gloss: PTCP.HAB
   paradigm: N-back
- -flex: .индер<.>
-  gramm: cond
-  paradigm: V-npst-opt
  -flex: .и<.>
   gramm: pst2,non_obj
   gloss: PST2
@@ -2253,9 +2252,9 @@
   gloss: COND|SUBJ
   paradigm: V-pst2
  -flex: .индеря<.>
-  gramm: cond,neg
+  gramm: cond
   gloss: COND
-  paradigm: Clitics
+  paradigm: V-npst-cond
  -flex: .индеря|в|ли<.>
   gramm: cond,subj,pst2
   gloss: COND|SUBJ|PST2
@@ -2313,9 +2312,6 @@
   gramm: ptcp.hab
   gloss: PTCP.HAB
   paradigm: N-back
- -flex: .ындер<.>
-  gramm: cond
-  paradigm: V-npst-opt
  -flex: .ы<.>
   gramm: pst2,non_obj
   gloss: PST2
@@ -2332,10 +2328,6 @@
   gramm: ptcp.hab
   gloss: PTCP.HAB
   paradigm: N-back
-  regex-prev: .*[бвгжкмпхчшщ][<>.]*$
- -flex: .индер<.>
-  gramm: cond
-  paradigm: V-npst-opt
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  -flex: .и<.>
   gramm: pst2,non_obj
@@ -2365,9 +2357,9 @@
   gloss: COND|SUBJ
   paradigm: V-pst2
  -flex: .индеря<.>
-  gramm: cond,neg
+  gramm: cond
   gloss: COND
-  paradigm: Clitics
+  paradigm: V-npst-cond
  -flex: .ындеря|в|ли<.>
   gramm: cond,subj,pst2
   gloss: COND|SUBJ|PST2
@@ -2382,9 +2374,9 @@
   paradigm: V-pst2
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  -flex: .индеря<.>
-  gramm: cond,neg
+  gramm: cond
   gloss: COND
-  paradigm: Clitics
+  paradigm: V-npst-cond
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  -flex: .индеря|в|ли<.>
   gramm: cond,subj,pst2
@@ -2455,9 +2447,6 @@
   gramm: ptcp.hab
   gloss: PTCP.HAB
   paradigm: N-back
- -flex: .индер<.>
-  gramm: cond
-  paradigm: V-npst-opt
  -flex: .и<.>
   gramm: pst2,non_obj
   gloss: PST2
@@ -2483,9 +2472,9 @@
   gloss: COND|SUBJ
   paradigm: V-pst2
  -flex: .индеря<.>
-  gramm: cond,neg
+  gramm: cond
   gloss: COND
-  paradigm: Clitics
+  paradigm: V-npst-cond
  -flex: .индеря|в|ли<.>
   gramm: cond,subj,pst2
   gloss: COND|SUBJ|PST2
@@ -2543,9 +2532,6 @@
   gramm: ptcp.hab
   gloss: PTCP.HAB
   paradigm: N-back
- -flex: .ындер<.>
-  gramm: cond
-  paradigm: V-npst-opt
  -flex: .ы<.>
   gramm: pst2,non_obj
   gloss: PST2
@@ -2562,10 +2548,6 @@
   gramm: ptcp.hab
   gloss: PTCP.HAB
   paradigm: N-back
-  regex-prev: .*[бвгжкмпхчшщ][<>.]*$
- -flex: .индер<.>
-  gramm: cond
-  paradigm: V-npst-opt
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  -flex: .и<.>
   gramm: pst2,non_obj
@@ -2595,9 +2577,9 @@
   gloss: COND|SUBJ
   paradigm: V-pst2
  -flex: .ындеря<.>
-  gramm: cond,neg
+  gramm: cond
   gloss: COND
-  paradigm: Clitics
+  paradigm: V-npst-cond
  -flex: .ындеря|в|ли<.>
   gramm: cond,subj,pst2
   gloss: COND|SUBJ|PST2
@@ -2612,9 +2594,9 @@
   paradigm: V-pst2
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  -flex: .индеря<.>
-  gramm: cond,neg
+  gramm: cond
   gloss: COND
-  paradigm: Clitics
+  paradigm: V-npst-cond
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  -flex: .индеря|в|ли<.>
   gramm: cond,subj,pst2
@@ -2689,9 +2671,6 @@
   gramm: ptcp.hab
   gloss: PTCP.HAB
   paradigm: N-back
- -flex: .индер<.>
-  gramm: cond
-  paradigm: V-npst-opt
  -flex: .и<.>
   gramm: pst2,non_obj
   gloss: PST2
@@ -2717,9 +2696,9 @@
   gloss: COND|SUBJ
   paradigm: V-pst2
  -flex: .индеря<.>
-  gramm: cond,neg
+  gramm: cond
   gloss: COND
-  paradigm: Clitics
+  paradigm: V-npst-cond
  -flex: .индеря|в|ли<.>
   gramm: cond,subj,pst2
   gloss: COND|SUBJ|PST2
@@ -2943,6 +2922,29 @@
  -flex: .ить<.>
   gramm: 3.s,pl.s
   gloss: NPST.3PL
+ paradigm: Clitics
+
+-paradigm: V-npst-cond
+ -flex: .н<.>
+  gramm: 1.s,sg.s
+  gloss: NPST.1SG
+ -flex: .т<.>
+  gramm: 2.s,sg.s
+  gloss: NPST.2SG
+ -flex: .й<.>
+  gramm: 3.s,sg.s
+  gloss: NPST.3SG
+ -flex: .тано<.>
+  gramm: 1.s,pl.s
+  gloss: NPST.1PL
+ -flex: .тадо<.>
+  gramm: 2.s,pl.s
+  gloss: NPST.2PL
+ -flex: .йть<.>
+  gramm: 3.s,pl.s
+  gloss: NPST.3PL
+ -flex: .<.>
+  gramm: neg
  paradigm: Clitics
 
 

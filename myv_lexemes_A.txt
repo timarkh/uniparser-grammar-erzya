@@ -34984,3 +34984,112 @@
  gramm: A
  paradigm: A-front-soft
  trans_ru: эрзя-финский
+
+-lexeme
+ lex: аванстыця
+ stem: аванстыця.
+ gramm: A
+ paradigm: A-back
+ trans_ru: небезопасный
+-lexeme
+ lex: авейке
+ stem: авейке.
+ gramm: A
+ paradigm: A-front
+ trans_ru: неравный
+-lexeme
+ lex: авелявтовикс
+ stem: авелявтовикс.
+ gramm: A
+ paradigm: A-front
+ trans_ru: необратимый
+-lexeme
+ lex: авитевиця
+ stem: авитевиця.
+ gramm: A
+ paradigm: A-back
+ trans_ru: непоправимый
+-lexeme
+ lex: прамокшонь
+ stem: прамокшон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: прамокшанский
+-lexeme
+ lex: праэрзянь
+ stem: праэрзян.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: праэрзянский
+-lexeme
+ lex: автомеханической
+ stem: автомеханическо.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: автомеханический
+-lexeme
+ lex: агглюнативной
+ stem: агглюнативно.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: агглюнативной
+-lexeme
+ lex: испанонь
+ stem: испанон.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: испанский
+-lexeme
+ lex: италонь
+ stem: италон.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: итальянский
+-lexeme
+ lex: колонизаторской
+ stem: колонизаторско.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: колонизаторской
+-lexeme
+ lex: моднявой
+ stem: модняво.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: моднявой
+-lexeme
+ lex: последней
+ stem: последне.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: последний
+-lexeme
+ lex: правдоподобной
+ stem: правдоподобно.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: правдоподобной
+-lexeme
+ lex: прауральской
+ stem: прауральско.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: прауральский
+-lexeme
+ lex: прафинноугорской
+ stem: прафинноугорско.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: прафинноугорский
+-lexeme
+ lex: прибалтонь
+ stem: прибалтон.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: прибалтийский
+-lexeme
+ lex: придворной
+ stem: придворно.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: придворный

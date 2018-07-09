@@ -174,6 +174,20 @@
  trans_ru: четырнадцать
 
 -lexeme
+ lex: котонькемень
+ stem: котонькемен.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: шестьдесят
+
+-lexeme
+ lex: коткемень
+ stem: коткемен.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: шестьдесят
+
+-lexeme
  lex: кодгемень
  stem: кодгемен.
  gramm: NUM
@@ -197,6 +211,13 @@
 -lexeme
  lex: колоньгемень
  stem: колоньгемен.
+ gramm: NUM
+ paradigm: NUM-front-soft
+ trans_ru: тридцать
+
+-lexeme
+ lex: колонькемень
+ stem: колонькемен.
  gramm: NUM
  paradigm: NUM-front-soft
  trans_ru: тридцать

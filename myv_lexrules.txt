@@ -4752,14 +4752,6 @@
 
 -lex_rule
  -search
-  lex: кодамс
-  gramm: V.*nmlz_mo.*
-  gloss: .*NMLZ.*
- -add
-  trans_ru2: какой
-
--lex_rule
- -search
   lex: кожодомс
   gramm: V.*
   gloss: .*CAUS-PTCP\.PST.*

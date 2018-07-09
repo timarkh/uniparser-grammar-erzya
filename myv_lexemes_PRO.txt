@@ -80,7 +80,7 @@
 
 -lexeme
  lex: мон
- stem: монсь.
+ stem: монсь.//моньсь.
  gramm: PRO,1,sg,nom,def
  paradigm: Clitics
  trans_ru: я
@@ -201,7 +201,7 @@
 
 -lexeme
  lex: тон
- stem: тонсь.
+ stem: тонсь.//тоньсь.
  gramm: PRO,2,sg,nom,def
  paradigm: Clitics
  trans_ru: ты
@@ -365,7 +365,7 @@
 
 -lexeme
  lex: сон
- stem: сонсь.
+ stem: сонсь.//соньсь.
  gramm: PRO,3,sg,nom,def
  paradigm: Clitics
  trans_ru: он, она, оно
@@ -514,7 +514,7 @@
 
 -lexeme
  lex: минь
- stem: минсь.
+ stem: минсь.//миньсь.
  gramm: PRO,1,pl,nom,def
  paradigm: Clitics
  trans_ru: мы
@@ -635,7 +635,7 @@
 
 -lexeme
  lex: тынь
- stem: тынсь.
+ stem: тынсь.//тыньсь.
  gramm: PRO,2,pl,nom,def
  paradigm: Clitics
  trans_ru: вы
@@ -757,7 +757,7 @@
 
 -lexeme
  lex: сынь
- stem: сынсь.
+ stem: сынсь.//сыньсь.
  gramm: PRO,3,pl,nom,def
  paradigm: Clitics
  trans_ru: они
@@ -811,6 +811,7 @@
  stem: ськамо.
  gramm: PRO
  paradigm: POST-poss-back-vowel
+ paradigm: N-case-back-vowel
  paradigm: Clitics
  trans_ru: один, в одиночку
 
@@ -1705,7 +1706,14 @@
  stem: мейсэ.
  gramm: ADVPRO
  paradigm: Clitics
- trans_ru: в чем, на чем, чем
+ trans_ru: в чём, на чём, чем
+
+-lexeme
+ lex: мейсэ
+ stem: мейсе.
+ gramm: ADVPRO,missp
+ paradigm: Clitics
+ trans_ru: в чём, на чём, чем
 
 -lexeme
  lex: мейсэ-бути
@@ -1995,6 +2003,13 @@
  trans_ru: здесь
 
 -lexeme
+ lex: тесэ
+ stem: тесе.
+ gramm: ADVPRO,missp
+ paradigm: Clitics
+ trans_ru: здесь
+
+-lexeme
  lex: тесэ-тосо
  stem: тесэ-тосо.
  gramm: ADVPRO
@@ -2117,6 +2132,13 @@
  lex: сесэ
  stem: сесэ.
  gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: там
+
+-lexeme
+ lex: сесэ
+ stem: сесе.
+ gramm: ADVPRO,missp
  paradigm: Clitics
  trans_ru: там
 

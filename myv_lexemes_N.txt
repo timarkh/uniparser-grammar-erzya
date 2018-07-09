@@ -5348,7 +5348,7 @@
 
 -lexeme
  lex: инешкипаз
- stem: инешкипаз.
+ stem: инешкипаз.//инешкепаз.
  gramm: N,supernat
  paradigm: N-back
  trans_ru: Всевышний
@@ -5419,6 +5419,13 @@
 -lexeme
  lex: инязор
  stem: инязор.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: властелин, царь
+
+-lexeme
+ lex: инязоро
+ stem: инязоро.
  gramm: N,anim,hum
  paradigm: N-back
  trans_ru: властелин, царь
@@ -20832,7 +20839,7 @@
 
 -lexeme
  lex: пильге
- stem: пильге.|пильг.
+ stem: пильге.|пильг.//пильге.
  gramm: N,body
  paradigm: N-front
  trans_ru: нога
@@ -46848,6 +46855,7 @@
  stem: инструмент.
  gramm: N,rus
  paradigm: N-back
+ paradigm: N-front
  trans_ru: инструмент, музыкальной инструмент
 
 -lexeme
@@ -49245,6 +49253,13 @@
  gramm: N,rus
  paradigm: N-front
  trans_ru: ковчег
+
+-lexeme
+ lex: ковчи
+ stem: ковчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: дата
 
 -lexeme
  lex: ковёр
@@ -54162,7 +54177,7 @@
  lex: миллиард
  stem: миллиард.
  gramm: N,rus
- paradigm: N-back
+ paradigm: NUM-back
  trans_ru: миллиард
 
 -lexeme
@@ -58532,6 +58547,7 @@
  lex: патент
  stem: патент.
  gramm: N,rus
+ paradigm: N-front
  paradigm: N-back
  trans_ru: патент
 
@@ -59429,8 +59445,8 @@
  trans_ru: пиала
 
 -lexeme
- lex: пианино
- stem: пианино.
+ lex: пианина
+ stem: пианина.//пианино.
  gramm: N,rus
  paradigm: N-back
  trans_ru: пианино
@@ -62242,6 +62258,7 @@
  stem: принцип.
  gramm: N,rus
  paradigm: N-front
+ paradigm: N-back
  trans_ru: принцип
 
 -lexeme
@@ -73255,15 +73272,15 @@
  trans_ru: форсаж
 
 -lexeme
- lex: фортепиано
- stem: фортепиано.
+ lex: фортепиана
+ stem: фортепиана.//фортепиано.
  gramm: N,rus
  paradigm: N-back
  trans_ru: фортепиано
 
 -lexeme
- lex: фортепьяно
- stem: фортепьяно.
+ lex: фортепьяна
+ stem: фортепьяна.//фортепьяно.
  gramm: N,rus
  paradigm: N-back
  trans_ru: фортепьяно
@@ -81784,6 +81801,7 @@
  stem: интеллигент.//иньтеллигент.
  gramm: N,rus,anim,hum
  paradigm: N-back
+ paradigm: N-front
  trans_ru: интеллигент
 
 -lexeme
@@ -81791,6 +81809,7 @@
  stem: интервент.//иньтервент.
  gramm: N,rus,anim,hum
  paradigm: N-back
+ paradigm: N-front
  trans_ru: интервент
 
 -lexeme
@@ -83835,7 +83854,7 @@
  stem: милиционер.
  gramm: N,rus,anim,hum
  paradigm: N-front
- trans_ru: милица милиционер
+ trans_ru: милиционер
 
 -lexeme
  lex: миллениал
@@ -90551,6 +90570,7 @@
  stem: инстурмент.
  gramm: N,rus,missp
  paradigm: N-back
+ paradigm: N-front
  trans_ru: инструмент
 
 -lexeme
@@ -93068,13 +93088,6 @@
  trans_ru: республика
 
 -lexeme
- lex: тешкс
- stem: тешкс.
- gramm: N
- paradigm: N-front
- trans_ru: тешкс
-
--lexeme
  lex: ильведькс
  stem: ильведькс.
  gramm: N
@@ -94273,6 +94286,13 @@
 -lexeme
  lex: мирдине
  stem: мирдине.
+ gramm: N,anim,hum,dim
+ paradigm: N-front
+ trans_ru: муженёк
+
+-lexeme
+ lex: мирдене
+ stem: мирдене.
  gramm: N,anim,hum,dim
  paradigm: N-front
  trans_ru: муженёк
@@ -95888,3 +95908,947 @@
  gramm: N,rus,transport
  paradigm: N-back
  trans_ru: лексус
+
+
+-lexeme
+ lex: абун
+ stem: абун.
+ gramm: N
+ paradigm: N-back
+ trans_ru: войлочное одеяло
+-lexeme
+ lex: авакилей
+ stem: авакиле.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: плакучая берёза
+-lexeme
+ lex: автовалдома
+ stem: автовалдома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: фара
+-lexeme
+ lex: автовитнема
+ stem: автовитнема.
+ gramm: N
+ paradigm: N-back
+ trans_ru: авторегулировка
+-lexeme
+ lex: автокортнимс
+ stem: автокортнимс.
+ gramm: N
+ paradigm: N-front
+ trans_ru: автоответчик
+-lexeme
+ lex: автополавтома
+ stem: автополавтома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: автозамена
+-lexeme
+ lex: ванмо
+ stem: ванмо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: фотография
+-lexeme
+ lex: ванмопарго
+ stem: ванмопарго.
+ gramm: N
+ paradigm: N-back
+ trans_ru: телевизор
+-lexeme
+ lex: ванмопусмо
+ stem: ванмопусмо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: альманах
+-lexeme
+ lex: ванмосёрмадовкс
+ stem: ванмосёрмадовкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: видео
+-lexeme
+ lex: ванмочама
+ stem: ванмочама.
+ gramm: N
+ paradigm: N-back
+ trans_ru: портрет
+-lexeme
+ lex: вармакрандаз
+ stem: вармакрандаз.
+ gramm: N
+ paradigm: N-back
+ trans_ru: перекати-поле
+-lexeme
+ lex: икелевалдома
+ stem: икелевалдома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: фара
+-lexeme
+ lex: инеламоксчи
+ stem: инеламоксчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: колоссальность
+-lexeme
+ lex: инелопа
+ stem: инелопа.
+ gramm: N
+ paradigm: N-back
+ trans_ru: конвенция
+-lexeme
+ lex: инеморо
+ stem: инеморо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: эпос, гимн
+-lexeme
+ lex: ислам
+ stem: ислам.
+ gramm: N
+ paradigm: N-back
+ trans_ru: ислам
+-lexeme
+ lex: калмазэрь
+ stem: калмазэр.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: кладбище
+-lexeme
+ lex: карвотикше
+ stem: карвотикше.
+ gramm: N
+ paradigm: N-front
+ trans_ru: душица
+-lexeme
+ lex: кармавкс
+ stem: кармавкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: заказ
+-lexeme
+ lex: кармавтовкс
+ stem: кармавтовкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: завет
+-lexeme
+ lex: конёвкс
+ stem: конёвкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: книга, текст, документ
+-lexeme
+ lex: конёвлопа
+ stem: конёвлопа.
+ gramm: N
+ paradigm: N-back
+ trans_ru: листовка
+-lexeme
+ lex: ловномапусмо
+ stem: ловномапусмо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: книга
+-lexeme
+ lex: мейге
+ stem: мейге.
+ gramm: N
+ paradigm: N-front
+ trans_ru: опровержение
+-lexeme
+ lex: мелькаявкс
+ stem: мелькаявкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: заказ
+-lexeme
+ lex: мелькевкстнема
+ stem: мелькевкстнема.
+ gramm: N
+ paradigm: N-back
+ trans_ru: соцопрос
+-lexeme
+ lex: мельполадкс
+ stem: мельполадкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: статья
+-lexeme
+ lex: мельпутовкс
+ stem: мельпутовкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: решение
+-lexeme
+ lex: мельсёрмадкс
+ stem: мельсёрмадкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: статья
+-lexeme
+ lex: мельяволявкс
+ stem: мельяволявкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: заявка
+-lexeme
+ lex: мельяволявтома
+ stem: мельяволявтома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: резолюция
+-lexeme
+ lex: менельмастор
+ stem: менельмастор.
+ gramm: N
+ paradigm: N-back
+ trans_ru: вселенная
+-lexeme
+ lex: менельтомбалькс
+ stem: менельтомбалькс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: космос
+-lexeme
+ lex: микшнемапель
+ stem: микшнемапел.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: товар
+-lexeme
+ lex: микшнематев
+ stem: микшнематев.
+ gramm: N
+ paradigm: N-front
+ trans_ru: торговля
+-lexeme
+ lex: микшнемтев
+ stem: микшнемтев.
+ gramm: N
+ paradigm: N-front
+ trans_ru: торговля
+-lexeme
+ lex: невкслопа
+ stem: невкслопа.
+ gramm: N
+ paradigm: N-back
+ trans_ru: мандан
+-lexeme
+ lex: парцун
+ stem: парцун.
+ gramm: N
+ paradigm: N-back
+ trans_ru: форма
+-lexeme
+ lex: парька
+ stem: парька.
+ gramm: N
+ paradigm: N-back
+ trans_ru: кадка для приданого
+-lexeme
+ lex: пильгеоска
+ stem: пильгеоска.
+ gramm: N
+ paradigm: N-back
+ trans_ru: футбол
+-lexeme
+ lex: пиряка
+ stem: пиряка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: пирог
+-lexeme
+ lex: порцька
+ stem: порцька.
+ gramm: N
+ paradigm: N-back
+ trans_ru: перец
+-lexeme
+ lex: преввалдомтома
+ stem: преввалдомтома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: просвещение
+-lexeme
+ lex: превспутома
+ stem: превспутома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: совет
+-lexeme
+ lex: превспутомапромкс
+ stem: превспутомапромкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: совещание
+-lexeme
+ lex: превчи
+ stem: превчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: мудрость
+-lexeme
+ lex: продештя
+ stem: продештя.
+ gramm: N
+ paradigm: N-back
+ trans_ru: прозвище
+-lexeme
+ lex: прявтказне
+ stem: прявтказне.
+ gramm: N
+ paradigm: N-front
+ trans_ru: главный приз
+-lexeme
+ lex: прявтлопа
+ stem: прявтлопа.
+ gramm: N
+ paradigm: N-back
+ trans_ru: главная страница
+-lexeme
+ lex: прявтмасторкой
+ stem: прявтмасторко.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: конституция
+-lexeme
+ lex: пупорька
+ stem: пупорька.
+ gramm: N
+ paradigm: N-back
+ trans_ru: кнопка
+-lexeme
+ lex: ськамочи
+ stem: ськамочи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: одиночество
+-lexeme
+ lex: сюкорка
+ stem: сюкорка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: лепёшка
+-lexeme
+ lex: сёрмаполавтовкс
+ stem: сёрмаполавтовкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: корреспонденция
+-lexeme
+ lex: сёрмаполавтома
+ stem: сёрмаполавтома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: корреспонденция
+-lexeme
+ lex: сёрмарисьме
+ stem: сёрмарисьме.
+ gramm: N
+ paradigm: N-front
+ trans_ru: текст
+-lexeme
+ lex: тонавкс
+ stem: тонавкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: пособие
+-lexeme
+ lex: тёкшкудо
+ stem: тёкшкудо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: небоскрёб
+-lexeme
+ lex: эриванмо
+ stem: эриванмо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: видео, фильм
+-lexeme
+ lex: автяз
+ stem: автяз.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: разиня
+-lexeme
+ lex: автяй
+ stem: автя.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: разиня
+-lexeme
+ lex: инеатя
+ stem: инеатя.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: старейшина
+-lexeme
+ lex: кардыдей
+ stem: кардыде.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: милиционер, полицейский
+-lexeme
+ lex: кочказей
+ stem: кочказе.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: избиратель
+-lexeme
+ lex: кочкий
+ stem: кочки.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: избиратель
+-lexeme
+ lex: крандазтейниця
+ stem: крандазтейниця.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: тот, кто делает телеги
+-lexeme
+ lex: мельгамолиця
+ stem: мельгамолиця.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: последователь
+-lexeme
+ lex: преввалдомтыця
+ stem: преввалдомтыця.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: просветитель
+-lexeme
+ lex: превпарго
+ stem: превпарго.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: мудрец
+-lexeme
+ lex: превспутыця
+ stem: превспутыця.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: советник
+-lexeme
+ lex: прявтвитниця
+ stem: прявтвитниця.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: редактор
+-lexeme
+ lex: прявткуро
+ stem: прявткуро.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: начальник
+-lexeme
+ lex: сырява
+ stem: сырява.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: бабушка по матери
+-lexeme
+ lex: тулапа
+ stem: тулапа.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: разиня
+-lexeme
+ lex: тёкшатя
+ stem: тёкшатя.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: старейшина
+-lexeme
+ lex: сырькайне
+ stem: сырькайне.
+ gramm: N,anim,humD
+ paradigm: N-front
+ trans_ru: старик, старуха; старшая сестра
+-lexeme
+ lex: абессив
+ stem: абессив.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: абэссив
+-lexeme
+ lex: аблатив
+ stem: аблатив.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: аблатив
+-lexeme
+ lex: абстракционизма
+ stem: абстракционизма.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: абстракционизм
+-lexeme
+ lex: абсурд
+ stem: абсурд.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: абсурд
+-lexeme
+ lex: авачка
+ stem: авачка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: авочка, аватарка
+-lexeme
+ lex: авитаминоз
+ stem: авитаминоз.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: авитаминоз
+-lexeme
+ lex: авочка
+ stem: авочка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: авочка, аватарка
+-lexeme
+ lex: автогол
+ stem: автогол.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: автогол
+-lexeme
+ lex: автозамена
+ stem: автозамена.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: автозамена
+-lexeme
+ lex: автомагнитола
+ stem: автомагнитола.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: автомагнитола
+-lexeme
+ lex: автомойка
+ stem: автомойка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: автомойка
+-lexeme
+ lex: автопортрет
+ stem: автопортрет.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: автопортрет
+-lexeme
+ lex: автопромовской
+ stem: автопромовско.
+ gramm: N,rus
+ paradigm: N-front-j
+ trans_ru: автопромовский
+-lexeme
+ lex: аглютинация
+ stem: аглютинация.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: аглютинация
+-lexeme
+ lex: агропредприятия
+ stem: агропредприятия.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: агропредприятие
+-lexeme
+ lex: воевамс
+ stem: воевамс.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: воевать
+-lexeme
+ lex: возможность
+ stem: возможност.
+ gramm: N,rus
+ paradigm: N-front-soft
+ trans_ru: возможность
+-lexeme
+ lex: заимствования
+ stem: заимствования.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: заимствование
+-lexeme
+ lex: заповедь
+ stem: заповед.
+ gramm: N,rus
+ paradigm: N-front-soft
+ trans_ru: заповедь
+-lexeme
+ lex: засада
+ stem: засада.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: засада
+-lexeme
+ lex: инициатев
+ stem: инициатев.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: акция
+-lexeme
+ lex: исключения
+ stem: исключения.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: исключение
+-lexeme
+ lex: каникула
+ stem: каникула.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: каникулы
+-lexeme
+ lex: каруселька
+ stem: каруселька.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: каруселька
+-lexeme
+ lex: колонизация
+ stem: колонизация.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: колонизация
+-lexeme
+ lex: колорироования
+ stem: колорироования.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: клонирование
+-lexeme
+ lex: крещения
+ stem: крещения.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: крещение
+-lexeme
+ lex: мелодика
+ stem: мелодика.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: мелодика
+-lexeme
+ lex: менеджмент
+ stem: менеджмент.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: менеджмент
+-lexeme
+ lex: металлоискатель
+ stem: металлоискател.
+ gramm: N,rus
+ paradigm: N-front-soft
+ trans_ru: металлоискатель
+-lexeme
+ lex: метаморфоза
+ stem: метаморфоза.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: метаморфоза
+-lexeme
+ lex: мнения
+ stem: мнения.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: мнение
+-lexeme
+ lex: модем
+ stem: модем.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: модем
+-lexeme
+ lex: модерация
+ stem: модерация.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: модерация
+-lexeme
+ lex: небоскрёб
+ stem: небоскрёб.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: небоскрёб
+-lexeme
+ lex: небылица
+ stem: небылица.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: небылица
+-lexeme
+ lex: панкреатит
+ stem: панкреатит.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: панкреатит
+-lexeme
+ lex: пантомима
+ stem: пантомима.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: пантомима
+-lexeme
+ lex: пасиба
+ stem: пасиба.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: спасибо
+-lexeme
+ lex: печения
+ stem: печения.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: печенье
+-lexeme
+ lex: печенья
+ stem: печенья.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: печенье
+-lexeme
+ lex: пиратства
+ stem: пиратства.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: пиратство
+-lexeme
+ lex: пирожное
+ stem: пирожное.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: пирожное
+-lexeme
+ lex: правила
+ stem: правила.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: правило, правила
+-lexeme
+ lex: праформа
+ stem: праформа.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: праформа
+-lexeme
+ lex: премьер-лига
+ stem: премьер-лига.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: премьер-лига
+-lexeme
+ lex: преследования
+ stem: преследования.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: преследование
+-lexeme
+ lex: прибаутка
+ stem: прибаутка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: прибаутка
+-lexeme
+ lex: прозвища
+ stem: прозвища.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: прозвище
+-lexeme
+ lex: психоделика
+ stem: психоделика.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: психоделика
+-lexeme
+ lex: троиця
+ stem: троиця.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: Троица
+-lexeme
+ lex: эритроцит
+ stem: эритроцит.
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: эритроцит
+-lexeme
+ lex: ярмунка
+ stem: ярмунка.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: ярмарка
+-lexeme
+ lex: авгур
+ stem: авгур.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: авгур
+-lexeme
+ lex: авторитарист
+ stem: авторитарист.
+ gramm: N,rus,anim,hum
+ paradigm: N-front
+ trans_ru: авторитарист
+-lexeme
+ lex: замполит
+ stem: замполит.
+ gramm: N,rus,anim,hum
+ paradigm: N-front
+ trans_ru: замполит
+-lexeme
+ lex: инициатор
+ stem: инициатор.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: инициатор
+-lexeme
+ lex: каннибал
+ stem: каннибал.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: каннибал
+-lexeme
+ lex: карело-финн
+ stem: карело-финн.
+ gramm: N,rus,anim,hum
+ paradigm: N-front
+ trans_ru: карело-финн
+-lexeme
+ lex: кривич
+ stem: кривич.
+ gramm: N,rus,anim,hum
+ paradigm: N-front
+ trans_ru: кривич
+-lexeme
+ lex: крёснава
+ stem: крёснава.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: крёстная
+-lexeme
+ lex: невеста
+ stem: невеста.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: невеста
+-lexeme
+ lex: пастор
+ stem: пастор.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: пастор
+-lexeme
+ lex: правитель
+ stem: правител.
+ gramm: N,rus,anim,hum
+ paradigm: N-front-soft
+ trans_ru: правитель
+-lexeme
+ lex: прапрадедушка
+ stem: прапрадедушка.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: прапрадедушка
+-lexeme
+ lex: пресс-атташе
+ stem: пресс-атташе.
+ gramm: N,rus,anim,hum
+ paradigm: N-front
+ trans_ru: пресс-атташе
+-lexeme
+ lex: прявтредактор
+ stem: прявтредактор.
+ gramm: N,rus,anim,hum
+ paradigm: N-back
+ trans_ru: главный редактор
+-lexeme
+ lex: ироплан
+ stem: ироплан.
+ gramm: N,rus,transport
+ paradigm: N-back
+ trans_ru: самолёт
+-lexeme
+ lex: австралопитек
+ stem: австралопитек.
+ gramm: N,rusA
+ paradigm: N-front
+ trans_ru: австралопитек
+-lexeme
+ lex: аваньчи
+ stem: аваньчи.
+ gramm: N,time_meas
+ paradigm: N-front
+ trans_ru: женский день
+-lexeme
+ lex: автокрандаз
+ stem: автокрандаз.
+ gramm: N,transport
+ paradigm: N-back
+ trans_ru: автомобиль
+-lexeme
+ lex: коштвенч
+ stem: коштвенч.
+ gramm: N,transport
+ paradigm: N-front
+ trans_ru: самолёт
+-lexeme
+ lex: менельвенч
+ stem: менельвенч.
+ gramm: N,transport
+ paradigm: N-front
+ trans_ru: звездолёт
+-lexeme
+ lex: мотокрандаз
+ stem: мотокрандаз.
+ gramm: N,transport
+ paradigm: N-back
+ trans_ru: мотоцикл
+-lexeme
+ lex: сокскрандаз
+ stem: сокскрандаз.
+ gramm: N,transport
+ paradigm: N-back
+ trans_ru: телега на лыжах
+-lexeme
+ lex: копоре
+ stem: копоре.
+ gramm: N,body
+ paradigm: N-front
+ trans_ru: спина
+-lexeme
+ lex: сёлно
+ stem: сёлно.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: крыло
+-lexeme
+ lex: сёрмадовксне
+ stem: сёрмадовксне.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: запись, пост
+-lexeme
+ lex: сёрмадовкснэ
+ stem: сёрмадовкснэ.
+ gramm: N,dim
+ paradigm: N-front
+ trans_ru: запись, пост
+-lexeme
+ lex: инепаз
+ stem: инепаз.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: Бог

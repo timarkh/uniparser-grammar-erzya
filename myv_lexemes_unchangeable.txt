@@ -92,6 +92,13 @@
  trans_ru: мало
 
 -lexeme
+ lex: аламодыне
+ stem: аламодыне.
+ gramm: ADV,dim
+ paradigm: Clitics
+ trans_ru: немножечко
+
+-lexeme
  lex: ало
  stem: ало.
  gramm: ADV
@@ -1062,6 +1069,7 @@
  stem: икельга.
  gramm: ADV
  paradigm: Clitics
+ paradigm: POST-poss-back-vowel
  trans_ru: на виду, откровенно
 
 -lexeme
@@ -6783,3 +6791,77 @@
  gramm: add,missp
  paradigm: Empty
  trans_ru: и
+
+
+-lexeme
+ lex: авасов
+ stem: авасов.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: недалеко
+-lexeme
+ lex: пиземалов
+ stem: пиземалов.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: под дождь
+-lexeme
+ lex: пильгалдо
+ stem: пильгалдо.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: из-под ног
+-lexeme
+ lex: абаквенна
+ stem: абаквенна.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: обыкновенно
+-lexeme
+ lex: абидна
+ stem: абидна.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: обидно
+-lexeme
+ lex: похуй
+ stem: похуй.
+ gramm: PREDIC,rus
+ paradigm: Clitics
+ trans_ru: похуй
+-lexeme
+ lex: авось
+ stem: авось.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: авось
+-lexeme
+ lex: вообще
+ stem: вообще.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: вообще
+-lexeme
+ lex: кстати
+ stem: кстати.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: кстати
+-lexeme
+ lex: пиздец
+ stem: пиздец.
+ gramm: PARENTH,rus
+ paradigm: Clitics
+ trans_ru: пиздец
+-lexeme
+ lex: вон
+ stem: вон.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: вон
+-lexeme
+ lex: вот
+ stem: вот.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: вот
