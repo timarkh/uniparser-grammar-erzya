@@ -105,9 +105,9 @@
 
 -lexeme
  lex: аваломань
- stem: аваломан.
+ stem: аваломан.|аваломан.//авалома.
  gramm: N,anim,hum
- paradigm: N-front-soft
+ paradigm: N-front-lomanj
  trans_ru: женщина
 
 -lexeme
@@ -2450,9 +2450,9 @@
 
 -lexeme
  lex: вармаломань
- stem: вармаломан.
+ stem: вармаломан.|вармаломан.//вармалома.
  gramm: N,anim,hum
- paradigm: N-front-soft
+ paradigm: N-front-lomanj
  trans_ru: ветреный человек
 
 -lexeme
@@ -4718,9 +4718,9 @@
 
 -lexeme
  lex: душманломань
- stem: душманломан.
+ stem: душманломан.|душманломан.//душманлома.
  gramm: N,anim,hum
- paradigm: N-front-soft
+ paradigm: N-front-lomanj
  trans_ru: злодей
 
 -lexeme
@@ -5082,9 +5082,9 @@
 
 -lexeme
  lex: икелеломань
- stem: икелеломан.
+ stem: икелеломан.|икелеломан.//икелелома.
  gramm: N,anim,hum
- paradigm: N-front-soft
+ paradigm: N-front-lomanj
  trans_ru: предок
 
 -lexeme
@@ -9814,9 +9814,9 @@
 
 -lexeme
  lex: колдунломань
- stem: колдунломан.
+ stem: колдунломан.|колдунломан.//колдунлома.
  gramm: N,rus,anim,hum
- paradigm: N-front-soft
+ paradigm: N-front-lomanj
  trans_ru: колдун
 
 -lexeme
@@ -11529,9 +11529,9 @@
 
 -lexeme
  lex: кулоломань
- stem: кулоломан.
+ stem: кулоломан.|кулоломан.//кулолома.
  gramm: N
- paradigm: N-front-soft
+ paradigm: N-front-lomanj
  trans_ru: мертвец, покойник, труп
 
 -lexeme
@@ -13713,10 +13713,17 @@
 
 -lexeme
  lex: ломань
- stem: ломан.
+ stem: ломан.|ломан.//лома.
  gramm: N,anim,hum
- paradigm: N-front-soft
+ paradigm: N-front-lomanj
  trans_ru: человек
+
+-lexeme
+ lex: ломаньмашый
+ stem: ломаньмашы.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: палач
 
 -lexeme
  lex: ломаньбаня
@@ -31137,9 +31144,9 @@
 
 -lexeme
  lex: цёраломань
- stem: цёраломан.//цераломан.
+ stem: цёраломан.//цераломан.|цёраломан.//цераломан.//цёралома.//цералома.
  gramm: N,anim,hum
- paradigm: N-front-soft
+ paradigm: N-front-lomanj
  trans_ru: мужчина
 
 -lexeme
@@ -33790,9 +33797,9 @@
 
 -lexeme
  lex: эриломань
- stem: эриломан.
+ stem: эриломан.|эриломан.//эрилома.
  gramm: N,anim,hum
- paradigm: N-front-soft
+ paradigm: N-front-lomanj
  trans_ru: житель, муж
 
 -lexeme

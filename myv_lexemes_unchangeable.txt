@@ -743,25 +743,11 @@
  trans_ru: ни разу
 
 -lexeme
- lex: ветексть
- stem: ветексть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: пять раз
-
--lexeme
  lex: ветень-ветень
  stem: ветень-ветень.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по пять
-
--lexeme
- lex: ветеньгирда
- stem: ветеньгирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: в пять рядов, пятикратно
 
 -lexeme
  lex: веть
@@ -1142,39 +1128,11 @@
  trans_ru: вчера
 
 -lexeme
- lex: кавксть
- stem: кавксть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: вдвойне, дважды
-
--lexeme
  lex: кавонек
  stem: кавонек.
  gramm: ADV
  paradigm: Clitics
  trans_ru: вдвоём
-
--lexeme
- lex: кавонест
- stem: кавонест.
- gramm: ADV
- paradigm: Clitics
- trans_ru: вдвоём
-
--lexeme
- lex: кавоньгирда
- stem: кавоньгирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: вдвойне
-
--lexeme
- lex: кавонькирда
- stem: кавонькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: вдвойне
 
 -lexeme
  lex: кавтов
@@ -1189,13 +1147,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: по два
-
--lexeme
- lex: кавтонькирда
- stem: кавтонькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: вдвойне
 
 -lexeme
  lex: кажовсто
@@ -1268,13 +1219,6 @@
  trans_ru: по одиннадцать
 
 -lexeme
- lex: кевейкеенькирда
- stem: кевейкеенькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: одиннадцать раз
-
--lexeme
  lex: кедсек-пецек
  stem: кедсек-пецек.
  gramm: ADV
@@ -1345,62 +1289,6 @@
  trans_ru: холодно
 
 -lexeme
- lex: кемгавксовоксть
- stem: кемгавксовоксть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: восемнадцать раз
-
--lexeme
- lex: кемгавксовонькирда
- stem: кемгавксовонькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: восемнадцать раз
-
--lexeme
- lex: кемгавтовоксть
- stem: кемгавтовоксть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: двенадцать раз
-
--lexeme
- lex: кемгавтовонькирда
- stem: кемгавтовонькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: двенадцать раз
-
--lexeme
- lex: кемголмовоксть
- stem: кемголмовоксть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: тринадцать раз
-
--lexeme
- lex: кемголмовонькирда
- stem: кемголмовонькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: тринадцать раз
-
--lexeme
- lex: кемготовоксть
- stem: кемготовоксть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: шестнадцать раз
-
--lexeme
- lex: кемготовонькирда
- stem: кемготовонькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: шестнадцать раз
-
--lexeme
  lex: кеменень-кеменень
  stem: кеменень-кеменень.
  gramm: ADV
@@ -1408,46 +1296,11 @@
  trans_ru: по десять
 
 -lexeme
- lex: кеменест
- stem: кеменест.
- gramm: ADV
- paradigm: Clitics
- trans_ru: вдесятером
-
--lexeme
- lex: кеменькирда
- stem: кеменькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: десять раз
-
--lexeme
  lex: кеместэ
  stem: кеместэ.
  gramm: ADV
  paradigm: Clitics
  trans_ru: крепко
-
--lexeme
- lex: кемзисемгенькирда
- stem: кемзисемгенькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: семнадцать раз
-
--lexeme
- lex: кемнилеексть
- stem: кемнилеексть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: четырнадцать раз
-
--lexeme
- lex: кемнилеенькирда
- stem: кемнилеенькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: четырнадцать раз
 
 -lexeme
  lex: керч-курч
@@ -1534,20 +1387,6 @@
  trans_ru: далеко
 
 -lexeme
- lex: кодгеменексть
- stem: кодгеменексть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: шестьдесят раз
-
--lexeme
- lex: кодгемененькирда
- stem: кодгемененькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: шестьдесят раз
-
--lexeme
  lex: козыяк
  stem: козыяк.
  gramm: ADV
@@ -1569,39 +1408,11 @@
  trans_ru: на три части
 
 -lexeme
- lex: колмоксть
- stem: колмоксть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: три раза, трижды
-
--lexeme
  lex: колмонь-колмонь
  stem: колмонь-колмонь.
  gramm: ADV
  paradigm: Clitics
  trans_ru: по три
-
--lexeme
- lex: колмоньгирда
- stem: колмоньгирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: в три ряда
-
--lexeme
- lex: колмонькирда
- stem: колмонькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: трижды
-
--lexeme
- lex: колоньгеменькирда
- stem: колоньгеменькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: тридцать раз
 
 -lexeme
  lex: колсто
@@ -1686,27 +1497,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: на шесть частей
-
--lexeme
- lex: котоксть
- stem: котоксть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: в шесть раз
-
--lexeme
- lex: котонест
- stem: котонест.
- gramm: ADV
- paradigm: Clitics
- trans_ru: вшестером
-
--lexeme
- lex: котоньгирда
- stem: котоньгирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: шесть раз
 
 -lexeme
  lex: кувакасто
@@ -1970,7 +1760,7 @@
 -lexeme
  lex: ламоньгирда
  stem: ламоньгирда.
- gramm: ADV
+ gramm: ADV,distr
  paradigm: Clitics
  trans_ru: много раз
 
@@ -2409,13 +2199,6 @@
  trans_ru: вчетверо, на четверых
 
 -lexeme
- lex: нилексть
- stem: нилексть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: четыре раза, четырежды
-
--lexeme
  lex: ниленек
  stem: ниленек.
  gramm: ADV
@@ -2428,20 +2211,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: по четыре
-
--lexeme
- lex: ниленькирда
- stem: ниленькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: четыре раза, четырёхкратно
-
--lexeme
- lex: нилецеде
- stem: нилецеде.
- gramm: ADV
- paradigm: Clitics
- trans_ru: в четвертый раз
 
 -lexeme
  lex: нильтянясто
@@ -3200,30 +2969,16 @@
  trans_ru: все до единого, с корнем
 
 -lexeme
- lex: сядоксть
- stem: сядоксть.
- gramm: ADV
- paradigm: Clitics
- trans_ru: в сотый раз
-
--lexeme
- lex: сядонькирда
- stem: сядонькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: в сотый раз
-
--lexeme
  lex: сякойкс
  stem: сякойкс.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: всячески
 
 -lexeme
  lex: сякойстэ
  stem: сякойстэ.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: по-всякому
 
@@ -6080,20 +5835,6 @@
  trans_ru: без души, нехотя
 
 -lexeme
- lex: вееньгирда
- stem: вееньгирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: один раз
-
--lexeme
- lex: веенькирда
- stem: веенькирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: один раз
-
--lexeme
  lex: вентяпа
  stem: вентяпа.
  gramm: ADV
@@ -6232,13 +5973,6 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: наконец
-
--lexeme
- lex: омбоньгирда
- stem: омбоньгирда.
- gramm: ADV
- paradigm: Clitics
- trans_ru: вторично
 
 -lexeme
  lex: остаткаксть
@@ -7036,3 +6770,16 @@
  gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: наверно
+
+-lexeme
+ lex: гак
+ stem: гак.
+ gramm: add,missp
+ paradigm: Empty
+ trans_ru: и
+-lexeme
+ lex: як
+ stem: як.
+ gramm: add,missp
+ paradigm: Empty
+ trans_ru: и
