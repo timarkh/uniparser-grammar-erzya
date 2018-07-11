@@ -4395,6 +4395,13 @@
  trans_ru: куст
 
 -lexeme
+ lex: озолма
+ stem: озолма.
+ gramm: N
+ paradigm: N-back
+ trans_ru: молитва
+
+-lexeme
  lex: гуй
  stem: гу.
  gramm: N,anim
@@ -7942,6 +7949,20 @@
  gramm: N,body
  paradigm: N-back
  trans_ru: глотка
+
+-lexeme
+ lex: кельгома
+ stem: кельгома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: любовь
+
+-lexeme
+ lex: лемпутома
+ stem: лемпутома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: номинация
 
 -lexeme
  lex: келькирдема
@@ -17527,13 +17548,6 @@
  trans_ru: обух
 
 -lexeme
- lex: обран
- stem: обран.
- gramm: N,anim
- paradigm: N-back
- trans_ru: морж
-
--lexeme
  lex: обрашке
  stem: обрашке.|обрашк.
  gramm: N,anim,dim
@@ -17805,6 +17819,13 @@
  gramm: N
  paradigm: N-back
  trans_ru: отдых
+
+-lexeme
+ lex: озава
+ stem: озава.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: жрица
 
 -lexeme
  lex: озатя
@@ -41093,6 +41114,13 @@
  trans_ru: винегрет
 
 -lexeme
+ lex: вина
+ stem: вина.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: вино
+
+-lexeme
  lex: виноград
  stem: виноград.
  gramm: N,rus
@@ -43473,6 +43501,13 @@
  gramm: N,rus
  paradigm: N-back
  trans_ru: гуманизм
+
+-lexeme
+ lex: шаманизма
+ stem: шаманизма.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: шаманизм
 
 -lexeme
  lex: гуталин
@@ -65634,6 +65669,13 @@
  trans_ru: романтизм
 
 -lexeme
+ lex: этноромантизма
+ stem: этноромантизма.//этнороманьтизма.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: этноромантизм
+
+-lexeme
  lex: романтика
  stem: романтика.//романьтика.
  gramm: N,rus
@@ -84084,7 +84126,7 @@
 
 -lexeme
  lex: мордва
- stem: мордва.
+ stem: мордва.//мардва.
  gramm: N,rus,anim,hum
  paradigm: N-back
  trans_ru: мордва
@@ -90489,13 +90531,6 @@
 
 -lexeme
  lex: документ
- stem: докумен.
- gramm: N,rus,missp
- paradigm: N-back
- trans_ru: документ
-
--lexeme
- lex: документ
  stem: докумет.
  gramm: N,rus,missp
  paradigm: N-back
@@ -91888,6 +91923,13 @@
  stem: феврал.
  gramm: N,rus,time_meas
  paradigm: N-front-soft
+ trans_ru: февраль
+
+-lexeme
+ lex: даволков
+ stem: даволков.
+ gramm: N,time_meas
+ paradigm: N-back
  trans_ru: февраль
 
 -lexeme
@@ -95941,6 +95983,12 @@
  paradigm: N-front
  trans_ru: автоответчик
 -lexeme
+ lex: кортним
+ stem: кортним.
+ gramm: N
+ paradigm: N-front
+ trans_ru: телефон
+-lexeme
  lex: автополавтома
  stem: автополавтома.
  gramm: N
@@ -96369,12 +96417,12 @@
 -lexeme
  lex: сырькайне
  stem: сырькайне.
- gramm: N,anim,humD
+ gramm: N,anim,hum,dim
  paradigm: N-front
  trans_ru: старик, старуха; старшая сестра
 -lexeme
- lex: абессив
- stem: абессив.
+ lex: абэссив
+ stem: абессив.//абэссив.
  gramm: N,rus
  paradigm: N-front
  trans_ru: абэссив
@@ -96397,12 +96445,6 @@
  paradigm: N-back
  trans_ru: абсурд
 -lexeme
- lex: авачка
- stem: авачка.
- gramm: N,rus
- paradigm: N-back
- trans_ru: авочка, аватарка
--lexeme
  lex: авитаминоз
  stem: авитаминоз.
  gramm: N,rus
@@ -96410,7 +96452,7 @@
  trans_ru: авитаминоз
 -lexeme
  lex: авочка
- stem: авочка.
+ stem: авочка.//авачка.
  gramm: N,rus
  paradigm: N-back
  trans_ru: авочка, аватарка
@@ -96445,12 +96487,6 @@
  paradigm: N-front
  trans_ru: автопортрет
 -lexeme
- lex: автопромовской
- stem: автопромовско.
- gramm: N,rus
- paradigm: N-front-j
- trans_ru: автопромовский
--lexeme
  lex: аглютинация
  stem: аглютинация.
  gramm: N,rus
@@ -96458,16 +96494,11 @@
  trans_ru: аглютинация
 -lexeme
  lex: агропредприятия
- stem: агропредприятия.
+ stem: агропредприятия.//агропредприятие.
  gramm: N,rus
  paradigm: N-back
+ paradigm: N-front
  trans_ru: агропредприятие
--lexeme
- lex: воевамс
- stem: воевамс.
- gramm: N,rus
- paradigm: N-back
- trans_ru: воевать
 -lexeme
  lex: возможность
  stem: возможност.
@@ -96476,9 +96507,10 @@
  trans_ru: возможность
 -lexeme
  lex: заимствования
- stem: заимствования.
+ stem: заимствования.//заимствование.
  gramm: N,rus
  paradigm: N-back
+ paradigm: N-front
  trans_ru: заимствование
 -lexeme
  lex: заповедь
@@ -96500,9 +96532,10 @@
  trans_ru: акция
 -lexeme
  lex: исключения
- stem: исключения.
+ stem: исключения.//исключение.
  gramm: N,rus
  paradigm: N-back
+ paradigm: N-front
  trans_ru: исключение
 -lexeme
  lex: каникула
@@ -96524,15 +96557,17 @@
  trans_ru: колонизация
 -lexeme
  lex: колорироования
- stem: колорироования.
- gramm: N,rus
+ stem: колорироования.//колорироование.
+ gramm: N,rus,missp
  paradigm: N-back
- trans_ru: клонирование
+ paradigm: N-front
+ trans_ru: колорирование
 -lexeme
  lex: крещения
- stem: крещения.
+ stem: крещения.//крещение.
  gramm: N,rus
  paradigm: N-back
+ paradigm: N-front
  trans_ru: крещение
 -lexeme
  lex: мелодика
@@ -96560,9 +96595,10 @@
  trans_ru: метаморфоза
 -lexeme
  lex: мнения
- stem: мнения.
+ stem: мнения.//мнение.
  gramm: N,rus
  paradigm: N-back
+ paradigm: N-front
  trans_ru: мнение
 -lexeme
  lex: модем
@@ -96620,7 +96656,7 @@
  trans_ru: печенье
 -lexeme
  lex: пиратства
- stem: пиратства.
+ stem: пиратства.//пиратство.
  gramm: N,rus
  paradigm: N-back
  trans_ru: пиратство
@@ -96650,9 +96686,10 @@
  trans_ru: премьер-лига
 -lexeme
  lex: преследования
- stem: преследования.
+ stem: преследования.//преследование.
  gramm: N,rus
  paradigm: N-back
+ paradigm: N-front
  trans_ru: преследование
 -lexeme
  lex: прибаутка
@@ -96662,9 +96699,10 @@
  trans_ru: прибаутка
 -lexeme
  lex: прозвища
- stem: прозвища.
+ stem: прозвища.//прозвище.
  gramm: N,rus
  paradigm: N-back
+ paradigm: N-front
  trans_ru: прозвище
 -lexeme
  lex: психоделика
@@ -96783,7 +96821,7 @@
 -lexeme
  lex: австралопитек
  stem: австралопитек.
- gramm: N,rusA
+ gramm: N,rus,anim
  paradigm: N-front
  trans_ru: австралопитек
 -lexeme

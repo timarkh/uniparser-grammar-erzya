@@ -693,7 +693,7 @@
 
 -lexeme
  lex: сынь
- stem: сыненст.//тенст.
+ stem: сыненст.//сынест.//тенст.
  gramm: PRO,3,pl,dat
  paradigm: Clitics
  trans_ru: они
@@ -1510,6 +1510,14 @@
  stem: косо.
  gramm: ADVPRO
  paradigm: Clitics
+ paradigm: Pred-back-vowel
+ trans_ru: где; везде
+
+-lexeme
+ lex: косо
+ stem: кос.
+ gramm: ADVPRO
+ paradigm: Pred-back-consonant
  trans_ru: где; везде
 
 -lexeme
@@ -1538,6 +1546,7 @@
  stem: косто.|кост.
  gramm: ADVPRO
  paradigm: Clitics
+ paradigm: Pred-back-vowel
  trans_ru: откуда
 
 -lexeme
@@ -1676,6 +1685,13 @@
 -lexeme
  lex: мейле
  stem: мейле.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: затем, после, потом
+
+-lexeme
+ lex: мееле
+ stem: мееле.
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: затем, после, потом

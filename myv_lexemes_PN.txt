@@ -84,6 +84,13 @@
  trans_ru: Агрострой
 
 -lexeme
+ lex: Адо
+ stem: адо.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Адо
+
+-lexeme
  lex: Аксион
  stem: аксион.
  gramm: N,PN
@@ -250,6 +257,13 @@
  gramm: N,PN
  paradigm: N-back
  trans_ru: Владислав
+
+-lexeme
+ lex: Числав
+ stem: числав.
+ gramm: N,PN
+ paradigm: N-back
+ trans_ru: Числав
 
 -lexeme
  lex: Внешторгбанк
@@ -49427,6 +49441,13 @@
  trans_ru: Владимир
 
 -lexeme
+ lex: Олодимер
+ stem: олодимер.
+ gramm: N,PN,persn
+ paradigm: N-front
+ trans_ru: Владимир
+
+-lexeme
  lex: Владислава
  stem: владислава.
  gramm: N,PN,persn
@@ -59536,6 +59557,13 @@
  trans_ru: Москва
 
 -lexeme
+ lex: Москва
+ stem: мск.
+ gramm: N,PN,topn,abbr
+ paradigm: N-back
+ trans_ru: Москва
+
+-lexeme
  lex: Москов
  stem: москов.
  gramm: N,PN,topn
@@ -63918,6 +63946,13 @@
  trans_ru: Калаганонь
 
 -lexeme
+ lex: Зинёронь
+ stem: зинёрон.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Зинёронь
+
+-lexeme
  lex: Эрьмезь
  stem: эрьмез.
  gramm: N,PN,persn
@@ -63953,6 +63988,13 @@
  trans_ru: Жегалина
 
 -lexeme
+ lex: Люлякина
+ stem: люлякина.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Люлякина
+
+-lexeme
  lex: Тюштя
  stem: тюштя.
  gramm: N,PN,persn
@@ -63972,6 +64014,13 @@
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Кильдюш
+
+-lexeme
+ lex: Олёш
+ stem: олёш.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Алёша
 
 -lexeme
  lex: Кильдюш
@@ -65105,6 +65154,18 @@
  paradigm: N-back
  trans_ru: Пурьгинепаз
 -lexeme
+ lex: Маол
+ stem: маол.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Маол
+-lexeme
+ lex: Тузур
+ stem: тузур.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Тузур
+-lexeme
  lex: Сыряпа
  stem: сыряпа.
  gramm: N,PN,persn
@@ -65278,3 +65339,17 @@
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Эритрея
+
+
+-lexeme
+ lex: Обран
+ stem: обран.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Нижний Новгород
+-lexeme
+ lex: Чукал
+ stem: чукал.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Чукалы

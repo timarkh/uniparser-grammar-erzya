@@ -304,14 +304,14 @@
  stem: асодавикс.
  gramm: A
  paradigm: A-front
- trans_ru: незаметный
+ trans_ru: неизвестный
 
 -lexeme
- lex: асодавикс
- stem: асодавикс.
+ lex: содавикс
+ stem: содавикс.
  gramm: A
  paradigm: A-front
- trans_ru: неизвестный
+ trans_ru: известный
 
 -lexeme
  lex: астувтовикс
@@ -8096,6 +8096,13 @@
  gramm: A
  paradigm: A-front-j
  trans_ru: живой
+
+-lexeme
+ lex: эрзянь-мокшонь
+ stem: эрзянь-мокшонь.//эрзяньмокшон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: мордовский
 
 -lexeme
  lex: эрзямокшонь
@@ -22777,6 +22784,13 @@
  trans_ru: озёрный
 
 -lexeme
+ lex: озорной
+ stem: озорно.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: огромный
+
+-lexeme
  lex: окаянной
  stem: окаянно.
  gramm: A,rus
@@ -35093,3 +35107,9 @@
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: придворный
+-lexeme
+ lex: автопромовской
+ stem: автопромовско.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: автопромовский
