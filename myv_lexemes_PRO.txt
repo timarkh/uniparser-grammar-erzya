@@ -130,7 +130,7 @@
 
 -lexeme
  lex: тон
- stem: тон.//тонт.
+ stem: тон.//тонт.//тоньт.
  gramm: PRO,2,sg,gen
  paradigm: PRO-def-subst-front-soft
  trans_ru: ты
@@ -252,7 +252,7 @@
 
 -lexeme
  lex: сон
- stem: сонзэ.//сонь.
+ stem: сонзэ.//сондэ.//сонде.//сонь.
  gramm: PRO,3,sg,gen
  paradigm: PRO-def-subst-front-vowel
  trans_ru: он, она, оно
@@ -443,7 +443,7 @@
 
 -lexeme
  lex: минь
- stem: минек.
+ stem: минек.//миник.
  gramm: PRO,1,pl,gen
  paradigm: Clitics
  trans_ru: мы
@@ -693,8 +693,15 @@
 
 -lexeme
  lex: сынь
- stem: сыненст.//сынест.//тенст.
+ stem: сыненст.//сынест.//сыниск.//тенст.//тенест.//тенеск.//тениск.
  gramm: PRO,3,pl,dat
+ paradigm: Clitics
+ trans_ru: они
+
+-lexeme
+ lex: сынь
+ stem: сынинст.//сынист.
+ gramm: PRO,3,pl,dat,missp
  paradigm: Clitics
  trans_ru: они
 
@@ -1510,6 +1517,7 @@
  stem: косо.
  gramm: ADVPRO
  paradigm: Clitics
+ paradigm: pl-back-vowel
  paradigm: Pred-back-vowel
  trans_ru: где; везде
 
@@ -1879,6 +1887,20 @@
  trans_ru: где-то
 
 -lexeme
+ lex: та-мекс
+ stem: та-мекс.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: почему-то
+
+-lexeme
+ lex: та
+ stem: та.
+ gramm: PART,missp
+ paradigm: Empty
+ trans_ru: -то
+
+-lexeme
  lex: таго-зярдо
  stem: таго-зярдо.|таго-зярд.
  gramm: ADVPRO
@@ -2016,6 +2038,8 @@
  stem: тесэ.
  gramm: ADVPRO
  paradigm: Clitics
+ paradigm: pl-front-vowel
+ paradigm: Pred-front-vowel
  trans_ru: здесь
 
 -lexeme
@@ -2023,6 +2047,8 @@
  stem: тесе.
  gramm: ADVPRO,missp
  paradigm: Clitics
+ paradigm: pl-front-vowel
+ paradigm: Pred-front-vowel
  trans_ru: здесь
 
 -lexeme
@@ -2107,6 +2133,8 @@
  stem: тосо.
  gramm: ADVPRO
  paradigm: Clitics
+ paradigm: pl-back-vowel
+ paradigm: Pred-back-vowel
  trans_ru: там
 
 -lexeme

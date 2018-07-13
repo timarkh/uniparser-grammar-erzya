@@ -70,6 +70,13 @@
  trans_ru: немножко
 
 -lexeme
+ lex: аламнеде
+ stem: аламнеде.
+ gramm: ADV,dim
+ paradigm: Clitics
+ trans_ru: немножко
+
+-lexeme
  lex: аламнешка
  stem: аламнешка.
  gramm: ADV,dim,num_approx
@@ -277,7 +284,7 @@
 -lexeme
  lex: бойкасто
  stem: бойкасто.|бойкаст.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: быстро, расторопно
 
@@ -298,7 +305,7 @@
 -lexeme
  lex: бояравань
  stem: бояравань.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: очень красиво
 
@@ -508,7 +515,7 @@
 -lexeme
  lex: васоло
  stem: васоло.
- gramm: ADV
+ gramm: A
  paradigm: Clitics
  trans_ru: дальний, далёкий
 
@@ -586,6 +593,13 @@
  lex: вейсэ
  stem: вейсэ.
  gramm: ADV
+ paradigm: Clitics
+ trans_ru: вместе, сообща
+
+-lexeme
+ lex: вейсэ
+ stem: вейсе.
+ gramm: ADV,missp
  paradigm: Clitics
  trans_ru: вместе, сообща
 
@@ -949,7 +963,7 @@
 -lexeme
  lex: друк
  stem: друк.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: вдруг
 
@@ -1706,7 +1720,7 @@
 -lexeme
  lex: куцянь-куцянь
  stem: куцянь-куцянь.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: группами
 
@@ -2273,7 +2287,7 @@
 -lexeme
  lex: овсе
  stem: овсе.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: вовсе, совсем
 
@@ -2644,7 +2658,7 @@
 -lexeme
  lex: плотнасто
  stem: плотнасто.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: плотно
 
@@ -2707,7 +2721,7 @@
 -lexeme
  lex: рядонь-ряд
  stem: рядонь-ряд.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: в ряд
 
@@ -3146,6 +3160,13 @@
  trans_ru: сегодня
 
 -lexeme
+ lex: течи
+ stem: тече.
+ gramm: ADV,missp
+ paradigm: Clitics
+ trans_ru: сегодня
+
+-lexeme
  lex: течи-валске
  stem: течи-валске.|течи-валск.
  gramm: ADV
@@ -3176,9 +3197,23 @@
 -lexeme
  lex: тожо
  stem: тожо.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: тоже
+
+-lexeme
+ lex: тоже
+ stem: тоже.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: тоже
+
+-lexeme
+ lex: даже
+ stem: даже.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: даже
 
 -lexeme
  lex: томбале
@@ -3344,28 +3379,28 @@
 -lexeme
  lex: хитройстэ
  stem: хитройстэ.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: хитро
 
 -lexeme
  lex: целанек
  stem: целанек.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: целиком
 
 -lexeme
  lex: целасто
  stem: целасто.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: целиком
 
 -lexeme
  lex: целасто-парсте
  stem: целасто-парсте.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: полностью в сохранности
 
@@ -3379,7 +3414,7 @@
 -lexeme
  lex: цють
  stem: цют.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: еле, чуть
 
@@ -3671,6 +3706,13 @@
  trans_ru: галопом
 
 -lexeme
+ lex: тешкас
+ stem: тешкас.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: до сих пор
+
+-lexeme
  lex: шкане
  stem: шкане.
  gramm: ADV
@@ -3896,7 +3938,7 @@
 
 -lexeme
  lex: оштё
- stem: оштё.
+ stem: оштё.//оште.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: ещё
@@ -3910,7 +3952,7 @@
 
 -lexeme
  lex: эштё
- stem: эштё.
+ stem: эштё.//эште.
  gramm: ADV,rus
  paradigm: Clitics
  trans_ru: ещё
@@ -4042,6 +4084,13 @@
  trans_ru: хоть, хотя
 
 -lexeme
+ lex: али
+ stem: али.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: или
+
+-lexeme
  lex: эли
  stem: эли.
  gramm: CONJ
@@ -4085,7 +4134,7 @@
 
 -lexeme
  lex: штобу
- stem: штобу.//чтобу.//чтобы.
+ stem: штобу.//чтобу.//чтобы.//чтоб.
  gramm: CONJ,rus
  paradigm: Clitics
  trans_ru: чтобы
@@ -4941,14 +4990,14 @@
 -lexeme
  lex: начит
  stem: начит.
- gramm: PARENTH
+ gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: значит
 
 -lexeme
  lex: небось
  stem: небось.
- gramm: PARENTH
+ gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: конечно, наверно
 
@@ -4969,14 +5018,14 @@
 -lexeme
  lex: поди
  stem: поди.
- gramm: PARENTH
+ gramm: PARENTH,rus
  paradigm: Clitics
  trans_ru: пожалуй
 
 -lexeme
  lex: примеркс
  stem: примеркс.
- gramm: PARENTH
+ gramm: PARENTH,rus
  paradigm: N-front
  trans_ru: например
 
@@ -5074,14 +5123,28 @@
 -lexeme
  lex: бу
  stem: бу.
- gramm: PART
+ gramm: PART,rus
  paradigm: Clitics
  trans_ru: бы
 
 -lexeme
+ lex: бы
+ stem: бы.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: бы
+
+-lexeme
+ lex: ли
+ stem: ли.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: ли
+
+-lexeme
  lex: буто
  stem: буто.
- gramm: PART
+ gramm: PART,rus
  paradigm: Clitics
  trans_ru: будто, кажется
 
@@ -5137,14 +5200,21 @@
 -lexeme
  lex: да
  stem: да.
- gramm: PART
+ gramm: PART,rus
  paradigm: Clitics
  trans_ru: да
 
 -lexeme
  lex: жо
  stem: жо.
- gramm: PART
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: же
+
+-lexeme
+ lex: же
+ stem: же.
+ gramm: PART,rus
  paradigm: Clitics
  trans_ru: же
 
@@ -5172,7 +5242,7 @@
 -lexeme
  lex: ладна
  stem: ладна.
- gramm: PART
+ gramm: PART,rus
  paradigm: Clitics
  trans_ru: ладно
 
@@ -5278,6 +5348,13 @@
  lex: эно
  stem: эно.
  gramm: PART
+ paradigm: Clitics
+ trans_ru: да, конечно
+
+-lexeme
+ lex: эно
+ stem: ино.
+ gramm: PART,missp
  paradigm: Clitics
  trans_ru: да, конечно
 
@@ -5489,11 +5566,12 @@
  trans_ru: о, по, по сравнению, против
 
 -lexeme
- lex: косэ
- stem: косэ.
+ lex: койсэ
+ stem: койсэ.
  gramm: POST
  paradigm: Clitics
- trans_ru: по
+ paradigm: POST-poss-front-vowel
+ trans_ru: по, согласно
 
 -lexeme
  lex: крайга
@@ -5581,6 +5659,14 @@
  trans_ru: с
 
 -lexeme
+ lex: марто
+ stem: маро.
+ gramm: POST,missp
+ paradigm: POST-poss-back-vowel
+ paradigm: Clitics
+ trans_ru: с
+
+-lexeme
  lex: мекевс
  stem: мекевс.
  gramm: POST
@@ -5611,6 +5697,14 @@
 -lexeme
  lex: перька
  stem: перька.
+ gramm: POST
+ paradigm: Clitics
+ paradigm: POST-poss-back-vowel
+ trans_ru: вокруг
+
+-lexeme
+ lex: перькава
+ stem: перькава.
  gramm: POST
  paradigm: Clitics
  paradigm: POST-poss-back-vowel
@@ -6107,14 +6201,14 @@
 -lexeme
  lex: пустас
  stem: пустас.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: напрасно
 
 -lexeme
  lex: розна
  stem: розна.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: россыпью
 
@@ -6201,6 +6295,20 @@
  gramm: CONJ,rus
  paradigm: Clitics
  trans_ru: так (так и; так как; так что)
+
+-lexeme
+ lex: пока
+ stem: пока.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: пока
+
+-lexeme
+ lex: только
+ stem: только.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: только
 
 -lexeme
  lex: талай
@@ -6429,7 +6537,7 @@
 -lexeme
  lex: поране
  stem: поране.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Clitics
  trans_ru: во время
 
@@ -6931,3 +7039,67 @@
  gramm: PART,rus
  paradigm: Clitics
  trans_ru: вот
+
+-lexeme
+ lex: састыньке
+ stem: састыньке.
+ gramm: ADV,dim
+ paradigm: Clitics
+ trans_ru: медленно, тихонько
+
+-lexeme
+ lex: састынькине
+ stem: састынькине.
+ gramm: ADV,dim
+ paradigm: Clitics
+ trans_ru: медленно, тихонько
+
+-lexeme
+ lex: састыньгине
+ stem: састыньгине.
+ gramm: ADV,dim
+ paradigm: Clitics
+ trans_ru: медленно, тихонько
+
+-lexeme
+ lex: аумок
+ stem: аумок.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: недавно
+-lexeme
+ lex: кулдырк
+ stem: кулдырк.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: о прошмыгивании
+-lexeme
+ lex: скирьк
+ stem: скирьк.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: о волнении
+-lexeme
+ lex: урьк-урьк
+ stem: урьк-урьк.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: хрю-хрю
+-lexeme
+ lex: цивтёрк
+ stem: цивтёрк.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: о падении в сугроб
+-lexeme
+ lex: шлырк
+ stem: шлырк.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: о сморкании
+-lexeme
+ lex: шлёрьк
+ stem: шлёрьк.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: о сморкании

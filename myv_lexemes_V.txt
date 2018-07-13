@@ -510,6 +510,13 @@
  trans_ru: быть, находиться; стоять; состоять
 
 -lexeme
+ lex: аштемс
+ stem: ащ.
+ gramm: V,missp
+ paradigm: V-ye
+ trans_ru: быть, находиться; стоять; состоять
+
+-lexeme
  lex: аштемс-пиштемс
  stem: аштемс-пишт.
  gramm: V
@@ -1757,8 +1764,8 @@
 
 -lexeme
  lex: венчамс
- stem: венч.
- gramm: V
+ stem: венч.//веньч.
+ gramm: V,rus
  paradigm: V-a
  trans_ru: обвенчать, обвенчаться
 
@@ -2339,7 +2346,7 @@
 -lexeme
  lex: гладямс
  stem: глад.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: разгладить
 
@@ -2353,7 +2360,7 @@
 -lexeme
  lex: годямс
  stem: год.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: оказаться, угодить
 
@@ -2381,7 +2388,7 @@
 -lexeme
  lex: горбунгадомс
  stem: горбунга.
- gramm: V
+ gramm: V,rus
  paradigm: V-do
  trans_ru: горбиться
 
@@ -2402,7 +2409,7 @@
 -lexeme
  lex: грозямс
  stem: гроз.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: грозить, угрожать
 
@@ -2444,7 +2451,7 @@
 -lexeme
  lex: гуляямс
  stem: гуля.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: гулять
 
@@ -2556,7 +2563,7 @@
 -lexeme
  lex: дивамс
  stem: див.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: удивиться
 
@@ -2570,7 +2577,7 @@
 -lexeme
  lex: дикойгадомс
  stem: дикойга.
- gramm: V
+ gramm: V,rus
  paradigm: V-do
  trans_ru: одичать
 
@@ -2661,7 +2668,7 @@
 -lexeme
  lex: дошлойгадомс
  stem: дошлойга.
- gramm: V
+ gramm: V,rus
  paradigm: V-do
  trans_ru: стать умелым
 
@@ -2773,14 +2780,14 @@
 -lexeme
  lex: жадаямс
  stem: жада.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: жадничать
 
 -lexeme
  lex: жалямс
  stem: жал.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: жалеть, щадить
 
@@ -4137,7 +4144,7 @@
 
 -lexeme
  lex: кежиямс
- stem: кеж.
+ stem: кежи.
  gramm: V
  paradigm: V-ya
  trans_ru: рассердиться, разгневаться
@@ -4228,7 +4235,7 @@
 
 -lexeme
  lex: келянчамс
- stem: келянч.
+ stem: келянч.//келяньч.
  gramm: V
  paradigm: V-a
  trans_ru: наматывать нить на пальцы
@@ -5054,7 +5061,7 @@
 
 -lexeme
  lex: кончнемс
- stem: кончн.
+ stem: кончн.//коньчн.
  gramm: V
  paradigm: V-ye
  trans_ru: мигать, моргать
@@ -5068,7 +5075,7 @@
 
 -lexeme
  lex: кончтамс
- stem: кончт.
+ stem: кончт.//коньчт.
  gramm: V
  paradigm: V-a
  trans_ru: мигнуть, моргнуть
@@ -6111,7 +6118,7 @@
 
 -lexeme
  lex: ланчемс
- stem: ланч.
+ stem: ланч.//ланьч.
  gramm: V
  paradigm: V-ye
  trans_ru: приседать
@@ -7189,7 +7196,7 @@
 
 -lexeme
  lex: манчемс
- stem: манч.
+ stem: манч.//маньч.
  gramm: V
  paradigm: V-ye
  trans_ru: врать
@@ -7385,7 +7392,7 @@
 
 -lexeme
  lex: менчемс
- stem: менч.
+ stem: менч.//меньч.
  gramm: V
  paradigm: V-ye
  trans_ru: гнуть, ломать, складывать
@@ -7514,6 +7521,13 @@
  stem: мор.
  gramm: V
  paradigm: V-a
+ trans_ru: петь
+
+-lexeme
+ lex: морсемс
+ stem: морс.
+ gramm: V,mult
+ paradigm: V-ye
  trans_ru: петь
 
 -lexeme
@@ -9815,7 +9829,7 @@
 -lexeme
  lex: пилямс
  stem: пил.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: пилить
 
@@ -12020,7 +12034,7 @@
 -lexeme
  lex: спорямс
  stem: спор.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: спорить
 
@@ -12104,21 +12118,21 @@
 -lexeme
  lex: строгамс
  stem: строг.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: строгать
 
 -lexeme
  lex: строямс
  stem: стро.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
- trans_ru: застроить, строить
+ trans_ru: строить
 
 -lexeme
  lex: стряпамс
  stem: стряп.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: стряпать
 
@@ -12139,14 +12153,14 @@
 -lexeme
  lex: стукадемс
  stem: стукад.
- gramm: V
+ gramm: V,rus
  paradigm: V-ye
  trans_ru: стукнуть
 
 -lexeme
  lex: стукамс
  stem: стук.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: стучать
 
@@ -12244,7 +12258,7 @@
 -lexeme
  lex: судямс
  stem: суд.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: судить
 
@@ -17137,14 +17151,7 @@
 
 -lexeme
  lex: аволь
- stem: аул.
- gramm: V,neg,pst,non_obj
- paradigm: V-pst-ezj
- trans_ru: не, нет
-
--lexeme
- lex: аволь
- stem: авол.//авул.//авыл.//авл.
+ stem: авол.//авул.//авыл.//авл.//аул.
  gramm: V,neg,non_obj
  paradigm: V-pst-ezj
  trans_ru: не, нет

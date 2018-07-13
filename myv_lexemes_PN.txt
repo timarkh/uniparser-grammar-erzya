@@ -51870,6 +51870,13 @@
  trans_ru: Михаил
 
 -lexeme
+ lex: Михал
+ stem: михал.
+ gramm: N,PN,persn
+ paradigm: N-front
+ trans_ru: Михаил
+
+-lexeme
  lex: Михайло
  stem: михайло.
  gramm: N,PN,persn
@@ -52430,18 +52437,18 @@
  trans_ru: Павел
 
 -lexeme
- lex: Павыл
- stem: павыл.
+ lex: Паол
+ stem: паол.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Павел
 
 -lexeme
- lex: Палайапай
- stem: палайапа.
+ lex: Павыл
+ stem: павыл.
  gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: Палайапай
+ paradigm: N-back
+ trans_ru: Павел
 
 -lexeme
  lex: Палария
@@ -59620,6 +59627,13 @@
  trans_ru: Муркемыр
 
 -lexeme
+ lex: Мурман
+ stem: мурман.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Мурманск
+
+-lexeme
  lex: Мурманск
  stem: мурманск.
  gramm: N,PN,topn
@@ -63845,7 +63859,7 @@
  stem: сантя.
  gramm: N,PN,persn
  paradigm: N-front-j
- trans_ru: Сантяй
+ trans_ru: Сантяй (Александр)
 
 -lexeme
  lex: Сергу
@@ -63951,6 +63965,13 @@
  gramm: N,PN,famn
  paradigm: N-front-soft
  trans_ru: Зинёронь
+
+-lexeme
+ lex: Учеватонь
+ stem: учеватон.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Учеватонь (Учеваткин)
 
 -lexeme
  lex: Эрьмезь
@@ -64470,7 +64491,7 @@
  trans_ru: Мишечкин
 -lexeme
  lex: Мусалёв
- stem: мусалёв.
+ stem: мусалёв.//мусалев.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мусалёв
@@ -64920,6 +64941,12 @@
  paradigm: N-front-soft
  trans_ru: Авардень
 -lexeme
+ lex: Гайнинькань
+ stem: гайнинькан.
+ gramm: N,PN,famn
+ paradigm: N-front-soft
+ trans_ru: Гайнинькань
+-lexeme
  lex: Автаев
  stem: автаев.
  gramm: N,PN,famn
@@ -65353,3 +65380,341 @@
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Чукалы
+-lexeme
+ lex: Шиофок
+ stem: шиофок.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Шиофок
+-lexeme
+ lex: Кшуманця
+ stem: кшуманця.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: (Ташто) Кшуманця
+-lexeme
+ lex: Щанкина
+ stem: щанкина.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Щанкина
+-lexeme
+ lex: Сандаров
+ stem: сандаров.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Сандаров
+-lexeme
+ lex: Щербак
+ stem: щербак.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Щербак
+-lexeme
+ lex: Виряз
+ stem: виряз.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Виряз
+-lexeme
+ lex: Ванё
+ stem: ванё.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Ваня
+-lexeme
+ lex: Ванчо
+ stem: ванчо.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Ваня
+-lexeme
+ lex: Ванюк
+ stem: ванюк.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Ваня
+-lexeme
+ lex: Вантяй
+ stem: вантя.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Ваня
+-lexeme
+ lex: Ивуж
+ stem: ивуж.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Ваня
+-lexeme
+ lex: Ивака
+ stem: ивака.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Ваня
+-lexeme
+ lex: Татю
+ stem: татю.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Таня
+-lexeme
+ lex: Паня
+ stem: паня.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Паня
+-lexeme
+ lex: Баюш
+ stem: баюш.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Баюш
+-lexeme
+ lex: Дуня
+ stem: дуня.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Дуня
+-lexeme
+ lex: Федай
+ stem: феда.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Федосья
+-lexeme
+ lex: Копинец
+ stem: копинец.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Копинец
+-lexeme
+ lex: Лежиков
+ stem: лежиков.
+ gramm: N,PN,famn
+ paradigm: N-back
+ trans_ru: Лежиков
+-lexeme
+ lex: Тултаев
+ stem: тултаев.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Тултаев
+-lexeme
+ lex: Морденс
+ stem: морденс.
+ gramm: N,PN
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Морденс (фолк-оркестр)
+-lexeme
+ lex: Микай
+ stem: мика.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Микай (Михаил)
+-lexeme
+ lex: Викай
+ stem: вика.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Викай
+
+-lexeme
+ lex: Алябьев
+ stem: алябьев.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Алябьев
+-lexeme
+ lex: Видяев
+ stem: видяев.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Видяев
+-lexeme
+ lex: Завалишин
+ stem: завалишин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Завалишин
+-lexeme
+ lex: Ивашин
+ stem: ивашин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Ивашин
+-lexeme
+ lex: Мартишин
+ stem: мартишин.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Мартишин
+-lexeme
+ lex: Митяев
+ stem: митяев.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Митяев
+-lexeme
+ lex: Полежаев
+ stem: полежаев.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Полежаев
+-lexeme
+ lex: Разгильдяев
+ stem: разгильдяев.
+ gramm: N,PN,famn
+ paradigm: N-front
+ trans_ru: Разгильдяев
+-lexeme
+ lex: Дуняша
+ stem: дуняша.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Дуняша
+-lexeme
+ lex: Ежевика
+ stem: ежевика.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Ежевика
+-lexeme
+ lex: Александровск
+ stem: александровск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Александровск
+-lexeme
+ lex: Ачинск
+ stem: ачинск.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Ачинск
+-lexeme
+ lex: Буинск
+ stem: буинск.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Буинск
+-lexeme
+ lex: Бутурлинск
+ stem: бутурлинск.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Бутурлинск
+-lexeme
+ lex: Дзержинск
+ stem: дзержинск.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Дзержинск
+-lexeme
+ lex: Жигулёвск
+ stem: жигулёвск.//жигулевск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Жигулёвск
+-lexeme
+ lex: Кирово-чепецк
+ stem: кирово-чепецк.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Кирово-чепецк
+-lexeme
+ lex: Кировск
+ stem: кировск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Кировск
+-lexeme
+ lex: Комсомольск
+ stem: комсомольск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Комсомольск
+-lexeme
+ lex: Краснослободск
+ stem: краснослободск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Краснослободск
+-lexeme
+ lex: Лесосибирск
+ stem: лесосибирск.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Лесосибирск
+-lexeme
+ lex: Нефтеюганск
+ stem: нефтеюганск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Нефтеюганск
+-lexeme
+ lex: Переволоцк
+ stem: переволоцк.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Переволоцк
+-lexeme
+ lex: Поронайск
+ stem: поронайск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Поронайск
+-lexeme
+ lex: Свияжск
+ stem: свияжск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Свияжск
+-lexeme
+ lex: Селища
+ stem: селища.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Селища
+-lexeme
+ lex: Симбирск
+ stem: симбирск.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Симбирск
+-lexeme
+ lex: Славянск
+ stem: славянск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Славянск
+-lexeme
+ lex: Снежногорск
+ stem: снежногорск.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Снежногорск
+-lexeme
+ lex: Спарта
+ stem: спарта.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Спарта
+-lexeme
+ lex: Уссурийск
+ stem: уссурийск.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Уссурийск
+-lexeme
+ lex: Лениногорск
+ stem: лениногоск.
+ gramm: N,PN,topn,missp
+ paradigm: N-back
+ trans_ru: Лениногорск
+-lexeme
+ lex: Лениногорск
+ stem: лининогорск.
+ gramm: N,PN,topn,missp
+ paradigm: N-back
+ trans_ru: Лениногорск

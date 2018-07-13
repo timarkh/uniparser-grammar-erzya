@@ -356,6 +356,13 @@
  trans_ru: белый, седой
 
 -lexeme
+ lex: ашине
+ stem: ашине.
+ gramm: A,dim
+ paradigm: A-front
+ trans_ru: беленький
+
+-lexeme
  lex: аштикс
  stem: аштикс.
  gramm: A
@@ -484,7 +491,7 @@
 -lexeme
  lex: берякшке
  stem: берякшке.|берякшк.
- gramm: A
+ gramm: A,dim
  paradigm: A-front
  trans_ru: плохонький, худенький
 
@@ -721,10 +728,10 @@
 
 -lexeme
  lex: валдо
- stem: валдо.|валд.
+ stem: валдо.|валдо.//валд.
  gramm: A
  paradigm: A-back
- trans_ru: нежный, светлый, яркий
+ trans_ru: светлый, яркий; нежный
 
 -lexeme
  lex: валдо-ожо
@@ -881,6 +888,20 @@
  trans_ru: первый
 
 -lexeme
+ lex: васоло
+ stem: васоло.
+ gramm: A
+ paradigm: A-back
+ trans_ru: дальний, далёкий
+
+-lexeme
+ lex: васол
+ stem: васол.
+ gramm: A
+ paradigm: A-back
+ trans_ru: дальний, далёкий
+
+-lexeme
  lex: васолдонь
  stem: васолдон.
  gramm: A
@@ -963,6 +984,13 @@
  gramm: A
  paradigm: A-front-soft
  trans_ru: водный, водяной
+
+-lexeme
+ lex: пидень
+ stem: пиден.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: варёный
 
 -lexeme
  lex: ведрекшень
@@ -2029,9 +2057,37 @@
  trans_ru: злой
 
 -lexeme
+ lex: эрьвачинь
+ stem: эрьвачин.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: обычный, простой
+
+-lexeme
+ lex: эрьваксонь
+ stem: эрьваксон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: обычный, простой
+
+-lexeme
+ lex: истяконь
+ stem: истякон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: обычный, простой
+
+-lexeme
  lex: кезэрень
  stem: кезэрен.
  gramm: A
+ paradigm: A-front-soft
+ trans_ru: давний, древний, старинный
+
+-lexeme
+ lex: кезерень
+ stem: кезерен.
+ gramm: A,missp
  paradigm: A-front-soft
  trans_ru: давний, древний, старинный
 
@@ -3123,7 +3179,7 @@
 -lexeme
  lex: лишной
  stem: лишно.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: лишний
 
@@ -5895,7 +5951,7 @@
 -lexeme
  lex: сех
  stem: сех.
- gramm: A
+ gramm: A,rus
  paradigm: A-front
  trans_ru: самый
 
@@ -5903,6 +5959,13 @@
  lex: сехте
  stem: сехте.|сехт.
  gramm: A
+ paradigm: A-front
+ trans_ru: самый
+
+-lexeme
+ lex: сехте
+ stem: сехти.
+ gramm: A,missp
  paradigm: A-front
  trans_ru: самый
 
@@ -7328,6 +7391,20 @@
  trans_ru: финно-угорский
 
 -lexeme
+ lex: финно-угрань
+ stem: финно-угран.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: финно-угорский
+
+-lexeme
+ lex: кудоютконь
+ stem: кудоюткон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: домашний, бытовой
+
+-lexeme
  lex: финской
  stem: финско.
  gramm: A
@@ -7942,6 +8019,13 @@
  gramm: A
  paradigm: A-back
  trans_ru: лёгкий
+
+-lexeme
+ lex: шождыне
+ stem: шождыне.
+ gramm: A,dim
+ paradigm: A-back
+ trans_ru: лёгенький
 
 -lexeme
  lex: штадо
@@ -34457,7 +34541,14 @@
  stem: лия.
  gramm: A
  paradigm: A-back
- trans_ru: другой, иной
+ trans_ru: другой
+
+-lexeme
+ lex: лията
+ stem: лията.
+ gramm: A
+ paradigm: A-back
+ trans_ru: другой
 
 -lexeme
  lex: ловажань
