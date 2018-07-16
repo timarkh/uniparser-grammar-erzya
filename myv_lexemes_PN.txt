@@ -65718,3 +65718,24 @@
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Лениногорск
+
+-lexeme
+ lex: Итиль
+ stem: итил.
+ gramm: N,PN,topn
+ paradigm: N-front-soft
+ trans_ru: Волга
+
+-lexeme
+ lex: Сыржа
+ stem: сыржа.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: жена бога грома
+
+-lexeme
+ lex: шантала
+ stem: шантала.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Шантанала

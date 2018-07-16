@@ -35204,3 +35204,416 @@
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: автопромовский
+
+-lexeme
+ lex: азовтомо
+ stem: азовтомо.
+ gramm: A
+ paradigm: A-back
+ trans_ru: ненадёжный
+
+-lexeme
+ lex: аканя
+ stem: аканя.
+ gramm: A
+ paradigm: A-back
+ trans_ru: несчастливый
+
+-lexeme
+ lex: анцяня
+ stem: анцяня.
+ gramm: A
+ paradigm: A-back
+ trans_ru: низкорослый
+
+-lexeme
+ lex: бадил
+ stem: бадил.
+ gramm: A
+ paradigm: A-front
+ trans_ru: лодырь, малоподвижный
+
+-lexeme
+ lex: бадюля
+ stem: бадюля.
+ gramm: A
+ paradigm: A-back
+ trans_ru: легкомысленный
+
+-lexeme
+ lex: байгуж
+ stem: байгуж.
+ gramm: A
+ paradigm: A-back
+ trans_ru: нищий
+
+-lexeme
+ lex: бунтяк
+ stem: бунтяк.
+ gramm: A
+ paradigm: A-back
+ trans_ru: полный, толстый
+
+-lexeme
+ lex: бурина
+ stem: бурина.
+ gramm: A
+ paradigm: A-back
+ trans_ru: высокорослый
+
+-lexeme
+ lex: валмукшов
+ stem: валмукшов.
+ gramm: A
+ paradigm: A-back
+ trans_ru: находчивый
+
+-lexeme
+ lex: вензав
+ stem: вензав.
+ gramm: A
+ paradigm: A-back
+ trans_ru: высокий, длинноногий
+
+-lexeme
+ lex: ветрашна
+ stem: ветрашна.
+ gramm: A
+ paradigm: A-back
+ trans_ru: спокойный, тихий
+
+-lexeme
+ lex: губовой
+ stem: губово.
+ gramm: A
+ paradigm: A-front-j
+ trans_ru: бордовый
+
+-lexeme
+ lex: гудной
+ stem: гудно.
+ gramm: A
+ paradigm: A-front-j
+ trans_ru: бедный
+
+-lexeme
+ lex: дошуз
+ stem: дошуз.
+ gramm: A
+ paradigm: A-back
+ trans_ru: смекалистый, хитрый
+
+-lexeme
+ lex: дёго
+ stem: дёго.
+ gramm: A
+ paradigm: A-back
+ trans_ru: беззаботный
+
+-lexeme
+ lex: дёр
+ stem: дёр.
+ gramm: A
+ paradigm: A-back
+ trans_ru: ловкий, хитрый
+
+-lexeme
+ lex: жигала
+ stem: жигала.
+ gramm: A
+ paradigm: A-back
+ trans_ru: высокорослый
+
+-lexeme
+ lex: кажей
+ stem: каже.
+ gramm: A
+ paradigm: A-front-j
+ trans_ru: бедный
+
+-lexeme
+ lex: кенгаж
+ stem: кенгаж.
+ gramm: A
+ paradigm: A-back
+ trans_ru: приметный
+
+-lexeme
+ lex: кепежа
+ stem: кепежа.
+ gramm: A
+ paradigm: A-back
+ trans_ru: растущий
+
+-lexeme
+ lex: крежа
+ stem: крежа.
+ gramm: A
+ paradigm: A-back
+ trans_ru: крепкий, толстый; богатырь
+
+-lexeme
+ lex: кучмолия
+ stem: кучмолия.
+ gramm: A
+ paradigm: A-back
+ trans_ru: ряженый
+
+-lexeme
+ lex: куява
+ stem: куява.
+ gramm: A
+ paradigm: A-back
+ trans_ru: полный, толстый
+
+-lexeme
+ lex: лийканя
+ stem: лийканя.
+ gramm: A
+ paradigm: A-back
+ trans_ru: красивый, плавный, ровный (голос)
+
+-lexeme
+ lex: ликшке
+ stem: ликшке.|ликшк.
+ gramm: A
+ paradigm: A-front
+ trans_ru: маленький
+
+-lexeme
+ lex: липаня
+ stem: липаня.
+ gramm: A
+ paradigm: A-back
+ trans_ru: мерцающий, моргающий
+
+-lexeme
+ lex: лунтядезь
+ stem: лунтядез.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: ленивый, трусцой (бег)
+
+-lexeme
+ lex: маза
+ stem: маза.
+ gramm: A
+ paradigm: A-back
+ trans_ru: богатый, высокорослый
+
+-lexeme
+ lex: оржа
+ stem: оржа.
+ gramm: A
+ paradigm: A-back
+ trans_ru: острый
+
+-lexeme
+ lex: откерь
+ stem: откер.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: герой, смелый
+
+-lexeme
+ lex: пузаня
+ stem: пузаня.
+ gramm: A
+ paradigm: A-back
+ trans_ru: шероховатый
+
+-lexeme
+ lex: ропаня
+ stem: ропаня.
+ gramm: A
+ paradigm: A-back
+ trans_ru: вислый, широкий
+
+-lexeme
+ lex: ротаж
+ stem: ротаж.
+ gramm: A
+ paradigm: A-back
+ trans_ru: лодырь, малоподвижный
+
+-lexeme
+ lex: румозь
+ stem: румоз.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: замерзший (до синевы), линялый, синяк
+
+-lexeme
+ lex: согом
+ stem: согом.
+ gramm: A
+ paradigm: A-back
+ trans_ru: высокорослый
+
+-lexeme
+ lex: стакапаз
+ stem: стакапаз.
+ gramm: A
+ paradigm: A-back
+ trans_ru: помогающий от несчастий
+
+-lexeme
+ lex: стёжна
+ stem: стёжна.
+ gramm: A
+ paradigm: A-back
+ trans_ru: стройный
+
+-lexeme
+ lex: трушня
+ stem: трушня.
+ gramm: A
+ paradigm: A-back
+ trans_ru: полный, толстый
+
+-lexeme
+ lex: туньке
+ stem: туньке.|туньк.
+ gramm: A
+ paradigm: A-front
+ trans_ru: полный, толстый
+
+-lexeme
+ lex: ускула
+ stem: ускула.
+ gramm: A
+ paradigm: A-back
+ trans_ru: своеобразный
+
+-lexeme
+ lex: хлынь
+ stem: хлын.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: обманщик, хитрый
+
+-lexeme
+ lex: цитерь
+ stem: цитер.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: блестящий
+
+-lexeme
+ lex: цябол
+ stem: цябол.
+ gramm: A
+ paradigm: A-back
+ trans_ru: прут, рассеянный
+
+-lexeme
+ lex: цёкляня
+ stem: цёкляня.
+ gramm: A
+ paradigm: A-back
+ trans_ru: водянистый
+
+-lexeme
+ lex: чарксей
+ stem: чарксе.
+ gramm: A
+ paradigm: A-front-j
+ trans_ru: смекалистый
+
+-lexeme
+ lex: чиназ
+ stem: чиназ.
+ gramm: A
+ paradigm: A-back
+ trans_ru: русый
+
+-lexeme
+ lex: эрьвейкине
+ stem: эрьвейкине.
+ gramm: A
+ paradigm: A-front
+ trans_ru: одинокий
+
+-lexeme
+ lex: ядав
+ stem: ядав.
+ gramm: A
+ paradigm: A-back
+ trans_ru: мягкий
+
+-lexeme
+ lex: ярун
+ stem: ярун.
+ gramm: A
+ paradigm: A-back
+ trans_ru: улыбчивый
+
+-lexeme
+ lex: ёланя
+ stem: ёланя.
+ gramm: A
+ paradigm: A-back
+ trans_ru: слащаво (говорящий), упругий
+
+-lexeme
+ lex: атна
+ stem: атна.
+ gramm: A
+ paradigm: A-back
+ trans_ru: недалёкий (умом)
+
+-lexeme
+ lex: атярго
+ stem: атярго.|атярг.
+ gramm: A
+ paradigm: A-back
+ trans_ru: пожилой (старик)
+
+-lexeme
+ lex: лажаня
+ stem: лажаня.
+ gramm: A
+ paradigm: A-back
+ trans_ru: безвкусный (горчит)
+
+-lexeme
+ lex: пулюр
+ stem: пулюр.
+ gramm: A
+ paradigm: A-back
+ trans_ru: сердитый (взгляд)
+
+-lexeme
+ lex: урай
+ stem: ура.
+ gramm: A
+ paradigm: A-front-j
+ trans_ru: злой
+
+-lexeme
+ lex: цельця
+ stem: цельця.
+ gramm: A
+ paradigm: A-back
+ trans_ru: нескромная (о девушке)
+
+-lexeme
+ lex: цицер
+ stem: цицер.
+ gramm: A
+ paradigm: A-front
+ trans_ru: густой (лес)
+
+-lexeme
+ lex: чочай
+ stem: чоча.
+ gramm: A
+ paradigm: A-front-j
+ trans_ru: беременная
+
+-lexeme
+ lex: шоланя
+ stem: шоланя.
+ gramm: A
+ paradigm: A-back
+ trans_ru: жидкий (о супе)

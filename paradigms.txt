@@ -811,11 +811,11 @@
   gramm: ill,sg
   gloss: ILL
   paradigm: Clitics
- -flex: .[ь]зэ<.>
+ -flex: .[ь]зэ<.>//.езэ<.>
   gramm: ill
   gloss: ILL
   paradigm: N-poss-front-vowel
- -flex: .[ь]зе<.>
+ -flex: .[ь]зе<.>//.езе<.>
   gramm: ill,missp
   gloss: ILL
   paradigm: N-poss-front-vowel

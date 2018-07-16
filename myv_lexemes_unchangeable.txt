@@ -7103,3 +7103,80 @@
  gramm: IMIT
  paradigm: Clitics
  trans_ru: о сморкании
+
+-lexeme
+ lex: баксорсо
+ stem: баксорсо.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: быстро, спеша
+
+-lexeme
+ lex: валком
+ stem: валком.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: не спеша, тихо
+
+-lexeme
+ lex: ветяпа
+ stem: ветяпа.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: неправильно (насаженная коса)
+
+-lexeme
+ lex: комитнизь
+ stem: комитнизь.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: галопом
+
+-lexeme
+ lex: навей
+ stem: навей.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: вовсю, очень
+
+-lexeme
+ lex: ушкс
+ stem: ушкс.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: наискосок
+
+-lexeme
+ lex: чемерть
+ stem: чемерт.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: тут же
+
+-lexeme
+ lex: чиримк-чиримкс
+ stem: чиримк-чиримкс.
+ gramm: IMIT
+ paradigm: Clitics
+ trans_ru: идти, не покачиваясь
+
+-lexeme
+ lex: чиролдозь
+ stem: чиролдоз.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: идти, не покачиваясь
+
+-lexeme
+ lex: шаньчсэ
+ stem: шаньчсэ.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: галопом
+
+-lexeme
+ lex: эйбаро
+ stem: эйбаро.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: в самый раз

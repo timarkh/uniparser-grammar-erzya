@@ -97207,3 +97207,1888 @@
  gramm: N,rus,time_meas
  paradigm: N-front
  trans_ru: четверг
+
+
+-lexeme
+ lex: мельбе
+ stem: мельбе.
+ gramm: N
+ paradigm: N-front
+ trans_ru: обрывки воспоминаний
+
+
+-lexeme
+ lex: аладият
+ stem: аладият.
+ gramm: N
+ paradigm: N-back
+ trans_ru: оладьи
+
+-lexeme
+ lex: але
+ stem: але.
+ gramm: N
+ paradigm: N-front
+ trans_ru: самочувствие, сила
+
+-lexeme
+ lex: альбагай
+ stem: альбага.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: неряха (неопрятная)
+
+-lexeme
+ lex: арнэ
+ stem: арнэ.
+ gramm: N
+ paradigm: N-front
+ trans_ru: самочувствие, сила
+
+-lexeme
+ lex: бабри
+ stem: бабри.
+ gramm: N,anim
+ paradigm: N-front
+ trans_ru: тигр
+
+-lexeme
+ lex: бакарець
+ stem: бакарец.
+ gramm: N,anim
+ paradigm: N-front-soft
+ trans_ru: головастик
+
+-lexeme
+ lex: банява
+ stem: банява.
+ gramm: N,supernat,rus
+ paradigm: N-back
+ trans_ru: покровительница бани, здоровья
+
+-lexeme
+ lex: безьгун
+ stem: безьгун.
+ gramm: N
+ paradigm: N-back
+ trans_ru: веснушки
+
+-lexeme
+ lex: бель
+ stem: бел.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: внутренняя сторона коры
+
+-lexeme
+ lex: бибишка
+ stem: бибишка.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: жук (божья коровка)
+
+-lexeme
+ lex: ботага
+ stem: ботага.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: головастик
+
+-lexeme
+ lex: будэк
+ stem: будэк.
+ gramm: N,body
+ paradigm: N-front
+ trans_ru: бедро, ягодица
+
+-lexeme
+ lex: бурма
+ stem: бурма.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: овод, слепень
+
+-lexeme
+ lex: валдоям
+ stem: валдоям.
+ gramm: N
+ paradigm: N-back
+ trans_ru: суп
+
+-lexeme
+ lex: варда
+ stem: варда.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: слуга
+
+-lexeme
+ lex: вармава
+ stem: вармава.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: Божья Матерь неба, богиня ветра
+
+-lexeme
+ lex: вармамевть
+ stem: вармамевт.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: парус
+
+-lexeme
+ lex: вармапаз
+ stem: вармапаз.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: бог воздуха и ветра
+
+-lexeme
+ lex: варси
+ stem: варси.
+ gramm: N,anim
+ paradigm: N-front
+ trans_ru: грач
+
+-lexeme
+ lex: ведьгаршка
+ stem: ведьгаршка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: чилим (водяной орех)
+
+-lexeme
+ lex: ведьзельме
+ stem: ведьзельме.|ведьзельм.
+ gramm: N
+ paradigm: N-front
+ trans_ru: лужица (грунтовой воды)
+
+-lexeme
+ lex: ведькеверькс
+ stem: ведькеверькс.
+ gramm: N
+ paradigm: N-front
+ trans_ru: волна
+
+-lexeme
+ lex: ведьлаз
+ stem: ведьлаз.
+ gramm: N
+ paradigm: N-back
+ trans_ru: крышка (для ведра)
+
+-lexeme
+ lex: ведьлымбавкс
+ stem: ведьлымбавкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: водоворот
+
+-lexeme
+ lex: ведьпаз
+ stem: ведьпаз.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: бог воды
+
+-lexeme
+ lex: ведяка
+ stem: ведяка.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: тёлочка
+
+-lexeme
+ lex: ведятя
+ stem: ведятя.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: Покровитель вод
+
+-lexeme
+ lex: вежгутька
+ stem: вежгутька.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: собачка (болонка)
+
+-lexeme
+ lex: вежкель
+ stem: вежкел.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: язычок
+
+-lexeme
+ lex: вежпость
+ stem: вежпост.
+ gramm: N,body
+ paradigm: N-front-soft
+ trans_ru: кишки (тонкие)
+
+-lexeme
+ lex: велява
+ stem: велява.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровительница села
+
+-lexeme
+ lex: велямо
+ stem: велямо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: воробы (снаряд для разматывания пряжи, деревянный крест с колечками на концах)
+
+-lexeme
+ lex: венява
+ stem: венява.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровительница ночи
+
+-lexeme
+ lex: верьсант
+ stem: верьсант.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: сосуды (кровеносные)
+
+-lexeme
+ lex: ветеринця
+ stem: ветеринця.
+ gramm: N
+ paradigm: N-back
+ trans_ru: жердь (на соломенной крыше)
+
+-lexeme
+ lex: ветраска
+ stem: ветраска.
+ gramm: N
+ paradigm: N-back
+ trans_ru: хлеб из остатков теста
+
+-lexeme
+ lex: вецема
+ stem: вецема.
+ gramm: N
+ paradigm: N-back
+ trans_ru: застёжка (воротника)
+
+-lexeme
+ lex: вирепатяй
+ stem: вирепатя.
+ gramm: N,supernat
+ paradigm: N-front-j
+ trans_ru: богиня лесов
+
+-lexeme
+ lex: виря
+ stem: виря.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: жена старшего брата
+
+-lexeme
+ lex: волцыпаз
+ stem: волцыпаз.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровитель животных
+
+-lexeme
+ lex: гайтус
+ stem: гайтус.
+ gramm: N
+ paradigm: N-back
+ trans_ru: ошейник
+
+-lexeme
+ lex: гига
+ stem: гига.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: дикий гусь
+
+-lexeme
+ lex: гого
+ stem: гого.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: бродяга, жук (навозный)
+
+-lexeme
+ lex: голядь
+ stem: голяд.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: народ (прибалтийский)
+
+-lexeme
+ lex: гуйгал
+ stem: гуйгал.
+ gramm: N
+ paradigm: N-back
+ trans_ru: вьюн
+
+-lexeme
+ lex: дранця
+ stem: дранця.
+ gramm: N
+ paradigm: N-back
+ trans_ru: пряжа (доброкачественная)
+
+-lexeme
+ lex: дутла
+ stem: дутла.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: тугодум
+
+-lexeme
+ lex: дутмарь
+ stem: дутмар.
+ gramm: N,anim,hum
+ paradigm: N-front-soft
+ trans_ru: тугодум
+
+-lexeme
+ lex: едьбря
+ stem: едьбря.
+ gramm: N
+ paradigm: N-back
+ trans_ru: волна
+
+-lexeme
+ lex: ермо
+ stem: ермо.|ерм.
+ gramm: N
+ paradigm: N-back
+ trans_ru: внутренности
+
+-lexeme
+ lex: жажора
+ stem: жажора.
+ gramm: N
+ paradigm: N-back
+ trans_ru: проталины
+
+-lexeme
+ lex: жлабик
+ stem: жлабик.
+ gramm: N
+ paradigm: N-front
+ trans_ru: женский головной убор
+
+-lexeme
+ lex: изгиряма
+ stem: изгиряма.
+ gramm: N
+ paradigm: N-back
+ trans_ru: косырь
+
+-lexeme
+ lex: инешкиава
+ stem: инешкиава.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: жена Инешкипаза
+
+-lexeme
+ lex: инкс
+ stem: инкс.
+ gramm: N
+ paradigm: N-front
+ trans_ru: скобель
+
+-lexeme
+ lex: итык
+ stem: итык.
+ gramm: N
+ paradigm: N-front
+ trans_ru: понятие, толк
+
+-lexeme
+ lex: каба
+ stem: каба.
+ gramm: N
+ paradigm: N-back
+ trans_ru: гребень (прялки)
+
+-lexeme
+ lex: кавдей
+ stem: кавде.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: вышитая рубаха (вдоль)
+
+-lexeme
+ lex: кадалька
+ stem: кадалька.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: старая дева
+
+-lexeme
+ lex: кайкс
+ stem: кайкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: настроение
+
+-lexeme
+ lex: каксь
+ stem: какс.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: ваза
+
+-lexeme
+ lex: калан
+ stem: калан.
+ gramm: N
+ paradigm: N-back
+ trans_ru: грифель
+
+-lexeme
+ lex: калксема
+ stem: калксема.
+ gramm: N
+ paradigm: N-back
+ trans_ru: веник
+
+-lexeme
+ lex: кальга
+ stem: кальга.
+ gramm: N
+ paradigm: N-back
+ trans_ru: синий камень
+
+-lexeme
+ lex: калько
+ stem: калько.|кальк.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: половой орган (женский)
+
+-lexeme
+ lex: калятя
+ stem: калятя.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: хранитель ив
+
+-lexeme
+ lex: канва
+ stem: канва.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: матка (пчелиная)
+
+-lexeme
+ lex: кандоро
+ stem: кандоро.
+ gramm: N
+ paradigm: N-back
+ trans_ru: хрящ
+
+-lexeme
+ lex: кандырга
+ stem: кандырга.
+ gramm: N
+ paradigm: N-back
+ trans_ru: уголь
+
+-lexeme
+ lex: каравна
+ stem: каравна.
+ gramm: N
+ paradigm: N-back
+ trans_ru: гнездо (беличье)
+
+-lexeme
+ lex: каракш
+ stem: каракш.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: зенки
+
+-lexeme
+ lex: каргоньчей
+ stem: каргоньче.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: болото
+
+-lexeme
+ lex: кардаз-сярко
+ stem: кардаз-сярко.|кардаз-сярк.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровительница двора
+
+-lexeme
+ lex: карлав
+ stem: карлав.
+ gramm: N
+ paradigm: N-back
+ trans_ru: лопаточка, палка (мешать корм)
+
+-lexeme
+ lex: каршавт
+ stem: каршавт.
+ gramm: N
+ paradigm: N-back
+ trans_ru: сбруя
+
+-lexeme
+ lex: карыштыма
+ stem: карыштыма.
+ gramm: N
+ paradigm: N-back
+ trans_ru: проклятье
+
+-lexeme
+ lex: карьлаз
+ stem: карьлаз.
+ gramm: N
+ paradigm: N-back
+ trans_ru: колодка (под лаптем)
+
+-lexeme
+ lex: катерьсан
+ stem: катерьсан.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: половой орган (мужской)
+
+-lexeme
+ lex: каткспуло
+ stem: каткспуло.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: ящерица
+
+-lexeme
+ lex: катык
+ stem: катык.
+ gramm: N
+ paradigm: N-front
+ trans_ru: стержень, шест
+
+-lexeme
+ lex: кахмарь
+ stem: кахмар.
+ gramm: N,body
+ paradigm: N-front-soft
+ trans_ru: мосол
+
+-lexeme
+ lex: каця
+ stem: каця.
+ gramm: N
+ paradigm: N-back
+ trans_ru: цеп (ручка молотила)
+
+-lexeme
+ lex: кашмараш
+ stem: кашмараш.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: рысь
+
+-lexeme
+ lex: кевбаморкс
+ stem: кевбаморкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: осколок камня
+
+-lexeme
+ lex: кеденьдие
+ stem: кеденьдие.
+ gramm: N,anim
+ paradigm: N-front
+ trans_ru: слепень
+
+-lexeme
+ lex: кедьсеерькс
+ stem: кедьсеерькс.
+ gramm: N,body
+ paradigm: N-front
+ trans_ru: предплечье
+
+-lexeme
+ lex: кедял
+ stem: кедял.
+ gramm: N
+ paradigm: N-back
+ trans_ru: яйцо (без скорлупы)
+
+-lexeme
+ lex: кельматя
+ stem: кельматя.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: Дед Мороз
+
+-lexeme
+ lex: келья
+ stem: келья.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: пиявка
+
+-lexeme
+ lex: кербеведь
+ stem: кербевед.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: капель
+
+-lexeme
+ lex: кивге
+ stem: кивге.|кивг.
+ gramm: N
+ paradigm: N-front
+ trans_ru: шишка (сосновая)
+
+-lexeme
+ lex: кизатя
+ stem: кизатя.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: хозяин лета
+
+-lexeme
+ lex: киртыж
+ stem: киртыж.
+ gramm: N
+ paradigm: N-front
+ trans_ru: простенки
+
+-lexeme
+ lex: киткавчи
+ stem: киткавчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: хитрость
+
+-lexeme
+ lex: китма
+ stem: китма.
+ gramm: N
+ paradigm: N-back
+ trans_ru: подкладка
+
+-lexeme
+ lex: клёк
+ stem: клёк.
+ gramm: N
+ paradigm: N-back
+ trans_ru: вершина (дерева)
+
+-lexeme
+ lex: ковпаз
+ stem: ковпаз.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: бог луны, ночи
+
+-lexeme
+ lex: кодемкс
+ stem: кодемкс.
+ gramm: N
+ paradigm: N-front
+ trans_ru: уток, челнок (ткацкий)
+
+-lexeme
+ lex: кокша
+ stem: кокша.
+ gramm: N
+ paradigm: N-back
+ trans_ru: лысина
+
+-lexeme
+ lex: комлява
+ stem: комлява.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: хмеля
+
+-lexeme
+ lex: комулякш
+ stem: комулякш.
+ gramm: N
+ paradigm: N-back
+ trans_ru: напиток (хмельной)
+
+-lexeme
+ lex: копо
+ stem: копо.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: половой орган (женский)
+
+-lexeme
+ lex: корсяга
+ stem: корсяга.
+ gramm: N
+ paradigm: N-back
+ trans_ru: горшок (для браги)
+
+-lexeme
+ lex: коськаня
+ stem: коськаня.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: сухощавый (человек)
+
+-lexeme
+ lex: коткудавой
+ stem: коткудаво.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: муравьиная кислота
+
+-lexeme
+ lex: котьма
+ stem: котьма.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: лентяй (ленивый)
+
+-lexeme
+ lex: коштава
+ stem: коштава.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: хозяйка воздуха
+
+-lexeme
+ lex: кузумарь
+ stem: кузумар.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: шишка (еловая)
+
+-lexeme
+ lex: куйгорож
+ stem: куйгорож.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровитель богатств
+
+-lexeme
+ lex: кулдыркай
+ stem: кулдырка.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: говорун
+
+-lexeme
+ lex: кумбо
+ stem: кумбо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: кочка на болоте
+
+-lexeme
+ lex: курамша
+ stem: курамша.
+ gramm: N
+ paradigm: N-back
+ trans_ru: выпечка в виде птицы
+
+-lexeme
+ lex: курод
+ stem: курод.
+ gramm: N
+ paradigm: N-back
+ trans_ru: остров
+
+-lexeme
+ lex: куслят
+ stem: куслят.
+ gramm: N
+ paradigm: N-back
+ trans_ru: кисель
+
+-lexeme
+ lex: кутора
+ stem: кутора.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: землеройка
+
+-lexeme
+ lex: кыргама
+ stem: кыргама.
+ gramm: N
+ paradigm: N-back
+ trans_ru: косырь
+
+-lexeme
+ lex: лапшава
+ stem: лапшава.
+ gramm: N
+ paradigm: N-back
+ trans_ru: тарелка
+
+-lexeme
+ lex: лемёшка
+ stem: лемёшка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: суп
+
+-lexeme
+ lex: ленгакс
+ stem: ленгакс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: отверстие внутри стебля, ствола
+
+-lexeme
+ lex: ликке
+ stem: ликке.|ликк.
+ gramm: N
+ paradigm: N-front
+ trans_ru: вид (внешний)
+
+-lexeme
+ lex: липужа
+ stem: липужа.
+ gramm: N
+ paradigm: N-back
+ trans_ru: цены (линейка между верхним и нижним настилами, разделяющая основу ткани)
+
+-lexeme
+ lex: литава
+ stem: литава.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: жена бога грома
+
+-lexeme
+ lex: лудна
+ stem: лудна.
+ gramm: N
+ paradigm: N-back
+ trans_ru: лист (прошлогодний)
+
+-lexeme
+ lex: лупаньбря
+ stem: лупаньбря.
+ gramm: N
+ paradigm: N-back
+ trans_ru: настил (в амбаре)
+
+-lexeme
+ lex: лёмзий
+ stem: лёмзи.
+ gramm: N,anim
+ paradigm: N-front-j
+ trans_ru: клещ
+
+-lexeme
+ lex: маклат
+ stem: маклат.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: таз
+
+-lexeme
+ lex: маська
+ stem: маська.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: медведь
+
+-lexeme
+ lex: мачка
+ stem: мачка.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: медведь
+
+-lexeme
+ lex: медярво
+ stem: медярво.
+ gramm: N
+ paradigm: N-back
+ trans_ru: напиток (медовый)
+
+-lexeme
+ lex: мей
+ stem: ме.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: обратная (сторона)
+
+-lexeme
+ lex: мельгакс
+ stem: мельгакс.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: послед
+
+-lexeme
+ lex: мельпаз
+ stem: мельпаз.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: держатель неба
+
+-lexeme
+ lex: мельча
+ stem: мельча.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: послед
+
+-lexeme
+ lex: модабаксарка
+ stem: модабаксарка.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: крот
+
+-lexeme
+ lex: модава
+ stem: модава.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: хозяйка подземных сил
+
+-lexeme
+ lex: мона
+ stem: мона.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: мошонка
+
+-lexeme
+ lex: моска
+ stem: моска.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: медведь
+
+-lexeme
+ lex: мувор
+ stem: мувор.
+ gramm: N
+ paradigm: N-back
+ trans_ru: серп
+
+-lexeme
+ lex: муе
+ stem: муе.
+ gramm: N,body
+ paradigm: N-front
+ trans_ru: ус
+
+-lexeme
+ lex: муйке
+ stem: муйке.|муйк.
+ gramm: N,body,dim
+ paradigm: N-front
+ trans_ru: ус
+
+-lexeme
+ lex: мурза
+ stem: мурза.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: князёк
+
+-lexeme
+ lex: мустарка
+ stem: мустарка.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: найдёныш (ребёнок)
+
+-lexeme
+ lex: мучкар
+ stem: мучкар.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: искатель (сыщик)
+
+-lexeme
+ lex: мушкай
+ stem: мушка.
+ gramm: N,anim
+ paradigm: N-front-j
+ trans_ru: волк
+
+-lexeme
+ lex: мушкыр
+ stem: мушкыр.
+ gramm: N
+ paradigm: N-front
+ trans_ru: молот
+
+-lexeme
+ lex: муюк
+ stem: муюк.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: ус
+
+-lexeme
+ lex: наволкай
+ stem: наволка.
+ gramm: N,anim
+ paradigm: N-front-j
+ trans_ru: слизень (голый)
+
+-lexeme
+ lex: назолок
+ stem: назолок.
+ gramm: N
+ paradigm: N-back
+ trans_ru: гнездо (пчелиной матки)
+
+-lexeme
+ lex: нардава
+ stem: нардава.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровительница любви
+
+-lexeme
+ lex: невинця
+ stem: невинця.
+ gramm: N
+ paradigm: N-back
+ trans_ru: короб (для хранения хлеба, зерна)
+
+-lexeme
+ lex: неряга
+ stem: неряга.
+ gramm: N
+ paradigm: N-back
+ trans_ru: кочерга
+
+-lexeme
+ lex: опуш
+ stem: опуш.
+ gramm: N
+ paradigm: N-back
+ trans_ru: булочка
+
+-lexeme
+ lex: орпине
+ stem: орпине.
+ gramm: N,anim,hum
+ paradigm: N-front
+ trans_ru: вор
+
+-lexeme
+ lex: ося
+ stem: ося.
+ gramm: N
+ paradigm: N-back
+ trans_ru: лепёшка
+
+-lexeme
+ lex: оцинник
+ stem: оцинник.
+ gramm: N,anim,hum
+ paradigm: N-front
+ trans_ru: охотник
+
+-lexeme
+ lex: пакарезь
+ stem: пакарез.
+ gramm: N,anim
+ paradigm: N-front-soft
+ trans_ru: головастик
+
+-lexeme
+ lex: паксява
+ stem: паксява.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровительница поля, урожая
+
+-lexeme
+ lex: панарт
+ stem: панарт.
+ gramm: N
+ paradigm: N-back
+ trans_ru: менструация
+
+-lexeme
+ lex: паникудо
+ stem: паникудо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: кухня
+
+-lexeme
+ lex: пейпакарь
+ stem: пейпакар.
+ gramm: N,body
+ paradigm: N-front-soft
+ trans_ru: челюсть
+
+-lexeme
+ lex: пейсаласке
+ stem: пейсаласке.|пейсаласк.
+ gramm: N,body
+ paradigm: N-front
+ trans_ru: челюсть
+
+-lexeme
+ lex: пелила
+ stem: пелила.
+ gramm: N
+ paradigm: N-back
+ trans_ru: кандалы
+
+-lexeme
+ lex: пелямо
+ stem: пелямо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: растяжник (холста)
+
+-lexeme
+ lex: петнай
+ stem: петна.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: столб (ворот)
+
+-lexeme
+ lex: пецяка
+ stem: пецяка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: тыква (пареная)
+
+-lexeme
+ lex: пештор
+ stem: пештор.
+ gramm: N
+ paradigm: N-back
+ trans_ru: кошель
+
+-lexeme
+ lex: пильгепеке
+ stem: пильгепеке.
+ gramm: N,body
+ paradigm: N-front-soft
+ trans_ru: икры (ног)
+
+-lexeme
+ lex: пичедьма
+ stem: пичедьма.
+ gramm: N
+ paradigm: N-back
+ trans_ru: тоска (по умершему)
+
+-lexeme
+ lex: пичеть
+ stem: пичет.
+ gramm: N,body
+ paradigm: N-front-soft
+ trans_ru: почка
+
+-lexeme
+ lex: плашча
+ stem: плашча.
+ gramm: N
+ paradigm: N-back
+ trans_ru: жесть
+
+-lexeme
+ lex: покшпаз
+ stem: покшпаз.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: бог мыслителей, дум
+
+-lexeme
+ lex: полк
+ stem: полк.
+ gramm: N
+ paradigm: N-back
+ trans_ru: зад (широкий)
+
+-lexeme
+ lex: поназ
+ stem: поназ.
+ gramm: N
+ paradigm: N-back
+ trans_ru: мёд
+
+-lexeme
+ lex: порошка
+ stem: порошка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: молодой снег
+
+-lexeme
+ lex: порьмепель
+ stem: порьмепел.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: кушанье
+
+-lexeme
+ lex: потмот-седейть
+ stem: потмот-седейт.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: внутренности
+
+-lexeme
+ lex: пряпола
+ stem: пряпола.
+ gramm: N
+ paradigm: N-back
+ trans_ru: жеребьёвка
+
+-lexeme
+ lex: пуляз
+ stem: пуляз.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: бабник
+
+-lexeme
+ lex: равава
+ stem: равава.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровители Волги
+
+-lexeme
+ lex: раватя
+ stem: раватя.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровители Волги
+
+-lexeme
+ lex: расть
+ stem: раст.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: вкус, особенность
+
+-lexeme
+ lex: ремезей
+ stem: ремезе.
+ gramm: N,anim
+ paradigm: N-front-j
+ trans_ru: иволга
+
+-lexeme
+ lex: розява
+ stem: розява.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровительница ржи
+
+-lexeme
+ lex: ряж
+ stem: ряж.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: жена старшего брата
+
+-lexeme
+ lex: сеерькс
+ stem: сеерькс.
+ gramm: N
+ paradigm: N-front
+ trans_ru: прожилка на листьях
+
+-lexeme
+ lex: сельмекуно
+ stem: сельмекуно.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: бровь
+
+-lexeme
+ lex: сем
+ stem: сем.
+ gramm: N
+ paradigm: N-front
+ trans_ru: трутовик (гриб)
+
+-lexeme
+ lex: сенксь
+ stem: сенкс.
+ gramm: N,anim
+ paradigm: N-front-soft
+ trans_ru: цапля
+
+-lexeme
+ lex: соргавкс
+ stem: соргавкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: котёл
+
+-lexeme
+ lex: сувонзей
+ stem: сувонзе.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: посыльная
+
+-lexeme
+ lex: супря
+ stem: супря.
+ gramm: N
+ paradigm: N-back
+ trans_ru: вышивки (на плечах)
+
+-lexeme
+ lex: суроал
+ stem: суроал.
+ gramm: N
+ paradigm: N-back
+ trans_ru: выносок, спорышек
+
+-lexeme
+ lex: суроз
+ stem: суроз.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: найдёныш (ребёнок)
+
+-lexeme
+ lex: сырьмай
+ stem: сырьма.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: смерть
+
+-lexeme
+ lex: сэдял
+ stem: сэдял.
+ gramm: N
+ paradigm: N-back
+ trans_ru: подпол
+
+-lexeme
+ lex: сэньшкай
+ stem: сэньшка.
+ gramm: N,anim
+ paradigm: N-front-j
+ trans_ru: селезень
+
+-lexeme
+ lex: сэряка
+ stem: сэряка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: часть панго (передняя)
+
+-lexeme
+ lex: сюватя
+ stem: сюватя.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: хозяин мякины
+
+-lexeme
+ lex: сюлго
+ stem: сюлго.|сюлг.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: утка
+
+-lexeme
+ lex: сёралкс
+ stem: сёралкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: ветки орешника (нижние)
+
+-lexeme
+ lex: тавунся
+ stem: тавунся.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровитель свиней
+
+-lexeme
+ lex: талагай
+ stem: талага.
+ gramm: N
+ paradigm: N-front-j
+ trans_ru: рубаха (верхняя женская)
+
+-lexeme
+ lex: талан
+ stem: талан.
+ gramm: N
+ paradigm: N-back
+ trans_ru: судьба
+
+-lexeme
+ lex: тан
+ stem: тан.
+ gramm: N
+ paradigm: N-back
+ trans_ru: счастье
+
+-lexeme
+ lex: тевбарго
+ stem: тевбарго.|тевбарг.
+ gramm: N
+ paradigm: N-back
+ trans_ru: туесок с рукодельем
+
+-lexeme
+ lex: телюгай
+ stem: телюга.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: лентяй (ленивый)
+
+-lexeme
+ lex: телятя
+ stem: телятя.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровитель зимы
+
+-lexeme
+ lex: терьгай
+ stem: терьга.
+ gramm: N,anim
+ paradigm: N-front-j
+ trans_ru: жаворонок
+
+-lexeme
+ lex: тикшам
+ stem: тикшам.
+ gramm: N
+ paradigm: N-back
+ trans_ru: щи
+
+-lexeme
+ lex: тиун
+ stem: тиун.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: слуга
+
+-lexeme
+ lex: толгев
+ stem: толгев.
+ gramm: N
+ paradigm: N-front
+ trans_ru: камень, кремень
+
+-lexeme
+ lex: толоньпаз
+ stem: толоньпаз.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: бог огня
+
+-lexeme
+ lex: торо
+ stem: торо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: нож (ритуальный)
+
+-lexeme
+ lex: торцке
+ stem: торцке.|торцк.
+ gramm: N
+ paradigm: N-front
+ trans_ru: кочерга
+
+-lexeme
+ lex: трябол
+ stem: трябол.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: лентяй (ленивый)
+
+-lexeme
+ lex: тун
+ stem: тун.
+ gramm: N
+ paradigm: N-back
+ trans_ru: шуба
+
+-lexeme
+ lex: турмечи
+ stem: турмечи.
+ gramm: N,anim
+ paradigm: N-front
+ trans_ru: лесной голубь
+
+-lexeme
+ lex: тус
+ stem: тус.
+ gramm: N
+ paradigm: N-back
+ trans_ru: выражение лица, образ
+
+-lexeme
+ lex: тухмужа
+ stem: тухмужа.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: тугодум
+
+-lexeme
+ lex: ужа
+ stem: ужа.
+ gramm: N
+ paradigm: N-back
+ trans_ru: угол
+
+-lexeme
+ lex: улаз
+ stem: улаз.
+ gramm: N
+ paradigm: N-back
+ trans_ru: нектар
+
+-lexeme
+ lex: умаць
+ stem: умац.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: решето
+
+-lexeme
+ lex: унст
+ stem: унст.
+ gramm: N
+ paradigm: N-back
+ trans_ru: корень
+
+-lexeme
+ lex: урозей
+ stem: урозе.
+ gramm: N,body
+ paradigm: N-front-j
+ trans_ru: клык
+
+-lexeme
+ lex: цилягай
+ stem: циляга.
+ gramm: N,anim
+ paradigm: N-front-j
+ trans_ru: чибис (пигалица)
+
+-lexeme
+ lex: цирькине
+ stem: цирькине.
+ gramm: N,dim
+ paradigm: N-front-soft
+ trans_ru: туфля
+
+-lexeme
+ lex: цирёнка
+ stem: цирёнка.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: чирок
+
+-lexeme
+ lex: цицька
+ stem: цицька.
+ gramm: N
+ paradigm: N-back
+ trans_ru: пучок
+
+-lexeme
+ lex: цюрпаз
+ stem: цюрпаз.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровитель счастья, судьбы
+
+-lexeme
+ lex: цюцев
+ stem: цюцев.
+ gramm: N
+ paradigm: N-front
+ trans_ru: вершина (дерева); гроздь, кисть, соцветие
+
+-lexeme
+ lex: цяпла
+ stem: цяпла.
+ gramm: N
+ paradigm: N-back
+ trans_ru: блюдо
+
+-lexeme
+ lex: цёкалка
+ stem: цёкалка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: огниво и принадлежности к нему
+
+-lexeme
+ lex: цёкорь
+ stem: цёкор.
+ gramm: N,body
+ paradigm: N-front-soft
+ trans_ru: половой орган (мужской)
+
+-lexeme
+ lex: цёмара
+ stem: цёмара.
+ gramm: N
+ paradigm: N-back
+ trans_ru: пирожки с мясом
+
+-lexeme
+ lex: чабага
+ stem: чабага.
+ gramm: N
+ paradigm: N-back
+ trans_ru: шерсть
+
+-lexeme
+ lex: чаколка
+ stem: чаколка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: колотушка (у сторожа)
+
+-lexeme
+ lex: чалгамо
+ stem: чалгамо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: приступок
+
+-lexeme
+ lex: чара
+ stem: чара.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: выхухоль
+
+-lexeme
+ lex: чарть
+ stem: чарт.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: понятливость
+
+-lexeme
+ lex: чартьчи
+ stem: чартьчи.
+ gramm: N
+ paradigm: N-front
+ trans_ru: понятливость
+
+-lexeme
+ lex: чарчав
+ stem: чарчав.
+ gramm: N
+ paradigm: N-back
+ trans_ru: большой вышитый платок
+
+-lexeme
+ lex: чевсялгома
+ stem: чевсялгома.
+ gramm: N
+ paradigm: N-back
+ trans_ru: лучинник
+
+-lexeme
+ lex: чеереньдол
+ stem: чеереньдол.
+ gramm: N
+ paradigm: N-back
+ trans_ru: гнилушка светящаяся
+
+-lexeme
+ lex: чекажа
+ stem: чекажа.
+ gramm: N
+ paradigm: N-back
+ trans_ru: стан (ткацкий)
+
+-lexeme
+ lex: чемеричка
+ stem: чемеричка.
+ gramm: N
+ paradigm: N-back
+ trans_ru: лапоть
+
+-lexeme
+ lex: чинелькс
+ stem: чинелькс.
+ gramm: N
+ paradigm: N-front
+ trans_ru: светлая пора суток
+
+-lexeme
+ lex: чинзельть
+ stem: чинзельт.
+ gramm: N
+ paradigm: N-front-soft
+ trans_ru: светлая пора суток
+
+-lexeme
+ lex: чобота
+ stem: чобота.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: лапоть
+
+-lexeme
+ lex: човорка
+ stem: човорка.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: пескарь
+
+-lexeme
+ lex: чомболкс
+ stem: чомболкс.
+ gramm: N,anim
+ paradigm: N-back
+ trans_ru: ласка
+
+-lexeme
+ lex: шантал
+ stem: шантал.
+ gramm: N
+ paradigm: N-back
+ trans_ru: подсвечник
+
+-lexeme
+ lex: шки
+ stem: шки.
+ gramm: N,anim,hum
+ paradigm: N-front
+ trans_ru: родительница
+
+-lexeme
+ lex: шолошина
+ stem: шолошина.
+ gramm: N
+ paradigm: N-back
+ trans_ru: шест (для сбивания плодов, шишек)
+
+-lexeme
+ lex: штерялкс
+ stem: штерялкс.
+ gramm: N
+ paradigm: N-back
+ trans_ru: грузик (для веретена)
+
+-lexeme
+ lex: штюрьба
+ stem: штюрьба.
+ gramm: N
+ paradigm: N-back
+ trans_ru: уха
+
+-lexeme
+ lex: шульга
+ stem: шульга.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: левша
+
+-lexeme
+ lex: шушпан
+ stem: шушпан.
+ gramm: N
+ paradigm: N-back
+ trans_ru: женская верхняя одежда
+
+-lexeme
+ lex: эресина
+ stem: эресина.
+ gramm: N
+ paradigm: N-back
+ trans_ru: дубина
+
+-lexeme
+ lex: эрьгеловажа
+ stem: эрьгеловажа.
+ gramm: N,body
+ paradigm: N-back
+ trans_ru: позвонок
+
+-lexeme
+ lex: юмборге
+ stem: юмборге.|юмборг.
+ gramm: N,anim
+ paradigm: N-front
+ trans_ru: суслик
+
+-lexeme
+ lex: юртатя
+ stem: юртатя.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровитель дома
+
+-lexeme
+ lex: ягалай
+ stem: ягала.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: сплетница
+
+-lexeme
+ lex: ямксатя
+ stem: ямксатя.
+ gramm: N,supernat
+ paradigm: N-back
+ trans_ru: покровитель проса и гречихи
+
+-lexeme
+ lex: ямод
+ stem: ямод.
+ gramm: N
+ paradigm: N-back
+ trans_ru: щёлок, щёлочь
+
+-lexeme
+ lex: ямсяпей
+ stem: ямсяпе.
+ gramm: N,body
+ paradigm: N-front-j
+ trans_ru: зуб (сдвоенный)
+
+-lexeme
+ lex: яндавине
+ stem: яндавине.
+ gramm: N,body,dim
+ paradigm: N-front-soft
+ trans_ru: ямочки (на щеке)
+
+-lexeme
+ lex: ёвкужо
+ stem: ёвкужо.
+ gramm: N
+ paradigm: N-back
+ trans_ru: остров
+
+-lexeme
+ lex: ёрнагай
+ stem: ёрнага.
+ gramm: N,anim,hum
+ paradigm: N-front-j
+ trans_ru: храбрец
