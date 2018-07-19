@@ -6,6 +6,13 @@
  trans_ru: первый
 
 -lexeme
+ lex: васенце
+ stem: васеньце.
+ gramm: NUM,ord,missp
+ paradigm: A-front
+ trans_ru: первый
+
+-lexeme
  lex: ведьгемень
  stem: ведьгемен.//50-.
  gramm: NUM
@@ -105,49 +112,49 @@
 
 -lexeme
  lex: кевейкее
- stem: кевейкее.//11-.
+ stem: кевейкее.//11-.//xi-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: одиннадцать
 
 -lexeme
  lex: кевейксэе
- stem: кевейксэе.//19-.
+ stem: кевейксэе.//19-.//xix-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: девятнадцать
 
 -lexeme
  lex: кеветее
- stem: кеветее.//15-.
+ stem: кеветее.//15-.//xv-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: пятнадцать
 
 -lexeme
  lex: кемгавксово
- stem: кемгавксово.//18-.
+ stem: кемгавксово.//18-.//xviii-.
  gramm: NUM
  paradigm: NUM-back
  trans_ru: восемнадцать
 
 -lexeme
  lex: кемгавтово
- stem: кемгавтово.//19-.
+ stem: кемгавтово.//12-.//xii-.
  gramm: NUM
  paradigm: NUM-back
  trans_ru: двенадцать
 
 -lexeme
  lex: кемголмово
- stem: кемголмово.//13-.
+ stem: кемголмово.//13-.//xiii-.
  gramm: NUM
  paradigm: NUM-back
  trans_ru: тринадцать
 
 -lexeme
  lex: кемготово
- stem: кемготово.//16-.
+ stem: кемготово.//16-.//xvi-.
  gramm: NUM
  paradigm: NUM-back
  trans_ru: шестнадцать
@@ -161,14 +168,14 @@
 
 -lexeme
  lex: кемзисемге
- stem: кемзисемге.//17-.|кемзисемг.//17-.
+ stem: кемзисемге.//17-.//xvii-.|кемзисемг.//17-.//xvii-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: семнадцать
 
 -lexeme
  lex: кемнилее
- stem: кемнилее.//14-.
+ stem: кемнилее.//14-.//xiv-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: четырнадцать
@@ -224,70 +231,70 @@
 
 -lexeme
  lex: комсь
- stem: комс.//20-.
+ stem: комс.//20-.//xx-.
  gramm: NUM
  paradigm: NUM-front-soft
  trans_ru: двадцать
 
 -lexeme
  lex: комсьвейкее
- stem: комсьвейкее.//21-.
+ stem: комсьвейкее.//21-.//xxi-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: двадцать один
 
 -lexeme
  lex: комсьвейксэе
- stem: комсьвейксэе.//29-.
+ stem: комсьвейксэе.//29-.//xxix-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: двадцать девять
 
 -lexeme
  lex: комсьветее
- stem: комсьветее.//25-.
+ stem: комсьветее.//25-.//xxv-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: двадцать пять
 
 -lexeme
  lex: комськавксово
- stem: комськавксово.//28-.
+ stem: комськавксово.//28-.//xxviii-.
  gramm: NUM
  paradigm: NUM-back
  trans_ru: двадцать восемь
 
 -lexeme
  lex: комськавтово
- stem: комськавтово.//22-.
+ stem: комськавтово.//22-.//xxii-.
  gramm: NUM
  paradigm: NUM-back
  trans_ru: двадцать два
 
 -lexeme
  lex: комськолмово
- stem: комськолмово.//23-.
+ stem: комськолмово.//23-.//xxiii-.
  gramm: NUM
  paradigm: NUM-back
  trans_ru: двадцать три
 
 -lexeme
  lex: комськотово
- stem: комськотово.//26-.
+ stem: комськотово.//26-.//xxvi-.
  gramm: NUM
  paradigm: NUM-back
  trans_ru: двадцать шесть
 
 -lexeme
  lex: комсьнилее
- stem: комсьнилее.//24-.
+ stem: комсьнилее.//24-.//xxiv-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: двадцать четыре
 
 -lexeme
  lex: комсьсисемге
- stem: комсьсисемге.//27-.|комсьсисемг.//27-.
+ stem: комсьсисемге.//27-.//xxvii-.|комсьсисемг.//27-.//xxvii-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: двадцать семь
@@ -350,8 +357,15 @@
 
 -lexeme
  lex: тёжа
- stem: тёжа.//1000-.
+ stem: тёжа.//тежа.//1000-.
  gramm: NUM
+ paradigm: NUM-back
+ trans_ru: тысяча
+
+-lexeme
+ lex: тыща
+ stem: тыща.
+ gramm: NUM,rus
  paradigm: NUM-back
  trans_ru: тысяча
 
@@ -494,3 +508,10 @@
  gramm: NUM,distr
  paradigm: Clitics
  trans_ru: вторично
+
+-lexeme
+ lex: млрд
+ stem: млрд.
+ gramm: NUM,rus,abbr
+ paradigm: NUM-back
+ trans_ru: миллиард

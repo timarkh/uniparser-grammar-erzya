@@ -16424,8 +16424,8 @@
  lex: эцемс
  stem: эц.
  gramm: V
- paradigm: V-e
- trans_ru: зайти, лезть, набивать
+ paradigm: V-ye
+ trans_ru: лезть, совать; забраться
 
 -lexeme
  lex: эцнемс
@@ -17161,6 +17161,13 @@
  stem: эз.
  gramm: V,neg,non_obj
  paradigm: V-pst-ezj
+ trans_ru: не, нет
+
+-lexeme
+ lex: эзь
+ stem: эс.
+ gramm: V,neg,non_obj
+ paradigm: V-pst-ezj-voiceless
  trans_ru: не, нет
 
 -lexeme
@@ -18090,3 +18097,33 @@
  gramm: V
  paradigm: V-a
  trans_ru: заволноваться
+-lexeme
+ lex: яксемс
+ stem: якс.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: ходить
+-lexeme
+ lex: отвечамс
+ stem: отвеч.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: отвечать
+-lexeme
+ lex: согласямс
+ stem: соглас.
+ gramm: V,rus
+ paradigm: V-ya
+ trans_ru: соглашаться
+-lexeme
+ lex: участвовамс
+ stem: участвов.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: участвовать
+-lexeme
+ lex: дивсемс
+ stem: дивс.
+ gramm: V,rus,mult
+ paradigm: V-ye
+ trans_ru: удивляться

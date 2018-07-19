@@ -5488,7 +5488,7 @@
 
 -lexeme
  lex: раужо
- stem: раужо.
+ stem: раужо.//равжо.
  gramm: A
  paradigm: A-back
  trans_ru: чёрный
@@ -35617,3 +35617,85 @@
  gramm: A
  paradigm: A-back
  trans_ru: жидкий (о супе)
+
+-lexeme
+ lex: позда
+ stem: позда.
+ gramm: A,rus
+ paradigm: A-back
+ trans_ru: поздний
+
+-lexeme
+ lex: поздна
+ stem: поздна.
+ gramm: A,rus
+ paradigm: A-back
+ trans_ru: поздний
+
+-lexeme
+ lex: уликс
+ stem: уликс.
+ gramm: A,rus
+ paradigm: A-front
+ trans_ru: имеющийся
+
+-lexeme
+ lex: мусульманонь
+ stem: мусульманон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: мусульманский
+-lexeme
+ lex: одломанень
+ stem: одломанен.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: молодёжный
+-lexeme
+ lex: тюркань
+ stem: тюркан.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: тюркский
+-lexeme
+ lex: эрзямасонь
+ stem: эрзямасон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: арзамасский
+-lexeme
+ lex: эстононь
+ stem: эстонон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: эстонский
+-lexeme
+ lex: научно-методической
+ stem: научно-методическо.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: научно-методический
+-lexeme
+ lex: почётонь
+ stem: почётон.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: почётный
+-lexeme
+ lex: славянонь
+ stem: славянон.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: славянский
+-lexeme
+ lex: художествань
+ stem: художестван.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: художественный
+-lexeme
+ lex: апокшке
+ stem: апокшке.
+ gramm: A,dim
+ paradigm: A-front
+ trans_ru: небольшой
