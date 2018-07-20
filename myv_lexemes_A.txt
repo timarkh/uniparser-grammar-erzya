@@ -1155,7 +1155,7 @@
 
 -lexeme
  lex: весероссиянь
- stem: весероссиян.
+ stem: весероссиян.//весероссіян.
  gramm: A
  paradigm: A-front-soft
  trans_ru: всероссийский
@@ -1267,7 +1267,7 @@
 
 -lexeme
  lex: виев
- stem: виев.
+ stem: виев.//віев.
  gramm: A
  paradigm: A-front
  trans_ru: сильный; громкий; густой
@@ -1596,7 +1596,7 @@
 
 -lexeme
  lex: иень
- stem: иен.
+ stem: иен.//іен.
  gramm: A
  paradigm: A-front-soft
  trans_ru: годовой
@@ -3031,7 +3031,7 @@
 
 -lexeme
  lex: левшпонкс
- stem: левшпонкс.
+ stem: левшпонкс.//левшпоҥкс.
  gramm: A
  paradigm: A-back
  trans_ru: трусливый
@@ -3185,14 +3185,14 @@
 
 -lexeme
  lex: лиякстомань
- stem: лиякстоман.
+ stem: лиякстоман.//ліякстоман.
  gramm: A
  paradigm: A-front-soft
  trans_ru: исправительный
 
 -lexeme
  lex: лиякстомтомань
- stem: лиякстомтоман.
+ stem: лиякстомтоман.//ліякстомтоман.
  gramm: A
  paradigm: A-front-soft
  trans_ru: исправительный
@@ -3752,7 +3752,7 @@
 
 -lexeme
  lex: миемань
- stem: миеман.
+ stem: миеман.//міеман.
  gramm: A
  paradigm: A-front-soft
  trans_ru: продажный
@@ -3787,7 +3787,7 @@
 
 -lexeme
  lex: миянь
- stem: миян.
+ stem: миян.//міян.
  gramm: A
  paradigm: A-front-soft
  trans_ru: бобровый
@@ -4571,7 +4571,7 @@
 
 -lexeme
  lex: онкстамонь
- stem: онкстамон.
+ stem: онкстамон.//оҥкстамон.
  gramm: A
  paradigm: A-front-soft
  trans_ru: измерительный, мерный
@@ -4886,14 +4886,14 @@
 
 -lexeme
  lex: пельиень
- stem: пельиен.
+ stem: пельиен.//пельіен.
  gramm: A
  paradigm: A-front-soft
  trans_ru: полугодичный
 
 -lexeme
  lex: пельиесэ
- stem: пельиесэ.
+ stem: пельиесэ.//пельіесэ.
  gramm: A
  paradigm: A-front
  trans_ru: полугодовалый
@@ -4949,7 +4949,7 @@
 
 -lexeme
  lex: пенксев
- stem: пенксев.
+ stem: пенксев.//пеҥксев.
  gramm: A
  paradigm: A-front
  trans_ru: грязный
@@ -5523,7 +5523,7 @@
 
 -lexeme
  lex: регионъютконь
- stem: регионъюткон.
+ stem: регионъюткон.//регіонъюткон.
  gramm: A
  paradigm: A-front-soft
  trans_ru: межрегиональный
@@ -5607,7 +5607,7 @@
 
 -lexeme
  lex: ружиянь
- stem: ружиян.
+ stem: ружиян.//ружіян.
  gramm: A
  paradigm: A-front-soft
  trans_ru: ружейный
@@ -5992,7 +5992,7 @@
 
 -lexeme
  lex: сиев
- stem: сиев.
+ stem: сиев.//сіев.
  gramm: A
  paradigm: A-front
  trans_ru: вшивый
@@ -6034,7 +6034,7 @@
 
 -lexeme
  lex: сиянь
- stem: сиян.
+ stem: сиян.//сіян.
  gramm: A
  paradigm: A-front-soft
  trans_ru: серебряный, седой
@@ -6559,7 +6559,7 @@
 
 -lexeme
  lex: сёнкспильге
- stem: сёнкспильге.|сёнкспильг.
+ stem: сёнкспильге.//сёҥкспильге.|сёнкспильг.//сёнкспильге.//сёҥкспильг.
  gramm: A
  paradigm: A-front
  trans_ru: длинноногий
@@ -7154,7 +7154,7 @@
 
 -lexeme
  lex: уголиянь
- stem: уголиян.
+ stem: уголиян.//уголіян.
  gramm: A
  paradigm: A-front-soft
  trans_ru: угольный
@@ -7364,7 +7364,7 @@
 
 -lexeme
  lex: ушоёнксонь
- stem: ушоёнксон.
+ stem: ушоёнксон.//ушоёҥксон.
  gramm: A
  paradigm: A-front-soft
  trans_ru: наружный
@@ -7707,7 +7707,7 @@
 
 -lexeme
  lex: чиень
- stem: чиен.
+ stem: чиен.//чіен.
  gramm: A
  paradigm: A-front-soft
  trans_ru: недавний
@@ -9303,7 +9303,7 @@
 
 -lexeme
  lex: Приокской
- stem: приокско.
+ stem: приокско.//пріокско.
  gramm: A,PN,topn
  paradigm: A-front-j
  trans_ru: Приокский
@@ -9352,7 +9352,7 @@
 
 -lexeme
  lex: Сергиево-посадской
- stem: сергиевопосадско.
+ stem: сергиевопосадско.//сергіевопосадско.
  gramm: A,PN,topn
  paradigm: A-front-j
  trans_ru: Сергиево-посадский
@@ -9639,21 +9639,21 @@
 
 -lexeme
  lex: авиамодельной
- stem: авиамодельно.
+ stem: авиамодельно.//авіамодельно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: авиамодельный
 
 -lexeme
  lex: авиастроительной
- stem: авиастроительно.
+ stem: авиастроительно.//авіастроительно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: авиастроительный
 
 -lexeme
  lex: авиационной
- stem: авиационно.
+ stem: авиационно.//авіаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: авиационный
@@ -9674,21 +9674,21 @@
 
 -lexeme
  lex: автобиографической
- stem: автобиографическо.
+ stem: автобиографическо.//автобіографическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: автобиографический
 
 -lexeme
  lex: автобиографичной
- stem: автобиографично.
+ stem: автобиографично.//автобіографично.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: автобиографичный
 
 -lexeme
  lex: автобронетанковой
- stem: автобронетанково.
+ stem: автобронетанково.//автобронетаҥково.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: автобронетанковый
@@ -9821,21 +9821,21 @@
 
 -lexeme
  lex: агиографической
- stem: агиографическо.
+ stem: агиографическо.//агіографическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: агиографический
 
 -lexeme
  lex: агитационной
- stem: агитационно.
+ stem: агитационно.//агитаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: агитационный
 
 -lexeme
  lex: аграрно-индустриальной
- stem: аграрно-индустриально.
+ stem: аграрно-индустриально.//аграрно-индустріально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: аграрно-индустриальной
@@ -9905,7 +9905,7 @@
 
 -lexeme
  lex: административно-территориальной
- stem: административно-территориально.
+ stem: административно-территориально.//административно-территоріально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: административно-территориальный
@@ -9975,7 +9975,7 @@
 
 -lexeme
  lex: азиатской
- stem: азиатско.
+ stem: азиатско.//азіатско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: азиатский
@@ -10017,7 +10017,7 @@
 
 -lexeme
  lex: аккредитационной
- stem: аккредитационно.
+ stem: аккредитационно.//аккредитаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: аккредитационный
@@ -10094,7 +10094,7 @@
 
 -lexeme
  lex: акционерной
- stem: акционерно.
+ stem: акционерно.//акціонерно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: акционерный
@@ -10199,7 +10199,7 @@
 
 -lexeme
  lex: аммиачной
- stem: аммиачно.
+ stem: аммиачно.//амміачно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: аммиачный
@@ -10297,7 +10297,7 @@
 
 -lexeme
  lex: анимационной
- stem: анимационно.
+ stem: анимационно.//анимаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: анимационный
@@ -10325,7 +10325,7 @@
 
 -lexeme
  lex: антикоррупционной
- stem: антикоррупционно.
+ stem: антикоррупционно.//антикоррупціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: антикоррупционный
@@ -10353,7 +10353,7 @@
 
 -lexeme
  lex: антиохийской
- stem: антиохийско.
+ stem: антиохийско.//антіохийско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: антиохийский
@@ -10367,14 +10367,14 @@
 
 -lexeme
  lex: антипатриотичной
- stem: антипатриотично.
+ stem: антипатриотично.//антипатріотично.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: антипатриотичный
 
 -lexeme
  lex: антирелигиозной
- stem: антирелигиозно.
+ stem: антирелигиозно.//антирелигіозно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: антирелигиозный
@@ -10402,7 +10402,7 @@
 
 -lexeme
  lex: антиутопической
- stem: антиутопическо.
+ stem: антиутопическо.//антіутопическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: антиутопический
@@ -10416,7 +10416,7 @@
 
 -lexeme
  lex: антихристианской
- stem: антихристианско.
+ stem: антихристианско.//антихристіанско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: антихристианский
@@ -10451,7 +10451,7 @@
 
 -lexeme
  lex: аппеляционной
- stem: аппеляционно.
+ stem: аппеляционно.//аппеляціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: аппеляционный
@@ -10556,14 +10556,14 @@
 
 -lexeme
  lex: артезианонь
- stem: артезианон.
+ stem: артезианон.//артезіанон.
  gramm: A,rus
  paradigm: A-front-soft
  trans_ru: артезианский
 
 -lexeme
  lex: артезианской
- stem: артезианско.
+ stem: артезианско.//артезіанско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: артезианский
@@ -10577,14 +10577,14 @@
 
 -lexeme
  lex: артериальной
- stem: артериально.
+ stem: артериально.//артеріально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: артериальный
 
 -lexeme
  lex: артикуляционной
- stem: артикуляционно.
+ stem: артикуляционно.//артикуляціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: артикуляционный
@@ -10640,7 +10640,7 @@
 
 -lexeme
  lex: ассоциативной
- stem: ассоциативно.
+ stem: ассоциативно.//ассоціативно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: ассоциативный
@@ -10710,7 +10710,7 @@
 
 -lexeme
  lex: аттестационной
- stem: аттестационно.
+ stem: аттестационно.//аттестаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: аттестационный
@@ -10836,14 +10836,14 @@
 
 -lexeme
  lex: бактериальной
- stem: бактериально.
+ stem: бактериально.//бактеріально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: бактериальный
 
 -lexeme
  lex: бактериологической
- stem: бактериологическо.
+ stem: бактериологическо.//бактеріологическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: бактериологический
@@ -10899,7 +10899,7 @@
 
 -lexeme
  lex: банковской
- stem: банковско.
+ stem: банковско.//баҥковско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: банковский
@@ -10989,15 +10989,22 @@
  trans_ru: беглый
 
 -lexeme
+ lex: бесноватый
+ stem: бесновато.//бѣсновато.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: бесноватый
+
+-lexeme
  lex: бедной
- stem: бедно.
+ stem: бедно.//бѣдно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: бедный
 
 -lexeme
  lex: бедняцкой
- stem: бедняцко.
+ stem: бедняцко.//бѣдняцко.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: бедняцкий
@@ -11074,7 +11081,7 @@
 
 -lexeme
  lex: безэмоциональной
- stem: безэмоционально.
+ stem: безэмоционально.//безэмоціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: безэмоциональный
@@ -11305,7 +11312,7 @@
 
 -lexeme
  lex: биатлонной
- stem: биатлонно.
+ stem: биатлонно.//біатлонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: биатлонный
@@ -11319,21 +11326,21 @@
 
 -lexeme
  lex: библиографичекой
- stem: библиографичеко.
+ stem: библиографичеко.//библіографичеко.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: библиографичекий
 
 -lexeme
  lex: библиографической
- stem: библиографическо.
+ stem: библиографическо.//библіографическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: библиографический
 
 -lexeme
  lex: библиотечной
- stem: библиотечно.
+ stem: библиотечно.//библіотечно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: библиотечный
@@ -11361,28 +11368,28 @@
 
 -lexeme
  lex: биобиблиографической
- stem: биобиблиографическо.
+ stem: биобиблиографическо.//биобибліографическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: биобиблиографический
 
 -lexeme
  lex: биогазовой
- stem: биогазово.
+ stem: биогазово.//біогазово.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: биогазовый
 
 -lexeme
  lex: биографической
- stem: биографическо.
+ stem: биографическо.//біографическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: биографический
 
 -lexeme
  lex: биологической
- stem: биологическо.
+ stem: биологическо.//біологическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: биологический
@@ -11795,7 +11802,7 @@
 
 -lexeme
  lex: бронетанковой
- stem: бронетанково.
+ stem: бронетанково.//бронетаҥково.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: бронетанковый
@@ -11809,7 +11816,7 @@
 
 -lexeme
  lex: бронхиальной
- stem: бронхиально.
+ stem: бронхиально.//бронхіально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: бронхиальный
@@ -11984,7 +11991,7 @@
 
 -lexeme
  lex: валериановой
- stem: валерианово.
+ stem: валерианово.//валеріаново.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: валериановый, валерьяновый
@@ -12005,7 +12012,7 @@
 
 -lexeme
  lex: вариативной
- stem: вариативно.
+ stem: вариативно.//варіативно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: вариативный
@@ -12117,7 +12124,7 @@
 
 -lexeme
  lex: венецианской
- stem: венецианско.
+ stem: венецианско.//венеціанско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: венецианский
@@ -12425,7 +12432,7 @@
 
 -lexeme
  lex: внутриотраслевой
- stem: внутриотраслево.
+ stem: внутриотраслево.//внутріотраслево.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: внутриотраслевой
@@ -12488,7 +12495,7 @@
 
 -lexeme
  lex: водоэмульсионной
- stem: водоэмульсионно.
+ stem: водоэмульсионно.//водоэмульсіонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: водоэмульсионный
@@ -12530,14 +12537,14 @@
 
 -lexeme
  lex: военно-патриотической
- stem: военно-патриотическо.
+ stem: военно-патриотическо.//военно-патріотическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: военно-патриотической
 
 -lexeme
  lex: военно-патриотической
- stem: военнопатриотическо.
+ stem: военнопатриотическо.//военнопатріотическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: военно-патриотический
@@ -13272,7 +13279,7 @@
 
 -lexeme
  lex: гениальной
- stem: гениально.
+ stem: гениально.//геніально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: гениальный
@@ -13328,7 +13335,7 @@
 
 -lexeme
  lex: георгиевской
- stem: георгиевско.
+ stem: георгиевско.//георгіевско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: георгиевский
@@ -13405,7 +13412,7 @@
 
 -lexeme
  lex: гидроизоляционной
- stem: гидроизоляционно.
+ stem: гидроизоляционно.//гидроизоляціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: гидроизоляционный
@@ -13853,7 +13860,7 @@
 
 -lexeme
  lex: грандиозной
- stem: грандиозно.
+ stem: грандиозно.//грандіозно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: грандиозный
@@ -14217,7 +14224,7 @@
 
 -lexeme
  lex: дезинфекционной
- stem: дезинфекционно.
+ stem: дезинфекционно.//дезинфекціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: дезинфекционный
@@ -14469,42 +14476,42 @@
 
 -lexeme
  lex: диабетической
- stem: диабетическо.
+ stem: диабетическо.//діабетическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: диабетический
 
 -lexeme
  lex: диагностической
- stem: диагностическо.
+ stem: диагностическо.//діагностическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: диагностический
 
 -lexeme
  lex: диагональной
- stem: диагонально.
+ stem: диагонально.//діагонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: диагональный
 
 -lexeme
  lex: диалектической
- stem: диалектическо.
+ stem: диалектическо.//діалектическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: диалектический
 
 -lexeme
  lex: диалектной
- stem: диалектно.
+ stem: диалектно.//діалектно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: диалектный
 
 -lexeme
  lex: диалектологической
- stem: диалектологическо.
+ stem: диалектологическо.//діалектологическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: диалектологический
@@ -14518,14 +14525,14 @@
 
 -lexeme
  lex: диверсионной
- stem: диверсионно.
+ stem: диверсионно.//диверсіонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: диверсионный
 
 -lexeme
  lex: дивизионной
- stem: дивизионно.
+ stem: дивизионно.//дивизіонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: дивизионный
@@ -14560,7 +14567,7 @@
 
 -lexeme
  lex: диетической
- stem: диетическо.
+ stem: диетическо.//діетическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: диетический
@@ -14672,14 +14679,14 @@
 
 -lexeme
  lex: диссертационной
- stem: диссертационно.
+ stem: диссертационно.//диссертаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: диссертационный
 
 -lexeme
  lex: дистанционной
- stem: дистанционно.
+ stem: дистанционно.//дистанціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: дистанционный
@@ -14700,7 +14707,7 @@
 
 -lexeme
  lex: дифференциальной
- stem: дифференциально.
+ stem: дифференциально.//дифференціально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: дифференциальный
@@ -14889,7 +14896,7 @@
 
 -lexeme
  lex: дотационной
- stem: дотационно.
+ stem: дотационно.//дотаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: дотационный
@@ -15127,7 +15134,7 @@
 
 -lexeme
  lex: евроазиатской
- stem: евроазиатско.
+ stem: евроазиатско.//евроазіатско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: евроазиатский
@@ -15232,7 +15239,7 @@
 
 -lexeme
  lex: епархиальной
- stem: епархиально.
+ stem: епархиально.//епархіально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: епархиальный
@@ -15820,7 +15827,7 @@
 
 -lexeme
  lex: звонкой
- stem: звонко.
+ stem: звонко.//звоҥко.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: звонкий
@@ -16107,7 +16114,7 @@
 
 -lexeme
  lex: идентификационной
- stem: идентификационно.
+ stem: идентификационно.//идентификаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: идентификационный
@@ -16296,7 +16303,7 @@
 
 -lexeme
  lex: империалистической
- stem: империалистическо.
+ stem: империалистическо.//имперіалистическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: империалистический
@@ -16331,7 +16338,7 @@
 
 -lexeme
  lex: инвентаризационной
- stem: инвентаризационно.
+ stem: инвентаризационно.//инвентаризаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: инвентаризационный
@@ -16345,7 +16352,7 @@
 
 -lexeme
  lex: инвестиционной
- stem: инвестиционно.
+ stem: инвестиционно.//инвестиціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: инвестиционный
@@ -16394,7 +16401,7 @@
 
 -lexeme
  lex: индустриальной
- stem: индустриально.
+ stem: индустриально.//индустріально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: индустриальный
@@ -16408,21 +16415,21 @@
 
 -lexeme
  lex: инициативной
- stem: инициативно.
+ stem: инициативно.//иниціативно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: инициативный
 
 -lexeme
  lex: инкубаторной
- stem: инкубаторно.
+ stem: инкубаторно.//иҥкубаторно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: инкубаторный
 
 -lexeme
  lex: инновационной
- stem: инновационно.
+ stem: инновационно.//инноваціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: инновационный
@@ -16513,28 +16520,28 @@
 
 -lexeme
  lex: интернационалистической
- stem: интернационалистическо.
+ stem: интернационалистическо.//интернаціоналистическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: интернационалистический
 
 -lexeme
  lex: интернационалной
- stem: интернационално.
+ stem: интернационално.//интернаціонално.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: интернационалный
 
 -lexeme
  lex: интернациональной
- stem: интернационально.
+ stem: интернационально.//интернаціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: интернациональный
 
 -lexeme
  lex: интерференционной
- stem: интерференционно.
+ stem: интерференционно.//интерференціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: интерференционный
@@ -16555,14 +16562,14 @@
 
 -lexeme
  lex: инфекционной
- stem: инфекционно.
+ stem: инфекционно.//инфекціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: инфекционный
 
 -lexeme
  lex: информационной
- stem: информационно.
+ stem: информационно.//информаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: информационный
@@ -16576,7 +16583,7 @@
 
 -lexeme
  lex: иоанновской
- stem: иоанновско.
+ stem: иоанновско.//іоанновско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: иоанновский
@@ -16611,7 +16618,7 @@
 
 -lexeme
  lex: исаакиевской
- stem: исаакиевско.
+ stem: исаакиевско.//исаакіевско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: исаакиевский
@@ -16737,7 +16744,7 @@
 
 -lexeme
  lex: июльской
- stem: июльско.
+ stem: июльско.//іюльско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: июльский
@@ -16793,7 +16800,7 @@
 
 -lexeme
  lex: кавитационной
- stem: кавитационно.
+ stem: кавитационно.//кавитаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: кавитационный
@@ -16996,7 +17003,7 @@
 
 -lexeme
  lex: канализационной
- stem: канализационно.
+ stem: канализационно.//канализаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: канализационный
@@ -17066,14 +17073,14 @@
 
 -lexeme
  lex: кардиогенной
- stem: кардиогенно.
+ stem: кардиогенно.//кардіогенно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: кардиогенный
 
 -lexeme
  lex: кардиологической
- stem: кардиологическо.
+ stem: кардиологическо.//кардіологическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: кардиологический
@@ -17150,7 +17157,7 @@
 
 -lexeme
  lex: кассационной
- stem: кассационно.
+ stem: кассационно.//кассаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: кассационный
@@ -17234,7 +17241,7 @@
 
 -lexeme
  lex: квалификационной
- stem: квалификационно.
+ stem: квалификационно.//квалификаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: квалификационный
@@ -17283,7 +17290,7 @@
 
 -lexeme
  lex: киевской
- stem: киевско.
+ stem: киевско.//кіевско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: киевский
@@ -17416,7 +17423,7 @@
 
 -lexeme
  lex: киясовской
- stem: киясовско.
+ stem: киясовско.//кіясовско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: киясовский
@@ -17570,7 +17577,7 @@
 
 -lexeme
  lex: коллегиальной
- stem: коллегиально.
+ stem: коллегиально.//коллегіально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: коллегиальный
@@ -17780,7 +17787,7 @@
 
 -lexeme
  lex: коммуникационной
- stem: коммуникационно.
+ stem: коммуникационно.//коммуникаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: коммуникационный
@@ -17822,7 +17829,7 @@
 
 -lexeme
  lex: композиционной
- stem: композиционно.
+ stem: композиционно.//композиціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: композиционный
@@ -17885,7 +17892,7 @@
 
 -lexeme
  lex: кондиционной
- stem: кондиционно.
+ stem: кондиционно.//кондиціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: кондиционный
@@ -17899,21 +17906,21 @@
 
 -lexeme
  lex: конкретной
- stem: конкретно.
+ stem: конкретно.//коҥкретно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: конкретный
 
 -lexeme
  lex: конкурентоспособной
- stem: конкурентоспособно.
+ stem: конкурентоспособно.//коҥкурентоспособно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: конкурентоспособный
 
 -lexeme
  lex: конкурсной
- stem: конкурсно.
+ stem: конкурсно.//коҥкурсно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: конкурсный
@@ -17962,7 +17969,7 @@
 
 -lexeme
  lex: конституционной
- stem: конституционно.
+ stem: конституционно.//конституціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: конституционный
@@ -17990,7 +17997,7 @@
 
 -lexeme
  lex: консультационной
- stem: консультационно.
+ stem: консультационно.//консультаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: консультационный
@@ -18025,7 +18032,7 @@
 
 -lexeme
  lex: контрреволюционной
- stem: контрреволюционно.
+ stem: контрреволюционно.//контрреволюціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: контрреволюционный
@@ -18053,7 +18060,7 @@
 
 -lexeme
  lex: конфессиональной
- stem: конфессионально.
+ stem: конфессионально.//конфессіонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: конфессиональный
@@ -18074,7 +18081,7 @@
 
 -lexeme
  lex: концентрационной
- stem: концентрационно.
+ stem: концентрационно.//концентраціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: концентрационный
@@ -18095,7 +18102,7 @@
 
 -lexeme
  lex: концессионной
- stem: концессионно.
+ stem: концессионно.//концессіонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: концессионный
@@ -18116,7 +18123,7 @@
 
 -lexeme
  lex: координационной
- stem: координационно.
+ stem: координационно.//координаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: координационный
@@ -18221,7 +18228,7 @@
 
 -lexeme
  lex: коррекционной
- stem: коррекционно.
+ stem: коррекционно.//коррекціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: коррекционный
@@ -18508,7 +18515,7 @@
 
 -lexeme
  lex: криоскопической
- stem: криоскопическо.
+ stem: криоскопическо.//кріоскопическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: криоскопический
@@ -18886,7 +18893,7 @@
 
 -lexeme
  lex: ламонациональной
- stem: ламонационально.
+ stem: ламонационально.//ламонаціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: многонациональный
@@ -18907,7 +18914,7 @@
 
 -lexeme
  lex: ларсфонтриеровской
- stem: ларсфонтриеровско.
+ stem: ларсфонтриеровско.//ларсфонтріеровско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: ларсфонтриеровский
@@ -19019,7 +19026,7 @@
 
 -lexeme
  lex: лекционной
- stem: лекционно.
+ stem: лекционно.//лекціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: лекционный
@@ -19061,7 +19068,7 @@
 
 -lexeme
  lex: лесомелиоративной
- stem: лесомелиоративно.
+ stem: лесомелиоративно.//лесомеліоративно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: лесомелиоративный
@@ -19677,7 +19684,7 @@
 
 -lexeme
  lex: мариинской
- stem: мариинско.
+ stem: мариинско.//маріинско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: мариинский
@@ -19761,28 +19768,28 @@
 
 -lexeme
  lex: материалистический
- stem: материалистически.
+ stem: материалистически.//матеріалистически.
  gramm: A,rus
  paradigm: A-front
  trans_ru: материалистический
 
 -lexeme
  lex: материалистичной
- stem: материалистично.
+ stem: материалистично.//матеріалистично.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: материалистичный
 
 -lexeme
  lex: материально-технической
- stem: материально-техническо.
+ stem: материально-техническо.//матеріально-техническо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: материально-технический
 
 -lexeme
  lex: материальной
- stem: материально.
+ stem: материально.//матеріально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: материальный
@@ -19803,7 +19810,7 @@
 
 -lexeme
  lex: матриархальной
- stem: матриархально.
+ stem: матриархально.//матріархально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: матриархальный
@@ -19859,7 +19866,7 @@
 
 -lexeme
  lex: медико-социальной
- stem: медико-социально.
+ stem: медико-социально.//медико-соціально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: медико-социальной
@@ -19922,14 +19929,14 @@
 
 -lexeme
  lex: межконфессиональной
- stem: межконфессионально.
+ stem: межконфессионально.//межконфессіонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: межконфессиональный
 
 -lexeme
  lex: межконфессионной
- stem: межконфессионно.
+ stem: межконфессионно.//межконфессіонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: межконфессионный
@@ -19943,7 +19950,7 @@
 
 -lexeme
  lex: межнациональной
- stem: межнационально.
+ stem: межнационально.//межнаціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: межнациональный
@@ -19985,14 +19992,14 @@
 
 -lexeme
  lex: межрегиональной
- stem: межрегионально.
+ stem: межрегионально.//межрегіонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: межрегиональный
 
 -lexeme
  lex: межрелигиозной
- stem: межрелигиозно.
+ stem: межрелигиозно.//межрелигіозно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: межрелигиозный
@@ -20083,7 +20090,7 @@
 
 -lexeme
  lex: мемориальной
- stem: мемориально.
+ stem: мемориально.//меморіально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: мемориальный
@@ -20111,7 +20118,7 @@
 
 -lexeme
  lex: меридиональной
- stem: меридионально.
+ stem: меридионально.//меридіонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: меридиональный
@@ -20237,7 +20244,7 @@
 
 -lexeme
  lex: миграционной
- stem: миграционно.
+ stem: миграционно.//миграціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: миграционный
@@ -20251,7 +20258,7 @@
 
 -lexeme
  lex: микробиологической
- stem: микробиологическо.
+ stem: микробиологическо.//микробіологическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: микробиологический
@@ -20307,7 +20314,7 @@
 
 -lexeme
  lex: милиционной
- stem: милиционно.
+ stem: милиционно.//милиціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: милиционный
@@ -20349,7 +20356,7 @@
 
 -lexeme
  lex: миниатюрной
- stem: миниатюрно.
+ stem: миниатюрно.//миніатюрно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: миниатюрный
@@ -20398,7 +20405,7 @@
 
 -lexeme
  lex: миофасциальной
- stem: миофасциально.
+ stem: миофасциально.//миофасціально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: миофасциальный
@@ -20433,7 +20440,7 @@
 
 -lexeme
  lex: миссионерской
- stem: миссионерско.
+ stem: миссионерско.//миссіонерско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: миссионерский
@@ -20454,7 +20461,7 @@
 
 -lexeme
  lex: миусской
- stem: миусско.
+ stem: миусско.//міусско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: миусский
@@ -20496,7 +20503,7 @@
 
 -lexeme
  lex: многонациональной
- stem: многонационально.
+ stem: многонационально.//многонаціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: многонациональный
@@ -20517,7 +20524,7 @@
 
 -lexeme
  lex: многофункциональной
- stem: многофункционально.
+ stem: многофункционально.//многофункціонально.//многофуҥкционально.//многофуҥкціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: многофункциональный
@@ -20783,7 +20790,7 @@
 
 -lexeme
  lex: мотивационной
- stem: мотивационно.
+ stem: мотивационно.//мотиваціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: мотивационный
@@ -21077,7 +21084,7 @@
 
 -lexeme
  lex: наднациональной
- stem: наднационально.
+ stem: наднационально.//наднаціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: наднациональный
@@ -21266,7 +21273,7 @@
 
 -lexeme
  lex: натриевой
- stem: натриево.
+ stem: натриево.//натріево.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: натриевый
@@ -21350,35 +21357,35 @@
 
 -lexeme
  lex: национализированной
- stem: национализированно.
+ stem: национализированно.//націонализированно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: национализированный
 
 -lexeme
  lex: националистической
- stem: националистическо.
+ stem: националистическо.//націоналистическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: националистический
 
 -lexeme
  lex: национально-государственной
- stem: национально-государственно.
+ stem: национально-государственно.//національно-государственно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: национально-государственный
 
 -lexeme
  lex: национально-культурной
- stem: национально-культурно.
+ stem: национально-культурно.//національно-культурно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: национально-культурной
 
 -lexeme
  lex: национальной
- stem: национально.
+ stem: национально.//національно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: национальный
@@ -21707,7 +21714,7 @@
 
 -lexeme
  lex: некондиционной
- stem: некондиционно.
+ stem: некондиционно.//некондиціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: некондиционный
@@ -21882,7 +21889,7 @@
 
 -lexeme
  lex: неофициальной
- stem: неофициально.
+ stem: неофициально.//неофиціально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: неофициальный
@@ -21987,7 +21994,7 @@
 
 -lexeme
  lex: неприятной
- stem: неприятно.
+ stem: неприятно.//непріятно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: неприятный
@@ -22001,7 +22008,7 @@
 
 -lexeme
  lex: непунктуальной
- stem: непунктуально.
+ stem: непунктуально.//непуҥктуально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: непунктуальный
@@ -22379,7 +22386,7 @@
 
 -lexeme
  lex: номенклатурной
- stem: номенклатурно.
+ stem: номенклатурно.//номеҥклатурно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: номенклатурный
@@ -22414,7 +22421,7 @@
 
 -lexeme
  lex: нотариальной
- stem: нотариально.
+ stem: нотариально.//нотаріально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: нотариальный
@@ -22645,7 +22652,7 @@
 
 -lexeme
  lex: общенациональной
- stem: общенационально.
+ stem: общенационально.//общенаціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: общенациональный
@@ -22925,7 +22932,7 @@
 
 -lexeme
  lex: олимпиадой
- stem: олимпиадо.
+ stem: олимпиадо.//олимпіадо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: олимпиадый
@@ -22974,7 +22981,7 @@
 
 -lexeme
  lex: онкологической
- stem: онкологическо.
+ stem: онкологическо.//оҥкологическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: онкологический
@@ -23002,7 +23009,7 @@
 
 -lexeme
  lex: операционной
- stem: операционно.
+ stem: операционно.//операціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: операционный
@@ -23030,7 +23037,7 @@
 
 -lexeme
  lex: оппозиционной
- stem: оппозиционно.
+ stem: оппозиционно.//оппозиціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: оппозиционный
@@ -23135,7 +23142,7 @@
 
 -lexeme
  lex: организационной
- stem: организационно.
+ stem: организационно.//организаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: организационный
@@ -23184,7 +23191,7 @@
 
 -lexeme
  lex: ориентированной
- stem: ориентированно.
+ stem: ориентированно.//оріентированно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: ориентированный
@@ -23541,7 +23548,7 @@
 
 -lexeme
  lex: официальной
- stem: официально.
+ stem: официально.//офиціально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: официальный
@@ -23569,7 +23576,7 @@
 
 -lexeme
  lex: оцинкованной
- stem: оцинкованно.
+ stem: оцинкованно.//оциҥкованно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: оцинкованный
@@ -23898,21 +23905,21 @@
 
 -lexeme
  lex: патриархальной
- stem: патриархально.
+ stem: патриархально.//патріархально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: патриархальный
 
 -lexeme
  lex: патриотической
- stem: патриотическо.
+ stem: патриотическо.//патріотическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: патриотический
 
 -lexeme
  lex: патриотичной
- stem: патриотично.
+ stem: патриотично.//патріотично.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: патриотичный
@@ -23989,7 +23996,7 @@
 
 -lexeme
  lex: пенсионной
- stem: пенсионно.
+ stem: пенсионно.//пенсіонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: пенсионный
@@ -24178,7 +24185,7 @@
 
 -lexeme
  lex: периодической
- stem: периодическо.
+ stem: периодическо.//періодическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: периодический
@@ -24374,7 +24381,7 @@
 
 -lexeme
  lex: пионерской
- stem: пионерско.
+ stem: пионерско.//піонерско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: пионерский
@@ -24962,14 +24969,14 @@
 
 -lexeme
  lex: полинациональной
- stem: полинационально.
+ stem: полинационально.//полинаціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: полинациональный
 
 -lexeme
  lex: полиорганной
- stem: полиорганно.
+ stem: полиорганно.//поліорганно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: полиорганный
@@ -25627,7 +25634,7 @@
 
 -lexeme
  lex: презентационной
- stem: презентационно.
+ stem: презентационно.//презентаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: презентационный
@@ -25655,7 +25662,7 @@
 
 -lexeme
  lex: премиальной
- stem: премиально.
+ stem: премиально.//преміально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: премиальный
@@ -25718,7 +25725,7 @@
 
 -lexeme
  lex: приаргунской
- stem: приаргунско.
+ stem: приаргунско.//пріаргунско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: приаргунский
@@ -25746,7 +25753,7 @@
 
 -lexeme
  lex: приватизационной
- stem: приватизационно.
+ stem: приватизационно.//приватизаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: приватизационный
@@ -25900,21 +25907,21 @@
 
 -lexeme
  lex: принципиальной
- stem: принципиально.
+ stem: принципиально.//принципіально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: принципиальный
 
 -lexeme
  lex: приобретённой
- stem: приобретённо.//приобретенно.
+ stem: приобретённо.//приобретенно.//приобретённо.//пріобретенно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: приобретённый
 
 -lexeme
  lex: приоритетной
- stem: приоритетно.
+ stem: приоритетно.//пріоритетно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: приоритетный
@@ -25984,14 +25991,14 @@
 
 -lexeme
  lex: приятной
- stem: приятно.
+ stem: приятно.//пріятно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: приятный
 
 -lexeme
  lex: приёмной
- stem: приёмно.//приемно.
+ stem: приёмно.//приемно.//приёмно.//пріемно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: приёмный
@@ -26033,7 +26040,7 @@
 
 -lexeme
  lex: провинциальной
- stem: провинциально.
+ stem: провинциально.//провинціально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: провинциальный
@@ -26047,7 +26054,7 @@
 
 -lexeme
  lex: провокационной
- stem: провокационно.
+ stem: провокационно.//провокаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: провокационный
@@ -26250,7 +26257,7 @@
 
 -lexeme
  lex: пропорциональной
- stem: пропорционально.
+ stem: пропорционально.//пропорціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: пропорциональный
@@ -26369,7 +26376,7 @@
 
 -lexeme
  lex: противотанковой
- stem: противотанково.
+ stem: противотанково.//противотаҥково.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: противотанковый
@@ -26390,14 +26397,14 @@
 
 -lexeme
  lex: профессионалной
- stem: профессионално.
+ stem: профессионално.//профессіонално.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: профессионалный
 
 -lexeme
  lex: профессиональной
- stem: профессионально.
+ stem: профессионально.//профессіонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: профессиональный
@@ -26509,7 +26516,7 @@
 
 -lexeme
  lex: психиатрической
- stem: психиатрическо.
+ stem: психиатрическо.//психіатрическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: психиатрический
@@ -26593,14 +26600,14 @@
 
 -lexeme
  lex: пунктуальной
- stem: пунктуально.
+ stem: пунктуально.//пуҥктуально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: пунктуальный
 
 -lexeme
  lex: пунктуационной
- stem: пунктуационно.
+ stem: пунктуационно.//пунктуаціонно.//пуҥктуационно.//пуҥктуаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: пунктуационный
@@ -26733,7 +26740,7 @@
 
 -lexeme
  lex: радиационной
- stem: радиационно.
+ stem: радиационно.//радиаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: радиационный
@@ -26747,49 +26754,49 @@
 
 -lexeme
  lex: радиоактивной
- stem: радиоактивно.
+ stem: радиоактивно.//радіоактивно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: радиоактивный
 
 -lexeme
  lex: радиовещательной
- stem: радиовещательно.
+ stem: радиовещательно.//радіовещательно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: радиовещательный
 
 -lexeme
  lex: радиолокационной
- stem: радиолокационно.
+ stem: радиолокационно.//радиолокаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: радиолокационный
 
 -lexeme
  lex: радиорелейной
- stem: радиорелейно.
+ stem: радиорелейно.//радіорелейно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: радиорелейный
 
 -lexeme
  lex: радиотехнической
- stem: радиотехническо.
+ stem: радиотехническо.//радіотехническо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: радиотехнический
 
 -lexeme
  lex: радиочастотной
- stem: радиочастотно.
+ stem: радиочастотно.//радіочастотно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: радиочастотный
 
 -lexeme
  lex: радиоэлектронной
- stem: радиоэлектронно.
+ stem: радиоэлектронно.//радіоэлектронно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: радиоэлектронный
@@ -27006,7 +27013,7 @@
 
 -lexeme
  lex: реабилитационной
- stem: реабилитационно.
+ stem: реабилитационно.//реабилитаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: реабилитационный
@@ -27020,7 +27027,7 @@
 
 -lexeme
  lex: реакционной
- stem: реакционно.
+ stem: реакционно.//реакціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: реакционный
@@ -27041,7 +27048,7 @@
 
 -lexeme
  lex: реанимационной
- stem: реанимационно.
+ stem: реанимационно.//реанимаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: реанимационный
@@ -27055,14 +27062,14 @@
 
 -lexeme
  lex: ревизионистской
- stem: ревизионистско.
+ stem: ревизионистско.//ревизіонистско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru:  ревизионистский
 
 -lexeme
  lex: ревизионной
- stem: ревизионно.
+ stem: ревизионно.//ревизіонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: ревизионный
@@ -27083,21 +27090,21 @@
 
 -lexeme
  lex: революционной
- stem: революционно.
+ stem: революционно.//революціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: революционный
 
 -lexeme
  lex: региональной
- stem: регионально.
+ stem: регионально.//регіонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: региональный
 
 -lexeme
  lex: регионоведческой
- stem: регионоведческо.
+ stem: регионоведческо.//регіоноведческо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: регионоведческий
@@ -27118,14 +27125,14 @@
 
 -lexeme
  lex: редакционно-издательской
- stem: редакционно-издательско.
+ stem: редакционно-издательско.//редакціонно-издательско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: редакционно-издательский
 
 -lexeme
  lex: редакционной
- stem: редакционно.
+ stem: редакционно.//редакціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: редакционный
@@ -27216,7 +27223,7 @@
 
 -lexeme
  lex: реконструкционной
- stem: реконструкционно.
+ stem: реконструкционно.//реконструкціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: реконструкционный
@@ -27230,7 +27237,7 @@
 
 -lexeme
  lex: рекреационной
- stem: рекреационно.
+ stem: рекреационно.//рекреаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: рекреационный
@@ -27244,7 +27251,7 @@
 
 -lexeme
  lex: религиозной
- stem: религиозно.
+ stem: религиозно.//религіозно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: религиозный
@@ -27300,7 +27307,7 @@
 
 -lexeme
  lex: репетиционной
- stem: репетиционно.
+ stem: репетиционно.//репетиціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: репетиционный
@@ -27580,7 +27587,7 @@
 
 -lexeme
  lex: ротационной
- stem: ротационно.
+ stem: ротационно.//ротаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: ротационный
@@ -28014,7 +28021,7 @@
 
 -lexeme
  lex: светодиодной
- stem: светодиодно.
+ stem: светодиодно.//светодіодно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: светодиодный
@@ -28154,14 +28161,14 @@
 
 -lexeme
  lex: секционной
- stem: секционно.
+ stem: секционно.//секціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: секционный
 
 -lexeme
  lex: селекционной
- stem: селекционно.
+ stem: селекционно.//селекціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: селекционный
@@ -28280,7 +28287,7 @@
 
 -lexeme
  lex: сергиевской
- stem: сергиевско.
+ stem: сергиевско.//сергіевско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: сергиевский
@@ -28462,14 +28469,14 @@
 
 -lexeme
  lex: синкретичной
- stem: синкретично.
+ stem: синкретично.//сиҥкретично.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: синкретичный
 
 -lexeme
  lex: синовиальной
- stem: синовиально.
+ stem: синовиально.//синовіально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: синовиальный
@@ -28539,7 +28546,7 @@
 
 -lexeme
  lex: ситуационной
- stem: ситуационно.
+ stem: ситуационно.//ситуаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: ситуационный
@@ -29050,28 +29057,28 @@
 
 -lexeme
  lex: социалистической
- stem: социалистическо.
+ stem: социалистическо.//соціалистическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: социалистический
 
 -lexeme
  lex: социальной
- stem: социально.
+ stem: социально.//соціально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: социальный
 
 -lexeme
  lex: социолингвистической
- stem: социолингвистическо.
+ stem: социолингвистическо.//соціолингвистическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: социолингвистический
 
 -lexeme
  lex: социологической
- stem: социологическо.
+ stem: социологическо.//соціологическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: социологический
@@ -29127,14 +29134,14 @@
 
 -lexeme
  lex: специализированной
- stem: специализированно.
+ stem: специализированно.//спеціализированно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: специализированный
 
 -lexeme
  lex: специальной
- stem: специально.
+ stem: специально.//спеціально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: специальный
@@ -29274,7 +29281,7 @@
 
 -lexeme
  lex: стабилизационной
- stem: стабилизационно.
+ stem: стабилизационно.//стабилизаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: стабилизационный
@@ -29344,7 +29351,7 @@
 
 -lexeme
  lex: станкоинструментальной
- stem: станкоинструментально.
+ stem: станкоинструментально.//стаҥкоинструментально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: станкоинструментальный
@@ -29358,7 +29365,7 @@
 
 -lexeme
  lex: станционной
- stem: станционно.
+ stem: станционно.//станціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: станционный
@@ -29449,7 +29456,7 @@
 
 -lexeme
  lex: стационарной
- stem: стационарно.
+ stem: стационарно.//стаціонарно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: стационарный
@@ -29953,7 +29960,7 @@
 
 -lexeme
  lex: таксационной
- stem: таксационно.
+ stem: таксационно.//таксаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: таксационный
@@ -30009,7 +30016,7 @@
 
 -lexeme
  lex: танковой
- stem: танково.
+ stem: танково.//таҥково.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: танковый
@@ -30079,7 +30086,7 @@
 
 -lexeme
  lex: телевизионной
- stem: телевизионно.
+ stem: телевизионно.//телевизіонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: телевизионный
@@ -30226,14 +30233,14 @@
 
 -lexeme
  lex: территориально-производственной
- stem: территориально-производственно.
+ stem: территориально-производственно.//территоріально-производственно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: территориально-производственный
 
 -lexeme
  lex: территориальной
- stem: территориально.
+ stem: территориально.//территоріально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: территориальный
@@ -30443,7 +30450,7 @@
 
 -lexeme
  lex: тонкорунной
- stem: тонкорунно.
+ stem: тонкорунно.//тоҥкорунно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: тонкорунный
@@ -30555,7 +30562,7 @@
 
 -lexeme
  lex: традиционной
- stem: традиционно.
+ stem: традиционно.//традиціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: традиционный
@@ -30646,7 +30653,7 @@
 
 -lexeme
  lex: триумфальной
- stem: триумфально.
+ stem: триумфально.//тріумфально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: триумфальный
@@ -31010,7 +31017,7 @@
 
 -lexeme
  lex: ультрафиолетовой
- stem: ультрафиолетово.
+ stem: ультрафиолетово.//ультрафіолетово.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: ультрафиолетовый
@@ -31416,7 +31423,7 @@
 
 -lexeme
  lex: физиологической
- stem: физиологическо.
+ stem: физиологическо.//физіологическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: физиологический
@@ -31479,7 +31486,7 @@
 
 -lexeme
  lex: фильтрационной
- stem: фильтрационно.
+ stem: фильтрационно.//фильтраціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: фильтрационный
@@ -31535,7 +31542,7 @@
 
 -lexeme
  lex: фиолетовой
- stem: фиолетово.
+ stem: фиолетово.//фіолетово.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: фиолетовый
@@ -31675,7 +31682,7 @@
 
 -lexeme
  lex: франконской
- stem: франконско.
+ stem: франконско.//фраҥконско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: франконский
@@ -31710,7 +31717,7 @@
 
 -lexeme
  lex: функциональной
- stem: функционально.
+ stem: функционально.//функціонально.//фуҥкционально.//фуҥкціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: функциональный
@@ -31794,7 +31801,7 @@
 
 -lexeme
  lex: хельсинкской
- stem: хельсинкско.
+ stem: хельсинкско.//хельсиҥкско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: хельсинкский
@@ -31829,7 +31836,7 @@
 
 -lexeme
  lex: хлебоприёмной
- stem: хлебоприёмно.//хлебоприемно.
+ stem: хлебоприёмно.//хлебоприемно.//хлебоприёмно.//хлебопріемно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: хлебоприёмный
@@ -31941,7 +31948,7 @@
 
 -lexeme
  lex: христианской
- stem: христианско.
+ stem: христианско.//христіанско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: христианский
@@ -32186,7 +32193,7 @@
 
 -lexeme
  lex: цинковой
- stem: цинково.
+ stem: цинково.//циҥково.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: цинковый
@@ -32557,7 +32564,7 @@
 
 -lexeme
  lex: шпионской
- stem: шпионско.
+ stem: шпионско.//шпіонско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: шпионский
@@ -32655,7 +32662,7 @@
 
 -lexeme
  lex: эвакуационной
- stem: эвакуационно.
+ stem: эвакуационно.//эвакуаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: эвакуационный
@@ -32676,21 +32683,21 @@
 
 -lexeme
  lex: экваториальной
- stem: экваториально.
+ stem: экваториально.//экваторіально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: экваториальный
 
 -lexeme
  lex: экзаменационной
- stem: экзаменационно.
+ stem: экзаменационно.//экзаменаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: экзаменационный
 
 -lexeme
  lex: экзистенциальной
- stem: экзистенциально.
+ stem: экзистенциально.//экзистенціально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: экзистенциальный
@@ -32760,7 +32767,7 @@
 
 -lexeme
  lex: экскурсионной
- stem: экскурсионно.
+ stem: экскурсионно.//экскурсіонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: экскурсионный
@@ -32781,7 +32788,7 @@
 
 -lexeme
  lex: эксплуатационной
- stem: эксплуатационно.
+ stem: эксплуатационно.//эксплуатаціонно.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: эксплуатационный
@@ -32942,7 +32949,7 @@
 
 -lexeme
  lex: эмоциональной
- stem: эмоционально.
+ stem: эмоционально.//эмоціонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: эмоциональный
@@ -32977,7 +32984,7 @@
 
 -lexeme
  lex: эпидемиологической
- stem: эпидемиологическо.
+ stem: эпидемиологическо.//эпидеміологическо.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: эпидемиологический
@@ -33096,7 +33103,7 @@
 
 -lexeme
  lex: этнорегиональной
- stem: этнорегионально.
+ stem: этнорегионально.//этнорегіонально.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: этнорегиональный
@@ -33187,7 +33194,7 @@
 
 -lexeme
  lex: юниорской
- stem: юниорско.
+ stem: юниорско.//юніорско.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: юниорский
@@ -33404,7 +33411,7 @@
 
 -lexeme
  lex: анимационной
- stem: анимационо.
+ stem: анимационо.//анимаціоно.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: анимационный
@@ -33425,14 +33432,14 @@
 
 -lexeme
  lex: антиутопической
- stem: антиутопиеско.
+ stem: антиутопиеско.//антиутопіеско.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: антиутопический
 
 -lexeme
  lex: артикуляционной
- stem: артикулляционно.
+ stem: артикулляционно.//артикулляціонно.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: артикуляционный
@@ -33495,7 +33502,7 @@
 
 -lexeme
  lex: венецианской
- stem: веницианско.
+ stem: веницианско.//вениціанско.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: венецианский
@@ -33684,7 +33691,7 @@
 
 -lexeme
  lex: информационной
- stem: информационо.
+ stem: информационо.//информаціоно.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: информационный
@@ -33824,7 +33831,7 @@
 
 -lexeme
  lex: марийской
- stem: мариийско.
+ stem: мариийско.//маріийско.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: марийский
@@ -33838,7 +33845,7 @@
 
 -lexeme
  lex: мемориальной
- stem: мемориално.
+ stem: мемориално.//меморіално.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: мемориальный
@@ -33894,7 +33901,7 @@
 
 -lexeme
  lex: национальной
- stem: ниционально.
+ stem: ниционально.//ниціонально.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: национальный
@@ -34111,14 +34118,14 @@
 
 -lexeme
  lex: радиоактивной
- stem: радиактивно.
+ stem: радиактивно.//радіактивно.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: радиоактивный
 
 -lexeme
  lex: революционной
- stem: револиционно.
+ stem: револиционно.//револиціонно.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: революционный
@@ -34132,7 +34139,7 @@
 
 -lexeme
  lex: рекреационной
- stem: рекриационно.
+ stem: рекриационно.//рекриаціонно.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: рекреационный
@@ -34146,7 +34153,7 @@
 
 -lexeme
  lex: самодийской
- stem: самодиийско.
+ stem: самодиийско.//самодіийско.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: самодийский
@@ -34237,7 +34244,7 @@
 
 -lexeme
  lex: традиционной
- stem: традиционо.
+ stem: традиционо.//традиціоно.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: традиционный
@@ -34286,7 +34293,7 @@
 
 -lexeme
  lex: христианской
- stem: христианиско.
+ stem: христианиско.//христіаниско.
  gramm: A,rus,missp
  paradigm: A-front-j
  trans_ru: христианский
@@ -34384,7 +34391,7 @@
 
 -lexeme
  lex: вачкиень
- stem: вачкиен.
+ stem: вачкиен.//вачкіен.
  gramm: A
  paradigm: A-front-soft
  trans_ru: удобренный навозом
@@ -34475,7 +34482,7 @@
 
 -lexeme
  lex: кенкшень
- stem: кенкшен.
+ stem: кенкшен.//кеҥкшен.
  gramm: A
  paradigm: A-front-soft
  trans_ru: дверной
@@ -34538,14 +34545,14 @@
 
 -lexeme
  lex: лия
- stem: лия.
+ stem: лия.//лія.
  gramm: A
  paradigm: A-back
  trans_ru: другой
 
 -lexeme
  lex: лията
- stem: лията.
+ stem: лията.//ліята.
  gramm: A
  paradigm: A-back
  trans_ru: другой
@@ -34748,7 +34755,7 @@
 
 -lexeme
  lex: панксов
- stem: панксов.
+ stem: панксов.//паҥксов.
  gramm: A
  paradigm: A-back
  trans_ru: в заплатках
@@ -35354,7 +35361,7 @@
 
 -lexeme
  lex: кучмолия
- stem: кучмолия.
+ stem: кучмолия.//кучмолія.
  gramm: A
  paradigm: A-back
  trans_ru: ряженый
@@ -35676,8 +35683,14 @@
  paradigm: A-front-j
  trans_ru: научно-методический
 -lexeme
+ lex: научно-производственной
+ stem: научно-производственно.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: научно-производственный
+-lexeme
  lex: почётонь
- stem: почётон.
+ stem: почётон.//почетон.
  gramm: A,rus
  paradigm: A-front-soft
  trans_ru: почётный
@@ -35699,3 +35712,16 @@
  gramm: A,dim
  paradigm: A-front
  trans_ru: небольшой
+-lexeme
+ lex: жив
+ stem: жив.
+ gramm: A,rus
+ paradigm: A-front
+ trans_ru: живой
+
+-lexeme
+ lex: лияназонь
+ stem: лияназон.//ліяназон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: льняной

@@ -22,7 +22,7 @@
 
 -lexeme
  lex: Авианова
- stem: авианова.
+ stem: авианова.//авіанова.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Авианова
@@ -92,14 +92,14 @@
 
 -lexeme
  lex: Аксион
- stem: аксион.
+ stem: аксион.//аксіон.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Аксион (название предприятия и дома культуры)
 
 -lexeme
  lex: Аксион-холдинг
- stem: аксион-холдинг.
+ stem: аксион-холдинг.//аксіон-холдинг.
  gramm: N,PN
  paradigm: N-front
  trans_ru: Аксион-холдинг
@@ -113,7 +113,7 @@
 
 -lexeme
  lex: Альбарегия
- stem: альбарегия.
+ stem: альбарегия.//альбарегія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Альбарегия
@@ -127,7 +127,7 @@
 
 -lexeme
  lex: Аркания
- stem: аркания.
+ stem: аркания.//арканія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Аркания
@@ -162,7 +162,7 @@
 
 -lexeme
  lex: Бастилия
- stem: бастилия.
+ stem: бастилия.//бастилія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Бастилия
@@ -176,7 +176,7 @@
 
 -lexeme
  lex: Башфармация
- stem: башфармация.
+ stem: башфармация.//башфармація.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Башфармация
@@ -225,7 +225,7 @@
 
 -lexeme
  lex: Бурановские
- stem: бурановские.
+ stem: бурановские.//бурановскіе.
  gramm: N,PN
  paradigm: N-front
  trans_ru: Бурановские
@@ -267,7 +267,7 @@
 
 -lexeme
  lex: Внешторгбанк
- stem: внешторгбанк.
+ stem: внешторгбанк.//внешторгбаҥк.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Внешторгбанк
@@ -281,7 +281,7 @@
 
 -lexeme
  lex: Возрождение
- stem: возрождение.
+ stem: возрождение.//возрожденіе.
  gramm: N,PN
  paradigm: N-front
  trans_ru: Возрождение
@@ -365,7 +365,7 @@
 
 -lexeme
  lex: Госпожинспекция
- stem: госпожинспекция.
+ stem: госпожинспекция.//госпожинспекція.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Госпожинспекция
@@ -379,7 +379,7 @@
 
 -lexeme
  lex: Госсорткомиссия
- stem: госсорткомиссия.
+ stem: госсорткомиссия.//госсорткомиссія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Госсорткомиссия
@@ -442,7 +442,7 @@
 
 -lexeme
  lex: Деяния
- stem: деяния.
+ stem: деяния.//деянія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Деяния
@@ -589,7 +589,7 @@
 
 -lexeme
  lex: Ижавиа
- stem: ижавиа.
+ stem: ижавиа.//ижавіа.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Ижавиа
@@ -603,7 +603,7 @@
 
 -lexeme
  lex: Ижверсия
- stem: ижверсия.
+ stem: ижверсия.//ижверсія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Ижверсия
@@ -673,7 +673,7 @@
 
 -lexeme
  lex: Известия
- stem: известия.
+ stem: известия.//известія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Известия
@@ -743,14 +743,14 @@
 
 -lexeme
  lex: Кванториум
- stem: кванториум.
+ stem: кванториум.//кванторіум.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Кванториум
 
 -lexeme
  lex: Кекатомбрия
- stem: кекатомбрия.
+ stem: кекатомбрия.//кекатомбрія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Кекатомбрия
@@ -771,7 +771,7 @@
 
 -lexeme
  lex: Киясовский
- stem: киясовски.
+ stem: киясовски.//кіясовски.
  gramm: N,PN
  paradigm: N-front-j
  trans_ru: Киясовский
@@ -841,7 +841,7 @@
 
 -lexeme
  lex: Кунавтоинспеция
- stem: кунавтоинспеция.
+ stem: кунавтоинспеция.//кунавтоинспеція.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Госавтоинспеция
@@ -855,7 +855,7 @@
 
 -lexeme
  lex: Кынкорт
- stem: кынкорт.
+ stem: кынкорт.//кыҥкорт.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Кынкорт
@@ -925,7 +925,7 @@
 
 -lexeme
  lex: Медиалогия
- stem: медиалогия.
+ stem: медиалогия.//медиалогія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Медиалогия
@@ -946,7 +946,7 @@
 
 -lexeme
  lex: Минобразования
- stem: минобразования.
+ stem: минобразования.//минобразованія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Минобразования
@@ -1044,7 +1044,7 @@
 
 -lexeme
  lex: Пельменелепия
- stem: пельменелепия.
+ stem: пельменелепия.//пельменелепія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Пельменелепия
@@ -1114,7 +1114,7 @@
 
 -lexeme
  lex: Признание
- stem: признание.
+ stem: признание.//признаніе.
  gramm: N,PN
  paradigm: N-front
  trans_ru: Признание
@@ -1163,7 +1163,7 @@
 
 -lexeme
  lex: Рокафамилия
- stem: рокафамилия.
+ stem: рокафамилия.//рокафамилія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Рокафамилия
@@ -1254,7 +1254,7 @@
 
 -lexeme
  lex: Россельхозбанк
- stem: россельхозбанк.
+ stem: россельхозбанк.//россельхозбаҥк.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Россельхозбанк
@@ -1268,7 +1268,7 @@
 
 -lexeme
  lex: Россиянка
- stem: россиянка.
+ stem: россиянка.//россіянка.//россияҥка.//россіяҥка.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Россиянка
@@ -1289,7 +1289,7 @@
 
 -lexeme
  lex: Ростехинвентаризация
- stem: ростехинвентаризация.
+ stem: ростехинвентаризация.//ростехинвентаризація.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Ростехинвентаризация
@@ -1303,7 +1303,7 @@
 
 -lexeme
  lex: Ростехнология
- stem: ростехнология.
+ stem: ростехнология.//ростехнологія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Ростехнология
@@ -1359,7 +1359,7 @@
 
 -lexeme
  lex: Сбербанк
- stem: сбербанк.
+ stem: сбербанк.//сбербаҥк.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Сбербанк
@@ -1415,7 +1415,7 @@
 
 -lexeme
  lex: Славия
- stem: славия.
+ stem: славия.//славія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Славия
@@ -1478,7 +1478,7 @@
 
 -lexeme
  lex: Спецстальконструкция
- stem: спецстальконструкция.
+ stem: спецстальконструкция.//спецстальконструкція.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Спецстальконструкция
@@ -1513,21 +1513,21 @@
 
 -lexeme
  lex: Тарабумбия
- stem: тарабумбия.
+ stem: тарабумбия.//тарабумбія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Тарабумбия
 
 -lexeme
  lex: Татмелиорация
- stem: татмелиорация.
+ stem: татмелиорация.//татмелиорація.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Татмелиорация
 
 -lexeme
  lex: Твиэкспедиция
- stem: твиэкспедиция.
+ stem: твиэкспедиция.//твиэкспедиція.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Твиэкспедиция
@@ -1632,7 +1632,7 @@
 
 -lexeme
  lex: Удмуртгеология
- stem: удмуртгеология.
+ stem: удмуртгеология.//удмуртгеологія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Удмуртгеология
@@ -1695,14 +1695,14 @@
 
 -lexeme
  lex: Удмурттелерадиокомпания
- stem: удмурттелерадиокомпания.
+ stem: удмурттелерадиокомпания.//удмурттелерадиокомпанія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Удмурттелерадиокомпания
 
 -lexeme
  lex: Удмурттехинвентаризация
- stem: удмурттехинвентаризация.
+ stem: удмурттехинвентаризация.//удмурттехинвентаризація.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Удмурттехинвентаризация
@@ -1765,7 +1765,7 @@
 
 -lexeme
  lex: Фармация
- stem: фармация.
+ stem: фармация.//фармація.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Фармация
@@ -1821,7 +1821,7 @@
 
 -lexeme
  lex: Центробанк
- stem: центробанк.
+ stem: центробанк.//центробаҥк.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Центробанк
@@ -1849,7 +1849,7 @@
 
 -lexeme
  lex: Чудесия
- stem: чудесия.
+ stem: чудесия.//чудесія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Чудесия
@@ -1905,7 +1905,7 @@
 
 -lexeme
  lex: Этноудмуртия
- stem: этноудмуртия.
+ stem: этноудмуртия.//этноудмуртія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Этноудмуртия
@@ -2325,7 +2325,7 @@
 
 -lexeme
  lex: Авдеенко
- stem: авдеенко.
+ stem: авдеенко.//авдееҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Авдеенко
@@ -2360,7 +2360,7 @@
 
 -lexeme
  lex: Аверкиева
- stem: аверкиева.
+ stem: аверкиева.//аверкіева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Аверкиева
@@ -2381,7 +2381,7 @@
 
 -lexeme
  lex: Аверченко
- stem: аверченко.
+ stem: аверченко.//аверчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Аверченко
@@ -2661,7 +2661,7 @@
 
 -lexeme
  lex: Адрианова
- stem: адрианова.
+ stem: адрианова.//адріанова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Адрианова
@@ -3501,35 +3501,35 @@
 
 -lexeme
  lex: Андрианов
- stem: андрианов.
+ stem: андрианов.//андріанов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Андрианов
 
 -lexeme
  lex: Андриенко
- stem: андриенко.
+ stem: андриенко.//андріенко.//андриенко.//андріеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Андриенко
 
 -lexeme
  lex: Андриянов
- stem: андриянов.
+ stem: андриянов.//андріянов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Андриянов
 
 -lexeme
  lex: Андриянова
- stem: андриянова.
+ stem: андриянова.//андріянова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Андриянова
 
 -lexeme
  lex: Андрияшкина
- stem: андрияшкина.
+ stem: андрияшкина.//андріяшкина.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Андрияшкина
@@ -3564,7 +3564,7 @@
 
 -lexeme
  lex: Аненкова
- stem: аненкова.
+ stem: аненкова.//анеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Аненкова
@@ -3585,7 +3585,7 @@
 
 -lexeme
  lex: Анисенков
- stem: анисенков.
+ stem: анисенков.//анисеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Анисенков
@@ -3613,35 +3613,35 @@
 
 -lexeme
  lex: Анищенко
- stem: анищенко.
+ stem: анищенко.//анищеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Анищенко
 
 -lexeme
  lex: Анкудинов
- stem: анкудинов.
+ stem: анкудинов.//аҥкудинов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Анкудинов
 
 -lexeme
  lex: Анкудинова
- stem: анкудинова.
+ stem: анкудинова.//аҥкудинова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Анкудинова
 
 -lexeme
  lex: Анкутдинов
- stem: анкутдинов.
+ stem: анкутдинов.//аҥкутдинов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Анкутдинов
 
 -lexeme
  lex: Анненков
- stem: анненков.
+ stem: анненков.//аннеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Анненков
@@ -3676,7 +3676,7 @@
 
 -lexeme
  lex: Антипенко
- stem: антипенко.
+ stem: антипенко.//антипеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Антипенко
@@ -3774,14 +3774,14 @@
 
 -lexeme
  lex: Ануфриев
- stem: ануфриев.
+ stem: ануфриев.//ануфріев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Ануфриев
 
 -lexeme
  lex: Ануфриева
- stem: ануфриева.
+ stem: ануфриева.//ануфріева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ануфриева
@@ -4110,7 +4110,7 @@
 
 -lexeme
  lex: Армиева
- stem: армиева.
+ stem: армиева.//арміева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Армиева
@@ -4705,7 +4705,7 @@
 
 -lexeme
  lex: Ахтариева
- stem: ахтариева.
+ stem: ахтариева.//ахтаріева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ахтариева
@@ -4817,7 +4817,7 @@
 
 -lexeme
  lex: Бабенко
- stem: бабенко.
+ stem: бабенко.//бабеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бабенко
@@ -4929,14 +4929,14 @@
 
 -lexeme
  lex: Багратион
- stem: багратион.
+ stem: багратион.//багратіон.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Багратион
 
 -lexeme
  lex: Багратионова
- stem: багратионова.
+ stem: багратионова.//багратіонова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Багратионова
@@ -5209,7 +5209,7 @@
 
 -lexeme
  lex: Баймиев
- stem: баймиев.
+ stem: баймиев.//байміев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Баймиев
@@ -5370,7 +5370,7 @@
 
 -lexeme
  lex: Бакуменко
- stem: бакуменко.
+ stem: бакуменко.//бакумеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бакуменко
@@ -5678,7 +5678,7 @@
 
 -lexeme
  lex: Барченко
- stem: барченко.
+ stem: барченко.//барчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Барченко
@@ -5881,21 +5881,21 @@
 
 -lexeme
  lex: Бахтиарова
- stem: бахтиарова.
+ stem: бахтиарова.//бахтіарова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бахтиарова
 
 -lexeme
  lex: Бахтияров
- stem: бахтияров.
+ stem: бахтияров.//бахтіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бахтияров
 
 -lexeme
  lex: Бахтиярова
- stem: бахтиярова.
+ stem: бахтиярова.//бахтіярова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бахтиярова
@@ -6749,14 +6749,14 @@
 
 -lexeme
  lex: Биянов
- stem: биянов.
+ stem: биянов.//біянов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Биянов
 
 -lexeme
  lex: Биянова
- stem: биянова.
+ stem: биянова.//біянова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Биянова
@@ -6987,7 +6987,7 @@
 
 -lexeme
  lex: Бокерия
- stem: бокерия.
+ stem: бокерия.//бокерія.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бокерия
@@ -7022,7 +7022,7 @@
 
 -lexeme
  lex: Болденков
- stem: болденков.
+ stem: болденков.//болдеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Болденков
@@ -7106,14 +7106,14 @@
 
 -lexeme
  lex: Бондаренко
- stem: бондаренко.
+ stem: бондаренко.//бондареҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бондаренко
 
 -lexeme
  lex: Борзенков
- stem: борзенков.
+ stem: борзенков.//борзеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Борзенков
@@ -7127,7 +7127,7 @@
 
 -lexeme
  lex: Борисенко
- stem: борисенко.
+ stem: борисенко.//борисеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Борисенко
@@ -7477,7 +7477,7 @@
 
 -lexeme
  lex: Бубненкова
- stem: бубненкова.
+ stem: бубненкова.//бубнеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бубненкова
@@ -7498,7 +7498,7 @@
 
 -lexeme
  lex: Бугаенко
- stem: бугаенко.
+ stem: бугаенко.//бугаеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бугаенко
@@ -7610,7 +7610,7 @@
 
 -lexeme
  lex: Букленкова
- stem: букленкова.
+ stem: букленкова.//буклеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Букленкова
@@ -7750,7 +7750,7 @@
 
 -lexeme
  lex: Бурденко
- stem: бурденко.
+ stem: бурденко.//бурдеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бурденко
@@ -7918,7 +7918,7 @@
 
 -lexeme
  lex: Бутченко
- stem: бутченко.
+ stem: бутченко.//бутчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Бутченко
@@ -7967,7 +7967,7 @@
 
 -lexeme
  lex: Буэндия
- stem: буэндия.
+ stem: буэндия.//буэндія.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Буэндия
@@ -8170,7 +8170,7 @@
 
 -lexeme
  lex: Вакуленко
- stem: вакуленко.
+ stem: вакуленко.//вакулеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Вакуленко
@@ -8184,14 +8184,14 @@
 
 -lexeme
  lex: Валиахметов
- stem: валиахметов.
+ stem: валиахметов.//валіахметов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Валиахметов
 
 -lexeme
  lex: Валиахметова
- stem: валиахметова.
+ stem: валиахметова.//валіахметова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Валиахметова
@@ -8289,7 +8289,7 @@
 
 -lexeme
  lex: Вариантов
- stem: вариантов.
+ stem: вариантов.//варіантов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Вариантов
@@ -8345,14 +8345,14 @@
 
 -lexeme
  lex: Васильченкова
- stem: васильченкова.
+ stem: васильченкова.//васильчеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Васильченкова
 
 -lexeme
  lex: Васиуллина
- stem: васиуллина.
+ stem: васиуллина.//васіуллина.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Васиуллина
@@ -8471,7 +8471,7 @@
 
 -lexeme
  lex: Ващенко
- stem: ващенко.
+ stem: ващенко.//ващеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ващенко
@@ -8898,14 +8898,14 @@
 
 -lexeme
  lex: Виссарионов
- stem: виссарионов.
+ stem: виссарионов.//виссаріонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Виссарионов
 
 -lexeme
  lex: Виссарионова
- stem: виссарионова.
+ stem: виссарионова.//виссаріонова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Виссарионова
@@ -8982,7 +8982,7 @@
 
 -lexeme
  lex: Власенко
- stem: власенко.
+ stem: власенко.//власеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Власенко
@@ -9206,14 +9206,14 @@
 
 -lexeme
  lex: Воронко
- stem: воронко.
+ stem: воронко.//вороҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Воронко
 
 -lexeme
  lex: Воронкова
- stem: воронкова.
+ stem: воронкова.//вороҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Воронкова
@@ -9570,7 +9570,7 @@
 
 -lexeme
  lex: Габуния
- stem: габуния.
+ stem: габуния.//габунія.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Габуния
@@ -9633,14 +9633,14 @@
 
 -lexeme
  lex: Гадиятов
- stem: гадиятов.
+ stem: гадиятов.//гадіятов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гадиятов
 
 -lexeme
  lex: Гадиятова
- stem: гадиятова.
+ stem: гадиятова.//гадіятова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гадиятова
@@ -9654,7 +9654,7 @@
 
 -lexeme
  lex: Газиеватов
- stem: газиеватов.
+ stem: газиеватов.//газіеватов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Газиеватов
@@ -9731,28 +9731,28 @@
 
 -lexeme
  lex: Гайниянов
- stem: гайниянов.
+ stem: гайниянов.//гайніянов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гайниянов
 
 -lexeme
  lex: Гайнияров
- stem: гайнияров.
+ stem: гайнияров.//гайніяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гайнияров
 
 -lexeme
  lex: Гайниярова
- stem: гайниярова.
+ stem: гайниярова.//гайніярова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гайниярова
 
 -lexeme
  lex: Гайниятов
- stem: гайниятов.
+ stem: гайниятов.//гайніятов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гайниятов
@@ -9808,14 +9808,14 @@
 
 -lexeme
  lex: Галактионов
- stem: галактионов.
+ stem: галактионов.//галактіонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Галактионов
 
 -lexeme
  lex: Галактионова
- stem: галактионова.
+ stem: галактионова.//галактіонова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Галактионова
@@ -9871,35 +9871,35 @@
 
 -lexeme
  lex: Галиакбарова
- stem: галиакбарова.
+ stem: галиакбарова.//галіакбарова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Галиакбарова
 
 -lexeme
  lex: Галиакберов
- stem: галиакберов.
+ stem: галиакберов.//галіакберов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Галиакберов
 
 -lexeme
  lex: Галиаскаров
- stem: галиаскаров.
+ stem: галиаскаров.//галіаскаров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Галиаскаров
 
 -lexeme
  lex: Галиахметов
- stem: галиахметов.
+ stem: галиахметов.//галіахметов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Галиахметов
 
 -lexeme
  lex: Галиахметова
- stem: галиахметова.
+ stem: галиахметова.//галіахметова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Галиахметова
@@ -9976,7 +9976,7 @@
 
 -lexeme
  lex: Галияхметов
- stem: галияхметов.
+ stem: галияхметов.//галіяхметов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Галияхметов
@@ -10018,7 +10018,7 @@
 
 -lexeme
  lex: Гальченко
- stem: гальченко.
+ stem: гальченко.//гальчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гальченко
@@ -10081,7 +10081,7 @@
 
 -lexeme
  lex: Гамсахурдия
- stem: гамсахурдия.
+ stem: гамсахурдия.//гамсахурдія.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гамсахурдия
@@ -10270,7 +10270,7 @@
 
 -lexeme
  lex: Гатиятуллина
- stem: гатиятуллина.
+ stem: гатиятуллина.//гатіятуллина.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гатиятуллина
@@ -10375,14 +10375,14 @@
 
 -lexeme
  lex: Георгиева
- stem: георгиева.
+ stem: георгиева.//георгіева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Георгиева
 
 -lexeme
  lex: Герасименко
- stem: герасименко.
+ stem: герасименко.//герасимеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Герасименко
@@ -10403,14 +10403,14 @@
 
 -lexeme
  lex: Геращенко
- stem: геращенко.
+ stem: геращенко.//геращеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Геращенко
 
 -lexeme
  lex: Гергиев
- stem: гергиев.
+ stem: гергиев.//гергіев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Гергиев
@@ -10571,7 +10571,7 @@
 
 -lexeme
  lex: Гильмияров
- stem: гильмияров.
+ stem: гильмияров.//гильміяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гильмияров
@@ -10634,7 +10634,7 @@
 
 -lexeme
  lex: Гильченко
- stem: гильченко.
+ stem: гильченко.//гильчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гильченко
@@ -10788,7 +10788,7 @@
 
 -lexeme
  lex: Глинка
- stem: глинка.
+ stem: глинка.//глиҥка.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Глинка
@@ -10886,7 +10886,7 @@
 
 -lexeme
  lex: Годенко
- stem: годенко.
+ stem: годенко.//годеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Годенко
@@ -11075,7 +11075,7 @@
 
 -lexeme
  lex: Гончаренко
- stem: гончаренко.
+ stem: гончаренко.//гончареҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гончаренко
@@ -11467,14 +11467,14 @@
 
 -lexeme
  lex: Гринкова
- stem: гринкова.
+ stem: гринкова.//гриҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гринкова
 
 -lexeme
  lex: Гринченко
- stem: гринченко.
+ stem: гринченко.//гринчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гринченко
@@ -11516,7 +11516,7 @@
 
 -lexeme
  lex: Грищенко
- stem: грищенко.
+ stem: грищенко.//грищеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Грищенко
@@ -11565,7 +11565,7 @@
 
 -lexeme
  lex: Груненков
- stem: груненков.
+ stem: груненков.//грунеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Груненков
@@ -11614,7 +11614,7 @@
 
 -lexeme
  lex: Губерниев
- stem: губерниев.
+ stem: губерниев.//губерніев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Губерниев
@@ -11768,7 +11768,7 @@
 
 -lexeme
  lex: Гурличенко
- stem: гурличенко.
+ stem: гурличенко.//гурличеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гурличенко
@@ -11782,7 +11782,7 @@
 
 -lexeme
  lex: Гурченко
- stem: гурченко.
+ stem: гурченко.//гурчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гурченко
@@ -11866,7 +11866,7 @@
 
 -lexeme
  lex: Гутионтов
- stem: гутионтов.
+ stem: гутионтов.//гутіонтов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гутионтов
@@ -11880,14 +11880,14 @@
 
 -lexeme
  lex: Гуттионов
- stem: гуттионов.
+ stem: гуттионов.//гуттіонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Гуттионов
 
 -lexeme
  lex: Гуцериев
- stem: гуцериев.
+ stem: гуцериев.//гуцеріев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Гуцериев
@@ -11985,7 +11985,7 @@
 
 -lexeme
  lex: Давлиев
- stem: давлиев.
+ stem: давлиев.//давліев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Давлиев
@@ -12055,14 +12055,14 @@
 
 -lexeme
  lex: Данасиенко
- stem: данасиенко.
+ stem: данасиенко.//данасіенко.//данасиенко.//данасіеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Данасиенко
 
 -lexeme
  lex: Даниленко
- stem: даниленко.
+ stem: даниленко.//данилеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Даниленко
@@ -12090,7 +12090,7 @@
 
 -lexeme
  lex: Данченко
- stem: данченко.
+ stem: данченко.//данчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Данченко
@@ -12160,7 +12160,7 @@
 
 -lexeme
  lex: Дворниченко
- stem: дворниченко.
+ stem: дворниченко.//дворничеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Дворниченко
@@ -12230,14 +12230,14 @@
 
 -lexeme
  lex: Дегтяренко
- stem: дегтяренко.
+ stem: дегтяренко.//дегтяреҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Дегтяренко
 
 -lexeme
  lex: Дедусенко
- stem: дедусенко.
+ stem: дедусенко.//дедусеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Дедусенко
@@ -12314,7 +12314,7 @@
 
 -lexeme
  lex: Демьяненко
- stem: демьяненко.
+ stem: демьяненко.//демьянеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Демьяненко
@@ -12335,7 +12335,7 @@
 
 -lexeme
  lex: Денисенко
- stem: денисенко.
+ stem: денисенко.//денисеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Денисенко
@@ -12461,7 +12461,7 @@
 
 -lexeme
  lex: Джанфранко
- stem: джанфранко.
+ stem: джанфранко.//джанфраҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Джанфранко
@@ -12531,14 +12531,14 @@
 
 -lexeme
  lex: Диева
- stem: диева.
+ stem: диева.//діева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Диева
 
 -lexeme
  lex: Димитриянов
- stem: димитриянов.
+ stem: димитриянов.//димитріянов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Димитриянов
@@ -12580,21 +12580,21 @@
 
 -lexeme
  lex: Дмитриев
- stem: дмитриев.
+ stem: дмитриев.//дмитріев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Дмитриев
 
 -lexeme
  lex: Дмитриева
- stem: дмитриева.
+ stem: дмитриева.//дмитріева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Дмитриева
 
 -lexeme
  lex: Дмитриенко
- stem: дмитриенко.
+ stem: дмитриенко.//дмитріенко.//дмитриенко.//дмитріеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Дмитриенко
@@ -12636,7 +12636,7 @@
 
 -lexeme
  lex: Довженко
- stem: довженко.
+ stem: довженко.//довжеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Довженко
@@ -12825,7 +12825,7 @@
 
 -lexeme
  lex: Доценко
- stem: доценко.
+ stem: доценко.//доцеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Доценко
@@ -12860,7 +12860,7 @@
 
 -lexeme
  lex: Дранков
- stem: дранков.
+ stem: дранков.//драҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Дранков
@@ -13028,7 +13028,7 @@
 
 -lexeme
  lex: Думченко
- stem: думченко.
+ stem: думченко.//думчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Думченко
@@ -13042,7 +13042,7 @@
 
 -lexeme
  lex: Дундученко
- stem: дундученко.
+ stem: дундученко.//дундучеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Дундученко
@@ -13091,7 +13091,7 @@
 
 -lexeme
  lex: Душенкова
- stem: душенкова.
+ stem: душенкова.//душеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Душенкова
@@ -13147,7 +13147,7 @@
 
 -lexeme
  lex: Дьяченко
- stem: дьяченко.
+ stem: дьяченко.//дьячеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Дьяченко
@@ -13322,7 +13322,7 @@
 
 -lexeme
  lex: Евтушенко
- stem: евтушенко.
+ stem: евтушенко.//евтушеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Евтушенко
@@ -13413,7 +13413,7 @@
 
 -lexeme
  lex: Елисеенко
- stem: елисеенко.
+ stem: елисеенко.//елисееҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Елисеенко
@@ -13497,7 +13497,7 @@
 
 -lexeme
  lex: Емельяненко
- stem: емельяненко.
+ stem: емельяненко.//емельянеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Емельяненко
@@ -13525,7 +13525,7 @@
 
 -lexeme
  lex: Еналиева
- stem: еналиева.
+ stem: еналиева.//еналіева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Еналиева
@@ -13651,7 +13651,7 @@
 
 -lexeme
  lex: Ерошенко
- stem: ерошенко.
+ stem: ерошенко.//ерошеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ерошенко
@@ -13693,7 +13693,7 @@
 
 -lexeme
  lex: Ерёменко
- stem: ерёменко.//еременко.
+ stem: ерёменко.//еременко.//ерёменко.//еремеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ерёменко
@@ -13785,14 +13785,14 @@
 
 -lexeme
  lex: Жаворонков
- stem: жаворонков.
+ stem: жаворонков.//жавороҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Жаворонков
 
 -lexeme
  lex: Жаворонкова
- stem: жаворонкова.
+ stem: жаворонкова.//жавороҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Жаворонкова
@@ -13974,7 +13974,7 @@
 
 -lexeme
  lex: Жигуленко
- stem: жигуленко.
+ stem: жигуленко.//жигулеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Жигуленко
@@ -14324,14 +14324,14 @@
 
 -lexeme
  lex: Зайченко
- stem: зайченко.
+ stem: зайченко.//зайчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зайченко
 
 -lexeme
  lex: Закиев
- stem: закиев.
+ stem: закиев.//закіев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Закиев
@@ -14450,7 +14450,7 @@
 
 -lexeme
  lex: Занкеев
- stem: занкеев.
+ stem: занкеев.//заҥкеев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Занкеев
@@ -14541,7 +14541,7 @@
 
 -lexeme
  lex: Захарченко
- stem: захарченко.
+ stem: захарченко.//захарчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Захарченко
@@ -14681,14 +14681,14 @@
 
 -lexeme
  lex: Зиалдинов
- stem: зиалдинов.
+ stem: зиалдинов.//зіалдинов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зиалдинов
 
 -lexeme
  lex: Зиангирова
- stem: зиангирова.
+ stem: зиангирова.//зіангирова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зиангирова
@@ -14709,7 +14709,7 @@
 
 -lexeme
  lex: Зидияров
- stem: зидияров.
+ stem: зидияров.//зидіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зидияров
@@ -14793,7 +14793,7 @@
 
 -lexeme
  lex: Зинков
- stem: зинков.
+ stem: зинков.//зиҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зинков
@@ -14849,42 +14849,42 @@
 
 -lexeme
  lex: Зиянгиров
- stem: зиянгиров.
+ stem: зиянгиров.//зіянгиров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зиянгиров
 
 -lexeme
  lex: Зиянгирова
- stem: зиянгирова.
+ stem: зиянгирова.//зіянгирова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зиянгирова
 
 -lexeme
  lex: Зиятдинов
- stem: зиятдинов.
+ stem: зиятдинов.//зіятдинов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зиятдинов
 
 -lexeme
  lex: Зиятдинова
- stem: зиятдинова.
+ stem: зиятдинова.//зіятдинова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зиятдинова
 
 -lexeme
  lex: Зиятов
- stem: зиятов.
+ stem: зиятов.//зіятов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зиятов
 
 -lexeme
  lex: Зиятова
- stem: зиятова.
+ stem: зиятова.//зіятова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зиятова
@@ -14989,14 +14989,14 @@
 
 -lexeme
  lex: Зощенко
- stem: зощенко.
+ stem: зощенко.//зощеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зощенко
 
 -lexeme
  lex: Зрайченков
- stem: зрайченков.
+ stem: зрайченков.//зрайчеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зрайченков
@@ -15171,14 +15171,14 @@
 
 -lexeme
  lex: Зянкулов
- stem: зянкулов.
+ stem: зянкулов.//зяҥкулов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зянкулов
 
 -lexeme
  lex: Зянкулова
- stem: зянкулова.
+ stem: зянкулова.//зяҥкулова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Зянкулова
@@ -15227,7 +15227,7 @@
 
 -lexeme
  lex: Иваненко
- stem: иваненко.
+ stem: иваненко.//иванеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Иваненко
@@ -15269,7 +15269,7 @@
 
 -lexeme
  lex: Иванченко
- stem: иванченко.
+ stem: иванченко.//иванчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Иванченко
@@ -15290,7 +15290,7 @@
 
 -lexeme
  lex: Ивченко
- stem: ивченко.
+ stem: ивченко.//ивчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ивченко
@@ -15318,7 +15318,7 @@
 
 -lexeme
  lex: Игнатенко
- stem: игнатенко.
+ stem: игнатенко.//игнатеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Игнатенко
@@ -15472,7 +15472,7 @@
 
 -lexeme
  lex: Илларионов
- stem: илларионов.
+ stem: илларионов.//илларіонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Илларионов
@@ -15528,7 +15528,7 @@
 
 -lexeme
  lex: Ильченко
- stem: ильченко.
+ stem: ильченко.//ильчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ильченко
@@ -15570,35 +15570,35 @@
 
 -lexeme
  lex: Ионина
- stem: ионина.
+ stem: ионина.//іонина.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ионина
 
 -lexeme
  lex: Ионов
- stem: ионов.
+ stem: ионов.//іонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ионов
 
 -lexeme
  lex: Ионова
- stem: ионова.
+ stem: ионова.//іонова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ионова
 
 -lexeme
  lex: Иорякова
- stem: иорякова.
+ stem: иорякова.//іорякова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Иорякова
 
 -lexeme
  lex: Иосифиванов
- stem: иосифиванов.
+ stem: иосифиванов.//іосифиванов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Иосифиванов
@@ -15675,7 +15675,7 @@
 
 -lexeme
  lex: Исаенко
- stem: исаенко.
+ stem: исаенко.//исаеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Исаенко
@@ -15934,14 +15934,14 @@
 
 -lexeme
  lex: Ищенко
- stem: ищенко.
+ stem: ищенко.//ищеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ищенко
 
 -lexeme
  lex: Иютова
- stem: иютова.
+ stem: иютова.//іютова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Иютова
@@ -16207,7 +16207,7 @@
 
 -lexeme
  lex: Казаченко
- stem: казаченко.
+ stem: казаченко.//казачеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Казаченко
@@ -16242,21 +16242,21 @@
 
 -lexeme
  lex: Казионова
- stem: казионова.
+ stem: казионова.//казіонова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Казионова
 
 -lexeme
  lex: Казиякбарова
- stem: казиякбарова.
+ stem: казиякбарова.//казіякбарова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Казиякбарова
 
 -lexeme
  lex: Казначенко
- stem: казначенко.
+ stem: казначенко.//казначеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Казначенко
@@ -16375,7 +16375,7 @@
 
 -lexeme
  lex: Калиниченко
- stem: калиниченко.
+ stem: калиниченко.//калиничеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Калиниченко
@@ -16599,7 +16599,7 @@
 
 -lexeme
  lex: Кансияров
- stem: кансияров.
+ stem: кансияров.//кансіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кансияров
@@ -16620,7 +16620,7 @@
 
 -lexeme
  lex: Капитоненко
- stem: капитоненко.
+ stem: капитоненко.//капитонеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Капитоненко
@@ -16655,7 +16655,7 @@
 
 -lexeme
  lex: Капленко
- stem: капленко.
+ stem: капленко.//каплеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Капленко
@@ -16816,7 +16816,7 @@
 
 -lexeme
  lex: Каренков
- stem: каренков.
+ stem: каренков.//кареҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Каренков
@@ -17222,7 +17222,7 @@
 
 -lexeme
  lex: Кельдияров
- stem: кельдияров.
+ stem: кельдияров.//кельдіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кельдияров
@@ -17383,7 +17383,7 @@
 
 -lexeme
  lex: Кизенко
- stem: кизенко.
+ stem: кизенко.//кизеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кизенко
@@ -17467,14 +17467,14 @@
 
 -lexeme
  lex: Кионов
- stem: кионов.
+ stem: кионов.//кіонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кионов
 
 -lexeme
  lex: Кионова
- stem: кионова.
+ stem: кионова.//кіонова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кионова
@@ -17495,14 +17495,14 @@
 
 -lexeme
  lex: Кириенко
- stem: кириенко.
+ stem: кириенко.//киріенко.//кириенко.//киріеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кириенко
 
 -lexeme
  lex: Кириленко
- stem: кириленко.
+ stem: кириленко.//кирилеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кириленко
@@ -17551,7 +17551,7 @@
 
 -lexeme
  lex: Кирлиан
- stem: кирлиан.
+ stem: кирлиан.//кирліан.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кирлиан
@@ -17628,7 +17628,7 @@
 
 -lexeme
  lex: Киценко
- stem: киценко.
+ stem: киценко.//кицеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Киценко
@@ -17642,7 +17642,7 @@
 
 -lexeme
  lex: Киямов
- stem: киямов.
+ stem: киямов.//кіямов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Киямов
@@ -17663,7 +17663,7 @@
 
 -lexeme
  lex: Клавдиев
- stem: клавдиев.
+ stem: клавдиев.//клавдіев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Клавдиев
@@ -17719,7 +17719,7 @@
 
 -lexeme
  lex: Кливенко
- stem: кливенко.
+ stem: кливенко.//кливеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кливенко
@@ -17740,14 +17740,14 @@
 
 -lexeme
  lex: Клименко
- stem: клименко.
+ stem: клименко.//климеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Клименко
 
 -lexeme
  lex: Климентенко
- stem: климентенко.
+ stem: климентенко.//климентеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Климентенко
@@ -17831,7 +17831,7 @@
 
 -lexeme
  lex: Коваленко
- stem: коваленко.
+ stem: коваленко.//ковалеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Коваленко
@@ -17908,7 +17908,7 @@
 
 -lexeme
  lex: Козленко
- stem: козленко.
+ stem: козленко.//козлеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Козленко
@@ -18055,7 +18055,7 @@
 
 -lexeme
  lex: Колесниченко
- stem: колесниченко.
+ stem: колесниченко.//колесничеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Колесниченко
@@ -18279,7 +18279,7 @@
 
 -lexeme
  lex: Комленкова
- stem: комленкова.
+ stem: комленкова.//комлеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Комленкова
@@ -18524,7 +18524,7 @@
 
 -lexeme
  lex: Копытенков
- stem: копытенков.
+ stem: копытенков.//копытеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Копытенков
@@ -18566,7 +18566,7 @@
 
 -lexeme
  lex: Коренков
- stem: коренков.
+ stem: коренков.//кореҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Коренков
@@ -18594,7 +18594,7 @@
 
 -lexeme
  lex: Корленко
- stem: корленко.
+ stem: корленко.//корлеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Корленко
@@ -18615,7 +18615,7 @@
 
 -lexeme
  lex: Корниенко
- stem: корниенко.
+ stem: корниенко.//корніенко.//корниенко.//корніеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Корниенко
@@ -18685,7 +18685,7 @@
 
 -lexeme
  lex: Короленко
- stem: короленко.
+ stem: короленко.//королеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Короленко
@@ -18811,14 +18811,14 @@
 
 -lexeme
  lex: Косенко
- stem: косенко.
+ stem: косенко.//косеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Косенко
 
 -lexeme
  lex: Косенкова
- stem: косенкова.
+ stem: косенкова.//косеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Косенкова
@@ -18860,21 +18860,21 @@
 
 -lexeme
  lex: Костенко
- stem: костенко.
+ stem: костенко.//костеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Костенко
 
 -lexeme
  lex: Костенков
- stem: костенков.
+ stem: костенков.//костеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Костенков
 
 -lexeme
  lex: Костенкова
- stem: костенкова.
+ stem: костенкова.//костеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Костенкова
@@ -18965,7 +18965,7 @@
 
 -lexeme
  lex: Котенко
- stem: котенко.
+ stem: котенко.//котеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Котенко
@@ -19140,7 +19140,7 @@
 
 -lexeme
  lex: Кравченко
- stem: кравченко.
+ stem: кравченко.//кравчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кравченко
@@ -19245,7 +19245,7 @@
 
 -lexeme
  lex: Кривенко
- stem: кривенко.
+ stem: кривенко.//кривеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кривенко
@@ -19609,7 +19609,7 @@
 
 -lexeme
  lex: Кузиев
- stem: кузиев.
+ stem: кузиев.//кузіев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Кузиев
@@ -19644,7 +19644,7 @@
 
 -lexeme
  lex: Кузьменко
- stem: кузьменко.
+ stem: кузьменко.//кузьмеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кузьменко
@@ -19777,7 +19777,7 @@
 
 -lexeme
  lex: Кулиова
- stem: кулиова.
+ stem: кулиова.//куліова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кулиова
@@ -19896,14 +19896,14 @@
 
 -lexeme
  lex: Куприянов
- stem: куприянов.
+ stem: куприянов.//купріянов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Куприянов
 
 -lexeme
  lex: Куприянова
- stem: куприянова.
+ stem: куприянова.//купріянова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Куприянова
@@ -20057,7 +20057,7 @@
 
 -lexeme
  lex: Курченко
- stem: курченко.
+ stem: курченко.//курчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Курченко
@@ -20085,7 +20085,7 @@
 
 -lexeme
  lex: Куснияров
- stem: куснияров.
+ stem: куснияров.//кусніяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Куснияров
@@ -20176,7 +20176,7 @@
 
 -lexeme
  lex: Кутлиярова
- stem: кутлиярова.
+ stem: кутлиярова.//кутліярова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кутлиярова
@@ -20225,7 +20225,7 @@
 
 -lexeme
  lex: Куценко
- stem: куценко.
+ stem: куценко.//куцеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Куценко
@@ -20253,7 +20253,7 @@
 
 -lexeme
  lex: Кучерявенко
- stem: кучерявенко.
+ stem: кучерявенко.//кучерявеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кучерявенко
@@ -20274,7 +20274,7 @@
 
 -lexeme
  lex: Кушнаренко
- stem: кушнаренко.
+ stem: кушнаренко.//кушнареҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кушнаренко
@@ -20288,14 +20288,14 @@
 
 -lexeme
  lex: Кушнеренко
- stem: кушнеренко.
+ stem: кушнеренко.//кушнереҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кушнеренко
 
 -lexeme
  lex: Кущенко
- stem: кущенко.
+ stem: кущенко.//кущеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Кущенко
@@ -20386,7 +20386,7 @@
 
 -lexeme
  lex: Лагутенко
- stem: лагутенко.
+ stem: лагутенко.//лагутеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Лагутенко
@@ -20477,14 +20477,14 @@
 
 -lexeme
  lex: Ларионов
- stem: ларионов.
+ stem: ларионов.//ларіонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ларионов
 
 -lexeme
  lex: Ларионова
- stem: ларионова.
+ stem: ларионова.//ларіонова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ларионова
@@ -20498,7 +20498,7 @@
 
 -lexeme
  lex: Ласковенко
- stem: ласковенко.
+ stem: ласковенко.//ласковеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ласковенко
@@ -20582,7 +20582,7 @@
 
 -lexeme
  lex: Левченко
- stem: левченко.
+ stem: левченко.//левчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Левченко
@@ -20778,7 +20778,7 @@
 
 -lexeme
  lex: Лещенко
- stem: лещенко.
+ stem: лещенко.//лещеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Лещенко
@@ -20806,7 +20806,7 @@
 
 -lexeme
  lex: Лигенко
- stem: лигенко.
+ stem: лигенко.//лигеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Лигенко
@@ -20848,7 +20848,7 @@
 
 -lexeme
  lex: Линкольн
- stem: линкольн.
+ stem: линкольн.//лиҥкольн.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Линкольн
@@ -20960,14 +20960,14 @@
 
 -lexeme
  lex: Лования
- stem: лования.
+ stem: лования.//лованія.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Лования
 
 -lexeme
  lex: Логвиненко
- stem: логвиненко.
+ stem: логвиненко.//логвинеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Логвиненко
@@ -21009,7 +21009,7 @@
 
 -lexeme
  lex: Локтионов
- stem: локтионов.
+ stem: локтионов.//локтіонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Локтионов
@@ -21191,7 +21191,7 @@
 
 -lexeme
  lex: Лукашенко
- stem: лукашенко.
+ stem: лукашенко.//лукашеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Лукашенко
@@ -21338,7 +21338,7 @@
 
 -lexeme
  lex: Лысенко
- stem: лысенко.
+ stem: лысенко.//лысеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Лысенко
@@ -21429,7 +21429,7 @@
 
 -lexeme
  lex: Любченко
- stem: любченко.
+ stem: любченко.//любчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Любченко
@@ -21604,7 +21604,7 @@
 
 -lexeme
  lex: Мазуренко
- stem: мазуренко.
+ stem: мазуренко.//мазуреҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мазуренко
@@ -21688,7 +21688,7 @@
 
 -lexeme
  lex: Макаренко
- stem: макаренко.
+ stem: макаренко.//макареҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Макаренко
@@ -21737,7 +21737,7 @@
 
 -lexeme
  lex: Макиянова
- stem: макиянова.
+ stem: макиянова.//макіянова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Макиянова
@@ -21758,14 +21758,14 @@
 
 -lexeme
  lex: Максименко
- stem: максименко.
+ stem: максименко.//максимеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Максименко
 
 -lexeme
  lex: Максименкова
- stem: максименкова.
+ stem: максименкова.//максимеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Максименкова
@@ -21863,14 +21863,14 @@
 
 -lexeme
  lex: Маленков
- stem: маленков.
+ stem: маленков.//малеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Маленков
 
 -lexeme
  lex: Маленкович
- stem: маленкович.
+ stem: маленкович.//малеҥкович.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Маленкович
@@ -22241,7 +22241,7 @@
 
 -lexeme
  lex: Маренкова
- stem: маренкова.
+ stem: маренкова.//мареҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Маренкова
@@ -22353,7 +22353,7 @@
 
 -lexeme
  lex: Мартыненко
- stem: мартыненко.
+ stem: мартыненко.//мартынеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мартыненко
@@ -22395,7 +22395,7 @@
 
 -lexeme
  lex: Марченко
- stem: марченко.
+ stem: марченко.//марчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Марченко
@@ -22514,7 +22514,7 @@
 
 -lexeme
  lex: Матвиенко
- stem: матвиенко.
+ stem: матвиенко.//матвіенко.//матвиенко.//матвіеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Матвиенко
@@ -22549,7 +22549,7 @@
 
 -lexeme
  lex: Матюшенко
- stem: матюшенко.
+ stem: матюшенко.//матюшеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Матюшенко
@@ -22724,7 +22724,7 @@
 
 -lexeme
  lex: Мельниченко
- stem: мельниченко.
+ stem: мельниченко.//мельничеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мельниченко
@@ -22759,7 +22759,7 @@
 
 -lexeme
  lex: Мендияров
- stem: мендияров.
+ stem: мендияров.//мендіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мендияров
@@ -22843,7 +22843,7 @@
 
 -lexeme
  lex: Мерзленкова
- stem: мерзленкова.
+ stem: мерзленкова.//мерзлеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мерзленкова
@@ -22976,21 +22976,21 @@
 
 -lexeme
  lex: Милиаскарова
- stem: милиаскарова.
+ stem: милиаскарова.//миліаскарова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Милиаскарова
 
 -lexeme
  lex: Милиахматова
- stem: милиахматова.
+ stem: милиахматова.//миліахматова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Милиахматова
 
 -lexeme
  lex: Милиахметова
- stem: милиахметова.
+ stem: милиахметова.//миліахметова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Милиахметова
@@ -23046,7 +23046,7 @@
 
 -lexeme
  lex: Миллиятов
- stem: миллиятов.
+ stem: миллиятов.//милліятов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Миллиятов
@@ -23116,21 +23116,21 @@
 
 -lexeme
  lex: Миниахметов
- stem: миниахметов.
+ stem: миниахметов.//миніахметов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Миниахметов
 
 -lexeme
  lex: Миниахметова
- stem: миниахметова.
+ stem: миниахметова.//миніахметова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Миниахметова
 
 -lexeme
  lex: Минигалиев
- stem: минигалиев.
+ stem: минигалиев.//минигаліев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Минигалиев
@@ -23144,7 +23144,7 @@
 
 -lexeme
  lex: Минкин
- stem: минкин.
+ stem: минкин.//миҥкин.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Минкин
@@ -23158,14 +23158,14 @@
 
 -lexeme
  lex: Минлиаскарова
- stem: минлиаскарова.
+ stem: минлиаскарова.//минліаскарова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Минлиаскарова
 
 -lexeme
  lex: Минлиахметов
- stem: минлиахметов.
+ stem: минлиахметов.//минліахметов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Минлиахметов
@@ -23200,14 +23200,14 @@
 
 -lexeme
  lex: Минниахметов
- stem: минниахметов.
+ stem: минниахметов.//минніахметов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Минниахметов
 
 -lexeme
  lex: Минниахметова
- stem: минниахметова.
+ stem: минниахметова.//минніахметова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Минниахметова
@@ -23249,7 +23249,7 @@
 
 -lexeme
  lex: Миннияхметова
- stem: миннияхметова.
+ stem: миннияхметова.//минніяхметова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Миннияхметова
@@ -23340,14 +23340,14 @@
 
 -lexeme
  lex: Мирошниченко
- stem: мирошниченко.
+ stem: мирошниченко.//мирошничеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мирошниченко
 
 -lexeme
  lex: Мирхазиянов
- stem: мирхазиянов.
+ stem: мирхазиянов.//мирхазіянов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мирхазиянов
@@ -23368,7 +23368,7 @@
 
 -lexeme
  lex: Митриченко
- stem: митриченко.
+ stem: митриченко.//митричеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Митриченко
@@ -23557,14 +23557,14 @@
 
 -lexeme
  lex: Мищенко
- stem: мищенко.
+ stem: мищенко.//мищеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мищенко
 
 -lexeme
  lex: Мищенков
- stem: мищенков.
+ stem: мищенков.//мищеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мищенков
@@ -23802,7 +23802,7 @@
 
 -lexeme
  lex: Мордовиченко
- stem: мордовиченко.
+ stem: мордовиченко.//мордовичеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мордовиченко
@@ -23816,7 +23816,7 @@
 
 -lexeme
  lex: Мориа
- stem: мориа.
+ stem: мориа.//моріа.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мориа
@@ -23886,7 +23886,7 @@
 
 -lexeme
  lex: Москаленко
- stem: москаленко.
+ stem: москаленко.//москалеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Москаленко
@@ -24047,14 +24047,14 @@
 
 -lexeme
  lex: Музиянов
- stem: музиянов.
+ stem: музиянов.//музіянов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Музиянов
 
 -lexeme
  lex: Музиянова
- stem: музиянова.
+ stem: музиянова.//музіянова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Музиянова
@@ -24089,7 +24089,7 @@
 
 -lexeme
  lex: Муленко
- stem: муленко.
+ stem: муленко.//мулеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Муленко
@@ -24124,14 +24124,14 @@
 
 -lexeme
  lex: Мунк
- stem: мунк.
+ stem: мунк.//муҥк.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Мунк
 
 -lexeme
  lex: Мункачи
- stem: мункачи.
+ stem: мункачи.//муҥкачи.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Мункачи
@@ -24558,21 +24558,21 @@
 
 -lexeme
  lex: Набиоков
- stem: набиоков.
+ stem: набиоков.//набіоков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Набиоков
 
 -lexeme
  lex: Набиокова
- stem: набиокова.
+ stem: набиокова.//набіокова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Набиокова
 
 -lexeme
  lex: Набиуллина
- stem: набиуллина.
+ stem: набиуллина.//набіуллина.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Набиуллина
@@ -24663,7 +24663,7 @@
 
 -lexeme
  lex: Назаренко
- stem: назаренко.
+ stem: назаренко.//назареҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Назаренко
@@ -24740,7 +24740,7 @@
 
 -lexeme
  lex: Найдёнков
- stem: найдёнков.
+ stem: найдёнков.//найдёҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Найдёнков
@@ -24915,7 +24915,7 @@
 
 -lexeme
  lex: Науменко
- stem: науменко.
+ stem: науменко.//наумеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Науменко
@@ -24950,7 +24950,7 @@
 
 -lexeme
  lex: Начкебия
- stem: начкебия.
+ stem: начкебия.//начкебія.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Начкебия
@@ -25083,7 +25083,7 @@
 
 -lexeme
  lex: Немченко
- stem: немченко.
+ stem: немченко.//немчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Немченко
@@ -25118,7 +25118,7 @@
 
 -lexeme
  lex: Нестеренко
- stem: нестеренко.
+ stem: нестеренко.//нестереҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Нестеренко
@@ -25181,7 +25181,7 @@
 
 -lexeme
  lex: Ниахметова
- stem: ниахметова.
+ stem: ниахметова.//ніахметова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ниахметова
@@ -25209,7 +25209,7 @@
 
 -lexeme
  lex: Нигиева
- stem: нигиева.
+ stem: нигиева.//нигіева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Нигиева
@@ -25300,7 +25300,7 @@
 
 -lexeme
  lex: Никитенко
- stem: никитенко.
+ stem: никитенко.//никитеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Никитенко
@@ -25321,7 +25321,7 @@
 
 -lexeme
  lex: Никитченко
- stem: никитченко.
+ stem: никитченко.//никитчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Никитченко
@@ -25363,7 +25363,7 @@
 
 -lexeme
  lex: Николенко
- stem: николенко.
+ stem: николенко.//николеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Николенко
@@ -25426,14 +25426,14 @@
 
 -lexeme
  lex: Ниязов
- stem: ниязов.
+ stem: ниязов.//ніязов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ниязов
 
 -lexeme
  lex: Ниязова
- stem: ниязова.
+ stem: ниязова.//ніязова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ниязова
@@ -25580,7 +25580,7 @@
 
 -lexeme
  lex: Нургалиев
- stem: нургалиев.
+ stem: нургалиев.//нургаліев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Нургалиев
@@ -25594,14 +25594,14 @@
 
 -lexeme
  lex: Нуриахметов
- stem: нуриахметов.
+ stem: нуриахметов.//нуріахметов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Нуриахметов
 
 -lexeme
  lex: Нуриахметова
- stem: нуриахметова.
+ stem: нуриахметова.//нуріахметова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Нуриахметова
@@ -25769,7 +25769,7 @@
 
 -lexeme
  lex: Овсиенко
- stem: овсиенко.
+ stem: овсиенко.//овсіенко.//овсиенко.//овсіеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Овсиенко
@@ -25902,7 +25902,7 @@
 
 -lexeme
  lex: Одиянков
- stem: одиянков.
+ stem: одиянков.//одіянков.//одиянков.//одіяҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Одиянков
@@ -25958,7 +25958,7 @@
 
 -lexeme
  lex: Околитенко
- stem: околитенко.
+ stem: околитенко.//околитеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Околитенко
@@ -26049,7 +26049,7 @@
 
 -lexeme
  lex: Онищенко
- stem: онищенко.
+ stem: онищенко.//онищеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Онищенко
@@ -26287,14 +26287,14 @@
 
 -lexeme
  lex: Павленков
- stem: павленков.
+ stem: павленков.//павлеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Павленков
 
 -lexeme
  lex: Павличенко
- stem: павличенко.
+ stem: павличенко.//павличеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Павличенко
@@ -26322,14 +26322,14 @@
 
 -lexeme
  lex: Павлюченко
- stem: павлюченко.
+ stem: павлюченко.//павлючеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Павлюченко
 
 -lexeme
  lex: Падеренков
- stem: падеренков.
+ stem: падеренков.//падереҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Падеренков
@@ -26448,28 +26448,28 @@
 
 -lexeme
  lex: Панков
- stem: панков.
+ stem: панков.//паҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Панков
 
 -lexeme
  lex: Панкова
- stem: панкова.
+ stem: панкова.//паҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Панкова
 
 -lexeme
  lex: Панкратов
- stem: панкратов.
+ stem: панкратов.//паҥкратов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Панкратов
 
 -lexeme
  lex: Панкратова
- stem: панкратова.
+ stem: панкратова.//паҥкратова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Панкратова
@@ -26553,7 +26553,7 @@
 
 -lexeme
  lex: Панченко
- stem: панченко.
+ stem: панченко.//панчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Панченко
@@ -26567,7 +26567,7 @@
 
 -lexeme
  lex: Папченко
- stem: папченко.
+ stem: папченко.//папчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Папченко
@@ -26644,7 +26644,7 @@
 
 -lexeme
  lex: Пархоменко
- stem: пархоменко.
+ stem: пархоменко.//пархомеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пархоменко
@@ -26672,14 +26672,14 @@
 
 -lexeme
  lex: Пасынков
- stem: пасынков.
+ stem: пасынков.//пасыҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пасынков
 
 -lexeme
  lex: Пасынкова
- stem: пасынкова.
+ stem: пасынкова.//пасыҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пасынкова
@@ -26693,7 +26693,7 @@
 
 -lexeme
  lex: Патенко
- stem: патенко.
+ stem: патенко.//патеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Патенко
@@ -26756,7 +26756,7 @@
 
 -lexeme
  lex: Пащенко
- stem: пащенко.
+ stem: пащенко.//пащеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пащенко
@@ -27085,7 +27085,7 @@
 
 -lexeme
  lex: Петленко
- stem: петленко.
+ stem: петленко.//петлеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Петленко
@@ -27099,7 +27099,7 @@
 
 -lexeme
  lex: Петренко
- stem: петренко.
+ stem: петренко.//петреҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Петренко
@@ -27309,7 +27309,7 @@
 
 -lexeme
  lex: Пионеров
- stem: пионеров.
+ stem: пионеров.//піонеров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пионеров
@@ -27337,7 +27337,7 @@
 
 -lexeme
  lex: Пирожниченко
- stem: пирожниченко.
+ stem: пирожниченко.//пирожничеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пирожниченко
@@ -27400,7 +27400,7 @@
 
 -lexeme
  lex: Пичиахметов
- stem: пичиахметов.
+ stem: пичиахметов.//пичіахметов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пичиахметов
@@ -27526,7 +27526,7 @@
 
 -lexeme
  lex: Плющенко
- stem: плющенко.
+ stem: плющенко.//плющеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Плющенко
@@ -27869,7 +27869,7 @@
 
 -lexeme
  lex: Поляченко
- stem: поляченко.
+ stem: поляченко.//полячеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Поляченко
@@ -27904,7 +27904,7 @@
 
 -lexeme
  lex: Пономаренко
- stem: пономаренко.
+ stem: пономаренко.//пономареҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пономаренко
@@ -28016,7 +28016,7 @@
 
 -lexeme
  lex: Порошенко
- stem: порошенко.
+ stem: порошенко.//порошеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Порошенко
@@ -28114,7 +28114,7 @@
 
 -lexeme
  lex: Потеенко
- stem: потеенко.
+ stem: потеенко.//потееҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Потеенко
@@ -28240,7 +28240,7 @@
 
 -lexeme
  lex: Прокопенко
- stem: прокопенко.
+ stem: прокопенко.//прокопеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Прокопенко
@@ -28373,7 +28373,7 @@
 
 -lexeme
  lex: Прохорченко
- stem: прохорченко.
+ stem: прохорченко.//прохорчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Прохорченко
@@ -28681,14 +28681,14 @@
 
 -lexeme
  lex: Пьянков
- stem: пьянков.
+ stem: пьянков.//пьяҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пьянков
 
 -lexeme
  lex: Пьянкова
- stem: пьянкова.
+ stem: пьянкова.//пьяҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пьянкова
@@ -28730,7 +28730,7 @@
 
 -lexeme
  lex: Пятченко
- stem: пятченко.
+ stem: пятченко.//пятчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Пятченко
@@ -28793,7 +28793,7 @@
 
 -lexeme
  lex: Радионов
- stem: радионов.
+ stem: радионов.//радіонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Радионов
@@ -28842,7 +28842,7 @@
 
 -lexeme
  lex: Разенков
- stem: разенков.
+ stem: разенков.//разеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Разенков
@@ -28975,7 +28975,7 @@
 
 -lexeme
  lex: Рапенкова
- stem: рапенкова.
+ stem: рапенкова.//рапеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Рапенкова
@@ -29129,7 +29129,7 @@
 
 -lexeme
  lex: Ращенко
- stem: ращенко.
+ stem: ращенко.//ращеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ращенко
@@ -29339,14 +29339,14 @@
 
 -lexeme
  lex: Родионов
- stem: родионов.
+ stem: родионов.//родіонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Родионов
 
 -lexeme
  lex: Родионова
- stem: родионова.
+ stem: родионова.//родіонова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Родионова
@@ -29367,7 +29367,7 @@
 
 -lexeme
  lex: Родченко
- stem: родченко.
+ stem: родченко.//родчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Родченко
@@ -29430,7 +29430,7 @@
 
 -lexeme
  lex: Романенко
- stem: романенко.
+ stem: романенко.//романеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Романенко
@@ -29549,7 +29549,7 @@
 
 -lexeme
  lex: Рубленко
- stem: рубленко.
+ stem: рубленко.//рублеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Рубленко
@@ -29577,7 +29577,7 @@
 
 -lexeme
  lex: Руденко
- stem: руденко.
+ stem: руденко.//рудеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Руденко
@@ -30130,7 +30130,7 @@
 
 -lexeme
  lex: Савченко
- stem: савченко.
+ stem: савченко.//савчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Савченко
@@ -30207,7 +30207,7 @@
 
 -lexeme
  lex: Садиокова
- stem: садиокова.
+ stem: садиокова.//садіокова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Садиокова
@@ -30368,14 +30368,14 @@
 
 -lexeme
  lex: Сайфидияров
- stem: сайфидияров.
+ stem: сайфидияров.//сайфидіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Сайфидияров
 
 -lexeme
  lex: Сайфугалиев
- stem: сайфугалиев.
+ stem: сайфугалиев.//сайфугаліев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Сайфугалиев
@@ -30620,7 +30620,7 @@
 
 -lexeme
  lex: Самиев
- stem: самиев.
+ stem: самиев.//саміев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Самиев
@@ -30725,7 +30725,7 @@
 
 -lexeme
  lex: Самусенко
- stem: самусенко.
+ stem: самусенко.//самусеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Самусенко
@@ -30998,7 +30998,7 @@
 
 -lexeme
  lex: Сафиуллин
- stem: сафиуллин.
+ stem: сафиуллин.//сафіуллин.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Сафиуллин
@@ -31236,7 +31236,7 @@
 
 -lexeme
  lex: Сдоренко
- stem: сдоренко.
+ stem: сдоренко.//сдореҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Сдоренко
@@ -31320,7 +31320,7 @@
 
 -lexeme
  lex: Секретенко
- stem: секретенко.
+ stem: секретенко.//секретеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Секретенко
@@ -31397,7 +31397,7 @@
 
 -lexeme
  lex: Сельченкова
- stem: сельченкова.
+ stem: сельченкова.//сельчеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Сельченкова
@@ -31488,7 +31488,7 @@
 
 -lexeme
  lex: Сенеция
- stem: сенеция.
+ stem: сенеция.//сенеція.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Сенеция
@@ -31544,14 +31544,14 @@
 
 -lexeme
  lex: Серапионов
- stem: серапионов.
+ stem: серапионов.//серапіонов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Серапионов
 
 -lexeme
  lex: Серапионова
- stem: серапионова.
+ stem: серапионова.//серапіонова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Серапионова
@@ -31754,7 +31754,7 @@
 
 -lexeme
  lex: Сидоренко
- stem: сидоренко.
+ stem: сидоренко.//сидореҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Сидоренко
@@ -31817,7 +31817,7 @@
 
 -lexeme
  lex: Силченко
- stem: силченко.
+ stem: силченко.//силчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Силченко
@@ -31873,7 +31873,7 @@
 
 -lexeme
  lex: Симеринко
- stem: симеринко.
+ stem: симеринко.//симериҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Симеринко
@@ -32216,7 +32216,7 @@
 
 -lexeme
  lex: Смоленков
- stem: смоленков.
+ stem: смоленков.//смолеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Смоленков
@@ -32496,7 +32496,7 @@
 
 -lexeme
  lex: Солонинко
- stem: солонинко.
+ stem: солонинко.//солониҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Солонинко
@@ -32748,7 +32748,7 @@
 
 -lexeme
  lex: Станкевич
- stem: станкевич.
+ stem: станкевич.//стаҥкевич.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Станкевич
@@ -32881,7 +32881,7 @@
 
 -lexeme
  lex: Стешенкова
- stem: стешенкова.
+ stem: стешенкова.//стешеҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Стешенкова
@@ -33357,28 +33357,28 @@
 
 -lexeme
  lex: Суфиянов
- stem: суфиянов.
+ stem: суфиянов.//суфіянов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Суфиянов
 
 -lexeme
  lex: Суфияров
- stem: суфияров.
+ stem: суфияров.//суфіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Суфияров
 
 -lexeme
  lex: Суфиярова
- stem: суфиярова.
+ stem: суфиярова.//суфіярова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Суфиярова
 
 -lexeme
  lex: Суфиятов
- stem: суфиятов.
+ stem: суфиятов.//суфіятов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Суфиятов
@@ -33693,7 +33693,7 @@
 
 -lexeme
  lex: Тараненко
- stem: тараненко.
+ stem: тараненко.//таранеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Тараненко
@@ -33714,7 +33714,7 @@
 
 -lexeme
  lex: Тарасенко
- stem: тарасенко.
+ stem: тарасенко.//тарасеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Тарасенко
@@ -34022,7 +34022,7 @@
 
 -lexeme
  lex: Тесленко
- stem: тесленко.
+ stem: тесленко.//теслеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Тесленко
@@ -34204,7 +34204,7 @@
 
 -lexeme
  lex: Тимошенко
- stem: тимошенко.
+ stem: тимошенко.//тимошеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Тимошенко
@@ -34218,7 +34218,7 @@
 
 -lexeme
  lex: Тимченко
- stem: тимченко.
+ stem: тимченко.//тимчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Тимченко
@@ -34288,7 +34288,7 @@
 
 -lexeme
  lex: Ткаченко
- stem: ткаченко.
+ stem: ткаченко.//ткачеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ткаченко
@@ -34841,7 +34841,7 @@
 
 -lexeme
  lex: Туктакиев
- stem: туктакиев.
+ stem: туктакиев.//туктакіев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Туктакиев
@@ -34995,7 +34995,7 @@
 
 -lexeme
  lex: Тыщенко
- stem: тыщенко.
+ stem: тыщенко.//тыщеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Тыщенко
@@ -35121,7 +35121,7 @@
 
 -lexeme
  lex: Удовиченко
- stem: удовиченко.
+ stem: удовиченко.//удовичеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Удовиченко
@@ -35170,7 +35170,7 @@
 
 -lexeme
  lex: Ульяненко
- stem: ульяненко.
+ stem: ульяненко.//ульянеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ульяненко
@@ -35317,7 +35317,7 @@
 
 -lexeme
  lex: Урынкулова
- stem: урынкулова.
+ stem: урынкулова.//урыҥкулова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Урынкулова
@@ -35464,14 +35464,14 @@
 
 -lexeme
  lex: Ушияров
- stem: ушияров.
+ stem: ушияров.//ушіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ушияров
 
 -lexeme
  lex: Ушиярова
- stem: ушиярова.
+ stem: ушиярова.//ушіярова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ушиярова
@@ -35800,14 +35800,14 @@
 
 -lexeme
  lex: Феденко
- stem: феденко.
+ stem: феденко.//федеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Феденко
 
 -lexeme
  lex: Федорченко
- stem: федорченко.
+ stem: федорченко.//федорчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Федорченко
@@ -35849,7 +35849,7 @@
 
 -lexeme
  lex: Федченков
- stem: федченков.
+ stem: федченков.//федчеҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Федченков
@@ -35996,7 +35996,7 @@
 
 -lexeme
  lex: Филиппенко
- stem: филиппенко.
+ stem: филиппенко.//филиппеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Филиппенко
@@ -36017,7 +36017,7 @@
 
 -lexeme
  lex: Фильчёнков
- stem: фильчёнков.
+ stem: фильчёнков.//фильчёҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Фильчёнков
@@ -36059,7 +36059,7 @@
 
 -lexeme
  lex: Фоменко
- stem: фоменко.
+ stem: фоменко.//фомеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Фоменко
@@ -36136,7 +36136,7 @@
 
 -lexeme
  lex: Франко
- stem: франко.
+ stem: франко.//фраҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Франко
@@ -36192,7 +36192,7 @@
 
 -lexeme
  lex: Фурсенко
- stem: фурсенко.
+ stem: фурсенко.//фурсеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Фурсенко
@@ -36311,7 +36311,7 @@
 
 -lexeme
  lex: Хазиев
- stem: хазиев.
+ stem: хазиев.//хазіев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Хазиев
@@ -36514,7 +36514,7 @@
 
 -lexeme
  lex: Ханенко
- stem: ханенко.
+ stem: ханенко.//ханеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ханенко
@@ -37025,7 +37025,7 @@
 
 -lexeme
  lex: Христенко
- stem: христенко.
+ stem: христенко.//христеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Христенко
@@ -37067,7 +37067,7 @@
 
 -lexeme
  lex: Хромченко
- stem: хромченко.
+ stem: хромченко.//хромчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Хромченко
@@ -37109,14 +37109,14 @@
 
 -lexeme
  lex: Хузиахметов
- stem: хузиахметов.
+ stem: хузиахметов.//хузіахметов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Хузиахметов
 
 -lexeme
  lex: Хузиахметова
- stem: хузиахметова.
+ stem: хузиахметова.//хузіахметова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Хузиахметова
@@ -37235,7 +37235,7 @@
 
 -lexeme
  lex: Цебенко
- stem: цебенко.
+ stem: цебенко.//цебеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Цебенко
@@ -37256,14 +37256,14 @@
 
 -lexeme
  lex: Цыганкин
- stem: цыганкин.
+ stem: цыганкин.//цыгаҥкин.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Цыганкин
 
 -lexeme
  lex: Цыганкина
- stem: цыганкина.
+ stem: цыганкина.//цыгаҥкина.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Цыганкина
@@ -37305,14 +37305,14 @@
 
 -lexeme
  lex: Цыплёнков
- stem: цыплёнков.
+ stem: цыплёнков.//цыплёҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Цыплёнков
 
 -lexeme
  lex: Цыплёнкова
- stem: цыплёнкова.
+ stem: цыплёнкова.//цыплёҥкова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Цыплёнкова
@@ -37606,7 +37606,7 @@
 
 -lexeme
  lex: Черенкевич
- stem: черенкевич.
+ stem: черенкевич.//череҥкевич.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Черенкевич
@@ -37648,14 +37648,14 @@
 
 -lexeme
  lex: Черненко
- stem: черненко.
+ stem: черненко.//чернеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Черненко
 
 -lexeme
  lex: Черниенко
- stem: черниенко.
+ stem: черниенко.//черніенко.//черниенко.//черніеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Черниенко
@@ -37739,7 +37739,7 @@
 
 -lexeme
  lex: Чернышенко
- stem: чернышенко.
+ stem: чернышенко.//чернышеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Чернышенко
@@ -38488,14 +38488,14 @@
 
 -lexeme
  lex: Шаймиев
- stem: шаймиев.
+ stem: шаймиев.//шайміев.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Шаймиев
 
 -lexeme
  lex: Шаймиева
- stem: шаймиева.
+ stem: шаймиева.//шайміева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Шаймиева
@@ -38670,7 +38670,7 @@
 
 -lexeme
  lex: Шаланки
- stem: шаланки.
+ stem: шаланки.//шалаҥки.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Шаланки
@@ -38740,14 +38740,14 @@
 
 -lexeme
  lex: Шамшияров
- stem: шамшияров.
+ stem: шамшияров.//шамшіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Шамшияров
 
 -lexeme
  lex: Шамшиярова
- stem: шамшиярова.
+ stem: шамшиярова.//шамшіярова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Шамшиярова
@@ -38985,7 +38985,7 @@
 
 -lexeme
  lex: Шартияров
- stem: шартияров.
+ stem: шартияров.//шартіяров.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Шартияров
@@ -39209,7 +39209,7 @@
 
 -lexeme
  lex: Шевченко
- stem: шевченко.
+ stem: шевченко.//шевчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Шевченко
@@ -40091,7 +40091,7 @@
 
 -lexeme
  lex: Щегленко
- stem: щегленко.
+ stem: щегленко.//щеглеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Щегленко
@@ -40252,7 +40252,7 @@
 
 -lexeme
  lex: Эрденко
- stem: эрденко.
+ stem: эрденко.//эрдеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Эрденко
@@ -40266,7 +40266,7 @@
 
 -lexeme
  lex: Эрмиева
- stem: эрмиева.
+ stem: эрмиева.//эрміева.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Эрмиева
@@ -40280,14 +40280,14 @@
 
 -lexeme
  lex: Эсенкулов
- stem: эсенкулов.
+ stem: эсенкулов.//эсеҥкулов.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Эсенкулов
 
 -lexeme
  lex: Эсенкулова
- stem: эсенкулова.
+ stem: эсенкулова.//эсеҥкулова.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Эсенкулова
@@ -40350,7 +40350,7 @@
 
 -lexeme
  lex: Ювченко
- stem: ювченко.
+ stem: ювченко.//ювчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ювченко
@@ -40518,7 +40518,7 @@
 
 -lexeme
  lex: Юрченко
- stem: юрченко.
+ stem: юрченко.//юрчеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Юрченко
@@ -40616,7 +40616,7 @@
 
 -lexeme
  lex: Ющенко
- stem: ющенко.
+ stem: ющенко.//ющеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ющенко
@@ -40868,7 +40868,7 @@
 
 -lexeme
  lex: Янков
- stem: янков.
+ stem: янков.//яҥков.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Янков
@@ -40980,7 +40980,7 @@
 
 -lexeme
  lex: Ярошенко
- stem: ярошенко.
+ stem: ярошенко.//ярошеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ярошенко
@@ -41050,7 +41050,7 @@
 
 -lexeme
  lex: Ященко
- stem: ященко.
+ stem: ященко.//ящеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Ященко
@@ -41225,7 +41225,7 @@
 
 -lexeme
  lex: Охотникова
- stem: охотниикова.
+ stem: охотниикова.//охотніикова.
  gramm: N,PN,famn,missp
  paradigm: N-back
  trans_ru: Охотникова
@@ -41533,7 +41533,7 @@
 
 -lexeme
  lex: Азариевна
- stem: азариевна.
+ stem: азариевна.//азаріевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Азариевна
@@ -41617,14 +41617,14 @@
 
 -lexeme
  lex: Алексиевич
- stem: алексиевич.
+ stem: алексиевич.//алексіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Алексиевич
 
 -lexeme
  lex: Алиевич
- stem: алиевич.
+ stem: алиевич.//аліевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Алиевич
@@ -41743,28 +41743,28 @@
 
 -lexeme
  lex: Андрианович
- stem: андрианович.
+ stem: андрианович.//андріанович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Андрианович
 
 -lexeme
  lex: Андриановна
- stem: андриановна.
+ stem: андриановна.//андріановна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Андриановна
 
 -lexeme
  lex: Андриянович
- stem: андриянович.
+ stem: андриянович.//андріянович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Андриянович
 
 -lexeme
  lex: Андрияновна
- stem: андрияновна.
+ stem: андрияновна.//андріяновна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Андрияновна
@@ -41869,7 +41869,7 @@
 
 -lexeme
  lex: Аркадиевич
- stem: аркадиевич.
+ stem: аркадиевич.//аркадіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Аркадиевич
@@ -42191,7 +42191,7 @@
 
 -lexeme
  lex: Бариевна
- stem: бариевна.
+ stem: бариевна.//баріевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Бариевна
@@ -42338,28 +42338,28 @@
 
 -lexeme
  lex: Валерианович
- stem: валерианович.
+ stem: валерианович.//валеріанович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Валерианович
 
 -lexeme
  lex: Валериевич
- stem: валериевич.
+ stem: валериевич.//валеріевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Валериевич
 
 -lexeme
  lex: Валериевна
- stem: валериевна.
+ stem: валериевна.//валеріевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Валериевна
 
 -lexeme
  lex: Валериянович
- stem: валериянович.
+ stem: валериянович.//валеріянович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Валериянович
@@ -42394,7 +42394,7 @@
 
 -lexeme
  lex: Валиуллович
- stem: валиуллович.
+ stem: валиуллович.//валіуллович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Валиуллович
@@ -42457,14 +42457,14 @@
 
 -lexeme
  lex: Вениаминович
- stem: вениаминович.
+ stem: вениаминович.//веніаминович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Вениаминович
 
 -lexeme
  lex: Вениаминовна
- stem: вениаминовна.
+ stem: вениаминовна.//веніаминовна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Вениаминовна
@@ -42492,7 +42492,7 @@
 
 -lexeme
  lex: Ветентиевич
- stem: ветентиевич.
+ stem: ветентиевич.//ветентіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Ветентиевич
@@ -42555,21 +42555,21 @@
 
 -lexeme
  lex: Виссарионович
- stem: виссарионович.
+ stem: виссарионович.//виссаріонович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Виссарионович
 
 -lexeme
  lex: Виссарионовна
- stem: виссарионовна.
+ stem: виссарионовна.//виссаріоновна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Виссарионовна
 
 -lexeme
  lex: Виталиевна
- stem: виталиевна.
+ stem: виталиевна.//виталіевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Виталиевна
@@ -42758,7 +42758,7 @@
 
 -lexeme
  lex: Гадиуллович
- stem: гадиуллович.
+ stem: гадиуллович.//гадіуллович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Гадиуллович
@@ -42842,21 +42842,21 @@
 
 -lexeme
  lex: Галактионович
- stem: галактионович.
+ stem: галактионович.//галактіонович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Галактионович
 
 -lexeme
  lex: Галиахметович
- stem: галиахметович.
+ stem: галиахметович.//галіахметович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Галиахметович
 
 -lexeme
  lex: Галиевич
- stem: галиевич.
+ stem: галиевич.//галіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Галиевич
@@ -42905,7 +42905,7 @@
 
 -lexeme
  lex: Галиуллович
- stem: галиуллович.
+ stem: галиуллович.//галіуллович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Галиуллович
@@ -42989,21 +42989,21 @@
 
 -lexeme
  lex: Гелиевна
- stem: гелиевна.
+ stem: гелиевна.//геліевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Гелиевна
 
 -lexeme
  lex: Геннадиевич
- stem: геннадиевич.
+ stem: геннадиевич.//геннадіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Геннадиевич
 
 -lexeme
  lex: Геннадиевна
- stem: геннадиевна.
+ stem: геннадиевна.//геннадіевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Геннадиевна
@@ -43031,14 +43031,14 @@
 
 -lexeme
  lex: Георгиевич
- stem: георгиевич.
+ stem: георгиевич.//георгіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Георгиевич
 
 -lexeme
  lex: Георгиевна
- stem: георгиевна.
+ stem: георгиевна.//георгіевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Георгиевна
@@ -43080,7 +43080,7 @@
 
 -lexeme
  lex: Гильмиярович
- stem: гильмиярович.
+ stem: гильмиярович.//гильміярович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Гильмиярович
@@ -43108,7 +43108,7 @@
 
 -lexeme
  lex: Гильнияхметовна
- stem: гильнияхметовна.
+ stem: гильнияхметовна.//гильніяхметовна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Гильнияхметовна
@@ -43129,7 +43129,7 @@
 
 -lexeme
  lex: Гиниятовна
- stem: гиниятовна.
+ stem: гиниятовна.//гиніятовна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Гиниятовна
@@ -43143,7 +43143,7 @@
 
 -lexeme
  lex: Голинкевич
- stem: голинкевич.
+ stem: голинкевич.//голиҥкевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Голинкевич
@@ -43164,7 +43164,7 @@
 
 -lexeme
  lex: Грацианович
- stem: грацианович.
+ stem: грацианович.//граціанович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Грацианович
@@ -43192,7 +43192,7 @@
 
 -lexeme
  lex: Гуриевич
- stem: гуриевич.
+ stem: гуриевич.//гуріевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Гуриевич
@@ -43255,7 +43255,7 @@
 
 -lexeme
  lex: Даниилович
- stem: даниилович.
+ stem: даниилович.//даніилович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Даниилович
@@ -43325,14 +43325,14 @@
 
 -lexeme
  lex: Дмитриевич
- stem: дмитриевич.
+ stem: дмитриевич.//дмитріевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Дмитриевич
 
 -lexeme
  lex: Дмитриевна
- stem: дмитриевна.
+ stem: дмитриевна.//дмитріевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Дмитриевна
@@ -43367,7 +43367,7 @@
 
 -lexeme
  lex: Евгениевич
- stem: евгениевич.
+ stem: евгениевич.//евгеніевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Евгениевич
@@ -43416,7 +43416,7 @@
 
 -lexeme
  lex: Евлампиевна
- stem: евлампиевна.
+ stem: евлампиевна.//евлампіевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Евлампиевна
@@ -43619,7 +43619,7 @@
 
 -lexeme
  lex: Закиевич
- stem: закиевич.
+ stem: закиевич.//закіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Закиевич
@@ -43682,14 +43682,14 @@
 
 -lexeme
  lex: Зиятдинович
- stem: зиятдинович.
+ stem: зиятдинович.//зіятдинович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Зиятдинович
 
 -lexeme
  lex: Зиятович
- stem: зиятович.
+ stem: зиятович.//зіятович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Зиятович
@@ -43787,14 +43787,14 @@
 
 -lexeme
  lex: Идиятович
- stem: идиятович.
+ stem: идиятович.//идіятович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Идиятович
 
 -lexeme
  lex: Идиятуллович
- stem: идиятуллович.
+ stem: идиятуллович.//идіятуллович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Идиятуллович
@@ -43836,14 +43836,14 @@
 
 -lexeme
  lex: Илларионович
- stem: илларионович.
+ stem: илларионович.//илларіонович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Илларионович
 
 -lexeme
  lex: Илларионовна
- stem: илларионовна.
+ stem: илларионовна.//илларіоновна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Илларионовна
@@ -43906,21 +43906,21 @@
 
 -lexeme
  lex: Ионович
- stem: ионович.
+ stem: ионович.//іонович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Ионович
 
 -lexeme
  lex: Иосифович
- stem: иосифович.
+ stem: иосифович.//іосифович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Иосифович
 
 -lexeme
  lex: Иосифовна
- stem: иосифовна.
+ stem: иосифовна.//іосифовна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Иосифовна
@@ -43997,7 +43997,7 @@
 
 -lexeme
  lex: Июрьевич
- stem: июрьевич.
+ stem: июрьевич.//іюрьевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Июрьевич
@@ -44123,7 +44123,7 @@
 
 -lexeme
  lex: Киприянович
- stem: киприянович.
+ stem: киприянович.//кипріянович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Киприянович
@@ -44158,14 +44158,14 @@
 
 -lexeme
  lex: Кияметдинович
- stem: кияметдинович.
+ stem: кияметдинович.//кіяметдинович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Кияметдинович
 
 -lexeme
  lex: Киёвна
- stem: киёвна.
+ stem: киёвна.//кіёвна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Киёвна
@@ -44319,7 +44319,7 @@
 
 -lexeme
  lex: Куприянович
- stem: куприянович.
+ stem: куприянович.//купріянович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Куприянович
@@ -44382,7 +44382,7 @@
 
 -lexeme
  lex: Ларионович
- stem: ларионович.
+ stem: ларионович.//ларіонович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Ларионович
@@ -44417,7 +44417,7 @@
 
 -lexeme
  lex: Леонтиевич
- stem: леонтиевич.
+ stem: леонтиевич.//леонтіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Леонтиевич
@@ -44445,21 +44445,21 @@
 
 -lexeme
  lex: Ливадиевна
- stem: ливадиевна.
+ stem: ливадиевна.//ливадіевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Ливадиевна
 
 -lexeme
  lex: Ливиевич
- stem: ливиевич.
+ stem: ливиевич.//ливіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Ливиевич
 
 -lexeme
  lex: Ливиевна
- stem: ливиевна.
+ stem: ливиевна.//ливіевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Ливиевна
@@ -44725,7 +44725,7 @@
 
 -lexeme
  lex: Менгазиевна
- stem: менгазиевна.
+ stem: менгазиевна.//менгазіевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Менгазиевна
@@ -44739,7 +44739,7 @@
 
 -lexeme
  lex: Менкаметович
- stem: менкаметович.
+ stem: менкаметович.//меҥкаметович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Менкаметович
@@ -44767,7 +44767,7 @@
 
 -lexeme
  lex: Мефодиевна
- stem: мефодиевна.
+ stem: мефодиевна.//мефодіевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Мефодиевна
@@ -44788,7 +44788,7 @@
 
 -lexeme
  lex: Миллиятович
- stem: миллиятович.
+ stem: миллиятович.//милліятович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Миллиятович
@@ -44837,7 +44837,7 @@
 
 -lexeme
  lex: Минкаировна
- stem: минкаировна.
+ stem: минкаировна.//миҥкаировна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Минкаировна
@@ -44858,14 +44858,14 @@
 
 -lexeme
  lex: Миннигалиевич
- stem: миннигалиевич.
+ stem: миннигалиевич.//миннигаліевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Миннигалиевич
 
 -lexeme
  lex: Минниевич
- stem: минниевич.
+ stem: минниевич.//минніевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Минниевич
@@ -44963,7 +44963,7 @@
 
 -lexeme
  lex: Муллагалиевич
- stem: муллагалиевич.
+ stem: муллагалиевич.//муллагаліевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Муллагалиевич
@@ -45068,21 +45068,21 @@
 
 -lexeme
  lex: Набиокович
- stem: набиокович.
+ stem: набиокович.//набіокович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Набиокович
 
 -lexeme
  lex: Набиоковна
- stem: набиоковна.
+ stem: набиоковна.//набіоковна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Набиоковна
 
 -lexeme
  lex: Набиулловна
- stem: набиулловна.
+ stem: набиулловна.//набіулловна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Набиулловна
@@ -45215,7 +45215,7 @@
 
 -lexeme
  lex: Низамиевич
- stem: низамиевич.
+ stem: низамиевич.//низаміевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Низамиевич
@@ -45362,7 +45362,7 @@
 
 -lexeme
  lex: Нодариевич
- stem: нодариевич.
+ stem: нодариевич.//нодаріевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Нодариевич
@@ -45460,7 +45460,7 @@
 
 -lexeme
  lex: Осиевич
- stem: осиевич.
+ stem: осиевич.//осіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Осиевич
@@ -45488,7 +45488,7 @@
 
 -lexeme
  lex: Отариевна
- stem: отариевна.
+ stem: отариевна.//отаріевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Отариевна
@@ -45803,7 +45803,7 @@
 
 -lexeme
  lex: Радионович
- stem: радионович.
+ stem: радионович.//радіонович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Радионович
@@ -46013,14 +46013,14 @@
 
 -lexeme
  lex: Родионович
- stem: родионович.
+ stem: родионович.//родіонович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Родионович
 
 -lexeme
  lex: Родионовна
- stem: родионовна.
+ stem: родионовна.//родіоновна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Родионовна
@@ -46272,28 +46272,28 @@
 
 -lexeme
  lex: Сафаргалиевич
- stem: сафаргалиевич.
+ stem: сафаргалиевич.//сафаргаліевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Сафаргалиевич
 
 -lexeme
  lex: Сафиевич
- stem: сафиевич.
+ stem: сафиевич.//сафіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Сафиевич
 
 -lexeme
  lex: Сафиуловна
- stem: сафиуловна.
+ stem: сафиуловна.//сафіуловна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Сафиуловна
 
 -lexeme
  lex: Сафияровна
- stem: сафияровна.
+ stem: сафияровна.//сафіяровна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Сафияровна
@@ -46349,14 +46349,14 @@
 
 -lexeme
  lex: Серапионович
- stem: серапионович.
+ stem: серапионович.//серапіонович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Серапионович
 
 -lexeme
  lex: Серапионовна
- stem: серапионовна.
+ stem: серапионовна.//серапіоновна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Серапионовна
@@ -46377,7 +46377,7 @@
 
 -lexeme
  lex: Серафионович
- stem: серафионович.
+ stem: серафионович.//серафіонович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Серафионович
@@ -46566,7 +46566,7 @@
 
 -lexeme
  lex: Тимергалиевич
- stem: тимергалиевич.
+ stem: тимергалиевич.//тимергаліевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Тимергалиевич
@@ -46782,6 +46782,13 @@
  trans_ru: Фагимович
 
 -lexeme
+ lex: Фаддей
+ stem: фадде.//ѳадде.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Фаддей
+
+-lexeme
  lex: Фаддеевич
  stem: фаддеевич.
  gramm: N,PN,patrn
@@ -46804,7 +46811,7 @@
 
 -lexeme
  lex: Фанавиевна
- stem: фанавиевна.
+ stem: фанавиевна.//фанавіевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Фанавиевна
@@ -47126,7 +47133,7 @@
 
 -lexeme
  lex: Хазиахматовна
- stem: хазиахматовна.
+ stem: хазиахматовна.//хазіахматовна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Хазиахматовна
@@ -47203,7 +47210,7 @@
 
 -lexeme
  lex: Харлампиевич
- stem: харлампиевич.
+ stem: харлампиевич.//харлампіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Харлампиевич
@@ -47343,7 +47350,7 @@
 
 -lexeme
  lex: Шарапгалиевна
- stem: шарапгалиевна.
+ stem: шарапгалиевна.//шарапгаліевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Шарапгалиевна
@@ -47357,7 +47364,7 @@
 
 -lexeme
  lex: Шарафиевич
- stem: шарафиевич.
+ stem: шарафиевич.//шарафіевич.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Шарафиевич
@@ -47525,7 +47532,7 @@
 
 -lexeme
  lex: Юлиусович
- stem: юлиусович.
+ stem: юлиусович.//юліусович.
  gramm: N,PN,patrn
  paradigm: N-front
  trans_ru: Юлиусович
@@ -47546,7 +47553,7 @@
 
 -lexeme
  lex: Юриевна
- stem: юриевна.
+ stem: юриевна.//юріевна.
  gramm: N,PN,patrn
  paradigm: N-back
  trans_ru: Юриевна
@@ -47777,7 +47784,7 @@
 
 -lexeme
  lex: Виссарионовна
- stem: вессарионовна.
+ stem: вессарионовна.//вессаріоновна.
  gramm: N,PN,patrn,missp
  paradigm: N-back
  trans_ru: Виссарионовна
@@ -47798,7 +47805,7 @@
 
 -lexeme
  lex: Дмитриевна
- stem: дммитриевна.
+ stem: дммитриевна.//дммитріевна.
  gramm: N,PN,patrn,missp
  paradigm: N-back
  trans_ru: Дмитриевна
@@ -48036,7 +48043,7 @@
 
 -lexeme
  lex: Авия
- stem: авия.
+ stem: авия.//авія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Авия
@@ -48071,7 +48078,7 @@
 
 -lexeme
  lex: Агафия
- stem: агафия.
+ stem: агафия.//агафія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Агафия
@@ -48092,7 +48099,7 @@
 
 -lexeme
  lex: Агния
- stem: агния.
+ stem: агния.//агнія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Агния
@@ -48134,7 +48141,7 @@
 
 -lexeme
  lex: Аделия
- stem: аделия.
+ stem: аделия.//аделія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Аделия
@@ -48155,7 +48162,7 @@
 
 -lexeme
  lex: Адриан
- stem: адриан.
+ stem: адриан.//адріан.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Адриан
@@ -48169,7 +48176,7 @@
 
 -lexeme
  lex: Азалия
- stem: азалия.
+ stem: азалия.//азалія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Азалия
@@ -48183,7 +48190,7 @@
 
 -lexeme
  lex: Азелия
- stem: азелия.
+ stem: азелия.//азелія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Азелия
@@ -48246,7 +48253,7 @@
 
 -lexeme
  lex: Айселия
- stem: айселия.
+ stem: айселия.//айселія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Айселия
@@ -48316,7 +48323,7 @@
 
 -lexeme
  lex: Алесия
- stem: алесия.
+ stem: алесия.//алесія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Алесия
@@ -48421,14 +48428,14 @@
 
 -lexeme
  lex: Альбия
- stem: альбия.
+ stem: альбия.//альбія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Альбия
 
 -lexeme
  lex: Альсиния
- stem: альсиния.
+ stem: альсиния.//альсинія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Альсиния
@@ -48442,7 +48449,7 @@
 
 -lexeme
  lex: Альфия
- stem: альфия.
+ stem: альфия.//альфія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Альфия
@@ -48456,14 +48463,14 @@
 
 -lexeme
  lex: Алёнка
- stem: аленка.
+ stem: аленка.//алеҥка.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Алёнка
 
 -lexeme
  lex: Алёнка
- stem: алёнка.
+ stem: алёнка.//алёҥка.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Алёнка
@@ -48491,7 +48498,7 @@
 
 -lexeme
  lex: Амалия
- stem: амалия.
+ stem: амалия.//амалія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Амалия
@@ -48526,7 +48533,7 @@
 
 -lexeme
  lex: Анания
- stem: анания.
+ stem: анания.//ананія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Анания
@@ -48547,7 +48554,7 @@
 
 -lexeme
  lex: Анастасия
- stem: анастасия.
+ stem: анастасия.//анастасія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Анастасия
@@ -48589,7 +48596,7 @@
 
 -lexeme
  lex: Андриан
- stem: андриан.
+ stem: андриан.//андріан.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Андриан
@@ -48610,7 +48617,7 @@
 
 -lexeme
  lex: Анелия
- stem: анелия.
+ stem: анелия.//анелія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Анелия
@@ -48652,7 +48659,7 @@
 
 -lexeme
  lex: Анисия
- stem: анисия.
+ stem: анисия.//анисія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Анисия
@@ -48680,7 +48687,7 @@
 
 -lexeme
  lex: Анна-Мария
- stem: аннамари.//анна-мария.
+ stem: аннамари.//анна-мария.//аннамари.//анна-марія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Анна-Мария
@@ -48701,7 +48708,7 @@
 
 -lexeme
  lex: Антиох
- stem: антиох.
+ stem: антиох.//антіох.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Антиох
@@ -48764,7 +48771,7 @@
 
 -lexeme
  lex: Анэлия
- stem: анэлия.
+ stem: анэлия.//анэлія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Анэлия
@@ -48806,14 +48813,14 @@
 
 -lexeme
  lex: Аполлинария
- stem: аполлинария.
+ stem: аполлинария.//аполлинарія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Аполлинария
 
 -lexeme
  lex: Аполлония
- stem: аполлония.
+ stem: аполлония.//аполлонія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Аполлония
@@ -48834,7 +48841,7 @@
 
 -lexeme
  lex: Ариадна
- stem: ариадна.
+ stem: ариадна.//аріадна.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Ариадна
@@ -48918,7 +48925,7 @@
 
 -lexeme
  lex: Арсения
- stem: арсения.
+ stem: арсения.//арсенія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Арсения
@@ -48967,7 +48974,7 @@
 
 -lexeme
  lex: Асия
- stem: асия.
+ stem: асия.//асія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Асия
@@ -49177,7 +49184,7 @@
 
 -lexeme
  lex: Валериан
- stem: валериан.
+ stem: валериан.//валеріан.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Валериан
@@ -49198,7 +49205,7 @@
 
 -lexeme
  lex: Валерия
- stem: валерия.
+ stem: валерия.//валерія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Валерия
@@ -49345,7 +49352,7 @@
 
 -lexeme
  lex: Вениамин
- stem: вениамин.
+ stem: вениамин.//веніамин.
  gramm: N,PN,persn
  paradigm: N-front
  trans_ru: Вениамин
@@ -49387,14 +49394,14 @@
 
 -lexeme
  lex: Виктория
- stem: виктория.
+ stem: виктория.//викторія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Виктория
 
 -lexeme
  lex: Виолетта
- stem: виолетта.
+ stem: виолетта.//віолетта.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Виолетта
@@ -49527,7 +49534,7 @@
 
 -lexeme
  lex: Гавриил
- stem: гавриил.
+ stem: гавриил.//гавріил.
  gramm: N,PN,persn
  paradigm: N-front
  trans_ru: Гавриил
@@ -49660,7 +49667,7 @@
 
 -lexeme
  lex: Гермия
- stem: гермия.
+ stem: гермия.//гермія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Гермия
@@ -49702,7 +49709,7 @@
 
 -lexeme
  lex: Глория
- stem: глория.
+ stem: глория.//глорія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Глория
@@ -49744,14 +49751,14 @@
 
 -lexeme
  lex: Гузалия
- stem: гузалия.
+ stem: гузалия.//гузалія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Гузалия
 
 -lexeme
  lex: Гульдания
- stem: гульдания.
+ stem: гульдания.//гульданія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Гульдания
@@ -49765,7 +49772,7 @@
 
 -lexeme
  lex: Гульзия
- stem: гульзия.
+ stem: гульзия.//гульзія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Гульзия
@@ -49779,14 +49786,14 @@
 
 -lexeme
  lex: Гульсария
- stem: гульсария.
+ stem: гульсария.//гульсарія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Гульсария
 
 -lexeme
  lex: Гульсафия
- stem: гульсафия.
+ stem: гульсафия.//гульсафія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Гульсафия
@@ -49800,7 +49807,7 @@
 
 -lexeme
  lex: Гульфия
- stem: гульфия.
+ stem: гульфия.//гульфія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Гульфия
@@ -49856,7 +49863,7 @@
 
 -lexeme
  lex: Даниил
- stem: даниил.
+ stem: даниил.//даніил.
  gramm: N,PN,persn
  paradigm: N-front
  trans_ru: Даниил
@@ -49933,7 +49940,7 @@
 
 -lexeme
  lex: Джулия
- stem: джулия.
+ stem: джулия.//джулія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Джулия
@@ -49947,7 +49954,7 @@
 
 -lexeme
  lex: Диана
- stem: диана.
+ stem: диана.//діана.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Диана
@@ -50017,28 +50024,28 @@
 
 -lexeme
  lex: Евгения
- stem: евгения.
+ stem: евгения.//евгенія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Евгения
 
 -lexeme
  lex: Евдокия
- stem: евдокия.
+ stem: евдокия.//евдокія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Евдокия
 
 -lexeme
  lex: Евлампия
- stem: евлампия.
+ stem: евлампия.//евлампія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Евлампия
 
 -lexeme
  lex: Евланпия
- stem: евланпия.
+ stem: евланпия.//евланпія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Евланпия
@@ -50052,7 +50059,7 @@
 
 -lexeme
  lex: Евстолия
- stem: евстолия.
+ stem: евстолия.//евстолія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Евстолия
@@ -50080,7 +50087,7 @@
 
 -lexeme
  lex: Езекия
- stem: езекия.
+ stem: езекия.//езекія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Езекия
@@ -50101,7 +50108,7 @@
 
 -lexeme
  lex: Елиаким
- stem: елиаким.
+ stem: елиаким.//еліаким.
  gramm: N,PN,persn
  paradigm: N-front
  trans_ru: Елиаким
@@ -50143,7 +50150,7 @@
 
 -lexeme
  lex: Есения
- stem: есения.
+ stem: есения.//есенія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Есения
@@ -50157,7 +50164,7 @@
 
 -lexeme
  lex: Ефалия
- stem: ефалия.
+ stem: ефалия.//ефалія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Ефалия
@@ -50171,7 +50178,7 @@
 
 -lexeme
  lex: Ефросиния
- stem: ефросиния.
+ stem: ефросиния.//ефросинія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Ефросиния
@@ -50241,7 +50248,7 @@
 
 -lexeme
  lex: Захария
- stem: захария.
+ stem: захария.//захарія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Захария
@@ -50262,7 +50269,7 @@
 
 -lexeme
  lex: Зеленфия
- stem: зеленфия.
+ stem: зеленфия.//зеленфія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Зеленфия
@@ -50297,7 +50304,7 @@
 
 -lexeme
  lex: Зинко
- stem: зинко.
+ stem: зинко.//зиҥко.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Зинко
@@ -50360,28 +50367,28 @@
 
 -lexeme
  lex: Зульфия
- stem: зульфия.
+ stem: зульфия.//зульфія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Зульфия
 
 -lexeme
  lex: Зульхия
- stem: зульхия.
+ stem: зульхия.//зульхія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Зульхия
 
 -lexeme
  lex: Иаков
- stem: иаков.
+ stem: иаков.//іаков.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Иаков
 
 -lexeme
  lex: Иасон
- stem: иасон.
+ stem: иасон.//іасон.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Иасон
@@ -50430,21 +50437,21 @@
 
 -lexeme
  lex: Иеремия
- stem: иеремия.
+ stem: иеремия.//иеремія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Иеремия
 
 -lexeme
  lex: Иессей
- stem: иессе.
+ stem: иессе.//іессе.
  gramm: N,PN,persn
  paradigm: N-front-j
  trans_ru: Иессей
 
 -lexeme
  lex: Иехония
- stem: иехония.
+ stem: иехония.//иехонія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Иехония
@@ -50458,14 +50465,14 @@
 
 -lexeme
  lex: Иисус
- stem: иисус.
+ stem: иисус.//іисус.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Иисус
 
 -lexeme
  lex: Илия
- stem: илия.
+ stem: илия.//илія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Илия
@@ -50493,7 +50500,7 @@
 
 -lexeme
  lex: Ильсия
- stem: ильсия.
+ stem: ильсия.//ильсія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Ильсия
@@ -50549,35 +50556,36 @@
 
 -lexeme
  lex: Иоаким
- stem: иоаким.
+ stem: иоаким.//іоаким.
  gramm: N,PN,persn
  paradigm: N-front
  trans_ru: Иоаким
 
 -lexeme
  lex: Иоанн
- stem: иоанн.
+ stem: иоанн.//іоанн.
  gramm: N,PN,persn
  paradigm: N-back
+ paradigm: N-front
  trans_ru: Иоанн
 
 -lexeme
  lex: Иона
- stem: иона.
+ stem: иона.//іона.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Иона
 
 -lexeme
  lex: Иосиф
- stem: иосиф.
+ stem: иосиф.//іосиф.
  gramm: N,PN,persn
  paradigm: N-front
  trans_ru: Иосиф
 
 -lexeme
  lex: Иосия
- stem: иосия.
+ stem: иосия.//иосія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Иосия
@@ -50618,6 +50626,13 @@
  trans_ru: Ирод
 
 -lexeme
+ lex: Иродиада
+ stem: иродиада.//иродіада.
+ gramm: N,PN,persn
+ paradigm: N-back
+ trans_ru: Иродиада
+
+-lexeme
  lex: Исаак
  stem: исаак.
  gramm: N,PN,persn
@@ -50633,7 +50648,7 @@
 
 -lexeme
  lex: Исаия
- stem: исаия.
+ stem: исаия.//исаія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Исаия
@@ -50661,14 +50676,14 @@
 
 -lexeme
  lex: Иуда
- stem: иуда.
+ stem: иуда.//іуда.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Иуда
 
 -lexeme
  lex: Ифигения
- stem: ифигения.
+ stem: ифигения.//ифигенія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Ифигения
@@ -50682,7 +50697,7 @@
 
 -lexeme
  lex: Июлия
- stem: июлия.
+ stem: июлия.//июлія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Июлия
@@ -50710,7 +50725,7 @@
 
 -lexeme
  lex: Кадрия
- stem: кадрия.
+ stem: кадрия.//кадрія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Кадрия
@@ -50738,14 +50753,14 @@
 
 -lexeme
  lex: Калерия
- stem: калерия.
+ stem: калерия.//калерія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Калерия
 
 -lexeme
  lex: Кальпурния
- stem: кальпурния.
+ stem: кальпурния.//кальпурнія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Кальпурния
@@ -50836,7 +50851,7 @@
 
 -lexeme
  lex: Каусария
- stem: каусария.
+ stem: каусария.//каусарія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Каусария
@@ -50906,7 +50921,7 @@
 
 -lexeme
  lex: Клавдия
- stem: клавдия.
+ stem: клавдия.//клавдія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Клавдия
@@ -50920,7 +50935,7 @@
 
 -lexeme
  lex: Клаудия
- stem: клаудия.
+ stem: клаудия.//клаудія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Клаудия
@@ -50955,7 +50970,7 @@
 
 -lexeme
  lex: Корнелия
- stem: корнелия.
+ stem: корнелия.//корнелія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Корнелия
@@ -51004,7 +51019,7 @@
 
 -lexeme
  lex: Ксения
- stem: ксения.
+ stem: ксения.//ксенія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Ксения
@@ -51046,7 +51061,7 @@
 
 -lexeme
  lex: Кунафия
- stem: кунафия.
+ stem: кунафия.//кунафія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Кунафия
@@ -51130,14 +51145,14 @@
 
 -lexeme
  lex: Ленария
- stem: ленария.
+ stem: ленария.//ленарія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Ленария
 
 -lexeme
  lex: Леокадия
- stem: леокадия.
+ stem: леокадия.//леокадія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Леокадия
@@ -51179,7 +51194,7 @@
 
 -lexeme
  lex: Лидия
- stem: лидия.
+ stem: лидия.//лидія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Лидия
@@ -51207,14 +51222,14 @@
 
 -lexeme
  lex: Ликерия
- stem: ликерия.
+ stem: ликерия.//ликерія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Ликерия
 
 -lexeme
  lex: Лилиана
- stem: лилиана.
+ stem: лилиана.//лиліана.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Лилиана
@@ -51242,7 +51257,7 @@
 
 -lexeme
  lex: Лукерия
- stem: лукерия.
+ stem: лукерия.//лукерія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Лукерия
@@ -51256,7 +51271,7 @@
 
 -lexeme
  lex: Лукреция
- stem: лукреция.
+ stem: лукреция.//лукреція.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Лукреция
@@ -51319,7 +51334,7 @@
 
 -lexeme
  lex: Люция
- stem: люция.
+ stem: люция.//люція.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Люция
@@ -51424,7 +51439,7 @@
 
 -lexeme
  lex: Манассия
- stem: манассия.
+ stem: манассия.//манассія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Манассия
@@ -51473,7 +51488,7 @@
 
 -lexeme
  lex: Марзия
- stem: марзия.
+ stem: марзия.//марзія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Марзия
@@ -51494,7 +51509,7 @@
 
 -lexeme
  lex: Мария
- stem: мария.
+ stem: мария.//марія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Мария
@@ -51522,7 +51537,7 @@
 
 -lexeme
  lex: Марткия
- stem: марткия.
+ stem: марткия.//марткія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Марткия
@@ -51606,7 +51621,7 @@
 
 -lexeme
  lex: Матфей
- stem: матфе.
+ stem: матфе.//матѳе.
  gramm: N,PN,persn
  paradigm: N-front-j
  trans_ru: Матфей
@@ -51641,7 +51656,7 @@
 
 -lexeme
  lex: Мелания
- stem: мелания.
+ stem: мелания.//меланія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Мелания
@@ -51676,7 +51691,7 @@
 
 -lexeme
  lex: Мессия
- stem: мессия.
+ stem: мессия.//мессія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Мессия
@@ -51795,14 +51810,14 @@
 
 -lexeme
  lex: Миндия
- stem: миндия.
+ stem: миндия.//миндія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Миндия
 
 -lexeme
  lex: Минназия
- stem: минназия.
+ stem: минназия.//минназія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Минназия
@@ -51837,14 +51852,14 @@
 
 -lexeme
  lex: Миррэлия
- stem: миррэлия.
+ stem: миррэлия.//миррэлія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Миррэлия
 
 -lexeme
  lex: Мирсия
- stem: мирсия.
+ stem: мирсия.//мирсія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Мирсия
@@ -52012,7 +52027,7 @@
 
 -lexeme
  lex: Намзия
- stem: намзия.
+ stem: намзия.//намзія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Намзия
@@ -52033,7 +52048,7 @@
 
 -lexeme
  lex: Настасия
- stem: настасия.
+ stem: настасия.//настасія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Настасия
@@ -52068,7 +52083,7 @@
 
 -lexeme
  lex: Наталия
- stem: наталия.
+ stem: наталия.//наталія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Наталия
@@ -52138,7 +52153,7 @@
 
 -lexeme
  lex: Нигерия
- stem: нигерия.
+ stem: нигерия.//нигерія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Нигерия
@@ -52194,7 +52209,7 @@
 
 -lexeme
  lex: Никонко
- stem: никонко.
+ stem: никонко.//никоҥко.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Никонко
@@ -52229,35 +52244,35 @@
 
 -lexeme
  lex: Нияз
- stem: нияз.
+ stem: нияз.//ніяз.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Нияз
 
 -lexeme
  lex: Новороссия
- stem: новороссия.
+ stem: новороссия.//новороссія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Новороссия
 
 -lexeme
  lex: Нурания
- stem: нурания.
+ stem: нурания.//нуранія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Нурания
 
 -lexeme
  lex: Нурзия
- stem: нурзия.
+ stem: нурзия.//нурзія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Нурзия
 
 -lexeme
  lex: Нурфия
- stem: нурфия.
+ stem: нурфия.//нурфія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Нурфия
@@ -52348,7 +52363,7 @@
 
 -lexeme
  lex: Оливия
- stem: оливия.
+ stem: оливия.//оливія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Оливия
@@ -52418,7 +52433,7 @@
 
 -lexeme
  lex: Офелия
- stem: офелия.
+ stem: офелия.//офелія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Офелия
@@ -52460,7 +52475,7 @@
 
 -lexeme
  lex: Палария
- stem: палария.
+ stem: палария.//паларія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Палария
@@ -52495,7 +52510,7 @@
 
 -lexeme
  lex: Парасковия
- stem: парасковия.
+ stem: парасковия.//парасковія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Парасковия
@@ -52516,7 +52531,7 @@
 
 -lexeme
  lex: Паулиина
- stem: паулиина.
+ stem: паулиина.//пауліина.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Паулиина
@@ -52670,7 +52685,7 @@
 
 -lexeme
  lex: Прасковия
- stem: прасковия.
+ stem: прасковия.//прасковія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Прасковия
@@ -52733,7 +52748,7 @@
 
 -lexeme
  lex: Рамзия
- stem: рамзия.
+ stem: рамзия.//рамзія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Рамзия
@@ -52761,7 +52776,7 @@
 
 -lexeme
  lex: Раушания
- stem: раушания.
+ stem: раушания.//раушанія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Раушания
@@ -52873,14 +52888,14 @@
 
 -lexeme
  lex: Родион
- stem: родион.
+ stem: родион.//родіон.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Родион
 
 -lexeme
  lex: Розалия
- stem: розалия.
+ stem: розалия.//розалія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Розалия
@@ -52957,7 +52972,7 @@
 
 -lexeme
  lex: Салафииль
- stem: салафиил.
+ stem: салафиил.//салафіил.
  gramm: N,PN,persn
  paradigm: N-front-soft
  trans_ru: Салафииль
@@ -52971,14 +52986,14 @@
 
 -lexeme
  lex: Саломия
- stem: саломия.
+ stem: саломия.//саломія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Саломия
 
 -lexeme
  lex: Сальвия
- stem: сальвия.
+ stem: сальвия.//сальвія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Сальвия
@@ -53104,7 +53119,7 @@
 
 -lexeme
  lex: Северия
- stem: северия.
+ stem: северия.//северія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Северия
@@ -53195,7 +53210,7 @@
 
 -lexeme
  lex: Сильвия
- stem: сильвия.
+ stem: сильвия.//сильвія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Сильвия
@@ -53279,7 +53294,7 @@
 
 -lexeme
  lex: София
- stem: софия.
+ stem: софия.//софія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: София
@@ -53363,7 +53378,7 @@
 
 -lexeme
  lex: Таисия
- stem: таисия.
+ stem: таисия.//таисія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Таисия
@@ -53419,7 +53434,7 @@
 
 -lexeme
  lex: Татиана
- stem: татиана.
+ stem: татиана.//татіана.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Татиана
@@ -53461,7 +53476,7 @@
 
 -lexeme
  lex: Титания
- stem: титания.
+ stem: титания.//титанія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Титания
@@ -53573,14 +53588,14 @@
 
 -lexeme
  lex: Фабиан
- stem: фабиан.
+ stem: фабиан.//фабіан.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фабиан
 
 -lexeme
  lex: Фанзия
- stem: фанзия.
+ stem: фанзия.//фанзія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фанзия
@@ -53601,7 +53616,7 @@
 
 -lexeme
  lex: Фаузия
- stem: фаузия.
+ stem: фаузия.//фаузія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фаузия
@@ -53615,14 +53630,14 @@
 
 -lexeme
  lex: Феврония
- stem: феврония.
+ stem: феврония.//февронія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Феврония
 
 -lexeme
  lex: Федосия
- stem: федосия.
+ stem: федосия.//федосія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Федосия
@@ -53650,31 +53665,39 @@
 
 -lexeme
  lex: Фелиция
- stem: фелиция.
+ stem: фелиция.//фелиція.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фелиция
 
 -lexeme
  lex: Феодор
- stem: феодор.
+ stem: феодор.//ѳеодор.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Феодор
 
 -lexeme
  lex: Феодора
- stem: феодора.
+ stem: феодора.//ѳеодора.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Феодора
 
 -lexeme
  lex: Феофан
- stem: феофан.
+ stem: феофан.//ѳеофан.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Феофан
+
+-lexeme
+ lex: Феофил
+ stem: феофил.//ѳеофил.
+ gramm: N,PN,persn
+ paradigm: N-back
+ paradigm: N-front
+ trans_ru: Феофил
 
 -lexeme
  lex: Ферапонт
@@ -53699,14 +53722,14 @@
 
 -lexeme
  lex: Фидалия
- stem: фидалия.
+ stem: фидалия.//фидалія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фидалия
 
 -lexeme
  lex: Фидания
- stem: фидания.
+ stem: фидания.//фиданія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фидания
@@ -53734,7 +53757,7 @@
 
 -lexeme
  lex: Финария
- stem: финария.
+ stem: финария.//финарія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Финария
@@ -53748,7 +53771,7 @@
 
 -lexeme
  lex: Фирдания
- stem: фирдания.
+ stem: фирдания.//фирданія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фирдания
@@ -53769,7 +53792,7 @@
 
 -lexeme
  lex: Флория
- stem: флория.
+ stem: флория.//флорія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Флория
@@ -53783,7 +53806,7 @@
 
 -lexeme
  lex: Фома
- stem: фома.
+ stem: фома.//ѳома.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фома
@@ -53797,14 +53820,14 @@
 
 -lexeme
  lex: Фёдор
- stem: фёдор.//федор.
+ stem: фёдор.//федор.//ѳедор.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фёдор
 
 -lexeme
  lex: Фёкла
- stem: фёкла.
+ stem: фёкла.//ѳекла.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Фёкла
@@ -53839,7 +53862,7 @@
 
 -lexeme
  lex: Хафсия
- stem: хафсия.
+ stem: хафсия.//хафсія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Хафсия
@@ -53860,7 +53883,7 @@
 
 -lexeme
  lex: Хеония
- stem: хеония.
+ stem: хеония.//хеонія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Хеония
@@ -53902,7 +53925,7 @@
 
 -lexeme
  lex: Шамсия
- stem: шамсия.
+ stem: шамсия.//шамсія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Шамсия
@@ -54042,7 +54065,7 @@
 
 -lexeme
  lex: Эмилия
- stem: эмилия.
+ stem: эмилия.//эмилія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Эмилия
@@ -54091,7 +54114,7 @@
 
 -lexeme
  lex: Ювеналия
- stem: ювеналия.
+ stem: ювеналия.//ювеналія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Ювеналия
@@ -54105,7 +54128,7 @@
 
 -lexeme
  lex: Юлия
- stem: юлия.
+ stem: юлия.//юлія.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Юлия
@@ -54238,35 +54261,35 @@
 
 -lexeme
  lex: Анастаcия
- stem: анастачия.
+ stem: анастачия.//анастачія.
  gramm: N,PN,persn,missp
  paradigm: N-back
  trans_ru: Анастаcия
 
 -lexeme
  lex: Анастасия
- stem: анасатсия.
+ stem: анасатсия.//анасатсія.
  gramm: N,PN,persn,missp
  paradigm: N-back
  trans_ru: Анастасия
 
 -lexeme
  lex: Аполлинария
- stem: аполинария.
+ stem: аполинария.//аполинарія.
  gramm: N,PN,persn,missp
  paradigm: N-back
  trans_ru: Аполлинария
 
 -lexeme
  lex: Аполлинария
- stem: апполинария.
+ stem: апполинария.//апполинарія.
  gramm: N,PN,persn,missp
  paradigm: N-back
  trans_ru: Аполлинария
 
 -lexeme
  lex: Валерия
- stem: валярия.
+ stem: валярия.//валярія.
  gramm: N,PN,persn,missp
  paradigm: N-back
  trans_ru: Валерия
@@ -54364,21 +54387,21 @@
 
 -lexeme
  lex: Абхазия
- stem: абхазия.
+ stem: абхазия.//абхазія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Абхазия
 
 -lexeme
  lex: Австралия
- stem: австралия.
+ stem: австралия.//австралія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Австралия
 
 -lexeme
  lex: Австрия
- stem: австрия.
+ stem: австрия.//австрія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Австрия
@@ -54455,7 +54478,7 @@
 
 -lexeme
  lex: Азия
- stem: азия.
+ stem: азия.//азія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Азия
@@ -54469,7 +54492,7 @@
 
 -lexeme
  lex: Аксакпочинка
- stem: аксакпочинка.
+ stem: аксакпочинка.//аксакпочиҥка.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Аксакпочинка
@@ -54525,7 +54548,7 @@
 
 -lexeme
  lex: Алания
- stem: алания.
+ stem: алания.//аланія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Алания
@@ -54553,7 +54576,7 @@
 
 -lexeme
  lex: Албания
- stem: албания.
+ stem: албания.//албанія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Албания
@@ -54574,7 +54597,7 @@
 
 -lexeme
  lex: Александрия
- stem: александрия.
+ stem: александрия.//александрія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Александрия
@@ -54735,7 +54758,7 @@
 
 -lexeme
  lex: Амазонка
- stem: амазонка.
+ stem: амазонка.//амазоҥка.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Амазонка
@@ -54784,7 +54807,7 @@
 
 -lexeme
  lex: Англия
- stem: англия.
+ stem: англия.//англія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Англия
@@ -54840,7 +54863,7 @@
 
 -lexeme
  lex: Анталия
- stem: анталия.
+ stem: анталия.//анталія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Анталия
@@ -54854,7 +54877,7 @@
 
 -lexeme
  lex: Антиохия
- stem: антиохия.
+ stem: антиохия.//антиохія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Антиохия
@@ -54868,14 +54891,14 @@
 
 -lexeme
  lex: Апулия
- stem: апулия.
+ stem: апулия.//апулія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Апулия
 
 -lexeme
  lex: Аравия
- stem: аравия.
+ stem: аравия.//аравія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Аравия
@@ -54959,7 +54982,7 @@
 
 -lexeme
  lex: Арландия
- stem: арландия.
+ stem: арландия.//арландія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Арландия
@@ -54987,7 +55010,7 @@
 
 -lexeme
  lex: Армения
- stem: армения.
+ stem: армения.//арменія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Армения
@@ -55036,7 +55059,7 @@
 
 -lexeme
  lex: Ассирия
- stem: ассирия.
+ stem: ассирия.//ассирія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Ассирия
@@ -55120,7 +55143,7 @@
 
 -lexeme
  lex: Ахаия
- stem: ахаия.
+ stem: ахаия.//ахаія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Ахаия
@@ -55148,7 +55171,7 @@
 
 -lexeme
  lex: Бавария
- stem: бавария.
+ stem: бавария.//баварія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Бавария
@@ -55260,7 +55283,7 @@
 
 -lexeme
  lex: Балкария
- stem: балкария.
+ stem: балкария.//балкарія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Балкария
@@ -55295,7 +55318,7 @@
 
 -lexeme
  lex: Балтия
- stem: балтия.
+ stem: балтия.//балтія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Балтия
@@ -55358,7 +55381,7 @@
 
 -lexeme
  lex: Башкирия
- stem: башкирия.
+ stem: башкирия.//башкирія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Башкирия
@@ -55428,14 +55451,14 @@
 
 -lexeme
  lex: Белоруссия
- stem: белоруссия.
+ stem: белоруссия.//белоруссія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Белоруссия
 
 -lexeme
  lex: Бельгия
- stem: бельгия.
+ stem: бельгия.//бельгія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Бельгия
@@ -55526,7 +55549,7 @@
 
 -lexeme
  lex: Бессарабия
- stem: бессарабия.
+ stem: бессарабия.//бессарабія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Бессарабия
@@ -55589,7 +55612,7 @@
 
 -lexeme
  lex: Бия
- stem: бия.
+ stem: бия.//бія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Бия
@@ -55652,7 +55675,7 @@
 
 -lexeme
  lex: Болгария
- stem: болгария.
+ stem: болгария.//болгарія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Болгария
@@ -55694,14 +55717,14 @@
 
 -lexeme
  lex: Босния
- stem: босния.
+ stem: босния.//боснія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Босния
 
 -lexeme
  lex: Бразилия
- stem: бразилия.
+ stem: бразилия.//бразилія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Бразилия
@@ -55722,7 +55745,7 @@
 
 -lexeme
  lex: Британия
- stem: британия.
+ stem: британия.//британія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Британия
@@ -55820,7 +55843,7 @@
 
 -lexeme
  lex: Булгария
- stem: булгария.
+ stem: булгария.//булгарія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Булгария
@@ -55862,7 +55885,7 @@
 
 -lexeme
  lex: Бурятия
- stem: бурятия.
+ stem: бурятия.//бурятія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Бурятия
@@ -55918,14 +55941,14 @@
 
 -lexeme
  lex: Валенсия
- stem: валенсия.
+ stem: валенсия.//валенсія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Валенсия
 
 -lexeme
  lex: Валион
- stem: валион.
+ stem: валион.//валіон.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Валион
@@ -55953,7 +55976,7 @@
 
 -lexeme
  lex: Ванкувер
- stem: ванкувер.
+ stem: ванкувер.//ваҥкувер.
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Ванкувер
@@ -56006,6 +56029,13 @@
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Варни
+
+-lexeme
+ lex: Варфоломей
+ stem: варфоломе.//варѳоломе.
+ gramm: N,PN,persn
+ paradigm: N-front-j
+ trans_ru: Варфоломей
 
 -lexeme
  lex: Варшава
@@ -56072,7 +56102,7 @@
 
 -lexeme
  lex: Великобритания
- stem: великобритания.
+ stem: великобритания.//великобританія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Великобритания
@@ -56086,7 +56116,7 @@
 
 -lexeme
  lex: Венгрия
- stem: венгрия.
+ stem: венгрия.//венгрія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Венгрия
@@ -56100,7 +56130,7 @@
 
 -lexeme
  lex: Венеция
- stem: венеция.
+ stem: венеция.//венеція.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Венеция
@@ -56121,7 +56151,7 @@
 
 -lexeme
  lex: Верия
- stem: верия.
+ stem: верия.//верія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Верия
@@ -56135,7 +56165,7 @@
 
 -lexeme
  lex: Вестфалия
- stem: вестфалия.
+ stem: вестфалия.//вестфалія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Вестфалия
@@ -56149,7 +56179,7 @@
 
 -lexeme
  lex: Византия
- stem: византия.
+ stem: византия.//византія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Византия
@@ -56170,7 +56200,7 @@
 
 -lexeme
  lex: Вирджиния
- stem: вирджиния.
+ stem: вирджиния.//вирджинія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Вирджиния
@@ -56184,10 +56214,18 @@
 
 -lexeme
  lex: Вифания
- stem: вифания.
+ stem: вифания.//вифанія.//виѳанія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Вифания
+
+-lexeme
+ lex: Вифлеем
+ stem: вифлеем.//виѳлеем.
+ gramm: N,PN,topn
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Вифлеем
 
 -lexeme
  lex: Вишур
@@ -56436,7 +56474,7 @@
 
 -lexeme
  lex: Галатия
- stem: галатия.
+ stem: галатия.//галатія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Галатия
@@ -56499,17 +56537,24 @@
 
 -lexeme
  lex: Германия
- stem: германия.
+ stem: германия.//германія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Германия
 
 -lexeme
  lex: Гефсимания
- stem: гефсимания.
+ stem: гефсимания.//гефсиманія.//геѳсиманія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Гефсимания
+
+-lexeme
+ lex: Голгофа
+ stem: голгофа.//голгоѳа.
+ gramm: N,PN,topn
+ paradigm: N-back
+ trans_ru: Голгофа
 
 -lexeme
  lex: Гималай
@@ -56548,7 +56593,7 @@
 
 -lexeme
  lex: Голландия
- stem: голландия.
+ stem: голландия.//голландія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Голландия
@@ -56611,7 +56656,7 @@
 
 -lexeme
  lex: Гонконг
- stem: гонконг.
+ stem: гонконг.//гоҥконг.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Гонконг
@@ -56632,14 +56677,14 @@
 
 -lexeme
  lex: Гренландия
- stem: гренландия.
+ stem: гренландия.//гренландія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Гренландия
 
 -lexeme
  lex: Греция
- stem: греция.
+ stem: греция.//греція.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Греция
@@ -56653,7 +56698,7 @@
 
 -lexeme
  lex: Грузия
- stem: грузия.
+ stem: грузия.//грузія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Грузия
@@ -56737,7 +56782,7 @@
 
 -lexeme
  lex: Дания
- stem: дания.
+ stem: дания.//данія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Дания
@@ -56779,7 +56824,7 @@
 
 -lexeme
  lex: Дервия
- stem: дервия.
+ stem: дервия.//дервія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Дервия
@@ -56905,7 +56950,7 @@
 
 -lexeme
  lex: Дубёнка
- stem: дубёнка.//дубенка.
+ stem: дубёнка.//дубенка.//дубёнка.//дубеҥка.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Дубёнка
@@ -56975,14 +57020,14 @@
 
 -lexeme
  lex: Евпатория
- stem: евпатория.
+ stem: евпатория.//евпаторія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Евпатория
 
 -lexeme
  lex: Евразия
- stem: евразия.
+ stem: евразия.//евразія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Евразия
@@ -57158,7 +57203,7 @@
 
 -lexeme
  lex: Замбия
- stem: замбия.
+ stem: замбия.//замбія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Замбия
@@ -57214,7 +57259,7 @@
 
 -lexeme
  lex: Зеландия
- stem: зеландия.
+ stem: зеландия.//зеландія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Зеландия
@@ -57291,7 +57336,7 @@
 
 -lexeme
  lex: Зянкино
- stem: зянкино.
+ stem: зянкино.//зяҥкино.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Зянкино
@@ -57333,14 +57378,21 @@
 
 -lexeme
  lex: Иерихон
- stem: иерихон.
+ stem: иерихон.//іерихон.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Иерихон
 
 -lexeme
  lex: Иерусалим
- stem: иерусалим.
+ stem: иерусалим.//іерусалим.
+ gramm: N,PN,topn
+ paradigm: N-front
+ trans_ru: Иерусалим
+
+-lexeme
+ lex: Ерусалим
+ stem: ерусалим.
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Иерусалим
@@ -57375,7 +57427,7 @@
 
 -lexeme
  lex: Икония
- stem: икония.
+ stem: икония.//иконія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Икония
@@ -57396,21 +57448,21 @@
 
 -lexeme
  lex: Ингушетия
- stem: ингушетия.
+ stem: ингушетия.//ингушетія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Ингушетия
 
 -lexeme
  lex: Индия
- stem: индия.
+ stem: индия.//индія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Индия
 
 -lexeme
  lex: Индонезия
- stem: индонезия.
+ stem: индонезия.//индонезія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Индонезия
@@ -57431,21 +57483,21 @@
 
 -lexeme
  lex: Иоппия
- stem: иоппия.
+ stem: иоппия.//иоппія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Иоппия
 
 -lexeme
  lex: Иордан
- stem: иордан.
+ stem: иордан.//іордан.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Иордан
 
 -lexeme
  lex: Иордания
- stem: иордания.
+ stem: иордания.//иорданія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Иордания
@@ -57473,7 +57525,7 @@
 
 -lexeme
  lex: Ирландия
- stem: ирландия.
+ stem: ирландия.//ирландія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Ирландия
@@ -57515,14 +57567,14 @@
 
 -lexeme
  lex: Исландия
- stem: исландия.
+ stem: исландия.//исландія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Исландия
 
 -lexeme
  lex: Испания
- stem: испания.
+ stem: испания.//испанія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Испания
@@ -57536,7 +57588,7 @@
 
 -lexeme
  lex: Италия
- stem: италия.
+ stem: италия.//италія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Италия
@@ -57571,7 +57623,7 @@
 
 -lexeme
  lex: Иудея
- stem: иудея.
+ stem: иудея.//іудея.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Иудея
@@ -57746,7 +57798,7 @@
 
 -lexeme
  lex: Калифорния
- stem: калифорния.
+ stem: калифорния.//калифорнія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Калифорния
@@ -57760,14 +57812,14 @@
 
 -lexeme
  lex: Калмияр
- stem: калмияр.
+ stem: калмияр.//калміяр.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Калмияр
 
 -lexeme
  lex: Калмыкия
- stem: калмыкия.
+ stem: калмыкия.//калмыкія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Калмыкия
@@ -57851,7 +57903,7 @@
 
 -lexeme
  lex: Камчия
- stem: камчия.
+ stem: камчия.//камчія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Камчия
@@ -57963,7 +58015,7 @@
 
 -lexeme
  lex: Карелия
- stem: карелия.
+ stem: карелия.//карелія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Карелия
@@ -58047,7 +58099,7 @@
 
 -lexeme
  lex: Каталония
- stem: каталония.
+ stem: каталония.//каталонія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Каталония
@@ -58131,14 +58183,14 @@
 
 -lexeme
  lex: Кения
- stem: кения.
+ stem: кения.//кенія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Кения
 
 -lexeme
  lex: Кесария
- stem: кесария.
+ stem: кесария.//кесарія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Кесария
@@ -58236,7 +58288,7 @@
 
 -lexeme
  lex: Киев
- stem: киев.
+ stem: киев.//кіев.
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Киев
@@ -58271,7 +58323,7 @@
 
 -lexeme
  lex: Киликия
- stem: киликия.
+ stem: киликия.//киликія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Киликия
@@ -58299,14 +58351,14 @@
 
 -lexeme
  lex: Кионгоп
- stem: кионгоп.
+ stem: кионгоп.//кіонгоп.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Кионгоп
 
 -lexeme
  lex: Кионгурт
- stem: кионгурт.
+ stem: кионгурт.//кіонгурт.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Филимоново
@@ -58341,7 +58393,7 @@
 
 -lexeme
  lex: Киргизия
- stem: киргизия.
+ stem: киргизия.//киргизія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Киргизия
@@ -58383,21 +58435,21 @@
 
 -lexeme
  lex: Кияик
- stem: кияик.
+ stem: кияик.//кіяик.
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Кияик
 
 -lexeme
  lex: Кияса
- stem: кияса.
+ stem: кияса.//кіяса.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Кияса
 
 -lexeme
  lex: Киясово
- stem: киясово.
+ stem: киясово.//кіясово.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Киясово
@@ -58495,7 +58547,7 @@
 
 -lexeme
  lex: Колумбия
- stem: колумбия.
+ stem: колумбия.//колумбія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Колумбия
@@ -59070,21 +59122,21 @@
 
 -lexeme
  lex: Лаодикия
- stem: лаодикия.
+ stem: лаодикия.//лаодикія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Лаодикия
 
 -lexeme
  lex: Лапландия
- stem: лапландия.
+ stem: лапландия.//лапландія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Лапландия
 
 -lexeme
  lex: Латвия
- stem: латвия.
+ stem: латвия.//латвія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Латвия
@@ -59098,7 +59150,7 @@
 
 -lexeme
  lex: Левадия
- stem: левадия.
+ stem: левадия.//левадія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Левадия
@@ -59147,7 +59199,7 @@
 
 -lexeme
  lex: Ликаония
- stem: ликаония.
+ stem: ликаония.//ликаонія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Ликаония
@@ -59231,7 +59283,7 @@
 
 -lexeme
  lex: Лютеция
- stem: лютеция.
+ stem: лютеция.//лютеція.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Лютеция
@@ -59294,14 +59346,14 @@
 
 -lexeme
  lex: Македония
- stem: македония.
+ stem: македония.//македонія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Македония
 
 -lexeme
  lex: Малайзия
- stem: малайзия.
+ stem: малайзия.//малайзія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Малайзия
@@ -59350,7 +59402,7 @@
 
 -lexeme
  lex: Маньчжурия
- stem: маньчжурия.
+ stem: маньчжурия.//маньчжурія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Маньчжурия
@@ -59441,14 +59493,14 @@
 
 -lexeme
  lex: Месопотамия
- stem: месопотамия.
+ stem: месопотамия.//месопотамія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Месопотамия
 
 -lexeme
  lex: Микронезия
- stem: микронезия.
+ stem: микронезия.//микронезія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Микронезия
@@ -59518,7 +59570,7 @@
 
 -lexeme
  lex: Молдавия
- stem: молдавия.
+ stem: молдавия.//молдавія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Молдавия
@@ -59532,7 +59584,7 @@
 
 -lexeme
  lex: Монголия
- stem: монголия.
+ stem: монголия.//монголія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Монголия
@@ -59553,7 +59605,7 @@
 
 -lexeme
  lex: Мордовия
- stem: мордовия.
+ stem: мордовия.//мордовія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Мордовия
@@ -59651,7 +59703,7 @@
 
 -lexeme
  lex: Мурмуртия
- stem: мурмуртия.
+ stem: мурмуртия.//мурмуртія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Мурмуртия
@@ -59707,7 +59759,7 @@
 
 -lexeme
  lex: Насирия
- stem: насирия.
+ stem: насирия.//насирія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Насирия
@@ -59812,7 +59864,7 @@
 
 -lexeme
  lex: Ниневия
- stem: ниневия.
+ stem: ниневия.//ниневія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Ниневия
@@ -59868,7 +59920,7 @@
 
 -lexeme
  lex: Норвегия
- stem: норвегия.
+ stem: норвегия.//норвегія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Норвегия
@@ -59889,7 +59941,7 @@
 
 -lexeme
  lex: Нормандия
- stem: нормандия.
+ stem: нормандия.//нормандія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Нормандия
@@ -60064,7 +60116,7 @@
 
 -lexeme
  lex: Олимпия
- stem: олимпия.
+ stem: олимпия.//олимпія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Олимпия
@@ -60134,7 +60186,7 @@
 
 -lexeme
  lex: Осетия
- stem: осетия.
+ stem: осетия.//осетія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Осетия
@@ -60211,7 +60263,7 @@
 
 -lexeme
  lex: Памфилия
- stem: памфилия.
+ stem: памфилия.//памфилія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Памфилия
@@ -60316,14 +60368,14 @@
 
 -lexeme
  lex: Пеория
- stem: пеория.
+ stem: пеория.//пеорія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Пеория
 
 -lexeme
  lex: Пергия
- stem: пергия.
+ stem: пергия.//пергія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Пергия
@@ -60351,7 +60403,7 @@
 
 -lexeme
  lex: Персия
- stem: персия.
+ stem: персия.//персія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Персия
@@ -60463,7 +60515,7 @@
 
 -lexeme
  lex: Писидия
- stem: писидия.
+ stem: писидия.//писидія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Писидия
@@ -60561,7 +60613,7 @@
 
 -lexeme
  lex: Полинезия
- stem: полинезия.
+ stem: полинезия.//полинезія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Полинезия
@@ -60610,7 +60662,7 @@
 
 -lexeme
  lex: Померания
- stem: померания.
+ stem: померания.//померанія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Померания
@@ -60645,7 +60697,7 @@
 
 -lexeme
  lex: Португалия
- stem: португалия.
+ stem: португалия.//португалія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Португалия
@@ -60736,14 +60788,14 @@
 
 -lexeme
  lex: Приуралье
- stem: приуралье.
+ stem: приуралье.//пріуралье.
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Приуралье
 
 -lexeme
  lex: Пруссия
- stem: пруссия.
+ stem: пруссия.//пруссія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Пруссия
@@ -60932,7 +60984,7 @@
 
 -lexeme
  lex: Россия
- stem: россия.
+ stem: россия.//россія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Россия
@@ -60967,7 +61019,7 @@
 
 -lexeme
  lex: Румыния
- stem: румыния.
+ stem: румыния.//румынія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Румыния
@@ -61002,7 +61054,7 @@
 
 -lexeme
  lex: Савкияз
- stem: савкияз.
+ stem: савкияз.//савкіяз.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Савкияз
@@ -61058,7 +61110,7 @@
 
 -lexeme
  lex: Самария
- stem: самария.
+ stem: самария.//самарія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Самария
@@ -61072,7 +61124,7 @@
 
 -lexeme
  lex: Санкт-Петербург
- stem: санкт-петербург.
+ stem: санкт-петербург.//саҥкт-петербург.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Санкт-Петербург
@@ -61275,7 +61327,7 @@
 
 -lexeme
  lex: Сербия
- stem: сербия.
+ stem: сербия.//сербія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Сербия
@@ -61380,14 +61432,14 @@
 
 -lexeme
  lex: Сирия
- stem: сирия.
+ stem: сирия.//сирія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Сирия
 
 -lexeme
  lex: Сирофиникия
- stem: сирофиникия.
+ stem: сирофиникия.//сирофиникія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Сирофиникия
@@ -61401,14 +61453,14 @@
 
 -lexeme
  lex: Скандинавия
- stem: скандинавия.
+ stem: скандинавия.//скандинавія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Скандинавия
 
 -lexeme
  lex: Скания
- stem: скания.
+ stem: скания.//сканія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Скания
@@ -61422,14 +61474,14 @@
 
 -lexeme
  lex: Словакия
- stem: словакия.
+ stem: словакия.//словакія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Словакия
 
 -lexeme
  lex: Словения
- stem: словения.
+ stem: словения.//словенія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Словения
@@ -61562,7 +61614,7 @@
 
 -lexeme
  lex: Степанёнки
- stem: степанёнки.//степаненки.
+ stem: степанёнки.//степаненки.//степанёнки.//степанеҥки.
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Степанёнки
@@ -61590,7 +61642,7 @@
 
 -lexeme
  lex: Стромынка
- stem: стромынка.
+ stem: стромынка.//стромыҥка.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Стромынка
@@ -61835,7 +61887,7 @@
 
 -lexeme
  lex: Танзания
- stem: танзания.
+ stem: танзания.//танзанія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Танзания
@@ -61849,7 +61901,7 @@
 
 -lexeme
  lex: Тартария
- stem: тартария.
+ stem: тартария.//тартарія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Тартария
@@ -61863,14 +61915,14 @@
 
 -lexeme
  lex: Татария
- stem: татария.
+ stem: татария.//татарія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Татарстан
 
 -lexeme
  lex: Татария
- stem: татрия.
+ stem: татрия.//татрія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Татария
@@ -61926,7 +61978,7 @@
 
 -lexeme
  lex: Телерадиоканал
- stem: телерадиоканал.
+ stem: телерадиоканал.//телерадіоканал.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Телерадиоканал
@@ -61968,7 +62020,7 @@
 
 -lexeme
  lex: Токио
- stem: токио.
+ stem: токио.//токіо.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Токио
@@ -62024,7 +62076,7 @@
 
 -lexeme
  lex: Трансильвания
- stem: трансильвания.
+ stem: трансильвания.//трансильванія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Трансильвания
@@ -62038,7 +62090,7 @@
 
 -lexeme
  lex: Троице-сергиева
- stem: троице-сергиева.//троицесергиева.
+ stem: троице-сергиева.//троицесергиева.//троице-сергиева.//троицесергіева.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Троице-сергиева (лавра)
@@ -62192,7 +62244,7 @@
 
 -lexeme
  lex: Туркмения
- stem: туркмения.
+ stem: туркмения.//туркменія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Туркмения
@@ -62206,7 +62258,7 @@
 
 -lexeme
  lex: Турция
- stem: турция.
+ stem: турция.//турція.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Турция
@@ -62311,7 +62363,7 @@
 
 -lexeme
  lex: Угория
- stem: угория.
+ stem: угория.//угорія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Угория
@@ -62325,14 +62377,14 @@
 
 -lexeme
  lex: Удляндия
- stem: удляндия.
+ stem: удляндия.//удляндія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Удмуртия
 
 -lexeme
  lex: Удмуртия
- stem: удмуртия.
+ stem: удмуртия.//удмуртія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Удмуртия
@@ -62528,91 +62580,91 @@
 
 -lexeme
  lex: Фалёнка
- stem: фалёнка.//фаленка.
+ stem: фалёнка.//фаленка.//фалёнка.//фалеҥка.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Фалёнка
 
 -lexeme
  lex: Феодосия
- stem: феодосия.
+ stem: феодосия.//феодосія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Феодосия
 
 -lexeme
  lex: Филадельфия
- stem: филадельфия.
+ stem: филадельфия.//филадельфія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Филадельфия
 
 -lexeme
  lex: Финикия
- stem: финикия.
+ stem: финикия.//финикія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Финикия
 
 -lexeme
  lex: Финляндия
- stem: финляндия.
+ stem: финляндия.//финляндія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Финляндия
 
 -lexeme
  lex: Финмуртия
- stem: финмуртия.
+ stem: финмуртия.//финмуртія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Финмуртия
 
 -lexeme
  lex: Финно-угрия
- stem: финно-угрия.
+ stem: финно-угрия.//финно-угрія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Финно-угрия
 
 -lexeme
  lex: Финноугория
- stem: финноугория.
+ stem: финноугория.//финноугорія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Финноугория
 
 -lexeme
  lex: Финноугрия
- stem: финноугрия.
+ stem: финноугрия.//финноугрія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Финноугрия
 
 -lexeme
  lex: Финоугрия
- stem: финоугрия.
+ stem: финоугрия.//финоугрія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Финоугрия
 
 -lexeme
  lex: Флоренция
- stem: флоренция.
+ stem: флоренция.//флоренція.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Флоренция
 
 -lexeme
  lex: Франция
- stem: франция.
+ stem: франция.//франція.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Франция
 
 -lexeme
  lex: Фригия
- stem: фригия.
+ stem: фригия.//фригія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Фригия
@@ -62633,7 +62685,7 @@
 
 -lexeme
  lex: Хакасия
- stem: хакасия.
+ stem: хакасия.//хакасія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Хакасия
@@ -62675,7 +62727,7 @@
 
 -lexeme
  lex: Хельсинки
- stem: хельсинки.
+ stem: хельсинки.//хельсиҥки.
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Хельсинки
@@ -62696,7 +62748,7 @@
 
 -lexeme
  lex: Хорватия
- stem: хорватия.
+ stem: хорватия.//хорватія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Хорватия
@@ -62857,7 +62909,7 @@
 
 -lexeme
  lex: Черкесия
- stem: черкесия.
+ stem: черкесия.//черкесія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Черкесия
@@ -62878,7 +62930,7 @@
 
 -lexeme
  lex: Черногория
- stem: черногория.
+ stem: черногория.//черногорія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Черногория
@@ -62892,14 +62944,14 @@
 
 -lexeme
  lex: Чехия
- stem: чехия.
+ stem: чехия.//чехія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Чехия
 
 -lexeme
  lex: Чехословакия
- stem: чехословакия.
+ stem: чехословакия.//чехословакія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Чехословакия
@@ -62983,7 +63035,7 @@
 
 -lexeme
  lex: Чувашия
- stem: чувашия.
+ stem: чувашия.//чувашія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Чувашия
@@ -63165,14 +63217,14 @@
 
 -lexeme
  lex: Швейцария
- stem: швейцария.
+ stem: швейцария.//швейцарія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Швейцария
 
 -lexeme
  lex: Швеция
- stem: швеция.
+ stem: швеция.//швеція.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Швеция
@@ -63214,7 +63266,7 @@
 
 -lexeme
  lex: Шоркион
- stem: шоркион.
+ stem: шоркион.//шоркіон.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Шоркион
@@ -63228,7 +63280,7 @@
 
 -lexeme
  lex: Шотландия
- stem: шотландия.
+ stem: шотландия.//шотландія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Шотландия
@@ -63368,21 +63420,21 @@
 
 -lexeme
  lex: Эстляндия
- stem: эстляндия.
+ stem: эстляндия.//эстляндія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Эстляндия
 
 -lexeme
  lex: Эстония
- stem: эстония.
+ stem: эстония.//эстонія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Эстония
 
 -lexeme
  lex: Эфиопия
- stem: эфиопия.
+ stem: эфиопия.//эфиопія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Эфиопия
@@ -63403,7 +63455,7 @@
 
 -lexeme
  lex: Югославия
- stem: югославия.
+ stem: югославия.//югославія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Югославия
@@ -63543,7 +63595,7 @@
 
 -lexeme
  lex: Якутия
- stem: якутия.
+ stem: якутия.//якутія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Якутия
@@ -63606,7 +63658,7 @@
 
 -lexeme
  lex: Япония
- stem: япония.
+ stem: япония.//японія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Япония
@@ -63669,21 +63721,21 @@
 
 -lexeme
  lex: Англия
- stem: англиия.
+ stem: англиия.//англиія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Англия
 
 -lexeme
  lex: Башкирия
- stem: бшкирия.
+ stem: бшкирия.//бшкирія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Башкирия
 
 -lexeme
  lex: Белоруссия
- stem: белорусия.
+ stem: белорусия.//белорусія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Белоруссия
@@ -63704,84 +63756,84 @@
 
 -lexeme
  lex: Мордовия
- stem: мордоваия.
+ stem: мордоваия.//мордоваія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Мордовия
 
 -lexeme
  lex: Норвегия
- stem: норгвегия.
+ stem: норгвегия.//норгвегія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Норвегия
 
 -lexeme
  lex: Россия
- stem: росия.
+ stem: росия.//росія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Россия
 
 -lexeme
  lex: Россия
- stem: россиия.
+ stem: россиия.//россиія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Россия
 
 -lexeme
  lex: Россия
- stem: росссия.
+ stem: росссия.//росссія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Россия
 
 -lexeme
  lex: Удмуртия
- stem: удмртия.
+ stem: удмртия.//удмртія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Удмуртия
 
 -lexeme
  lex: Удмуртия
- stem: удмурия.
+ stem: удмурия.//удмурія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Удмуртия
 
 -lexeme
  lex: Удмуртия
- stem: удмуртиия.
+ stem: удмуртиия.//удмуртиія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Удмуртия
 
 -lexeme
  lex: Удмуртия
- stem: удсмуртия.
+ stem: удсмуртия.//удсмуртія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Удмуртия
 
 -lexeme
  lex: Удмуртия
- stem: удсуртия.
+ stem: удсуртия.//удсуртія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Удмуртия
 
 -lexeme
  lex: Удмуртия
- stem: удумртия.
+ stem: удумртия.//удумртія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Удмуртия
 
 -lexeme
  lex: Финляндия
- stem: финляндиия.
+ stem: финляндиия.//финляндиія.
  gramm: N,PN,topn,missp
  paradigm: N-back
  trans_ru: Финляндия
@@ -64012,21 +64064,21 @@
 
 -lexeme
  lex: Кията
- stem: кията.
+ stem: кията.//кіята.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Кията
 
 -lexeme
  lex: Вияна
- stem: вияна.
+ stem: вияна.//віяна.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Вияна
 
 -lexeme
  lex: Лияна
- stem: лияна.
+ stem: лияна.//ліяна.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Лияна
@@ -64251,7 +64303,7 @@
  trans_ru: Маторчик
 -lexeme
  lex: Сириус
- stem: сириус.
+ stem: сириус.//сиріус.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Сириус
@@ -64299,7 +64351,7 @@
  trans_ru: Биккинин
 -lexeme
  lex: Биушкин
- stem: биушкин.
+ stem: биушкин.//біушкин.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Биушкин
@@ -64323,7 +64375,7 @@
  trans_ru: Варакин
 -lexeme
  lex: Васенко
- stem: Васенко.
+ stem: Васенко.//Васеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Васенко
@@ -64383,7 +64435,7 @@
  trans_ru: Дарвин
 -lexeme
  lex: Днищенко
- stem: днищенко.
+ stem: днищенко.//днищеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Днищенко
@@ -64395,7 +64447,7 @@
  trans_ru: Дугушкин
 -lexeme
  lex: Дяченко
- stem: дяченко.
+ stem: дяченко.//дячеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Дяченко
@@ -64419,13 +64471,13 @@
  trans_ru: Игушкин
 -lexeme
  lex: Исланкин
- stem: исланкин.
+ stem: исланкин.//ислаҥкин.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Исланкин
 -lexeme
  lex: Иценко
- stem: иценко.
+ stem: иценко.//ицеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Иценко
@@ -64479,7 +64531,7 @@
  trans_ru: Ледяйкин
 -lexeme
  lex: Лошаренко
- stem: лошаренко.
+ stem: лошаренко.//лошареҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Лошаренко
@@ -64491,13 +64543,13 @@
  trans_ru: Лузгин
 -lexeme
  lex: Луценко
- stem: луценко.
+ stem: луценко.//луцеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Луценко
 -lexeme
  lex: Матезиус
- stem: матезиус.
+ stem: матезиус.//матезіус.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Матезиус
@@ -64545,7 +64597,7 @@
  trans_ru: Немечкин
 -lexeme
  lex: Онанищенко
- stem: онанищенко.
+ stem: онанищенко.//онанищеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Онанищенко
@@ -64563,7 +64615,7 @@
  trans_ru: Паасонен
 -lexeme
  lex: Петреченко
- stem: петреченко.
+ stem: петреченко.//петречеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Петреченко
@@ -64605,7 +64657,7 @@
  trans_ru: Рауткин
 -lexeme
  lex: Резниченко
- stem: резниченко.
+ stem: резниченко.//резничеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Резниченко
@@ -64629,7 +64681,7 @@
  trans_ru: Самаркин
 -lexeme
  lex: Самоленко
- stem: самоленко.
+ stem: самоленко.//самолеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Самоленко
@@ -64641,13 +64693,13 @@
  trans_ru: Санин
 -lexeme
  lex: Семиноженко
- stem: семиноженко.
+ stem: семиноженко.//семиножеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Семиноженко
 -lexeme
  lex: Сергушенко
- stem: сергушенко.
+ stem: сергушенко.//сергушеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Сергушенко
@@ -64749,7 +64801,7 @@
  trans_ru: Щеглов
 -lexeme
  lex: Щербаченко
- stem: щербаченко.
+ stem: щербаченко.//щербачеҥко.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Щербаченко
@@ -64779,7 +64831,7 @@
  trans_ru: Сычедей
 -lexeme
  lex: Аджария
- stem: аджария.
+ stem: аджария.//аджарія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Аджария
@@ -64833,7 +64885,7 @@
  trans_ru: Жабино
 -lexeme
  lex: Ингрия
- stem: ингрия.
+ stem: ингрия.//ингрія.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Ингрия
@@ -64893,7 +64945,7 @@
  trans_ru: Покровка
 -lexeme
  lex: Таганка
- stem: таганка.
+ stem: таганка.//тагаҥка.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Таганка
@@ -65412,7 +65464,7 @@
  trans_ru: Чукалы
 -lexeme
  lex: Шиофок
- stem: шиофок.
+ stem: шиофок.//шіофок.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Шиофок
@@ -65424,7 +65476,7 @@
  trans_ru: (Ташто) Кшуманця
 -lexeme
  lex: Щанкина
- stem: щанкина.
+ stem: щанкина.//щаҥкина.
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Щанкина
@@ -65696,7 +65748,7 @@
  trans_ru: Поронайск
 -lexeme
  lex: Свияжск
- stem: свияжск.
+ stem: свияжск.//свіяжск.
  gramm: N,PN,topn
  paradigm: N-back
  trans_ru: Свияжск
@@ -65772,7 +65824,7 @@
 
 -lexeme
  lex: Викимедия
- stem: викимедия.
+ stem: викимедия.//викимедія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Викимедия
@@ -65802,7 +65854,7 @@
  trans_ru: Ромодановосахар
 -lexeme
  lex: Росгвардия
- stem: росгвардия.
+ stem: росгвардия.//росгвардія.
  gramm: N,PN
  paradigm: N-back
  trans_ru: Росгвардия
@@ -65844,7 +65896,7 @@
  trans_ru: Имяреков
 -lexeme
  lex: Калинкин
- stem: калинкин.
+ stem: калинкин.//калиҥкин.
  gramm: N,PN,famn
  paradigm: N-front
  trans_ru: Калинкин
@@ -66030,7 +66082,7 @@
  trans_ru: Жерар
 -lexeme
  lex: Илларион
- stem: илларион.
+ stem: илларион.//илларіон.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Илларион
@@ -66102,7 +66154,7 @@
  trans_ru: Паул
 -lexeme
  lex: Сияжар
- stem: сияжар.
+ stem: сияжар.//сіяжар.
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Сияжар
@@ -66144,7 +66196,7 @@
  trans_ru: Ичалки
 -lexeme
  lex: Кеченьбие
- stem: кеченьбие.
+ stem: кеченьбие.//кеченьбіе.
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Жабино
@@ -66186,7 +66238,7 @@
  trans_ru: Мацьказ
 -lexeme
  lex: Орозбие
- stem: орозбие.
+ stem: орозбие.//орозбіе.
  gramm: N,PN,topn
  paradigm: N-front
  trans_ru: Урусово

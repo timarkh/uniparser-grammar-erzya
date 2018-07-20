@@ -301,7 +301,7 @@
 
 -lexeme
  lex: кото
- stem: кото.//6-.
+ stem: кото.//6-.//vi-.
  gramm: NUM
  paradigm: NUM-back
  trans_ru: шесть
@@ -315,7 +315,7 @@
 
 -lexeme
  lex: ниле
- stem: ниле.//4-.
+ stem: ниле.//4-.//iv-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: четыре
@@ -336,7 +336,7 @@
 
 -lexeme
  lex: сисем
- stem: сисем.//7-.
+ stem: сисем.//7-.//vii-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: семь

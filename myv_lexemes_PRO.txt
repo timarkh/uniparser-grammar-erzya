@@ -564,70 +564,70 @@
 
 -lexeme
  lex: тынь
- stem: тынк.
+ stem: тынк.//тыҥк.
  gramm: PRO,2,pl,gen
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тыненк.//тенк.
+ stem: тыненк.//тенк.//тынеҥк.//теҥк.
  gramm: PRO,2,pl,dat
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тынденк.
+ stem: тынденк.//тындеҥк.
  gramm: PRO,2,pl,abl
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тынсенк.//тыньсэнк.
+ stem: тынсенк.//тыньсэнк.//тынсеҥк.//тыньсэҥк.
  gramm: PRO,2,pl,loc
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тынстенк.//тыньстэнк.
+ stem: тынстенк.//тыньстэнк.//тынстеҥк.//тыньстэҥк.
  gramm: PRO,2,pl,el
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тыньзэнк.
+ stem: тыньзэнк.//тыньзэҥк.
  gramm: PRO,2,pl,ill
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тыньганк.
+ stem: тыньганк.//тыньгаҥк.
  gramm: PRO,2,pl,prol
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тыньксэнк.
+ stem: тыньксэнк.//тыньксэҥк.
  gramm: PRO,2,pl,trans
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тыньшканк.
+ stem: тыньшканк.//тыньшкаҥк.
  gramm: PRO,2,pl,comp
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тыньтеменк.
+ stem: тыньтеменк.//тыньтемеҥк.
  gramm: PRO,2,pl,car
  paradigm: Clitics
  trans_ru: вы
@@ -642,35 +642,35 @@
 
 -lexeme
  lex: тынь
- stem: тынсенк.
+ stem: тынсенк.//тынсеҥк.
  gramm: PRO,2,pl,gen,def
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тынстенк.
+ stem: тынстенк.//тынстеҥк.
  gramm: PRO,2,pl,dat,def
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тынстеденк.
+ stem: тынстеденк.//тынстедеҥк.
  gramm: PRO,2,pl,abl,def
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тынсешканк.
+ stem: тынсешканк.//тынсешкаҥк.
  gramm: PRO,2,pl,comp,def
  paradigm: Clitics
  trans_ru: вы
 
 -lexeme
  lex: тынь
- stem: тынстеменк.
+ stem: тынстеменк.//тынстемеҥк.
  gramm: PRO,2,pl,car,def
  paradigm: Clitics
  trans_ru: вы
@@ -936,42 +936,42 @@
 
 -lexeme
  lex: ки
- stem: ки.
+ stem: ки.//кі.
  gramm: PRO
  paradigm: N-front
  trans_ru: кто
 
 -lexeme
  lex: кие
- stem: кие.
+ stem: кие.//кіе.
  gramm: PRO,nom,sg
  paradigm: Clitics
  trans_ru: кто
 
 -lexeme
  lex: ки-бути
- stem: ки.-бути
+ stem: ки.-бути//кі.-бути
  gramm: PRO
  paradigm: N-front
  trans_ru: кто-нибудь, кто-то
 
 -lexeme
  lex: кие-бути
- stem: кие-бути
+ stem: кие-бути//кіе-бути
  gramm: PRO,nom,sg
  paradigm: Clitics
  trans_ru: кто-нибудь, кто-то
 
 -lexeme
  lex: кой-ки
- stem: кой-ки.
+ stem: кой-ки.//кой-кі.
  gramm: PRO
  paradigm: N-front
  trans_ru: кое-кто
 
 -lexeme
  lex: кой-кие
- stem: кой-кие.
+ stem: кой-кие.//кой-кіе.
  gramm: PRO,nom,sg
  paradigm: Clitics
  trans_ru: кое-кто
@@ -1241,7 +1241,7 @@
 
 -lexeme
  lex: кие-кие
- stem: кие-кие.
+ stem: кие-кие.//кие-кіе.
  gramm: PRO
  paradigm: Clitics
  trans_ru: кое-кто
@@ -1429,15 +1429,8 @@
  trans_ru: ненадолго
 
 -lexeme
- lex: кой-ки
- stem: кой-ки.
- gramm: PRO
- paradigm: Clitics
- trans_ru: кое-кто, некоторые
-
--lexeme
  lex: кой-кие
- stem: кой-кие.
+ stem: кой-кие.//кой-кіе.
  gramm: PRO
  paradigm: Clitics
  trans_ru: кое-кто, некоторые
@@ -1587,7 +1580,7 @@
 
 -lexeme
  lex: кош-кие
- stem: кош-кие.
+ stem: кош-кие.//кош-кіе.
  gramm: PRO
  paradigm: Clitics
  trans_ru: кто угодно
@@ -1685,7 +1678,7 @@
 
 -lexeme
  lex: мезияко
- stem: мезияко.
+ stem: мезияко.//мезіяко.
  gramm: PRO
  paradigm: Clitics
  trans_ru: нечто, ничто
@@ -1818,7 +1811,7 @@
 
 -lexeme
  lex: та-кие
- stem: та-кие.
+ stem: та-кие.//та-кіе.
  gramm: PRO
  paradigm: Clitics
  trans_ru: кто-то
@@ -2209,21 +2202,21 @@
 
 -lexeme
  lex: тия
- stem: тия.
+ stem: тия.//тія.
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: в этом месте, здесь
 
 -lexeme
  lex: тия-тува
- stem: тия-тува.
+ stem: тия-тува.//тія-тува.
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: кое-где
 
 -lexeme
  lex: тияня
- stem: тияня.
+ stem: тияня.//тіяня.
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: в этом месте, здесь
