@@ -468,6 +468,13 @@
  trans_ru: второй
 
 -lexeme
+ lex: омбоце
+ stem: обмоце.
+ gramm: NUM,ord,missp
+ paradigm: A-front
+ trans_ru: второй
+
+-lexeme
  lex: сизьгемень
  stem: сизьгемен.//70-.
  gramm: NUM

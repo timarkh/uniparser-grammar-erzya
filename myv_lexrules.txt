@@ -15532,7 +15532,7 @@
   gramm: V.*nmlz_mo.*
   gloss: .*NMLZ.*
  -add
-  trans_ru2: благославление
+  trans_ru2: благословение
 
 -lex_rule
  -search

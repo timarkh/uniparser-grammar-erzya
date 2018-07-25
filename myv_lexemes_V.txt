@@ -342,6 +342,13 @@
  trans_ru: расстраиваться
 
 -lexeme
+ lex: апаркстомомс
+ stem: апаркстом.
+ gramm: V
+ paradigm: V-o
+ trans_ru: расстроиться
+
+-lexeme
  lex: апаркстомс
  stem: апаркст.
  gramm: V
@@ -385,14 +392,14 @@
 
 -lexeme
  lex: арнемс
- stem: арн.
+ stem: арн.//арьн.
  gramm: V
  paradigm: V-ye
  trans_ru: уважать; угождать
 
 -lexeme
  lex: арсемс
- stem: арс.
+ stem: арс.//арьс.
  gramm: V
  paradigm: V-ye
  trans_ru: думать, желать, решить
@@ -638,7 +645,7 @@
 -lexeme
  lex: баславамс
  stem: баслав.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: благословить
 
@@ -694,7 +701,7 @@
 -lexeme
  lex: белямс
  stem: бел.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: белить
 
@@ -729,7 +736,7 @@
 -lexeme
  lex: бесямс
  stem: бес.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: буйствовать
 
@@ -834,7 +841,7 @@
 -lexeme
  lex: блудямс
  stem: блуд.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: блуждать, воровать
 
@@ -862,7 +869,7 @@
 -lexeme
  lex: бороцямс
  stem: бороц.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: бороться, побороть
 
@@ -953,7 +960,7 @@
 -lexeme
  lex: брудямс
  stem: бруд.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: запрудить, прудить
 
@@ -1065,7 +1072,7 @@
 -lexeme
  lex: буравамс
  stem: бурав.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: сверлить
 
@@ -1128,7 +1135,7 @@
 -lexeme
  lex: бушовамс
  stem: бушов.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: буйствовать, скандалить
 
@@ -1338,14 +1345,14 @@
 -lexeme
  lex: валямс
  stem: вал.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: завалить, засыпать, срубить
 
 -lexeme
  lex: валяямс
  stem: валя.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: валяться
 
@@ -1632,7 +1639,7 @@
 -lexeme
  lex: ведувамс
  stem: ведув.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: колдовать
 
@@ -1855,17 +1862,10 @@
 
 -lexeme
  lex: ветердемс
- stem: ветерд.
+ stem: ветерд.//ветерьд.
  gramm: V
  paradigm: V-ye
  trans_ru: болтать, наговаривать, плести
-
--lexeme
- lex: ветерьдемс
- stem: ветерьд.
- gramm: V
- paradigm: V-ye
- trans_ru: балакать
 
 -lexeme
  lex: ветнемс
@@ -2066,7 +2066,7 @@
 -lexeme
  lex: винтямс
  stem: винт.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: завинтить
 
@@ -2696,7 +2696,7 @@
 -lexeme
  lex: дрехнямс
  stem: дрехн.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: дрыхнуть, спать
 
@@ -2850,7 +2850,7 @@
 -lexeme
  lex: жорновамс
  stem: жорнов.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: молоть
 
@@ -2864,7 +2864,7 @@
 -lexeme
  lex: займамс
  stem: займ.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: занимать
 
@@ -2927,7 +2927,7 @@
 -lexeme
  lex: злыдардемс
  stem: злыдард.
- gramm: V
+ gramm: V,rus
  paradigm: V-ye
  trans_ru: бродяжничать, скитаться
 
@@ -3018,7 +3018,7 @@
 -lexeme
  lex: зябамс
  stem: зяб.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: поднимать рябь
 
@@ -3648,7 +3648,7 @@
 -lexeme
  lex: калямс
  stem: кал.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: накалить
 
@@ -4096,6 +4096,13 @@
 -lexeme
  lex: кевкстемс
  stem: кевкст.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: спросить, попросить
+
+-lexeme
+ lex: скевстемс
+ stem: скевст.
  gramm: V
  paradigm: V-ye
  trans_ru: спросить, попросить
@@ -5118,7 +5125,7 @@
 -lexeme
  lex: коптямс
  stem: копт.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: коптить
 
@@ -5412,28 +5419,21 @@
 -lexeme
  lex: кроямс
  stem: кро.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: кроить, материться
 
 -lexeme
- lex: кроямс
- stem: кро.
- gramm: V
- paradigm: V-ya
- trans_ru: материться
-
--lexeme
  lex: кругловойгадомс
  stem: кругловойга.
- gramm: V
+ gramm: V,rus
  paradigm: V-do
  trans_ru: округлиться
 
 -lexeme
  lex: кружамс
  stem: круж.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: кружиться, окружить
 
@@ -5538,7 +5538,7 @@
 -lexeme
  lex: куковамс
  stem: куков.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: куковать
 
@@ -5930,21 +5930,21 @@
 -lexeme
  lex: ладсемс
  stem: ладс.
- gramm: V
+ gramm: V,rus
  paradigm: V-ye
  trans_ru: налаживать; соответствовать
 
 -lexeme
  lex: ладямс
  stem: лад.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: налаживать; мириться; устроить
 
 -lexeme
  lex: ладямс-удаламс
  stem: ладямс-удал.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: получиться
 
@@ -6142,7 +6142,7 @@
  stem: лапн.
  gramm: V
  paradigm: V-o
- trans_ru: балтаться, бояться, качаться
+ trans_ru: болтаться, бояться, качаться
 
 -lexeme
  lex: лапужкадомс
@@ -6511,14 +6511,14 @@
 -lexeme
  lex: лецямс
  stem: лец.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: исцелить
 
 -lexeme
  lex: лечамс
  stem: леч.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: вылечить, лечить
 
@@ -6861,7 +6861,7 @@
 -lexeme
  lex: лудямс
  stem: луд.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: лудить
 
@@ -7029,7 +7029,7 @@
 -lexeme
  lex: лысойгадомс
  stem: лысойга.
- gramm: V
+ gramm: V,rus
  paradigm: V-do
  trans_ru: облысеть
 
@@ -7470,7 +7470,7 @@
 -lexeme
  lex: мирямс
  stem: мир.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: мириться
 
@@ -7799,7 +7799,7 @@
 -lexeme
  lex: напустямс
  stem: напуст.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: побежать, помчаться
 
@@ -7991,6 +7991,13 @@
  gramm: V
  paradigm: V-a
  trans_ru: ткнуть, толкнуть, уколоть
+
+-lexeme
+ lex: нерькстнемс
+ stem: нерькстн.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: толкать, колоть
 
 -lexeme
  lex: нерямс
@@ -8562,7 +8569,7 @@
 -lexeme
  lex: обижамс
  stem: обиж.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: угнетать
 
@@ -8602,13 +8609,6 @@
  trans_ru: возобновить, обновить, омолодить
 
 -lexeme
- lex: одктомтомс
- stem: одктомт.
- gramm: V
- paradigm: V-o
- trans_ru: молодить
-
--lexeme
  lex: одолгадомс
  stem: одолга.
  gramm: V
@@ -8618,7 +8618,7 @@
 -lexeme
  lex: одямс
  stem: од.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: водить (в игре)
 
@@ -8660,7 +8660,7 @@
 -lexeme
  lex: озямс
  stem: оз.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: возиться, суетиться, хлопотать
 
@@ -8723,14 +8723,14 @@
 -lexeme
  lex: олякстомс
  stem: олякст.
- gramm: V
+ gramm: V,rus
  paradigm: V-o
  trans_ru: освободиться
 
 -lexeme
  lex: олялгадомс
  stem: олялга.
- gramm: V
+ gramm: V,rus
  paradigm: V-do
  trans_ru: освободиться
 
@@ -8835,7 +8835,7 @@
 -lexeme
  lex: орожиямс
  stem: орожи.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: ворожить, гадать, колдовать
 
@@ -8870,7 +8870,7 @@
 -lexeme
  lex: отказамс
  stem: отказ.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: отречься, поступиться
 
@@ -9085,6 +9085,13 @@
  trans_ru: открыть
 
 -lexeme
+ lex: панжтнемс
+ stem: панжтн.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: открывать
+
+-lexeme
  lex: панжомс-пекстамс
  stem: панжомс-пекст.
  gramm: V
@@ -9185,7 +9192,7 @@
 -lexeme
  lex: парямс
  stem: пар.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: парить, париться
 
@@ -9411,6 +9418,13 @@
  stem: пелькст.
  gramm: V
  paradigm: V-a
+ trans_ru: спорить
+
+-lexeme
+ lex: пелькстнемс
+ stem: пелькстн.
+ gramm: V,mult
+ paradigm: V-ye
  trans_ru: спорить
 
 -lexeme
@@ -9941,7 +9955,7 @@
 -lexeme
  lex: плетямс
  stem: плет.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: плести; болтать
 
@@ -9969,7 +9983,7 @@
 -lexeme
  lex: подковамс
  stem: подков.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: ковать
 
@@ -9990,6 +10004,13 @@
 -lexeme
  lex: покордамс
  stem: покорд.
+ gramm: V
+ paradigm: V-a
+ trans_ru: оскорбить, унизить
+
+-lexeme
+ lex: покурдамс
+ stem: покурд.
  gramm: V
  paradigm: V-a
  trans_ru: оскорбить, унизить
@@ -10060,7 +10081,7 @@
 -lexeme
  lex: полонямс
  stem: полон.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: пленить
 
@@ -10105,6 +10126,13 @@
  gramm: V
  paradigm: V-o
  trans_ru: зацепить, повесить
+
+-lexeme
+ lex: понгавтнемс
+ stem: понгавтн.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: цеплять, вешать
 
 -lexeme
  lex: понгомс
@@ -10326,7 +10354,7 @@
 -lexeme
  lex: появамс
  stem: появ.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: появиться
 
@@ -10382,14 +10410,14 @@
 -lexeme
  lex: примамс
  stem: прим.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: получить, принять
 
 -lexeme
  lex: проверямс
  stem: провер.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: сверить, сверять
 
@@ -10788,7 +10816,7 @@
 -lexeme
  lex: пыхадемс
  stem: пыхад.
- gramm: V
+ gramm: V,rus
  paradigm: V-ye
  trans_ru: курить
 
@@ -10942,7 +10970,7 @@
 -lexeme
  lex: ранямс
  stem: ран.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: ранить
 
@@ -11166,9 +11194,16 @@
 -lexeme
  lex: роботамс
  stem: робот.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
- trans_ru: действовать
+ trans_ru: работать, действовать
+
+-lexeme
+ lex: робутамс
+ stem: робут.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: работать, действовать
 
 -lexeme
  lex: ровцамс
@@ -11208,7 +11243,7 @@
 -lexeme
  lex: розорямс
  stem: розор.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: разорять
 
@@ -11217,12 +11252,12 @@
  stem: рок.
  gramm: V
  paradigm: V-a
- trans_ru: хрюканье
+ trans_ru: хрюкать
 
 -lexeme
  lex: росыямс
  stem: росы.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: покрыться росой
 
@@ -11796,7 +11831,7 @@
 -lexeme
  lex: складямс
  stem: склад.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: сочинять
 
@@ -12020,7 +12055,7 @@
 -lexeme
  lex: сорямс
  stem: сор.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: насорить, сорить
 
@@ -12041,7 +12076,7 @@
 -lexeme
  lex: справамс
  stem: справ.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: поправиться
 
@@ -12097,7 +12132,7 @@
 -lexeme
  lex: стараямс
  stem: стара.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: стараться
 
@@ -12285,14 +12320,14 @@
 
 -lexeme
  lex: сундерьгадомс
- stem: сундерьга.
+ stem: сундерьга.//суньдерьга.
  gramm: V
  paradigm: V-do
  trans_ru: стемнеть
 
 -lexeme
  lex: сундерькадомс
- stem: сундерька.
+ stem: сундерька.//суньдерька.
  gramm: V
  paradigm: V-do
  trans_ru: смеркаться
@@ -12883,7 +12918,7 @@
  stem: сёп.
  gramm: V
  paradigm: V-o
- trans_ru: скрытный, укрыть
+ trans_ru: укрыть
 
 -lexeme
  lex: сёркадемс
@@ -12908,10 +12943,17 @@
 
 -lexeme
  lex: сёрмадстомс
- stem: сёрмадст.//сермадст.
+ stem: сёрмадст.//сермадст.//сёрмацт.//сермацт.
  gramm: V
  paradigm: V-o
  trans_ru: выписать
+
+-lexeme
+ lex: сёрмадстнемс
+ stem: сёрмадстн.//сермадстн.//сёрмацтн.//сермацтн.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: выписывать
 
 -lexeme
  lex: сёрмалгадомс
@@ -13392,7 +13434,7 @@
 -lexeme
  lex: тесьмадемс
  stem: тесьмад.
- gramm: V
+ gramm: V,rus
  paradigm: V-ye
  trans_ru: обшить тесьмой; толкнуть
 
@@ -13525,7 +13567,7 @@
 -lexeme
  lex: толковамс
  stem: толков.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: пояснить
 
@@ -13679,7 +13721,7 @@
 -lexeme
  lex: торочамс
  stem: тороч.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: оторачивать
 
@@ -13707,7 +13749,7 @@
 -lexeme
  lex: торямс
  stem: тор.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: повторять
 
@@ -13798,7 +13840,7 @@
 -lexeme
  lex: трамбовамс
  stem: трамбов.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: утрамбовать
 
@@ -13819,7 +13861,7 @@
 -lexeme
  lex: трескамс
  stem: треск.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: трескать, жадно есть
 
@@ -14113,21 +14155,21 @@
 -lexeme
  lex: угодямс
  stem: угод.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: угодить
 
 -lexeme
  lex: угориямс
  stem: угори.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: угореть
 
 -lexeme
  lex: удаламс
  stem: удал.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: получиться, удаться
 
@@ -14158,13 +14200,6 @@
  gramm: V
  paradigm: V-ye
  trans_ru: отдыхать
-
--lexeme
- lex: уезевемс
- stem: уезев.
- gramm: V
- paradigm: V-ye
- trans_ru: поплыть
 
 -lexeme
  lex: уемс
@@ -14235,13 +14270,6 @@
  gramm: V
  paradigm: V-a
  trans_ru: удить
-
--lexeme
- lex: ульнемс
- stem: ульн.
- gramm: V
- paradigm: V-ye
- trans_ru: быть
 
 -lexeme
  lex: умбодомс
@@ -14406,7 +14434,7 @@
 
 -lexeme
  lex: утердемс
- stem: утерд.
+ stem: утерд.//утерьд.
  gramm: V
  paradigm: V-ye
  trans_ru: крякать (об утках)
@@ -14421,7 +14449,7 @@
 -lexeme
  lex: утюжамс
  stem: утюж.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: гладить
 
@@ -14533,7 +14561,7 @@
 -lexeme
  lex: фокусничамс
  stem: фокуснич.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: фокусничать
 
@@ -14561,14 +14589,14 @@
 -lexeme
  lex: хлопадемс
  stem: хлопад.
- gramm: V
+ gramm: V,rus
  paradigm: V-ye
  trans_ru: хлопнуть
 
 -lexeme
  lex: хлопочамс
  stem: хлопоч.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: хлопотать
 
@@ -14582,21 +14610,21 @@
 -lexeme
  lex: хлыстядемс
  stem: хлыстяд.
- gramm: V
+ gramm: V,rus
  paradigm: V-ye
  trans_ru: хлеснуть
 
 -lexeme
  lex: хлыстяемс
  stem: хлыстя.
- gramm: V
+ gramm: V,rus
  paradigm: V-ye
  trans_ru: хлестать
 
 -lexeme
  lex: холямс
  stem: хол.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: холить
 
@@ -14631,21 +14659,21 @@
 -lexeme
  lex: цветямс
  stem: цвет.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: цвести
 
 -lexeme
  lex: цветямс-чадомс
  stem: цветямс-ча.
- gramm: V
+ gramm: V,rus
  paradigm: V-do
  trans_ru: расцветать
 
 -lexeme
  lex: целямс
  stem: цел.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: целиться
 
@@ -14925,7 +14953,7 @@
 -lexeme
  lex: цюдавомс
  stem: цюдав.
- gramm: V
+ gramm: V,rus
  paradigm: V-o
  trans_ru: мерещиться, чудиться
 
@@ -14997,7 +15025,7 @@
  stem: цяпад.
  gramm: V
  paradigm: V-ye
- trans_ru: ударить ладонь
+ trans_ru: ударить ладонью
 
 -lexeme
  lex: цяпамс
@@ -15214,14 +15242,14 @@
  stem: чангод.
  gramm: V
  paradigm: V-ye
- trans_ru: помочь (Бог на помочь!)
+ trans_ru: помочь, помиловать
 
 -lexeme
  lex: чантямс
  stem: чант.
  gramm: V
  paradigm: V-ya
- trans_ru: благославить
+ trans_ru: благословить
 
 -lexeme
  lex: чапавтомс
@@ -15282,6 +15310,13 @@
 -lexeme
  lex: чарькодемс
  stem: чарькод.//чаркод.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: понять, угадать
+
+-lexeme
+ lex: чарькудемс
+ stem: чарькуд.//чаркуд.
  gramm: V
  paradigm: V-ye
  trans_ru: понять, угадать
@@ -15380,7 +15415,7 @@
 -lexeme
  lex: чеканямс
  stem: чекан.
- gramm: V
+ gramm: V,rus
  paradigm: V-ya
  trans_ru: чеканить
 
@@ -15823,13 +15858,6 @@
  stem: чумбор.
  gramm: V
  paradigm: V-ya
- trans_ru: бултыханье
-
--lexeme
- lex: чумборямс
- stem: чумбор.
- gramm: V
- paradigm: V-ya
  trans_ru: бултыхаться, мутить
 
 -lexeme
@@ -15837,6 +15865,7 @@
  stem: чумонд.
  gramm: V
  paradigm: V-o
+ paradigm: V-a
  trans_ru: обвинять
 
 -lexeme
@@ -15905,7 +15934,7 @@
 -lexeme
  lex: шамкадемс
  stem: шамкад.
- gramm: V
+ gramm: V,rus
  paradigm: V-ye
  trans_ru: шамкать
 
@@ -15919,7 +15948,7 @@
 -lexeme
  lex: шатамс
  stem: шат.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: качаться
 
@@ -16143,7 +16172,7 @@
 -lexeme
  lex: щупамс
  stem: щуп.
- gramm: V
+ gramm: V,rus
  paradigm: V-a
  trans_ru: щупать
 
@@ -16838,7 +16867,7 @@
  stem: ёжи.//ежи.
  gramm: V
  paradigm: V-ya
- trans_ru: стать смышленым
+ trans_ru: стать смышлёным
 
 -lexeme
  lex: ёзамс
@@ -17017,21 +17046,21 @@
 
 -lexeme
  lex: азёдо
- stem: азёдо.//азедо.//азьдо.
+ stem: азёдо.//азёдоя.//азедо.//азьдо.
  gramm: V,imp,2.s,pl.s
  paradigm: Clitics
  trans_ru: идите
 
 -lexeme
  lex: ужодо
- stem: ужодо.
+ stem: ужодо.//ужодоя.
  gramm: V,imp,2.s,pl.s
  paradigm: Clitics
  trans_ru: подождите
 
 -lexeme
  lex: цюдо
- stem: цюдо.
+ stem: цюдо.//цюдоя.
  gramm: V,imp,2.s,pl.s
  paradigm: Empty
  trans_ru: молчите
@@ -17039,6 +17068,13 @@
 -lexeme
  lex: азё
  stem: азё.//азе.
+ gramm: V,imp,2.s,sg.s
+ paradigm: Clitics
+ trans_ru: иди
+
+-lexeme
+ lex: азёка
+ stem: азёка.//азека.//азёкая.//азекая.//азё-ка.//азе-ка.
  gramm: V,imp,2.s,sg.s
  paradigm: Clitics
  trans_ru: иди
@@ -17158,7 +17194,7 @@
 
 -lexeme
  lex: аволь
- stem: авол.//авул.//авыл.//авл.//аул.
+ stem: авол.//авул.//авыл.//авл.//аул.//авольь.
  gramm: V,neg,non_obj
  paradigm: V-pst-ezj
  trans_ru: не, нет
@@ -18134,3 +18170,195 @@
  gramm: V,rus,mult
  paradigm: V-ye
  trans_ru: удивляться
+-lexeme
+ lex: автордомс
+ stem: автор.
+ gramm: V
+ paradigm: V-do
+ trans_ru: быстро схватить
+-lexeme
+ lex: бирнемс
+ stem: бирн.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: урчать
+-lexeme
+ lex: бодордомс
+ stem: бодор.
+ gramm: V
+ paradigm: V-do
+ trans_ru: урчать
+-lexeme
+ lex: чалгсемс
+ stem: чалгс.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: топтать
+-lexeme
+ lex: шумбракстемс
+ stem: шумбракст.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: приветствовать
+-lexeme
+ lex: ёкстамс
+ stem: ёкст.
+ gramm: V
+ paradigm: V-a
+ trans_ru: засунуть, загрузить
+-lexeme
+ lex: благославамс
+ stem: благослав.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: благословить
+-lexeme
+ lex: кулсонемс
+ stem: кулсон.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: слушать
+-lexeme
+ lex: ношкапнемс
+ stem: ношкапн.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: тупить
+-lexeme
+ lex: ношкаптомс
+ stem: ношкапт.
+ gramm: V
+ paradigm: V-o
+ trans_ru: тупить
+-lexeme
+ lex: ношкапфнемс
+ stem: ношкапфн.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: тупить
+-lexeme
+ lex: ношкапфтомс
+ stem: ношкапфт.
+ gramm: V
+ paradigm: V-o
+ trans_ru: тупить
+-lexeme
+ lex: поводемс
+ stem: повод.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: повесить
+-lexeme
+ lex: тешкстнемс
+ stem: тешкстн.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: набирать, отмечать
+-lexeme
+ lex: туремс
+ stem: тур.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: драться
+-lexeme
+ lex: тёхмадемс
+ stem: тёхмад.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: толкать
+-lexeme
+ lex: урендямс
+ stem: уренд.
+ gramm: V
+ paradigm: V-ya
+ trans_ru: служить
+-lexeme
+ lex: чанстямс
+ stem: чанст.
+ gramm: V
+ paradigm: V-ya
+ trans_ru: благословить
+-lexeme
+ lex: чарькодстемс
+ stem: чарькодст.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: думать
+-lexeme
+ lex: човурямс
+ stem: човур.
+ gramm: V
+ paradigm: V-ya
+ trans_ru: смешивать
+-lexeme
+ lex: чулгонемс
+ stem: чулгон.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: разгрызать
+-lexeme
+ lex: чумбракстнемс
+ stem: чумбракстн.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: здороваться, кивать
+-lexeme
+ lex: чумовтомс
+ stem: чумовт.
+ gramm: V
+ paradigm: V-o
+ trans_ru: обвинять
+-lexeme
+ lex: шкинемс
+ stem: шкин.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: творить
+-lexeme
+ lex: шольнемс
+ stem: шольн.
+ gramm: V
+ paradigm: V-ye
+ trans_ru: журчать
+-lexeme
+ lex: яволявкшномс
+ stem: яволявкшн.
+ gramm: V,iter
+ paradigm: V-o
+ trans_ru: объявлять
+-lexeme
+ lex: пшкалемс
+ stem: пшкал.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: обращаться
+-lexeme
+ lex: сормсемс
+ stem: сормс.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: морщиться
+-lexeme
+ lex: чопавтнемс
+ stem: чопавтн.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: нырять
+-lexeme
+ lex: яволявтнемс
+ stem: яволявтн.
+ gramm: V,mult
+ paradigm: V-ye
+ trans_ru: объявлять
+-lexeme
+ lex: снимсемс
+ stem: снимс.
+ gramm: V,mult,rus
+ paradigm: V-ye
+ trans_ru: снимать
+-lexeme
+ lex: поминамс
+ stem: помин.
+ gramm: V,rus
+ paradigm: V-a
+ trans_ru: поминать

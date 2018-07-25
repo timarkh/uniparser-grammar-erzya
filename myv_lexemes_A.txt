@@ -168,7 +168,7 @@
 
 -lexeme
  lex: алкуксонь
- stem: алкуксон.
+ stem: алкуксон.//алкуксэн.//алкуксун.
  gramm: A
  paradigm: A-front-soft
  trans_ru: действительный, настоящий
@@ -193,13 +193,6 @@
  gramm: A
  paradigm: A-front
  trans_ru: негодный
-
--lexeme
- lex: амаштовикс
- stem: амаштовикс.
- gramm: A
- paradigm: A-front
- trans_ru: негодный, неполезный
 
 -lexeme
  lex: аморавиця
@@ -393,7 +386,7 @@
 -lexeme
  lex: багрей
  stem: багре.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: багровый, багрянец
 
@@ -407,7 +400,7 @@
 -lexeme
  lex: байкань
  stem: байкан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: байковый
 
@@ -421,14 +414,14 @@
 -lexeme
  lex: баранонь
  stem: баранон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: бараний
 
 -lexeme
  lex: барцовый
  stem: барцовы.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: бордовый
 
@@ -512,7 +505,7 @@
 -lexeme
  lex: бесяка
  stem: бесяка.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: капризный, сумасшедший
 
@@ -540,7 +533,7 @@
 -lexeme
  lex: блудня
  stem: блудня.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: блудливый
 
@@ -561,14 +554,14 @@
 -lexeme
  lex: бойка
  stem: бойка.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: быстрый, расторопный
 
 -lexeme
  lex: бойкажа
  stem: бойкажа.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: шустрый
 
@@ -596,7 +589,7 @@
 -lexeme
  lex: бояронь
  stem: боярон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: барский
 
@@ -617,7 +610,7 @@
 -lexeme
  lex: букань
  stem: букан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: бычий
 
@@ -711,13 +704,6 @@
  gramm: A
  paradigm: A-front
  trans_ru: голосистый
-
--lexeme
- lex: вайгельсэ
- stem: вайгельсэ.
- gramm: A
- paradigm: A-front
- trans_ru: безголосый
 
 -lexeme
  lex: валаня
@@ -883,7 +869,7 @@
 -lexeme
  lex: васень
  stem: васен.
- gramm: A
+ gramm: NUM,ord
  paradigm: A-front-soft
  trans_ru: первый
 
@@ -918,7 +904,7 @@
 -lexeme
  lex: ватань
  stem: ватан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: ватный
 
@@ -1070,13 +1056,6 @@
  trans_ru: непоседа, подвижный
 
 -lexeme
- lex: велявтомка
- stem: велявтомка.
- gramm: A
- paradigm: A-back
- trans_ru: барашек поворотный
-
--lexeme
  lex: венежа
  stem: венежа.
  gramm: A
@@ -1086,7 +1065,7 @@
 -lexeme
  lex: венчамонь
  stem: венчамон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: обручальный
 
@@ -1156,7 +1135,7 @@
 -lexeme
  lex: весероссиянь
  stem: весероссиян.//весероссіян.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: всероссийский
 
@@ -1275,8 +1254,8 @@
 -lexeme
  lex: визькс
  stem: визькс.
- gramm: A
- paradigm: A-front
+ gramm: N
+ paradigm: N-front
  trans_ru: конфуз, унижение
 
 -lexeme
@@ -1298,7 +1277,7 @@
  stem: вирев.
  gramm: A
  paradigm: A-front
- trans_ru: в лес; лесистый
+ trans_ru: лесистый
 
 -lexeme
  lex: вирьтеме
@@ -1310,8 +1289,8 @@
 -lexeme
  lex: вирятя
  stem: вирятя.
- gramm: A
- paradigm: A-back
+ gramm: N,supernat
+ paradigm: N-back
  trans_ru: леший
 
 -lexeme
@@ -1366,7 +1345,7 @@
 -lexeme
  lex: вишкинене
  stem: вишкинене.
- gramm: A
+ gramm: A,dim
  paradigm: A-front
  trans_ru: младший
 
@@ -1457,14 +1436,14 @@
 -lexeme
  lex: гулькань
  stem: гулькан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: голубиный
 
 -lexeme
  lex: довань
  stem: дован.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: вдовий
 
@@ -1513,22 +1492,22 @@
 -lexeme
  lex: жадной
  stem: жадно.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: жадный
 
 -lexeme
  lex: жаль
  stem: жал.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: жалкий
 
 -lexeme
  lex: жеребей
  stem: жеребе.
- gramm: A
- paradigm: A-front-j
+ gramm: N,rus
+ paradigm: N-front-j
  trans_ru: жребий
 
 -lexeme
@@ -1562,14 +1541,14 @@
 -lexeme
  lex: злыдарь
  stem: злыдар.
- gramm: A
- paradigm: A-front-soft
+ gramm: N,rus
+ paradigm: N-front-soft
  trans_ru: бродяга, бродячий
 
 -lexeme
  lex: злыдня
  stem: злыдня.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: беспокойный
 
@@ -1583,7 +1562,7 @@
 -lexeme
  lex: зыянов
  stem: зыянов.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: вредный, преступный, разрушительный
 
@@ -1744,7 +1723,7 @@
 -lexeme
  lex: истовой
  stem: истово.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: настоящий
 
@@ -1954,7 +1933,7 @@
 -lexeme
  lex: карей
  stem: каре.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: карий
 
@@ -1968,15 +1947,15 @@
 -lexeme
  lex: карябаба
  stem: карябаба.
- gramm: A
- paradigm: A-back
+ gramm: N
+ paradigm: N-back
  trans_ru: лопух паутинистый
 
 -lexeme
  lex: карялопа
  stem: карялопа.
- gramm: A
- paradigm: A-back
+ gramm: N
+ paradigm: N-back
  trans_ru: лопух паутинистый
 
 -lexeme
@@ -2122,8 +2101,8 @@
 -lexeme
  lex: кельмевкс
  stem: кельмевкс.
- gramm: A
- paradigm: A-front
+ gramm: N
+ paradigm: N-front
  trans_ru: мороз
 
 -lexeme
@@ -2339,7 +2318,7 @@
 -lexeme
  lex: кирпецень
  stem: кирпецен.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: кирпичный
 
@@ -2577,8 +2556,8 @@
 -lexeme
  lex: котик
  stem: котик.
- gramm: A
- paradigm: A-front
+ gramm: N
+ paradigm: N-front
  trans_ru: клевер пашенный
 
 -lexeme
@@ -2619,8 +2598,8 @@
 -lexeme
  lex: кошт
  stem: кошт.
- gramm: A
- paradigm: A-back
+ gramm: N
+ paradigm: N-back
  trans_ru: воздух, климат, пар
 
 -lexeme
@@ -2633,7 +2612,7 @@
 -lexeme
  lex: кристаллонь
  stem: кристаллон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: кристальный
 
@@ -2766,7 +2745,7 @@
 -lexeme
  lex: куратна
  stem: куратна.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: аккуратный, стройный
 
@@ -2787,21 +2766,21 @@
 -lexeme
  lex: куслянь
  stem: куслян.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: кисельный
 
 -lexeme
  lex: кусляня
  stem: кусляня.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: разжиженный
 
 -lexeme
  lex: кухнянь
  stem: кухнян.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: кухонный
 
@@ -2913,8 +2892,8 @@
 -lexeme
  lex: ладунтикше
  stem: ладунтикше.
- gramm: A
- paradigm: A-front
+ gramm: N
+ paradigm: N-front
  trans_ru: тимьян ползучий, чабрец
 
 -lexeme
@@ -3006,7 +2985,7 @@
  stem: латякар.
  gramm: A
  paradigm: A-front-soft
- trans_ru: изношенный(лапоть), старый
+ trans_ru: изношенный (лапоть), старый
 
 -lexeme
  lex: латяня
@@ -3027,7 +3006,7 @@
  stem: левцана.
  gramm: A
  paradigm: A-back
- trans_ru: не густой, реденький
+ trans_ru: негустой, реденький
 
 -lexeme
  lex: левшпонкс
@@ -3062,7 +3041,7 @@
  stem: лембежа.
  gramm: A
  paradigm: A-back
- trans_ru: теплый
+ trans_ru: тёплый
 
 -lexeme
  lex: лемев
@@ -3116,8 +3095,8 @@
 -lexeme
  lex: лешей
  stem: леше.
- gramm: A
- paradigm: A-front-j
+ gramm: N,rus,supernat
+ paradigm: N-front-j
  trans_ru: леший
 
 -lexeme
@@ -3256,8 +3235,8 @@
 -lexeme
  lex: локшотикше
  stem: локшотикше.
- gramm: A
- paradigm: A-front
+ gramm: N
+ paradigm: N-front
  trans_ru: цикорий
 
 -lexeme
@@ -3284,7 +3263,7 @@
 -lexeme
  lex: лугав
  stem: лугав.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: травянистый
 
@@ -3319,7 +3298,7 @@
 -lexeme
  lex: лысой
  stem: лысо.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: лысый
 
@@ -3340,9 +3319,9 @@
 -lexeme
  lex: льстец
  stem: льстец.
- gramm: A
- paradigm: A-front
- trans_ru: льстивый
+ gramm: N,rus
+ paradigm: N-front
+ trans_ru: льстец
 
 -lexeme
  lex: мазы
@@ -3480,7 +3459,7 @@
 -lexeme
  lex: марлянь
  stem: марлян.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: марлевый
 
@@ -3760,7 +3739,7 @@
 -lexeme
  lex: мила
  stem: мила.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: милый, приятный
 
@@ -3795,7 +3774,7 @@
 -lexeme
  lex: младшей
  stem: младше.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: младший
 
@@ -3839,7 +3818,7 @@
  stem: мокшон.//мокшен.
  gramm: A
  paradigm: A-front-soft
- trans_ru: мокшанский, мордовский
+ trans_ru: мокшанский
 
 -lexeme
  lex: мокшэрзянь
@@ -3928,7 +3907,7 @@
 -lexeme
  lex: навозонь
  stem: навозон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: навозный
 
@@ -3949,7 +3928,7 @@
 -lexeme
  lex: назой
  stem: назо.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: назойливый
 
@@ -4070,7 +4049,7 @@
  stem: начко.|начк.
  gramm: A
  paradigm: A-back
- trans_ru: влажный, водянистый, дождливый, мокрый, ненастный, сырой, сырость
+ trans_ru: влажный, мокрый
 
 -lexeme
  lex: начкола
@@ -4110,14 +4089,14 @@
 -lexeme
  lex: недлянь
  stem: недлян.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: недельный
 
 -lexeme
  lex: недлячинь
  stem: недлячин.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: воскресный
 
@@ -4126,7 +4105,7 @@
  stem: неен.
  gramm: A
  paradigm: A-front-soft
- trans_ru: настоящий, теперешней
+ trans_ru: настоящий, теперешний
 
 -lexeme
  lex: неке
@@ -4161,7 +4140,7 @@
  stem: неявикс.
  gramm: A
  paradigm: A-front
- trans_ru: видимый, видный, заметный, явственный
+ trans_ru: видимый, видный, заметный
 
 -lexeme
  lex: низыля
@@ -4194,7 +4173,7 @@
 -lexeme
  lex: нищёй
  stem: нищё.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: нищий
 
@@ -4354,7 +4333,7 @@
 
 -lexeme
  lex: нурькине
- stem: нурькине.
+ stem: нурькине.//нуркине.
  gramm: A,dim
  paradigm: A-front
  trans_ru: коротенький
@@ -4383,28 +4362,28 @@
 -lexeme
  lex: обедамонь
  stem: обедамон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: обеденный
 
 -lexeme
  lex: обедъютконь
  stem: обедъюткон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: обеденный
 
 -lexeme
  lex: обедэнь
  stem: обедэн.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: обеденный
 
 -lexeme
  lex: обезьганонь
  stem: обезьганон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: обезьяний
 
@@ -4551,7 +4530,7 @@
 -lexeme
  lex: олянь
  stem: олян.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: вольный
 
@@ -4635,14 +4614,14 @@
 -lexeme
  lex: остатка
  stem: остатка.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: иной, последний
 
 -lexeme
  lex: остаткакс
  stem: остаткакс.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: последний
 
@@ -4714,7 +4693,7 @@
  stem: пандов.
  gramm: A
  paradigm: A-back
- trans_ru: бугристый, гористый, нагорный, холмистый
+ trans_ru: бугристый, холмистый
 
 -lexeme
  lex: пандомавтомо
@@ -4770,7 +4749,7 @@
  stem: парсеен.
  gramm: A
  paradigm: A-front-soft
- trans_ru: шелковый
+ trans_ru: шёлковый
 
 -lexeme
  lex: патянь
@@ -4785,13 +4764,6 @@
  gramm: A
  paradigm: A-front
  trans_ru: прозрачный
-
--lexeme
- lex: пе
- stem: пе.
- gramm: A
- paradigm: A-front
- trans_ru: конец
 
 -lexeme
  lex: певтеме
@@ -4810,7 +4782,7 @@
 -lexeme
  lex: пегой
  stem: пего.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: пегий
 
@@ -4882,7 +4854,7 @@
  stem: пельгел.
  gramm: A
  paradigm: A-front-soft
- trans_ru: кортавый
+ trans_ru: картавый
 
 -lexeme
  lex: пельиень
@@ -4971,14 +4943,14 @@
 -lexeme
  lex: песоков
  stem: песоков.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: песчаный
 
 -lexeme
  lex: песоконь
  stem: песокон.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: песчаный
 
@@ -5160,7 +5132,7 @@
 -lexeme
  lex: плотна
  stem: плотна.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: плотный
 
@@ -5440,14 +5412,14 @@
 -lexeme
  lex: пухляня
  stem: пухляня.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: пушистый
 
 -lexeme
  lex: пушаня
  stem: пушаня.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: пушистый
 
@@ -5523,8 +5495,8 @@
 
 -lexeme
  lex: регионъютконь
- stem: регионъюткон.//регіонъюткон.
- gramm: A
+ stem: регионъюткон.//регіонъюткон.//регионюткон.//регіонюткон.
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: межрегиональный
 
@@ -5594,7 +5566,7 @@
 -lexeme
  lex: роднянь-раськень
  stem: роднянь-раськен.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: кровный
 
@@ -5608,7 +5580,7 @@
 -lexeme
  lex: ружиянь
  stem: ружиян.//ружіян.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: ружейный
 
@@ -5720,7 +5692,7 @@
 -lexeme
  lex: самай
  stem: сама.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: самый
 
@@ -5783,7 +5755,7 @@
 -lexeme
  lex: свежа
  stem: свежа.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: свежий
 
@@ -5923,14 +5895,14 @@
 -lexeme
  lex: серой
  stem: серо.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: серый
 
 -lexeme
  lex: серойшть
  stem: серойшт.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: сероватый
 
@@ -6007,8 +5979,8 @@
 -lexeme
  lex: симиломань
  stem: симиломан.
- gramm: A
- paradigm: A-front-soft
+ gramm: N
+ paradigm: N-front-soft
  trans_ru: пьющий
 
 -lexeme
@@ -6049,7 +6021,7 @@
 -lexeme
  lex: сляникань
  stem: сляникан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: стеклянный
 
@@ -6062,8 +6034,8 @@
 
 -lexeme
  lex: советской
- stem: совецко.
- gramm: A
+ stem: советско.//совецко.
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: советский
 
@@ -6105,14 +6077,14 @@
 -lexeme
  lex: сотань
  stem: сотан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: сотовый
 
 -lexeme
  lex: спичкань
  stem: спичкан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: спичечный
 
@@ -6196,7 +6168,7 @@
 -lexeme
  lex: суликань
  stem: суликан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: стеклянный
 
@@ -6497,7 +6469,7 @@
 -lexeme
  lex: сякой
  stem: сяко.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: каждый
 
@@ -6553,8 +6525,8 @@
 -lexeme
  lex: сёмве
  stem: сёмве.
- gramm: A
- paradigm: A-front
+ gramm: N
+ paradigm: N-front
  trans_ru: ночь глухая; сон глубокий
 
 -lexeme
@@ -6602,7 +6574,7 @@
 -lexeme
  lex: таковской
  stem: таковско.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: поношенный, старый
 
@@ -6805,8 +6777,8 @@
 -lexeme
  lex: тенстьилей
  stem: тенстьиле.
- gramm: A
- paradigm: A-front-j
+ gramm: N
+ paradigm: N-front-j
  trans_ru: клоповник сорный
 
 -lexeme
@@ -6819,7 +6791,7 @@
 -lexeme
  lex: тесна
  stem: тесна.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: тесный
 
@@ -7043,8 +7015,8 @@
 -lexeme
  lex: тувонар
  stem: тувонар.
- gramm: A
- paradigm: A-back
+ gramm: N
+ paradigm: N-back
  trans_ru: горец птичий
 
 -lexeme
@@ -7148,14 +7120,14 @@
 -lexeme
  lex: тяжёлый
  stem: тяжёлы.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: тяжкий
 
 -lexeme
  lex: уголиянь
  stem: уголиян.//уголіян.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: угольный
 
@@ -7288,7 +7260,7 @@
 -lexeme
  lex: урядной
  stem: урядно.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: прибранный, чистый
 
@@ -7407,21 +7379,21 @@
 -lexeme
  lex: финской
  stem: финско.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: финский
 
 -lexeme
  lex: хитрой
  stem: хитро.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: хитрый
 
 -lexeme
  lex: цела
  stem: цела.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: целый
 
@@ -7848,14 +7820,14 @@
 -lexeme
  lex: чопода-серой
  stem: чопода-серо.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: тёмно-серый
 
 -lexeme
  lex: чопода-сивой
  stem: чопода-сиво.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-j
  trans_ru: тёмно-серый
 
@@ -7911,8 +7883,8 @@
 -lexeme
  lex: чувтопрякс
  stem: чувтопрякс.
- gramm: A
- paradigm: A-back
+ gramm: N
+ paradigm: N-back
  trans_ru: жребий
 
 -lexeme
@@ -8002,7 +7974,7 @@
 -lexeme
  lex: школань
  stem: школан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: школьный
 
@@ -8039,7 +8011,7 @@
  stem: штапо.
  gramm: A
  paradigm: A-back
- trans_ru: голый, нагишом, наголо, раздетый
+ trans_ru: голый
 
 -lexeme
  lex: шужонь
@@ -8183,7 +8155,7 @@
 
 -lexeme
  lex: эрзянь-мокшонь
- stem: эрзянь-мокшонь.//эрзяньмокшон.
+ stem: эрзянь-мокшон.//эрзяньмокшон.
  gramm: A
  paradigm: A-front-soft
  trans_ru: мордовский
@@ -8219,7 +8191,7 @@
 -lexeme
  lex: эрьбань
  stem: эрьбан.
- gramm: A
+ gramm: A,rus
  paradigm: A-front-soft
  trans_ru: вербный
 
@@ -8352,7 +8324,7 @@
 -lexeme
  lex: ядов
  stem: ядов.
- gramm: A
+ gramm: A,rus
  paradigm: A-back
  trans_ru: ядовитый
 
@@ -8378,9 +8350,16 @@
  trans_ru: красный; ясный
 
 -lexeme
+ lex: якстере
+ stem: якстер.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: красный; ясный
+
+-lexeme
  lex: якстерне
  stem: якстерне.
- gramm: A
+ gramm: A,dim
  paradigm: A-front
  trans_ru: красненький
 
@@ -9912,7 +9891,7 @@
 
 -lexeme
  lex: административной
- stem: административно.
+ stem: административно.//административны.
  gramm: A,rus
  paradigm: A-front-j
  trans_ru: административный
@@ -32780,6 +32759,13 @@
  trans_ru: экспериментальный
 
 -lexeme
+ lex: экспериментальной
+ stem: эксперементально.
+ gramm: A,rus,missp
+ paradigm: A-front-j
+ trans_ru: экспериментальный
+
+-lexeme
  lex: экспертной
  stem: экспертно.
  gramm: A,rus
@@ -35713,6 +35699,24 @@
  paradigm: A-front
  trans_ru: небольшой
 -lexeme
+ lex: апокшке
+ stem: апошке.
+ gramm: A,dim,missp
+ paradigm: A-front
+ trans_ru: небольшой
+-lexeme
+ lex: апокшкине
+ stem: апокшкине.
+ gramm: A,dim
+ paradigm: A-front
+ trans_ru: небольшой
+-lexeme
+ lex: апокшкине
+ stem: апошкине.
+ gramm: A,dim,missp
+ paradigm: A-front
+ trans_ru: небольшой
+-lexeme
  lex: жив
  stem: жив.
  gramm: A,rus
@@ -35725,3 +35729,82 @@
  gramm: A
  paradigm: A-front-soft
  trans_ru: льняной
+-lexeme
+ lex: аоре
+ stem: аоре.
+ gramm: A
+ paradigm: A-front
+ trans_ru: независимый
+-lexeme
+ lex: автень
+ stem: автен.
+ gramm: A,anim,hum
+ paradigm: A-front-soft
+ trans_ru: растеряша (автень курго)
+-lexeme
+ lex: американонь
+ stem: американон.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: американский
+-lexeme
+ lex: богатой
+ stem: богато.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: богатой
+-lexeme
+ lex: электроламповой
+ stem: электролампово.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: электроламповый
+
+-lexeme
+ lex: салавакс
+ stem: салавакс.
+ gramm: A
+ paradigm: A-back
+ trans_ru: секретный
+-lexeme
+ lex: салавакстозь
+ stem: салавакстоз.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: зашифрованный
+-lexeme
+ lex: седейстокиця
+ stem: седейстокиця.
+ gramm: A
+ paradigm: A-back
+ trans_ru: приятный
+-lexeme
+ lex: украинонь
+ stem: украинон.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: украинский
+-lexeme
+ lex: украинэнь
+ stem: украинэн.
+ gramm: A
+ paradigm: A-front-soft
+ trans_ru: украинский
+-lexeme
+ lex: европеоидной
+ stem: европеоидно.
+ gramm: A,rus
+ paradigm: A-front-j
+ trans_ru: европеоидный
+-lexeme
+ lex: сепаратонь
+ stem: сепаратон.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: сепаратный
+-lexeme
+ lex: федералень
+ stem: федерален.
+ gramm: A,rus
+ paradigm: A-front-soft
+ trans_ru: федеральный

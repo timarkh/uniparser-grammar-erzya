@@ -5115,7 +5115,7 @@
 
 -lexeme
  lex: апак
- stem: апак.
+ stem: апак.//апакт.
  gramm: PART
  paradigm: Clitics
  trans_ru: не
@@ -5196,6 +5196,13 @@
  gramm: PART
  paradigm: Clitics
  trans_ru: вот; ага
+
+-lexeme
+ lex: ага
+ stem: ага.//агаа.//агааа.//агаааа.//агааааа.//агаааааа.//агааааааа.
+ gramm: PART
+ paradigm: Clitics
+ trans_ru: ага
 
 -lexeme
  lex: ве
@@ -5437,7 +5444,7 @@
 
 -lexeme
  lex: адядо
- stem: адядо.
+ stem: адядо.//адядоя.
  gramm: PART,pl.s
  paradigm: Clitics
  trans_ru: будемте, давайте
@@ -7243,3 +7250,63 @@
  gramm: PART
  paradigm: Clitics
  trans_ru: аминь
+-lexeme
+ lex: аламнешкадо
+ stem: аламнешкадо.
+ gramm: ADV,dim,num_approx
+ paradigm: Clitics
+ trans_ru: немного
+-lexeme
+ lex: аламнешкас
+ stem: аламнешкас.
+ gramm: ADV,dim,num_approx
+ paradigm: Clitics
+ trans_ru: немного
+-lexeme
+ lex: аламнешкинес
+ stem: аламнешкинес.
+ gramm: ADV,dim,num_approx
+ paradigm: Clitics
+ trans_ru: немного
+-lexeme
+ lex: аламошкас
+ stem: аламошкас.
+ gramm: ADV,num_approx
+ paradigm: Clitics
+ trans_ru: немного
+-lexeme
+ lex: аламошке
+ stem: аламошке.
+ gramm: ADV,num_approx
+ paradigm: Clitics
+ trans_ru: немного
+-lexeme
+ lex: аламошкеде
+ stem: аламошкеде.
+ gramm: ADV,num_approx
+ paradigm: Clitics
+ trans_ru: немного
+-lexeme
+ lex: больши
+ stem: больши.
+ gramm: ADV,rus
+ paradigm: Clitics
+ trans_ru: больше
+-lexeme
+ lex: эжели
+ stem: эжели.
+ gramm: CONJ,rus
+ paradigm: Clitics
+ trans_ru: если
+-lexeme
+ lex: блять
+ stem: блять.
+ gramm: INTRJ,rus
+ paradigm: Clitics
+ trans_ru: блядь
+-lexeme
+ lex: нормалёк
+ stem: нормалёк.
+ gramm: PART,rus
+ paradigm: Clitics
+ trans_ru: нормалёк

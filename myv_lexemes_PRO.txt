@@ -492,7 +492,7 @@
 
 -lexeme
  lex: минь
- stem: минтеменек.
+ stem: миньксэнек.//миньксынек.//минекс.
  gramm: PRO,1,pl,trans
  paradigm: Clitics
  trans_ru: мы
@@ -2234,3 +2234,10 @@
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: туда
+
+-lexeme
+ lex: эрьвейке
+ stem: эрьвейке.
+ gramm: APRO
+ paradigm: Clitics
+ trans_ru: каждый из
