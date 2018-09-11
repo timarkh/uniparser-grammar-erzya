@@ -7,3 +7,4 @@ wordlist.csv-unparsed.*
 rus_words.py
 unite_dictionaries.py
 unparsed_reverse_list.txt
+analyzer/UniParser/__pycache__/*

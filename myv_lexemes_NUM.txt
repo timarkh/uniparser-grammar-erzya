@@ -13,6 +13,13 @@
  trans_ru: первый
 
 -lexeme
+ lex: васень
+ stem: васен.
+ gramm: NUM,ord
+ paradigm: A-front-soft
+ trans_ru: первый
+
+-lexeme
  lex: ведьгемень
  stem: ведьгемен.//50-.
  gramm: NUM
