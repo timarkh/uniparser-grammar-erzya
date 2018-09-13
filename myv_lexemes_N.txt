@@ -81937,7 +81937,7 @@
 -lexeme
  lex: сёрмадей
  stem: сёрмаде.//сермаде.
- gramm: N,rus,anim,hum
+ gramm: N,anim,hum
  paradigm: N-front-j
  trans_ru: писатель
 
