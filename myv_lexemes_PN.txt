@@ -3744,13 +3744,6 @@
  trans_ru: Анна-Мария
 
 -lexeme
- lex: Аннапай
- stem: аннапа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Анна
-
--lexeme
  lex: Аннасович
  stem: аннасович.
  gramm: N,PN,patrn
@@ -11199,13 +11192,6 @@
  trans_ru: Валя
 
 -lexeme
- lex: Валяпай
- stem: валяпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Валя
-
--lexeme
  lex: Вампилов
  stem: вампилов.
  gramm: N,PN,famn
@@ -14728,13 +14714,6 @@
  trans_ru: Галямшин
 
 -lexeme
- lex: Галяпай
- stem: галяпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Галя
-
--lexeme
  lex: Галяскарович
  stem: галяскарович.
  gramm: N,PN,patrn
@@ -17960,13 +17939,6 @@
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Дарья
-
--lexeme
- lex: Дарьяпай
- stem: дарьяпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Дарья
 
 -lexeme
  lex: Даутов
@@ -22668,13 +22640,6 @@
  trans_ru: Зоя
 
 -lexeme
- lex: Зояпай
- stem: зояпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Зоя
-
--lexeme
  lex: Зрайченков
  stem: зрайченков.//зрайчеҥков.
  gramm: N,PN,famn
@@ -26860,13 +26825,6 @@
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Катямензарипова
-
--lexeme
- lex: Катяпай
- stem: катяпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Катя
 
 -lexeme
  lex: Каурова
@@ -33058,13 +33016,6 @@
  trans_ru: Лиза
 
 -lexeme
- lex: Лизапай
- stem: лизапа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Лиза
-
--lexeme
  lex: Лизок
  stem: лизок.
  gramm: N,PN,persn
@@ -35711,13 +35662,6 @@
  trans_ru: Марья
 
 -lexeme
- lex: Марьяпай
- stem: марьяпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Марья
-
--lexeme
  lex: Масалов
  stem: масалов.
  gramm: N,PN,famn
@@ -36809,13 +36753,6 @@
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Милана
-
--lexeme
- lex: Милапай
- stem: милапа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Мила
 
 -lexeme
  lex: Милиаскарова
@@ -39920,13 +39857,6 @@
  trans_ru: Наталья
 
 -lexeme
- lex: Натальяпай
- stem: натальяпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Наташа
-
--lexeme
  lex: Натаров
  stem: натаров.
  gramm: N,PN,famn
@@ -40926,13 +40856,6 @@
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Нина
-
--lexeme
- lex: Нинапай
- stem: нинапа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Нина
 
 -lexeme
  lex: Ниневия
@@ -47583,13 +47506,6 @@
  gramm: N,PN,famn
  paradigm: N-back
  trans_ru: Раянова
-
--lexeme
- lex: Раяпай
- stem: раяпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Рая
 
 -lexeme
  lex: Ревда
@@ -55129,13 +55045,6 @@
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Таня
-
--lexeme
- lex: Таняпай
- stem: таняпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Таня
 
 -lexeme
  lex: Тарабумбия
@@ -66372,13 +66281,6 @@
  gramm: N,PN,persn
  paradigm: N-back
  trans_ru: Юля
-
--lexeme
- lex: Юляпай
- stem: юляпа.
- gramm: N,PN,persn
- paradigm: N-front-j
- trans_ru: тётя Юля
 
 -lexeme
  lex: Юмагулов
