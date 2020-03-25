@@ -10,3 +10,5 @@ This description can be used for morphological analysis of Erzya texts in the fo
 2. The Analyzer directory contains the UniParser set of scripts together with all necessary language files. You can use it to analyze your own frequency word list. Your have to name your list "wordlist.csv" and put it to that directory. Each line should contain one token and its frequency, tab-delimited. When you run analyzer/UniParser/analyze.py, the analyzer will produce two files, one with analyzed tokens, the other with unanalyzed ones. (You can also use other file names and separators with command line options, see the code of analyze.py.) This way, you will not be restricted by my word list, but the analyzer works pretty slowly (expect 300-400 tokens per second).
 
 3. Finally, you are free to convert/adapt the description to whatever kind of morphological analysis you prefer to use.
+
+This software is distributed under the MIT license (see LICENSE.md).
