@@ -1,0 +1,14 @@
+**.pyc
+**/.idea/**
+**/errors.log
+analyzer/wordlist.csv
+analyzer/wordlist.csv-parsed.txt
+analyzer/wordlist.csv-unparsed.txt
+analyzer/wordlist.*
+**.docx
+archive/**
+sources/**
+rus_words.py
+unite_dictionaries.py
+unparsed_reverse_list.txt
+analyzer/UniParser/__pycache__/**
