@@ -35711,3 +35711,35 @@
  gramm: A
  paradigm: A-back
  trans_ru: неспособный
+
+-lexeme
+ lex: рацяня
+ gramm: A
+ stem: рацяня.
+ paradigm: A-front
+ paradigm: A-back
+ trans_ru: развесистый, раскидистый
+
+-lexeme
+ lex: пешксесэ
+ gramm: A,hum,anim
+ stem: пешксесэ.
+ paradigm: A-front
+ paradigm: A-back
+ trans_ru: беременная
+
+-lexeme
+ lex: ёлганя
+ gramm: A
+ stem: ёлганя.
+ paradigm: A-front
+ paradigm: A-back
+ trans_ru: гибкий; стройный
+
+-lexeme
+ lex: кудряв
+ gramm: A,rus
+ stem: кудряв.
+ paradigm: A-front
+ paradigm: A-back
+ trans_ru: кудрявый

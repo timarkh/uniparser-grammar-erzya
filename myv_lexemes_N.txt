@@ -31042,7 +31042,8 @@
  stem: кирькс.
  gramm: N
  paradigm: N-front
- trans_ru: крошка, круг, ободок
+ paradigm: N-back
+ trans_ru: крошка; круг, территория
 
 -lexeme
  lex: кирькске
@@ -36649,6 +36650,7 @@
  stem: кудыкелькс.
  gramm: N
  paradigm: N-front
+ paradigm: N-back
  trans_ru: коридор, сени
 
 -lexeme
@@ -38549,8 +38551,9 @@
  lex: лався
  stem: лався.
  gramm: N
+ paradigm: N-front
  paradigm: N-back
- trans_ru: кухонный шкафчик
+ trans_ru: скамья; скамейка
 
 -lexeme
  lex: лавсяланго
@@ -95342,7 +95345,7 @@
  stem: чилисема.
  gramm: N
  paradigm: N-back
- trans_ru: восход
+ trans_ru: восход; восток
 
 -lexeme
  lex: чимадема
@@ -102351,3 +102354,75 @@
  gramm: N,rus
  paradigm: N-back
  trans_ru: веха
+
+-lexeme
+ lex: кундсемапель
+ gramm: N
+ stem: кундсемапел.
+ paradigm: N-front-soft
+ trans_ru: ловушка, капкан
+
+-lexeme
+ lex: старуха
+ gramm: N,anim,hum,rus
+ stem: старуха.
+ paradigm: N-back
+ trans_ru: старуха
+
+-lexeme
+ lex: сыркай
+ gramm: N,anim,hum
+ stem: сырка.
+ paradigm: N-front-j
+ trans_ru: старуха
+
+-lexeme
+ lex: лембе
+ gramm: N
+ stem: лембе.
+ paradigm: N-front
+ trans_ru: тепло
+
+-lexeme
+ lex: пси
+ gramm: N
+ stem: пси.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: жара, пар
+
+-lexeme
+ lex: эриця
+ gramm: N,anim,hum
+ stem: эриця.
+ paradigm: N-back
+ trans_ru: житель
+
+-lexeme
+ lex: звена
+ gramm: N,rus
+ stem: звена.
+ paradigm: N-back
+ trans_ru: звено
+
+-lexeme
+ lex: зёрна
+ gramm: N,rus
+ stem: зёрна.
+ paradigm: N-back
+ trans_ru: зерно
+
+-lexeme
+ lex: ведьма
+ gramm: N,rus,anim,hum
+ stem: ведьма.
+ paradigm: N-back
+ trans_ru: ведьма, колдунья
+
+-lexeme
+ lex: мурнема
+ gramm: N
+ stem: мурнема.
+ paradigm: N-back
+ trans_ru: ругань, брань
+

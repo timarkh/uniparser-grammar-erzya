@@ -8810,7 +8810,7 @@
  stem: нолдтн.//нолтн.//нолдн.
  gramm: V
  paradigm: V-ye
- trans_ru: выкручивать
+ trans_ru: отпустить, выпустить; освободить
 
 -lexeme
  lex: нолсемс
@@ -11165,6 +11165,13 @@
  trans_ru: появиться
 
 -lexeme
+ lex: правтомс
+ gramm: V,tr
+ stem: правт.
+ paradigm: V-o
+ trans_ru: уронить, свалить
+
+-lexeme
  lex: правтнемс
  stem: правтн.
  gramm: V
@@ -12398,10 +12405,10 @@
 
 -lexeme
  lex: сеземс
- stem: сез.
+ stem: сез.//сей.
  gramm: V
  paradigm: V-ye
- trans_ru: взорвать, оборвать
+ trans_ru: сорвать, разорвать
 
 -lexeme
  lex: сезнемс
@@ -16300,7 +16307,7 @@
  stem: чавн.
  gramm: V
  paradigm: V-o
- trans_ru: давить, обить
+ trans_ru: давить, забить
 
 -lexeme
  lex: чавомс
@@ -17764,7 +17771,7 @@
  stem: эр.
  gramm: V
  paradigm: V-ya
- trans_ru: жить, существовать
+ trans_ru: жить, существовать; случиться, бывать
 
 -lexeme
  lex: эрямс-аштемс
@@ -18451,4 +18458,32 @@
  gramm: V
  paradigm: V-o
  trans_ru: выбежать, выскочить
+
+-lexeme
+ lex: ушолемс
+ gramm: V,tr
+ stem: ушол.
+ paradigm: V-ye
+ trans_ru: начинать, начать; возобновить
+
+-lexeme
+ lex: велявтомс
+ gramm: V,intr
+ stem: велявт-сть.
+ paradigm: Clitics
+ trans_ru: вернуться; вернуть; отвернуться; повернуть
+
+-lexeme
+ lex: лопавтемс
+ gramm: V,tr
+ stem: лопавт.
+ paradigm: V-ye
+ trans_ru: намочить, замочить
+
+-lexeme
+ lex: тикшиякшномс
+ gramm: V,intr
+ stem: тикшиякшн.
+ paradigm: V-o
+ trans_ru: зарастать травой
 

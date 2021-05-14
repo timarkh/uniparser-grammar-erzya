@@ -67388,3 +67388,47 @@
  paradigm: N-back
  trans_ru: Ященко
 
+-lexeme
+ lex: Вармазейка
+ gramm: N,PN,topn
+ stem: вармазейка.
+ paradigm: N-back
+ trans_ru: Вармазейка
+
+-lexeme
+ lex: Прокопыч
+ gramm: N,patrn,PN
+ stem: прокопыч.
+ paradigm: N-back
+ trans_ru: Прокопыч
+
+-lexeme
+ lex: Григорь
+ gramm: N,persn,PN
+ stem: григор.
+ paradigm: N-front-soft
+ trans_ru: Григорий
+
+-lexeme
+ lex: Мироныч
+ gramm: N,patrn,PN
+ stem: мироныч.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Миронович
+
+-lexeme
+ lex: Пичинкин
+ gramm: N,famn,PN
+ stem: пичинкин.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Пичинкин
+
+-lexeme
+ lex: Вармазейка
+ gramm: N,topn,PN
+ stem: вармазейка.
+ paradigm: N-back
+ trans_ru: Вармазейка
+

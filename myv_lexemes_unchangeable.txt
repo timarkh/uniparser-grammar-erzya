@@ -2266,6 +2266,13 @@
  trans_ru: накануне; напротив
 
 -lexeme
+ lex: каршо
+ gramm: POST
+ stem: каршо.
+ paradigm: Clitics
+ trans_ru: против, напротив; навстречу
+
+-lexeme
  lex: кашерно
  stem: кашерно.
  gramm: ADV,rus
@@ -2741,6 +2748,7 @@
  stem: кувалма.
  gramm: POST
  paradigm: Clitics
+ paradigm: POST-poss-back-vowel
  trans_ru: вдоль, из-за, по, ради
 
 -lexeme
@@ -3599,6 +3607,7 @@
  stem: мельга.
  gramm: POST
  paradigm: Clitics
+ paradigm: POST-poss-back-vowel
  trans_ru: вслед, за, позади
 
 -lexeme
@@ -7396,3 +7405,101 @@
  gramm: ADV
  paradigm: Clitics
  trans_ru: умело
+
+-lexeme
+ lex: чияк
+ gramm: ADV
+ stem: чияк.
+ paradigm: Clitics
+ trans_ru: недавно
+
+-lexeme
+ lex: прянек-пильгенек
+ gramm: ADV
+ stem: прянек-пильгенек.
+ paradigm: Clitics
+ trans_ru: целиком, полностью
+
+-lexeme
+ lex: валске
+ gramm: ADV
+ stem: валске.
+ paradigm: Clitics
+ trans_ru: 
+
+-lexeme
+ lex: алов
+ gramm: POST
+ stem: алов.
+ paradigm: Clitics
+ trans_ru: вниз
+
+-lexeme
+ lex: теке
+ gramm: CONJ
+ stem: теке.
+ paradigm: Clitics
+ trans_ru: как будто, словно
+
+-lexeme
+ lex: теке
+ gramm: PART
+ stem: теке.
+ paradigm: Clitics
+ trans_ru: только, лишь
+
+-lexeme
+ lex: клянськ
+ gramm: IMIT
+ stem: клянськ.
+ paradigm: Clitics
+ trans_ru: звяк-звяк, звяканье
+
+-lexeme
+ lex: динь-динь
+ gramm: IMIT
+ stem: динь-динь.
+ paradigm: Clitics
+ trans_ru: дзинь-дзинь
+
+-lexeme
+ lex: эхе
+ gramm: INTRJ
+ stem: эхе.
+ paradigm: Clitics
+ trans_ru: эх
+
+-lexeme
+ lex: виде
+ gramm: PARENTH
+ stem: виде.
+ paradigm: Clitics
+ trans_ru: действительно, на самом деле
+
+-lexeme
+ lex: неяви
+ gramm: PARENTH
+ stem: неяви.
+ paradigm: Clitics
+ trans_ru: наверное; кажется
+
+-lexeme
+ lex: сех
+ gramm: PART
+ stem: сех.
+ paradigm: Clitics
+ trans_ru: самый
+
+-lexeme
+ lex: ансяк
+ gramm: PART
+ stem: анцяк.
+ paradigm: Clitics
+ trans_ru: только, лишь
+
+-lexeme
+ lex: натой
+ gramm: PART
+ stem: натой.
+ paradigm: Clitics
+ trans_ru: даже

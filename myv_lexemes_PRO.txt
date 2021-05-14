@@ -1362,7 +1362,7 @@
  lex: кодамо
  stem: кодамо.
  gramm: APRO
- paradigm: Clitics
+ paradigm: A-back
  trans_ru: какой
 
 -lexeme
@@ -1453,7 +1453,7 @@
  lex: кой-кодамо
  stem: кой-кодамо.
  gramm: APRO
- paradigm: Clitics
+ paradigm: A-back
  trans_ru: кое-какой
 
 -lexeme
@@ -1657,9 +1657,9 @@
 
 -lexeme
  lex: мезень
- stem: мезень.
+ stem: мезен.
  gramm: APRO
- paradigm: Clitics
+ paradigm: A-front-soft
  trans_ru: какой
 
 -lexeme
@@ -1762,9 +1762,9 @@
 
 -lexeme
  lex: мень
- stem: мень.
+ stem: мен.
  gramm: APRO
- paradigm: Clitics
+ paradigm: A-front-soft
  trans_ru: за что?, какой
 
 -lexeme
@@ -1834,7 +1834,7 @@
  lex: та-кодамо
  stem: та-кодамо.
  gramm: APRO
- paradigm: Clitics
+ paradigm: A-back
  trans_ru: какой-то, неведомый, некоторый
 
 -lexeme
@@ -1918,7 +1918,7 @@
  lex: таго-кодамо
  stem: таго-кодамо.
  gramm: APRO
- paradigm: Clitics
+ paradigm: A-back
  trans_ru: какой-то
 
 -lexeme
