@@ -33754,7 +33754,7 @@
 
 -lexeme
  lex: чопода
- stem: чопода.
+ stem: чопода.//чопуда.
  gramm: A
  paradigm: A-back
  trans_ru: тёмный
@@ -35743,3 +35743,33 @@
  paradigm: A-front
  paradigm: A-back
  trans_ru: кудрявый
+
+-lexeme
+ lex: весемасторонь
+ gramm: A
+ stem: весемасторон.
+ paradigm: A-front-soft
+ trans_ru: международный
+
+-lexeme
+ lex: потмура
+ gramm: A
+ stem: потмура.
+ paradigm: A-back
+ trans_ru: пасмурный, хмурый
+
+-lexeme
+ lex: разнэ
+ gramm: A,rus
+ stem: разнэ.
+ paradigm: A-front
+ paradigm: A-back
+ trans_ru: разный
+
+-lexeme
+ lex: азарсь
+ gramm: A
+ stem: азарс.
+ paradigm: A-front-soft
+ trans_ru: бешенный, сумасшедший
+

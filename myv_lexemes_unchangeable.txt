@@ -1198,8 +1198,8 @@
  trans_ru: ночами
 
 -lexeme
- lex: веньберть
- stem: веньберть.
+ lex: веньперть
+ stem: веньперть.//веньберть.
  gramm: ADV
  paradigm: Clitics
  trans_ru: всю ночь
@@ -3451,6 +3451,15 @@
  stem: маласто.|маласт.
  gramm: POST
  paradigm: Clitics
+ paradigm: POST-poss-back-vowel
+ trans_ru: вблизи, около, от, у
+
+-lexeme
+ lex: маласо
+ stem: маласо.//малазо.
+ gramm: POST
+ paradigm: Clitics
+ paradigm: POST-poss-back-vowel
  trans_ru: вблизи, около, от, у
 
 -lexeme
@@ -3534,7 +3543,7 @@
 
 -lexeme
  lex: меельцек
- stem: меельцек.
+ stem: меельцек.//мельцек.
  gramm: ADV
  paradigm: Clitics
  trans_ru: друг за другом, по очереди
@@ -5328,6 +5337,13 @@
  trans_ru: бесплатно, напрасно
 
 -lexeme
+ lex: астяко
+ stem: астяко.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: неспроста, недаром
+
+-lexeme
  lex: стякодо
  stem: стякодо.
  gramm: ADV
@@ -5636,6 +5652,13 @@
  trans_ru: сегодня
 
 -lexeme
+ lex: течимс
+ stem: течимс.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: до сегодняшнего дня
+
+-lexeme
  lex: течи-валске
  stem: течи-валске.|течи-валск.
  gramm: ADV
@@ -5911,6 +5934,13 @@
 -lexeme
  lex: удалга
  stem: удалга.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: сзади
+
+-lexeme
+ lex: удалдо
+ stem: удалдо.
  gramm: POST
  paradigm: Clitics
  trans_ru: сзади
@@ -6946,7 +6976,7 @@
 
 -lexeme
  lex: эйстэ
- stem: эйсте.
+ stem: эйсте.//эсте.
  gramm: POST,missp
  paradigm: Clitics
  paradigm: POST-poss-front-vowel
@@ -6954,7 +6984,7 @@
 
 -lexeme
  lex: эйстэ
- stem: эйстэ.
+ stem: эйстэ.//эстэ.
  gramm: POST
  paradigm: Clitics
  paradigm: POST-poss-front-vowel
@@ -6962,7 +6992,7 @@
 
 -lexeme
  lex: эйстэде
- stem: эйстеде.
+ stem: эйстеде.//эстеде.
  gramm: POST,pl,missp
  paradigm: Clitics
  paradigm: POST-poss-front-vowel
@@ -6970,7 +7000,7 @@
 
 -lexeme
  lex: эйстэде
- stem: эйстэде.
+ stem: эйстэде.//эстэде.
  gramm: POST,pl
  paradigm: Clitics
  paradigm: POST-poss-front-vowel
@@ -6986,7 +7016,7 @@
 
 -lexeme
  lex: эйсэ
- stem: эйсэ.
+ stem: эйсэ.//эснэ.
  gramm: POST
  paradigm: Clitics
  paradigm: POST-poss-front-vowel
@@ -7090,6 +7120,13 @@
  gramm: INTRJ
  paradigm: Clitics
  trans_ru: ну, давай
+
+-lexeme
+ lex: давай
+ stem: давай.
+ gramm: INTRJ,rus
+ paradigm: Clitics
+ trans_ru: давай
 
 -lexeme
  lex: эрьга
@@ -7423,7 +7460,7 @@
 -lexeme
  lex: валске
  gramm: ADV
- stem: валске.
+ stem: валске.//валське.
  paradigm: Clitics
  trans_ru: 
 
@@ -7503,3 +7540,45 @@
  stem: натой.
  paradigm: Clitics
  trans_ru: даже
+
+-lexeme
+ lex: господи
+ stem: господи.
+ gramm: INTRJ,rus
+ paradigm: Clitics
+ trans_ru: господи
+
+-lexeme
+ lex: улко
+ stem: улко.
+ gramm: ADV
+ paradigm: Clitics
+ trans_ru: совсем недавно, намедни
+
+-lexeme
+ lex: заочна
+ gramm: ADV,rus
+ stem: заочна.
+ paradigm: Clitics
+ trans_ru: заочно
+
+-lexeme
+ lex: куть
+ gramm: PART,rus
+ stem: куть.
+ paradigm: Clitics
+ trans_ru: хоть
+
+-lexeme
+ lex: коть
+ gramm: PART,rus
+ stem: коть.
+ paradigm: Clitics
+ trans_ru: хоть
+
+-lexeme
+ lex: дык
+ gramm: PART,rus
+ stem: дык.
+ paradigm: Clitics
+ trans_ru: дык

@@ -756,7 +756,7 @@
 
 -lexeme
  lex: сынь
- stem: сынстемест.
+ stem: сынстемест.//сынтемест.
  gramm: PRO,3,pl,car
  paradigm: Clitics
  trans_ru: они
@@ -799,7 +799,7 @@
 
 -lexeme
  lex: сынь
- stem: сынстемест.
+ stem: сынстемест.//сынтемест.
  gramm: PRO,3,pl,car,def
  paradigm: Clitics
  trans_ru: они
@@ -1046,6 +1046,13 @@
 -lexeme
  lex: зняро
  stem: зняро.
+ gramm: ADVPRO
+ paradigm: Clitics
+ trans_ru: сколько
+
+-lexeme
+ lex: знярс
+ stem: знярс.
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: сколько
@@ -2028,7 +2035,7 @@
 
 -lexeme
  lex: тесэ
- stem: тесэ.
+ stem: тесэ.//тезэ.
  gramm: ADVPRO
  paradigm: Clitics
  paradigm: pl-front-vowel

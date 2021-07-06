@@ -195,7 +195,7 @@
   gramm: nom,pl,1sg
   gloss: PL.1SG
   paradigm: Clitics
- -flex: .тне<.>//.тьне<.>//.[мо]тне<.>//.[мо]тьне<.>
+ -flex: .тне<.>//.тьне<.>//.[мо]тне<.>//.[мо]тьне<.>//.тнэ<.>//.тьнэ<.>//.[мо]тнэ<.>//.[мо]тьнэ<.>
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
@@ -288,7 +288,7 @@
   gramm: pl,def
   gloss: PL.DEF
   paradigm: N-case_def_pl
- -flex: .[ь]це<.>//.це<.>
+ -flex: .[ь]це<.>//.еце<.>//.це<.>
   gramm: ord
   gloss: ORD
   paradigm: A-front
@@ -678,7 +678,6 @@
  -flex: .тэ<.>
   gramm: abl
   gloss: ABL
-  regex-prev: .*[кпстфхцчшщ][<>.]*$
   paradigm: N-poss-front-vowel
  -flex: .сэ<.>
   gramm: loc
@@ -1136,7 +1135,7 @@
   gloss: ABL
   regex-prev: .*[кпстфхцчшщ][<>.]*$
   paradigm: N-poss-back-vowel
- -flex: .со<.>
+ -flex: .со<.>//.ссо<.>
   gramm: loc
   gloss: LOC
   paradigm: N-poss-back-vowel
@@ -1346,6 +1345,8 @@
   gloss: PL.3SG
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
  paradigm: Clitics
+ paradigm: Pred-front-vowel
+ paradigm: Pred-front-consonant
 
 -paradigm: N-poss-front-vowel
  -flex: .<.>
@@ -1385,6 +1386,8 @@
   gramm: pl,3sg,missp
   gloss: PL.3SG
  paradigm: Clitics
+ paradigm: Pred-front-vowel
+ paradigm: Pred-front-consonant
 
 -paradigm: N-poss-front-soft
  -flex: .[ь]<.>
@@ -1424,6 +1427,8 @@
   gramm: pl,3sg,missp
   gloss: PL.3SG
  paradigm: Clitics
+ paradigm: Pred-front-vowel
+ paradigm: Pred-front-consonant
 
 -paradigm: N-poss-front-j
  -flex: .[й]<.>
@@ -1463,6 +1468,8 @@
   gramm: pl,3sg,missp
   gloss: PL.3SG
  paradigm: Clitics
+ paradigm: Pred-front-vowel
+ paradigm: Pred-front-consonant
 
 -paradigm: N-poss-back-consonant
  -flex: .<.>
@@ -1500,6 +1507,8 @@
   gramm: pl,3sg
   gloss: PL.3SG
  paradigm: Clitics
+ paradigm: Pred-back-vowel
+ paradigm: Pred-back-consonant
 
 -paradigm: N-poss-back-vowel
  -flex: .<.>
@@ -1537,6 +1546,8 @@
   gramm: pl,3sg
   gloss: PL.3SG
  paradigm: Clitics
+ paradigm: Pred-back-vowel
+ paradigm: Pred-back-consonant
 
 
 
@@ -1726,13 +1737,13 @@
  paradigm: Clitics
 
 -paradigm: N-case_def_sg-front-soft
- -flex: .есь<.>
+ -flex: .есь<.>//.[ь]сь<.>
   gramm: nom,def
   gloss: DEF
- -flex: .енть<.>//.еньть<.>//.есть<.>
+ -flex: .енть<.>//.еньть<.>//.есть<.>//.[ь]сть<.>
   gramm: gen,def
   gloss: GEN.DEF
- -flex: .ент|ень<.>//.еньт|ень<.>//.ест|ень<.>
+ -flex: .ент|ень<.>//.еньт|ень<.>//.ест|ень<.>//.[ь]ст|ень<.>
   gramm: dat,def
   gloss: DEF|DAT
  -flex: .де|нть<.>//.[ь]де|нть<.>//.де|сть<.>//.[ь]де|сть<.>
@@ -1755,7 +1766,7 @@
  -flex: .[ь]сте|нть<.>//.[ь]сте|сть<.>
   gramm: el,def,missp
   gloss: EL|DEF
- -flex: .ент|ень<.>//.еньт|ень<.>//.ест|ень<.>
+ -flex: .ент|ень<.>//.еньт|ень<.>//.ест|ень<.>//.[ь]ст|ень<.>
   gramm: ill,def
   gloss: DEF|ILL
  -flex: .[ь]га|нть<.>//.[ь]га|сть<.>
@@ -1856,7 +1867,7 @@
  paradigm: Clitics
 
 -paradigm: N-case_def_sg-back-consonant
- -flex: .ось<.>
+ -flex: .ось<.>//.сь<.>
   gramm: nom,def
   gloss: DEF
  -flex: .онть<.>//.оньть<.>//.ость<.>
@@ -3042,7 +3053,7 @@
   gramm: imp,2.s,sg.s
   gloss: IMP.2SG
   regex-prev: .*[аеёиоуыэюя][<>.]*$
- -flex: .т<.>
+ -flex: .т<.>//.та<.>
   gramm: imp,2.s,sg.s
   gloss: IMP.2SG
   regex-prev: .*[^<>.аеёиоуыэюя][<>.]*$
@@ -3059,7 +3070,7 @@
   gramm: imp,2.s,sg.s
   gloss: IMP.2SG
   regex-prev: .*[аеёиоуыэюя][<>.]*$
- -flex: .ть<.>
+ -flex: .ть<.>//.те<.>
   gramm: imp,2.s,sg.s
   gloss: IMP.2SG
   regex-prev: .*[^<>.аеёиоуыэюя][<>.]*$
@@ -3139,9 +3150,17 @@
  -flex: .отано<.>//.тано<.>//.отанок<.>//.танок<.>
   gramm: 1.s,pl.s,npst
   gloss: NPST.1PL
+ -flex: .дано<.>//.данок<.>
+  gramm: 1.s,pl.s,npst
+  gloss: NPST.1PL
+  regex-prev: .*[бвгджзйлмнр]ь?[<>.]*$
  -flex: .отадо<.>//.тадо<.>
   gramm: 2.s,pl.s,npst
   gloss: NPST.2PL
+ -flex: .дадо<.>
+  gramm: 2.s,pl.s,npst
+  gloss: NPST.2PL
+  regex-prev: .*[бвгджзйлмнр]ь?[<>.]*$
  -flex: .ыть<.>
   gramm: 3.s,pl.s,npst
   gloss: NPST.3PL
@@ -3531,6 +3550,7 @@
  -flex: .ть<.>//.[ь]ть<.>
   gramm: 3.s,pl.s,pst,non_obj
   gloss: PST.3PL
+ paradigm: Clitics
 
 -paradigm: V-pst-ezj
  -flex: .и|нь<.>

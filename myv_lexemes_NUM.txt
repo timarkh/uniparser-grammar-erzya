@@ -343,7 +343,7 @@
 
 -lexeme
  lex: сисем
- stem: сисем.//7-.//vii-.
+ stem: сисем.//сисемь.//7-.//vii-.
  gramm: NUM
  paradigm: NUM-front
  trans_ru: семь

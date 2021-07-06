@@ -12508,6 +12508,7 @@
  stem: верьгиз.//вергиз.
  gramm: N,anim
  paradigm: N-front
+ paradigm: N-back
  trans_ru: волк
 
 -lexeme
@@ -21838,7 +21839,7 @@
 
 -lexeme
  lex: зепе
- stem: зепе.
+ stem: зепе.//зеп.
  gramm: N
  paradigm: N-front
  trans_ru: карман
@@ -34588,6 +34589,20 @@
  trans_ru: терпение, угождение
 
 -lexeme
+ lex: корм
+ stem: корм.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: корм
+
+-lexeme
+ lex: кором
+ stem: кором.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: корм
+
+-lexeme
  lex: кормозапарник
  stem: кормозапарник.
  gramm: N,rus
@@ -37886,6 +37901,13 @@
  trans_ru: курс
 
 -lexeme
+ lex: курса
+ stem: курса.
+ gramm: N,rus
+ paradigm: N-back
+ trans_ru: курс
+
+-lexeme
  lex: курсант
  stem: курсант.
  gramm: N,rus,anim,hum
@@ -38219,7 +38241,7 @@
 
 -lexeme
  lex: кши
- stem: кши.
+ stem: кши.//кше.
  gramm: N
  paradigm: N-front
  trans_ru: хлеб
@@ -43207,7 +43229,7 @@
 
 -lexeme
  lex: мар
- stem: мар.
+ stem: мар.//маар.
  gramm: N
  paradigm: N-back
  trans_ru: груда, курган, куча, холм
@@ -59601,6 +59623,13 @@
  trans_ru: тыква (пареная)
 
 -lexeme
+ lex: пеця
+ stem: пеця.
+ gramm: N,time_meas
+ paradigm: N-back
+ trans_ru: пятница
+
+-lexeme
  lex: печатник
  stem: печатник.
  gramm: N,rus,anim,hum
@@ -64988,6 +65017,7 @@
  lex: поэт
  stem: поэт.
  gramm: N,rus,anim,hum
+ paradigm: N-back
  paradigm: N-front
  trans_ru: поэт
 
@@ -79787,7 +79817,14 @@
 -lexeme
  lex: суббота
  stem: суббота.
- gramm: N,rus
+ gramm: N,rus,time_meas
+ paradigm: N-back
+ trans_ru: суббота
+
+-lexeme
+ lex: субута
+ stem: субута.
+ gramm: N,rus,time_meas
  paradigm: N-back
  trans_ru: суббота
 
@@ -79846,7 +79883,7 @@
  stem: субтитыр.
  gramm: N,rus
  paradigm: N-back
- trans_ru: субтитыр
+ trans_ru: субтитры
 
 -lexeme
  lex: субъект
@@ -81925,7 +81962,7 @@
 
 -lexeme
  lex: сёрма
- stem: сёрма.
+ stem: сёрма.//серма.
  gramm: N
  paradigm: N-back
  trans_ru: письмо, послание, узор
@@ -83161,7 +83198,7 @@
 
 -lexeme
  lex: тевтеема
- stem: тевтеема.
+ stem: тевтеема.//тевдеема.
  gramm: N
  paradigm: N-back
  trans_ru: мероприятие
@@ -85529,7 +85566,7 @@
 
 -lexeme
  lex: торама
- stem: торама.
+ stem: торама.//дорамо.
  gramm: N
  paradigm: N-back
  trans_ru: труба (музыкальный инструмент)
@@ -102283,7 +102320,7 @@
  stem: ёнкс.//енкс.//ёҥкс.//еҥкс.
  gramm: N
  paradigm: N-back
- trans_ru: аспект, сторона; район
+ trans_ru: область; аспект, сторона
 
 -lexeme
  lex: ёнкске
@@ -102425,4 +102462,111 @@
  stem: мурнема.
  paradigm: N-back
  trans_ru: ругань, брань
+
+-lexeme
+ lex: зоря
+ gramm: N,rus
+ stem: зоря.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: заря
+
+-lexeme
+ lex: волокна
+ gramm: N,rus
+ stem: волокна.
+ paradigm: N-back
+ trans_ru: волокно
+
+-lexeme
+ lex: пазмариця
+ gramm: N,anim,hum
+ stem: пазмариця.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: пророк
+
+-lexeme
+ lex: часия
+ gramm: N,rus
+ stem: часия.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: счастье, доля
+
+-lexeme
+ lex: гайть
+ gramm: N
+ stem: гайт.
+ paradigm: N-front-soft
+ trans_ru: звон, звук
+
+-lexeme
+ lex: дядя
+ gramm: N,anim,hum,rus
+ stem: дядя.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: дядя
+
+-lexeme
+ lex: чуда
+ gramm: N,rus
+ stem: чуда.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: чудо
+
+-lexeme
+ lex: кирьпець
+ gramm: N,rus
+ stem: кирьпец.
+ paradigm: N-front-soft
+ trans_ru: кирпич
+
+-lexeme
+ lex: немець
+ gramm: N,anim,hum,rus
+ stem: немец.
+ paradigm: N-front-soft
+ trans_ru: немец
+
+-lexeme
+ lex: ремесла
+ gramm: N,rus
+ stem: ремесла.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: ремесло
+
+-lexeme
+ lex: книжник
+ gramm: N,anim,hum,rus
+ stem: книжник.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: книжник
+
+-lexeme
+ lex: пейделька
+ gramm: N
+ stem: пейделька.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: ромашка
+
+-lexeme
+ lex: трудий
+ gramm: N,anim,hum,rus
+ stem: труди.
+ paradigm: N-front-j
+ trans_ru: трудящийся
+
+-lexeme
+ lex: моря
+ gramm: N,rus
+ stem: моря.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: море
 

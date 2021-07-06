@@ -1491,7 +1491,7 @@
 
 -lexeme
  lex: валгомс
- stem: валг.
+ stem: валг.//валк.
  gramm: V
  paradigm: V-o
  trans_ru: спуститься
@@ -6035,7 +6035,7 @@
 
 -lexeme
  lex: куземс
- stem: куз.
+ stem: куз.//куй.
  gramm: V
  paradigm: V-ye
  trans_ru: подняться; лезть
@@ -10928,7 +10928,7 @@
 
 -lexeme
  lex: понгомс
- stem: понг.
+ stem: понг.//понк.
  gramm: V
  paradigm: V-o
  trans_ru: попасть; попасться; подавиться
@@ -12362,9 +12362,16 @@
  trans_ru: добиться, достаться, хватать
 
 -lexeme
+ lex: сатномс
+ stem: сатн.
+ gramm: V,mult
+ paradigm: V-o
+ trans_ru: хватать, доставаться
+
+-lexeme
  lex: сацтнемс
  stem: сацтн.
- gramm: V
+ gramm: V,mult
  paradigm: V-ye
  trans_ru: дотягиваться
 
@@ -16535,7 +16542,7 @@
 
 -lexeme
  lex: чачомс
- stem: чач.
+ stem: чач.//шач.
  gramm: V
  paradigm: V-o
  trans_ru: родиться
@@ -16962,14 +16969,14 @@
 
 -lexeme
  lex: чоподамс
- stem: чопод.
+ stem: чопод.//чопуд.
  gramm: V
  paradigm: V-a
  trans_ru: загораживать свет
 
 -lexeme
  lex: чоподемс
- stem: чопод.
+ stem: чопод.//чопуд.
  gramm: V
  paradigm: V-ye
  trans_ru: вечереть
@@ -18487,3 +18494,9 @@
  paradigm: V-o
  trans_ru: зарастать травой
 
+-lexeme
+ lex: тенямс
+ stem: тен.
+ gramm: V
+ paradigm: V-ya
+ trans_ru: это самое (маркер хезитации)
