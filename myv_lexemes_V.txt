@@ -16577,10 +16577,10 @@
 
 -lexeme
  lex: чевелямс
- stem: чевел.
+ stem: чевел.//чевил.
  gramm: V
  paradigm: V-ya
- trans_ru: жевать (о беззубых)
+ trans_ru: мять, жевать (о беззубых)
 
 -lexeme
  lex: чевтелгадомс
@@ -18500,3 +18500,67 @@
  gramm: V
  paradigm: V-ya
  trans_ru: это самое (маркер хезитации)
+
+-lexeme
+ lex: потомтнемс
+ gramm: V,intr
+ stem: потомтн.
+ paradigm: V-ye
+ trans_ru: закрываться
+
+-lexeme
+ lex: нарсемс
+ gramm: V,intr
+ stem: нарс.
+ paradigm: V-ye
+ trans_ru: многокр. к стричь, брить, стричься, бриться
+
+-lexeme
+ lex: чалксемс
+ gramm: V,tr
+ stem: чалкс.
+ paradigm: V-ye
+ trans_ru: многокр. к наступить, мять
+
+-lexeme
+ lex: ноцковтнемс
+ gramm: V,tr
+ stem: ноцковтн.
+ paradigm: V-ye
+ trans_ru: многокр. к дёрнуть, вырвать
+
+-lexeme
+ lex: пувсемс
+ gramm: V,intr
+ stem: пувс.
+ paradigm: V-ye
+ trans_ru: многокр. к дуть, подуть, веять, развеять
+
+-lexeme
+ lex: оршамс
+ gramm: V,tr
+ stem: оршамо.
+ paradigm: Clitics
+ trans_ru: надеть на себя
+
+-lexeme
+ lex: праздновамс
+ gramm: V,tr,rus
+ stem: празднов.
+ paradigm: V-a
+ trans_ru: праздновать
+
+-lexeme
+ lex: кортавомс
+ gramm: V,intr
+ stem: кортав.
+ paradigm: V-o
+ trans_ru: возм. к говорить
+
+-lexeme
+ lex: капоемс
+ gramm: V,intr
+ stem: капо.
+ paradigm: V-ye
+ trans_ru: многокр. к схватить, уцепиться
+

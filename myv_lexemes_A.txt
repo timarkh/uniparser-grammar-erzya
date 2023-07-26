@@ -35773,3 +35773,39 @@
  paradigm: A-front-soft
  trans_ru: бешенный, сумасшедший
 
+-lexeme
+ lex: ало
+ gramm: A
+ stem: ало.
+ paradigm: A-back
+ trans_ru: нижний
+
+-lexeme
+ lex: вере
+ gramm: A
+ stem: вере.
+ paradigm: A-front
+ trans_ru: верхний
+
+-lexeme
+ lex: куватень
+ gramm: A
+ stem: куватен.
+ paradigm: A-front-soft
+ trans_ru: долгий
+
+-lexeme
+ lex: бизьгатаев
+ gramm: A
+ stem: бизьгатаев.
+ paradigm: A-front
+ paradigm: A-back
+ trans_ru: веснушчатый
+
+-lexeme
+ lex: банок
+ gramm: A,rus
+ stem: банок.
+ paradigm: A-back
+ trans_ru: банка
+

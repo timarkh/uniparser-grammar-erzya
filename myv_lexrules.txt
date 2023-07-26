@@ -17550,3 +17550,44 @@
  -add
   trans_ru2: бросок; вычитание; отбросы
 
+
+-lex_rule
+ -search
+  lex: ланг
+  gramm: N.*rel_n.*
+  gloss: STEM-ILL
+ -add
+  trans_ru2: на; у, около
+
+-lex_rule
+ -search
+  lex: вакс
+  gramm: N.*rel_n.*
+  gloss: STEM-LOC
+ -add
+  trans_ru2: около, рядом
+
+-lex_rule
+ -search
+  lex: пот
+  gramm: N.*rel_n.*
+  gloss: STEM-ILL
+ -add
+  trans_ru2: в
+
+-lex_rule
+ -search
+  lex: пот
+  gramm: N.*rel_n.*
+  gloss: STEM-EL
+ -add
+  trans_ru2: из
+
+-lex_rule
+ -search
+  lex: ютко
+  gramm: N.*rel_n.*
+  gloss: STEM-PROL
+ -add
+  trans_ru2: между, среди
+

@@ -2310,10 +2310,14 @@
 -paradigm: V-a-proper
  -flex: .<.>
   gramm: non_obj
-  paradigm: V-npst-a
   paradigm: V-pst-a
+ -flex: .<.>
+  gramm: non_obj,npst
+  paradigm: V-npst-a
  -flex: .[а]<.>
+  gramm: npst
   paradigm: V-npst-obj
+ -flex: .[а]<.>
   paradigm: V-opt
   paradigm: V-imp-back
  -flex: .[а]<.>
@@ -2440,11 +2444,15 @@
 
 -paradigm: V-ya-proper
  -flex: .<.>
-  gramm: non_obj
+  gramm: non_obj,npst
   paradigm: V-npst-ya
+ -flex: .<.>
+  gramm: non_obj
   paradigm: V-pst-ya
  -flex: .[я]<.>
+  gramm: npst
   paradigm: V-npst-obj
+ -flex: .[я]<.>
   paradigm: V-imp-back
   paradigm: V-opt
  -flex: .[я]<.>
@@ -2530,17 +2538,24 @@
 
 -paradigm: V-o-proper
  -flex: .<.>
-  gramm: non_obj
+  gramm: non_obj,npst
   paradigm: V-npst-o
+ -flex: .<.>
+  gramm: non_obj
   paradigm: V-opt-o
   paradigm: V-pst-o
  -flex: .о<.>//.<.>
+  gramm: npst
   paradigm: V-npst-obj
+ -flex: .о<.>//.<.>
   paradigm: V-imp-back
+ -flex: .а<.>//.<.>
+  gramm: npst,missp
+  regex-prev: ^(ловн|ванст)[<>.]*$
+  paradigm: V-npst-obj
  -flex: .а<.>//.<.>
   gramm: missp
   regex-prev: ^(ловн|ванст)[<>.]*$
-  paradigm: V-npst-obj
   paradigm: V-imp-back
  -flex: .о<.>//.<.>
   gramm: neg
@@ -2666,15 +2681,21 @@
 
 -paradigm: V-yo-proper
  -flex: .<.>
-  gramm: non_obj
+  gramm: non_obj,npst
   paradigm: V-npst-ye
+ -flex: .<.>
+  gramm: non_obj
   paradigm: V-opt-ye
   paradigm: V-pst-ye
  -flex: .ё<.>//.[ь]<.>
+  gramm: npst
   paradigm: V-npst-obj
+ -flex: .ё<.>//.[ь]<.>
   paradigm: V-imp-back
  -flex: .<.>
+  gramm: npst
   paradigm: V-npst-obj
+ -flex: .<.>
   paradigm: V-imp-front
   regex-next: ^[<>.]*[дт][ьеи].*
  -flex: .ё<.>//.[ь]<.>
@@ -2766,12 +2787,16 @@
 
 -paradigm: V-e-proper
  -flex: .<.>
-  gramm: non_obj
+  gramm: non_obj,npst
   paradigm: V-npst-e
+ -flex: .<.>
+  gramm: non_obj
   paradigm: V-opt-e
   paradigm: V-pst-e
  -flex: .э<.>//.<.>
+  gramm: npst
   paradigm: V-npst-obj
+ -flex: .э<.>//.<.>
   paradigm: V-imp-front
  -flex: .э<.>//.<.>
   gramm: neg
@@ -2901,20 +2926,29 @@
 
 -paradigm: V-ye-proper
  -flex: .<.>
-  gramm: non_obj
+  gramm: non_obj,npst
   paradigm: V-npst-ye
+  paradigm: V-npst-obj-soft
+ -flex: .<.>
+  gramm: non_obj
   paradigm: V-opt-ye
   paradigm: V-pst-ye
-  paradigm: V-npst-obj-soft
  -flex: .е<.>//.[ь]<.>
+  gramm: npst
   paradigm: V-npst-obj
+ -flex: .е<.>//.[ь]<.>
   paradigm: V-imp-front
  -flex: .и<.>
-  gramm: missp
+  gramm: npst,missp
   paradigm: V-npst-obj
+ -flex: .и<.>
+  gramm: missp
   paradigm: V-imp-front
  -flex: .<.>
+  gramm: npst
   paradigm: V-npst-obj
+  regex-next: ^[<>.]*[дт][ьеи].*
+ -flex: .<.>
   paradigm: V-imp-front
   regex-next: ^[<>.]*[дт][ьеи].*
  -flex: .е<.>//.[ь]<.>
@@ -2927,7 +2961,11 @@
   paradigm: V-npst-obj
   regex-prev: (.*[бвгжкмпхчшщ]|^не|^му|^ту)[<>.]*$
  -flex: .[й]<.>
+  gramm: npst
   paradigm: V-npst-obj
+  regex-prev: .*[аеёиоуыэюя][<>.]*$
+ -flex: .[й]<.>
+  paradigm: V-imp-front
   regex-prev: .*[аеёиоуыэюя][<>.]*$
  -flex: .ез<.>
   gramm: ptcp.pst
@@ -3458,7 +3496,7 @@
   gramm: 2.s,sg.s,pst
   gloss: PST.2SG
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
- -flex: .ось<.>//.сь<.>
+ -flex: .отсь<.>//.ось<.>//.сь<.>
   gramm: 3.s,sg.s,pst
   gloss: PST.3SG
  -flex: .ь<.>
@@ -3479,9 +3517,13 @@
   gramm: 2.s,pl.s,pst
   gloss: PST.2PL
   regex-prev: .*[бвгжкмпхчшщ][<>.]*$
- -flex: .ость<.>//.сть<.>
+ -flex: .отсть<.>//.ость<.>//.сть<.>
   gramm: 3.s,pl.s,pst
   gloss: PST.3PL
+ -flex: .ть<.>
+  gramm: 3.s,pl.s,pst
+  gloss: PST.3PL
+  regex-prev: .*с[<>.]*$
  paradigm: Clitics
 
 -paradigm: V-pst-e
@@ -3523,6 +3565,10 @@
  -flex: .эсть<.>//.сть<.>
   gramm: 3.s,pl.s,pst
   gloss: PST.3PL
+ -flex: .ть<.>
+  gramm: 3.s,pl.s,pst
+  gloss: PST.3PL
+  regex-prev: .*с[<>.]*$
  paradigm: Clitics
 
 -paradigm: V-pst-ye
@@ -3532,7 +3578,7 @@
  -flex: .ить<.>
   gramm: 2.s,sg.s,pst
   gloss: PST.2SG
- -flex: .есь<.>//.сь<.>//.[ь]сь<.>//.[й]сь<.>
+ -flex: .етсь<.>//.есь<.>//.сь<.>//.[ь]сь<.>//.[й]сь<.>
   gramm: 3.s,sg.s,pst
   gloss: PST.3SG
  -flex: .инек<.>
@@ -3541,7 +3587,7 @@
  -flex: .иде<.>
   gramm: 2.s,pl.s,pst
   gloss: PST.2PL
- -flex: .есть<.>//.сть<.>//.[ь]сть<.>//.[й]сть<.>
+ -flex: .етсть<.>//.есть<.>//.сть<.>//.[ь]сть<.>//.[й]сть<.>
   gramm: 3.s,pl.s,pst
   gloss: PST.3PL
  paradigm: Clitics
@@ -3726,7 +3772,7 @@
  -flex: .мизь<.>//.мызь<.>
   gramm: imp,2.s,1.o,pl.o
   gloss: IMP.2›1PL
- -flex: .т<.>//.ть<.>
+ -flex: .ить<.>
   gramm: imp,2.s,sg.s,3.o,pl.o
   gloss: IMP.2SG›3PL
  -flex: .нк<.>//.ньк<.>//.ҥк<.>
@@ -3759,7 +3805,7 @@
  -flex: .мизь<.>
   gramm: imp,2.s,1.o,pl.o
   gloss: IMP.2›1PL
- -flex: .ть<.>
+ -flex: .ить<.>
   gramm: imp,2.s,sg.s,3.o,pl.o
   gloss: IMP.2SG›3PL
  -flex: .ньк<.>

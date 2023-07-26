@@ -9939,11 +9939,18 @@
  trans_ru: кваканье
 
 -lexeme
+ lex: вакан
+ stem: вакан.
+ gramm: N
+ paradigm: N-back
+ trans_ru: миска
+
+-lexeme
  lex: ваканнэ
  stem: ваканнэ.
- gramm: N
+ gramm: N,dim
  paradigm: N-front
- trans_ru: миска
+ trans_ru: мисочка
 
 -lexeme
  lex: вакансия
@@ -9964,7 +9971,14 @@
  stem: вакс.
  gramm: N
  paradigm: N-back
- trans_ru: вершок; возле, к, около
+ trans_ru: вершок
+
+-lexeme
+ lex: вакс
+ stem: вакс.
+ gramm: N,rel_n
+ paradigm: N-back
+ trans_ru: возле, к, около
 
 -lexeme
  lex: вакссто
@@ -77380,6 +77394,13 @@
  trans_ru: известность, слава
 
 -lexeme
+ lex: содамо
+ stem: содамо.
+ gramm: N,anim,hum
+ paradigm: N-back
+ trans_ru: зять
+
+-lexeme
  lex: содамоаравкс
  stem: содамоаравкс.
  gramm: N
@@ -92998,6 +93019,13 @@
  trans_ru: воробей
 
 -lexeme
+ lex: цилим
+ stem: цилим.
+ gramm: N
+ paradigm: N-front
+ trans_ru: курительная трубка
+
+-lexeme
  lex: цилимпей
  stem: цилимпе.
  gramm: N,body
@@ -102569,4 +102597,170 @@
  paradigm: N-front
  paradigm: N-back
  trans_ru: море
+
+-lexeme
+ lex: каша
+ gramm: N,rus
+ stem: каша.
+ paradigm: N-back
+ trans_ru: каша
+
+-lexeme
+ lex: харч
+ gramm: N,rus
+ stem: харч.
+ paradigm: N-back
+ trans_ru: харч
+
+-lexeme
+ lex: банкине
+ gramm: N,rus,dim
+ stem: банкине.
+ paradigm: N-front
+ trans_ru: баночка
+
+-lexeme
+ lex: рисовавкс
+ gramm: N,rus
+ stem: рисовавкс.
+ paradigm: N-back
+ trans_ru: рисунок
+
+-lexeme
+ lex: едак
+ gramm: N,rus
+ stem: едак.
+ paradigm: N-back
+ trans_ru: едок
+
+-lexeme
+ lex: братиники
+ gramm: N,rus,anim,hum
+ stem: братиники.
+ paradigm: N-front
+ trans_ru: братья
+
+-lexeme
+ lex: камчадал
+ gramm: N,rus
+ stem: камчадал.
+ paradigm: N-back
+ trans_ru: камчадал
+
+-lexeme
+ lex: беднойчи
+ gramm: N,rus
+ stem: беднойчи.
+ paradigm: N-front
+ trans_ru: бедность
+
+-lexeme
+ lex: цюцка
+ gramm: N
+ stem: цюцка.
+ paradigm: N-back
+ trans_ru: гроздь, кисть (плодов, ягод)
+
+-lexeme
+ lex: бобка
+ gramm: N,rus
+ stem: бобка.
+ paradigm: N-back
+ trans_ru: боб
+
+-lexeme
+ lex: струя
+ gramm: N,rus
+ stem: струя.
+ paradigm: N-back
+ trans_ru: струя
+
+-lexeme
+ lex: начал
+ gramm: N,rus,anim,hum
+ stem: начал.
+ paradigm: N-back
+ trans_ru: начальник
+
+-lexeme
+ lex: касоль
+ gramm: N,rus
+ stem: касол.
+ paradigm: N-front-soft
+ trans_ru: фасоль
+
+-lexeme
+ lex: грех
+ gramm: N,rus
+ stem: грех.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: грех
+
+-lexeme
+ lex: завалинка
+ gramm: N,rus
+ stem: завалинка.
+ paradigm: N-back
+ trans_ru: завалинка
+
+-lexeme
+ lex: могорыч
+ gramm: N,rus
+ stem: могорыч.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: магарыч
+
+-lexeme
+ lex: магарыч
+ gramm: N,rus
+ stem: магарыч.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: магарыч
+
+-lexeme
+ lex: велькс
+ gramm: N
+ stem: велькс.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: верхняя часть чего-либо
+
+-lexeme
+ lex: стопкине
+ gramm: N,dim,rus
+ stem: стопкине.
+ paradigm: N-front
+ trans_ru: стопка
+
+-lexeme
+ lex: покойник
+ gramm: N,rus,anim,hum
+ stem: покойник.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: покойник
+
+-lexeme
+ lex: гурьба
+ gramm: N,rus
+ stem: гурьба.
+ paradigm: N-back
+ trans_ru: гурьба
+
+-lexeme
+ lex: лавтово
+ gramm: N,body
+ stem: лавтово.
+ paradigm: N-back
+ trans_ru: плечо
+
+-lexeme
+ lex: уса
+ gramm: N,rus,body
+ stem: уса.
+ paradigm: N-back
+ trans_ru: усы
 

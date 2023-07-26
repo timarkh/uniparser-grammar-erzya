@@ -68178,15 +68178,8 @@
  lex: Парынза
  gramm: N,PN,topn
  stem: парынза.
- paradigm: N-front
- trans_ru: Чёрная промза (село; название музыкального коллектива)
-
--lexeme
- lex: Парынза
- gramm: N,PN,topn
- stem: парынза.
  paradigm: N-back
- trans_ru: Чёрная промза (село; название музыкального коллектива)
+ trans_ru: Чёрная Промза (село; название музыкального коллектива)
 
 -lexeme
  lex: Пискарев
@@ -68201,3 +68194,125 @@
  stem: пискарев.
  paradigm: N-back
  trans_ru: Пискарев
+
+-lexeme
+ lex: Стяпан
+ gramm: N,persn,PN
+ stem: стяпан.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Степан
+
+-lexeme
+ lex: Пахом
+ gramm: N,persn,PN
+ stem: пахом.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Пахом
+
+-lexeme
+ lex: Олдай
+ gramm: N,persn,PN
+ stem: олда.
+ paradigm: N-front-j
+ trans_ru: Олдай (Авдотья)
+
+-lexeme
+ lex: Матря
+ gramm: N,persn,PN
+ stem: матря.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Матря (Матрёна)
+
+-lexeme
+ lex: Найман
+ gramm: N,topn,PN
+ stem: найман.
+ paradigm: N-back
+ trans_ru: Найманы
+
+-lexeme
+ lex: Гарузов
+ gramm: N,famn,PN
+ stem: гарузов.
+ paradigm: N-back
+ trans_ru: Гарузов
+
+-lexeme
+ lex: Гаруз
+ gramm: N,persn,PN
+ stem: гаруз.
+ paradigm: N-back
+ trans_ru: Гарузов
+
+-lexeme
+ lex: Салдин
+ gramm: N,famn,PN
+ stem: салдин.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Салдин
+
+-lexeme
+ lex: Кандра
+ gramm: N,persn,PN
+ stem: кандра.
+ paradigm: N-back
+ trans_ru: Кандра (Кондрат)
+
+-lexeme
+ lex: Матя
+ gramm: N,PN,persn
+ stem: матя.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Матя (Матрёна)
+
+-lexeme
+ lex: Заня
+ gramm: N,PN,persn
+ stem: заня.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Заня (Захар)
+
+-lexeme
+ lex: Атямарькин
+ gramm: N,PN,famn
+ stem: атямарькин.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Атямарькин
+
+-lexeme
+ lex: Артип
+ gramm: N,PN,persn
+ stem: артип.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Артип (Архип)
+
+-lexeme
+ lex: Гостя
+ gramm: N,PN,persn
+ stem: гостя.
+ paradigm: N-front
+ paradigm: N-back
+ trans_ru: Гостя (Костя)
+
+-lexeme
+ lex: Лабырь
+ gramm: N,PN,persn
+ stem: лабыр.
+ paradigm: N-front-soft
+ trans_ru: Лабырь
+
+-lexeme
+ lex: Самойловна
+ gramm: N,PN,patrn
+ stem: самойловна.
+ paradigm: N-back
+ trans_ru: Самойловна
+

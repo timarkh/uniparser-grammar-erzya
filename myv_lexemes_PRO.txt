@@ -957,7 +957,7 @@
 
 -lexeme
  lex: кие-бути
- stem: кие-бути//кіе-бути
+ stem: кие.-бути//кіе.-бути
  gramm: PRO,nom,sg
  paradigm: Clitics
  trans_ru: кто-нибудь, кто-то
@@ -1063,6 +1063,13 @@
  gramm: ADVPRO
  paradigm: Clitics
  trans_ru: насколько
+
+-lexeme
+ lex: знярыя
+ gramm: ADVPRO
+ stem: знярыя.
+ paradigm: Clitics
+ trans_ru: столько
 
 -lexeme
  lex: зняроксть
@@ -2248,3 +2255,17 @@
  gramm: APRO
  paradigm: Clitics
  trans_ru: каждый из
+
+-lexeme
+ lex: козонь
+ gramm: ADVPRO
+ stem: козонь.
+ paradigm: Clitics
+ trans_ru: где, куда
+
+-lexeme
+ lex: мезде
+ gramm: ADVPRO
+ stem: мезде.
+ paradigm: Clitics
+ trans_ru: за сколько, о чём, кого, чего, за что

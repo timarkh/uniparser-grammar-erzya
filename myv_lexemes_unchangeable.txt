@@ -1999,6 +1999,20 @@
  trans_ru: впереди; раньше
 
 -lexeme
+ lex: икеле
+ stem: икеле.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: перед, напротив; до
+
+-lexeme
+ lex: мейле
+ stem: мейле.
+ gramm: POST
+ paradigm: Clitics
+ trans_ru: после
+
+-lexeme
  lex: икелепеле
  stem: икелепеле.
  gramm: ADV
@@ -7582,3 +7596,72 @@
  stem: дык.
  paradigm: Clitics
  trans_ru: дык
+
+-lexeme
+ lex: чияк
+ gramm: ADV
+ stem: чияк.
+ paradigm: Clitics
+ trans_ru: недавно
+
+-lexeme
+ lex: карксамга
+ gramm: ADV
+ stem: карксамга.
+ paradigm: Clitics
+ trans_ru: по пояс
+
+-lexeme
+ lex: алкинестэ
+ gramm: ADV
+ stem: алкинестэ.
+ paradigm: Clitics
+ trans_ru: низко; неглубоко
+-lexeme
+ lex: састо
+ gramm: ADV
+ stem: састо.
+ paradigm: Clitics
+ trans_ru: тихо, негромко
+
+-lexeme
+ lex: мельпаросо
+ gramm: ADV
+ stem: мельпаросо.
+ paradigm: Clitics
+ trans_ru: охотно, с удовольствием
+
+-lexeme
+ lex: сёксня
+ gramm: ADV
+ stem: сексня.
+ paradigm: Clitics
+ trans_ru: осенью
+
+-lexeme
+ lex: апаро
+ gramm: ADV
+ stem: апаро.
+ paradigm: Clitics
+ trans_ru: неприятно
+
+-lexeme
+ lex: коли
+ gramm: CONJ,rus
+ stem: коли.
+ paradigm: Clitics
+ trans_ru: коли, если
+
+-lexeme
+ lex: саезь
+ gramm: POST
+ stem: саезь.
+ paradigm: Clitics
+ trans_ru: с
+
+-lexeme
+ lex: тарск
+ gramm: IMIT
+ stem: тарск.
+ paradigm: Clitics
+ trans_ru: вздрогнуть (тарск теемс)
